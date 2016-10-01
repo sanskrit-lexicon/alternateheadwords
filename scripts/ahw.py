@@ -39,9 +39,9 @@ class dataholder:
 			if '(' in self.hw:
 				self.decodetype = 1 # Parenthesis at last
 				trip = re.split('[(]([^)]*)[)]',self.hw)
-				self.pre = trip[0]
-				self.mid = trip[1]
-				self.post = trip[2]
+				self.pre = trip[0].strip()
+				self.mid = trip[1].strip()
+				self.post = trip[2].strip()
 				self.midlen = len(self.mid)
 				self.newhw1 = self.pre[:-self.midlen]+self.mid+self.post
 				self.newhw2 = self.pre+self.mid+self.post[:-self.midlen]

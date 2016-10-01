@@ -78,15 +78,15 @@
 3:aBiSrA(Sra)va:aBiSrava:aBiSrASra
 1:aBi(BI)zAh:aBIzAh:aBiBIz
 1:aBi(BI)zwi:aBIzwi:aBiBIz
-4:aBi (sya)zyanda:aBi syazya:asyazyanda
+4:aBi (sya)zyanda:aBisyazya:syazyanda
 1:aBizya(sya)ndin:aBisyandin:aBizyasyan
 1:aBIru(lu):aBIlu:aBIrulu
 1:aByu(ByU)za:aByUza:aByuByU
 2:aBrAtf(ka):aBrAtfka:aBrAka
-4:amA (ma)mAsI:amA mamA:ammamAsI
-4:amA (vA)vasI:amA vAva:amvAvasI
+0:amA (ma)mAsI:amamAsI:amAmamA
+0:amA (vA)vasI:avAvasI:amAvAva
 1:amAva(vA)syA:amAvAsyA:amAvavAs
-0:amitrasa (sA)ha:amitrassAha:amitrasa sA
+1:amitrasa (sA)ha:amitrasAha:amitrasasA
 3:amudryaYc(c):amudryaYc:amudryaYcc
 3:amumuyaYc(c):amumuyaYc:amumuyaYcc
 1:amu(do)vat:adovat:amudov
@@ -94,13 +94,13 @@
 4:amba(ri)rIza:ambarirI:amrirIza
 1:a(A)mbikeya:Ambikeya:aAmbikey
 3:amBaH(mBassA)sAra:mBassAsAra:amBaHmBassA
-0:amBaH (mBassU)sU:mBassUsU:amBaH mBassU
+0:amBaH (mBassU)sU:mBassUsU:amBaHmBassU
 0:amBoja(Ka)zaRqa:amBoKazaRqa:amBojaKazaR
 3:amrA(mlA)ta:amlAta:amrAmlA
 1:amlaloni(Ri)kA:amlaloRikA:amlaloniRi
 0:ayana(ca)valana:ayacavalana:ayanacavala
-0:ayogula (qa):ayogulqa:ayogula qa
-0:arawu (lu):arawlu:arawu lu
+1:ayogula (qa):ayoguqa:ayogulaqa
+3:arawu (lu):aralu:arawulu
 3:araRya(Rye)cara:araRyecara:araRyaRyec
 0:araRya(RyAnAm):RyAnAm:araRyaRyAnAm
 3:araRya(Rye)rudita:araRyerudita:araRyaRyerud
@@ -112,7 +112,7 @@
 0:a(A)rdDapAdika:ArdDapAdika:aArdDapAdik
 1:a(A)rdDaprasTika:ArdDaprasTika:aArdDaprasTik
 1:arba(rva):arva:arbarva
-3:arbu (rbu)da:arrbuda:arbu rbu
+3:arbu (rbu)da:arbuda:arburbu
 1:arSa(rsa)s:arsas:arSarsa
 2:alA(bu)bU:alAbu:abubU
 1:avagra(grA)ha:avagrAha:avagragrA
@@ -173,7 +173,7 @@
 0:i(e)lA:elA:iel
 1:Ili(lI):IlI:IlilI
 3:uccUq*a(la):uccUqla:uccUq*ala
-3:ucCra (cCrA)ya:uccCrAya:ucCra cCrA
+1:ucCra (cCrA)ya:ucCrAya:ucCracCrA
 1:ujjaya(yi)nI:ujjayinI:ujjayayi
 1:uqu(qU)pa:uqUpa:uquqU
 3:uqu(qU)pati:uqUpati:uquqUpa
@@ -988,7 +988,7 @@
 1:pENgarA(lA)yana:pENgalAyana:pENgarAlAya
 1:pERqikya(nya):pERqinya:pERqikyanya
 3:pEla(leya):leya:pElaleya
-1:pESuna (nya):pESunya:pESuna nya
+3:pESuna (nya):pESnya:pESunanya
 1:po(pO)timatsyaka:pOtimatsyaka:popOtimatsya
 4:pOrvArdDa(rdDika)rdDya:pOrvArdDardDika:pOrrdDikardDya
 1:prakKa(kza)ra:prakzara:prakKakza
