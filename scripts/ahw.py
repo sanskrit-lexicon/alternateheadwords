@@ -47,10 +47,13 @@ class dataholder:
 				self.newhw2 = self.pre+self.mid+self.post[:-self.midlen]
 				if self.post == '' and self.newhw1 in hw1 and l.levenshtein1(self.hw, self.newhw1, 1):
 					print '1:'+self.hw+':'+self.newhw1+':'+self.newhw2
-				elif len(self.pre) == 1 and len(self.mid) == 1: # u(U)rdda,a(A)hituRqika
-					print '1:'+self.hw+':'+self.newhw1+':'+self.newhw2
 				elif self.newhw1 in hw1 and l.levenshtein1(self.hw, self.newhw1, 1):
 					print '1:'+self.hw+':'+self.newhw1+':'+self.newhw2
+				elif len(self.pre) == 1 and len(self.mid) == 1: # u(U)rdda,a(A)hituRqika
+					print '5:'+self.hw+':'+self.newhw1+':'+self.newhw2
+				elif 'da(d)' in self.hw: # upadfzada(d)
+					self.newhw1 = self.hw.replace('da(d)','d')
+					print '6:'+self.hw+':'+self.newhw1+':'+self.newhw2
 				elif self.newhw2 in hw1:
 					print '2:'+self.hw+':'+self.newhw2+':'+self.newhw1
 				elif l.levenshtein(self.pre[-self.midlen:],self.mid) < l.levenshtein(self.post[:self.midlen],self.mid):
