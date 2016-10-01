@@ -36,13 +36,13 @@
 1:animi(me)za:animeza:animime
 2:anukarza(Ra):anukarzaRa:anukarRa
 1:anuSo(Su)cita:anuSucita:anuSoSuci
-0:a(A)nEpuRa:AnEpuRa:aAnEpuR
-0:a(A)nESvaryya:AnESvaryya:aAnESvaryy
+1:a(A)nEpuRa:AnEpuRa:aAnEpuR
+1:a(A)nESvaryya:AnESvaryya:aAnESvaryy
 1:antarapu(pU)ruza:antarapUruza:antarapupUru
 1:antarAvedi(dI):antarAvedI:antarAvedidI
 3:anta(nte)vAsin:antevAsin:antantevA
 3:anta(nte)sTA:antesTA:antante
-0:a(A)ndola:Andola:aAndol
+1:a(A)ndola:Andola:aAndol
 1:apagA(go)ram:apagoram:apagAgor
 1:apazWura(la):apazWula:apazWurala
 1:apAMnaptri(ptrI)ya:apAMnaptrIya:apAMnaptriptrI
@@ -90,7 +90,7 @@
 3:amudryaYc(c):amudryaYc:amudryaYcc
 3:amumuyaYc(c):amumuyaYc:amumuyaYcc
 1:amu(do)vat:adovat:amudov
-0:a(A)muzyAyaRa:AmuzyAyaRa:aAmuzyAyaR
+1:a(A)muzyAyaRa:AmuzyAyaRa:aAmuzyAyaR
 4:amba(ri)rIza:ambarirI:amrirIza
 1:a(A)mbikeya:Ambikeya:aAmbikey
 3:amBaH(mBassA)sAra:mBassAsAra:amBaHmBassA
@@ -106,10 +106,10 @@
 3:araRya(Rye)rudita:araRyerudita:araRyaRyerud
 3:arigUrtta(rRa):arigUrrRa:arigUrttarRa
 1:arciva(ma)t:arcimat:arcivama
-0:a(A)rttagala:Arttagala:aArttagal
+1:a(A)rttagala:Arttagala:aArttagal
 1:a(A)rDakOqavika:ArDakOqavika:aArDakOqavik
 1:a(A)rdDadrORika:ArdDadrORika:aArdDadrORik
-0:a(A)rdDapAdika:ArdDapAdika:aArdDapAdik
+1:a(A)rdDapAdika:ArdDapAdika:aArdDapAdik
 1:a(A)rdDaprasTika:ArdDaprasTika:aArdDaprasTik
 1:arba(rva):arva:arbarva
 3:arbu (rbu)da:arbuda:arburbu
@@ -136,11 +136,11 @@
 4:ahaH(haska)kara:ahaHhaska:haskakara
 0:ahaH(harpa)pati:harpapati:ahaHharpa
 3:ahaH(haSSe)Seza:haSSeSeza:ahaHhaSSe
-0:a(A)hituRqika:AhituRqika:aAhituRqik
+1:a(A)hituRqika:AhituRqika:aAhituRqik
 4:ahi(vu)buDna:ahivubuD:avubuDna
 2:ahimeda(ka):ahimedaka:ahimeka
 3:AkarzA(zA)di:AkarzAdi:AkarzAzA
-0:A(a)kOSala:akOSala:AakOSal
+1:A(a)kOSala:akOSala:AakOSal
 1:A(a)kzEtrajYa:akzEtrajYa:AakzEtrajY
 1:Agatya(mya):Agamya:Agatyamya
 3:Aga(gA)min:AgAmin:AgagAm
@@ -148,8 +148,8 @@
 1:ANguri(li)ka:ANgulika:ANgurili
 3:Ajanma(na):Ajanna:Ajanmana
 4:Adi(pu)pUruza:AdipupUru:ApupUruza
-0:A(a)nEpuRa:anEpuRa:AanEpuR
-0:A(a)nESvaryya:anESvaryya:AanESvaryy
+1:A(a)nEpuRa:anEpuRa:AanEpuR
+1:A(a)nESvaryya:anESvaryya:AanESvaryy
 1:Antari(rI)kza:AntarIkza:AntarirIk
 1:ABIrapalli(llI):ABIrapallI:ABIrapallillI
 3:AmAti(tI)sAra:AmAtIsAra:AmAtitIsA
@@ -157,7 +157,7 @@
 1:Ara(rA)va:ArAva:ArarA
 2:Argaya(Ra)na:ArgayaRa:ArgaRana
 1:Artni(rtnI):ArtnI:ArtnirtnI
-0:A(a)rdDakaMsika:ardDakaMsika:AardDakaMsik
+1:A(a)rdDakaMsika:ardDakaMsika:AardDakaMsik
 3:AlAbu(bU):AlAbU:AlAbubU
 1:Ava(ba)rhita:Abarhita:Avabarhi
 2:Ava(li)lI:Avali:AlilI
@@ -170,7 +170,7 @@
 3:iq*A(lA):iqlA:iq*AlA
 3:indi(ndI):indI:indindI
 0:ivAru(lu)SuktikA:ivAluSuktikA:ivAruluSukti
-0:i(e)lA:elA:iel
+1:i(e)lA:elA:iel
 1:Ili(lI):IlI:IlilI
 3:uccUq*a(la):uccUqla:uccUq*ala
 1:ucCra (cCrA)ya:ucCrAya:ucCracCrA
@@ -208,16 +208,16 @@
 3:uBaya(tra)cara:uBtracara:uBayatrac
 0:uBayatodat(nta):uBayatonta:uBayatodatnta
 1:u(U)rja:Urja:uUrj
-0:u(U)rRRanABa:UrRRanABa:uUrRRanAB
+1:u(U)rRRanABa:UrRRanABa:uUrRRanAB
 1:u(U)rRA:UrRA:uUrR
-0:u(U)rdda:Urdda:uUrdd
-0:u(U)rdra:Urdra:uUrdr
-0:u(U)rva:Urva:uUrv
-0:u(o)laqa:olaqa:uolaq
+1:u(U)rdda:Urdda:uUrdd
+1:u(U)rdra:Urdra:uUrdr
+1:u(U)rva:Urva:uUrv
+1:u(o)laqa:olaqa:uolaq
 3:ulandra(nda):ulannda:ulandranda
-0:u(U)zman:Uzman:uUzma
+1:u(U)zman:Uzman:uUzma
 1:u(U)zmapa:Uzmapa:uUzmap
-0:u(U)zmAgama:UzmAgama:uUzmAgam
+1:u(U)zmAgama:UzmAgama:uUzmAgam
 1:u(U)zmAya:UzmAya:uUzmAy
 3:UrdDa(rdDva):rdDva:UrdDardDva
 3:UrdDa(dDva)ka:UdDvaka:UrdDadDva
