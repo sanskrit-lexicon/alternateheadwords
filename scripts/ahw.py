@@ -26,8 +26,12 @@ def triming(lst):
 		member = member.strip()
 		output.append(member)
 	return output
+def knownsolutions(inputlist,headword):
+	for (input, output) in inputlist:
+		headword = re.sub(input,output,headword)
+	return headword
 class dataholder:
-	global hw1
+	global hw1, fout, inputlist
 	'Class to hold the data while manipulation'
 	def __init__(self, singleline):
 		self.len = len(re.split('[,:]',singleline))
@@ -38,30 +42,39 @@ class dataholder:
 			[self.pagenum, self.pageside, self.hw, self.startline, self.endline] = re.split('[,:]',singleline)
 			if '(' in self.hw:
 				self.decodetype = 1 # Parenthesis at last
-				trip = re.split('[(]([^)]*)[)]',self.hw)
+				self.strippedhw = re.sub('[^a-zA-Z()|]','',self.hw)
+				trip = re.split('[(]([^)]*)[)]',self.strippedhw)
 				self.pre = trip[0].strip()
 				self.mid = trip[1].strip()
 				self.post = trip[2].strip()
 				self.midlen = len(self.mid)
 				self.newhw1 = self.pre[:-self.midlen]+self.mid+self.post
 				self.newhw2 = self.pre+self.mid+self.post[:-self.midlen]
+				knownhw = knownsolutions(inputlist,self.hw)
 				if self.post == '' and self.newhw1 in hw1 and l.levenshtein1(self.hw, self.newhw1, 1):
 					print '1:'+self.hw+':'+self.newhw1+':'+self.newhw2
+					fout.write('1:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
 				elif self.newhw1 in hw1 and l.levenshtein1(self.hw, self.newhw1, 1):
 					print '1:'+self.hw+':'+self.newhw1+':'+self.newhw2
+					fout.write('1:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
 				elif len(self.pre) == 1 and len(self.mid) == 1: # u(U)rdda,a(A)hituRqika
 					print '5:'+self.hw+':'+self.newhw1+':'+self.newhw2
-				elif 'da(d)' in self.hw: # upadfzada(d)
-					self.newhw1 = self.hw.replace('da(d)','d')
+					fout.write('5:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+				elif not knownhw == self.hw: # upadfzada(d)
+					self.newhw1 = knownhw
 					print '6:'+self.hw+':'+self.newhw1+':'+self.newhw2
+					fout.write('6:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
 				elif self.newhw2 in hw1:
 					print '2:'+self.hw+':'+self.newhw2+':'+self.newhw1
+					fout.write('2:'+self.hw+':'+self.newhw2+':'+self.newhw1+'\n')
 				elif l.levenshtein(self.pre[-self.midlen:],self.mid) < l.levenshtein(self.post[:self.midlen],self.mid):
 					print '3:'+self.hw+':'+self.newhw1+':'+self.newhw2
+					fout.write('3:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
 				elif l.levenshtein(self.pre[-self.midlen:],self.mid) > l.levenshtein(self.post[:self.midlen],self.mid):
 					print '4:'+self.hw+':'+self.newhw2+':'+self.newhw1
+					fout.write('4:'+self.hw+':'+self.newhw2+':'+self.newhw1+'\n')
 				else:
-					print '0:'+self.hw+':'+self.newhw1+':'+self.newhw2
+					fout.write('0:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
 
 if __name__=="__main__":
 	#print '#Step0'
@@ -69,6 +82,7 @@ if __name__=="__main__":
 	excludeddict = 'VCP'
 	hw1 = h.hw1(excludeddict)
 	hw1 = triming(hw1)
+	inputlist = [(r'da[(]d[)]$','d'),(r'rA[(]mA[)]m$','mAm'),(r'[(]da[)]d$','d'),]
 	#print '#Step1'
 	#print '    Analysing', sys.argv[1], 'and writing potential entries to', sys.argv[2]
 	fin0 = codecs.open(sys.argv[1],'r','utf-8')
@@ -76,6 +90,7 @@ if __name__=="__main__":
 	data0 = triming(data0)
 	fin0.close()
 	fout0 = codecs.open(sys.argv[2],'w','utf-8')
+	fout = codecs.open(sys.argv[3],'w','utf-8')
 	counterfirsttype = 0
 	for datum0 in data0:
 		dat = dataholder(datum0)
@@ -83,18 +98,5 @@ if __name__=="__main__":
 			fout0.write(dat.pagenum+','+dat.pageside+':'+dat.hw+':'+dat.startline+','+dat.endline+'\n')
 			if dat.decodetype == 1:
 				counterfirsttype += 1
-	#print counterfirsttype, 'entries have parenthesis at end'
 	fout0.close()
 
-	"""
-	print '#Step2'
-	print '    Analysing', sys.argv[2], 'and writing suggested output to', sys.argv[3]
-	fin1 = codecs.open(sys.argv[2],'r','utf-8')
-	data1 = fin1.readlines()
-	data1 = triming(data1)
-	fin1.close()
-	fout1 = codecs.open(sys.argv[3],'w','utf-8')
-	for datum1 in data1:
-		dat1 = dataholder(datum1)
-		print dat1.matchcode, dat1.hw, dat1.newhw
-	"""

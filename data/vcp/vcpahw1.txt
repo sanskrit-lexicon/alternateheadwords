@@ -29,7 +29,7 @@
 1:atyuktA(kTA):atyukTA:atyuktAkTA
 3:atri(ttri):ttri:atrittri
 0:aDaH(DaSSa)SayyA:DaSSaSayyA:aDaHDaSSa
-0:aDastarA(mA)m:aDastamAm:aDastarAmA
+6:aDastarA(mA)m:aDastamAm:aDastarAmA
 2:aDikarmma(n):aDikarmman:aDikarmmn
 1:aDipu(pU)ruza:aDipUruza:aDipupUru
 3:anAloci(qi)ta:anAloqita:anAlociqi
@@ -116,7 +116,7 @@
 1:arSa(rsa)s:arsas:arSarsa
 2:alA(bu)bU:alAbu:abubU
 1:avagra(grA)ha:avagrAha:avagragrA
-3:avacUq*a(la):avacUqla:avacUq*ala
+3:avacUq*a(la):avacUla:avacUqala
 1:ava(ba)Dra:abaDra:avabaD
 1:avani(nI):avanI:avaninI
 1:avani(nI)nATa:avanInATa:avaninInA
@@ -128,7 +128,7 @@
 3:ava(ba)hitTA:abahitTA:avabahit
 3:aSri(SrI):aSrI:aSriSrI
 2:aSrI(ka):aSrIka:aSka
-3:azAQA(q*A):azq*A:azAQAq*A
+3:azAQA(q*A):azAqA:azAQAqA
 1:azwa(zwA)catvAriMSat:azwAcatvAriMSat:azwazwAcatvAriM
 0:azwapAd(da):azwapda:azwapAdda
 4:asU(kza)kzaRa:asUkzakz:kzakzaRa
@@ -161,18 +161,18 @@
 3:AlAbu(bU):AlAbU:AlAbubU
 1:Ava(ba)rhita:Abarhita:Avabarhi
 2:Ava(li)lI:Avali:AlilI
-0:ASA(qa)Q*a:AqaQ*a:ASAqaQ
-3:ASAQ*A(qA):ASAQqA:ASAQ*AqA
+4:ASA(qa)Q*a:ASAqa:AqaQa
+3:ASAQ*A(qA):ASAqA:ASAQAqA
 3:ASco(Scyo)tana:Scyotana:AScoScyo
 3:ikzuvallI(llarI):ikzullarI:ikzuvallIllarI
 2:iNgi(qa)la:iNgiqa:iNqala
 0:iq(la):la:iqla
-3:iq*A(lA):iqlA:iq*AlA
+3:iq*A(lA):ilA:iqAlA
 3:indi(ndI):indI:indindI
 0:ivAru(lu)SuktikA:ivAluSuktikA:ivAruluSukti
 5:i(e)lA:elA:iel
 1:Ili(lI):IlI:IlilI
-3:uccUq*a(la):uccUqla:uccUq*ala
+1:uccUq*a(la):uccUla:uccUqala
 1:ucCra (cCrA)ya:ucCrAya:ucCracCrA
 1:ujjaya(yi)nI:ujjayinI:ujjayayi
 1:uqu(qU)pa:uqUpa:uquqU
@@ -412,7 +412,7 @@
 3:gaqqara(la):gaqqala:gaqqarala
 3:gaqqari(li)kA:gaqqalikA:gaqqarili
 1:gaRqu(RqU):gaRqU:gaRquRqU
-3:ganDaKeq*a(la)(ka):ganDaKeqla:ganDaKeq*ala
+3:ganDaKeq*a(la)(ka):ganDaKela:ganDaKeqala
 1:ganDo(nDO)tu:ganDOtu:ganDonDO
 3:ganDoli(lI):ganDolI:ganDolilI
 3:gamba(nba):ganba:gambanba
@@ -566,12 +566,12 @@
 1:tarkina(la):tarkila:tarkinala
 1:tAja(ji)ka:tAjika:tAjaji
 1:tAwa(qa)Nka:tAqaNka:tAwaqaN
-0:tA(wa)q*akA:waq*akA:tAwaq*a
+4:tA(wa)q*akA:tAwaqa:waqakA
 1:tApicCa(Yja):tApiYja:tApicCaYja
 3:tAraRi(RI):tAraRI:tAraRiRI
 1:tAla(li)kawa:tAlikawa:tAlalika
 1:tiTi(TI):tiTI:tiTiTI
-3:tintiq*i(li)kA:tintiqlikA:tintiq*ili
+1:tintiq*i(li)kA:tintilikA:tintiqili
 1:tIrTarAji(jI):tIrTarAjI:tIrTarAjijI
 3:tuKA(zA)ra:tuzAra:tuKAzA
 1:tu(tU)Ri:tURi:tutU
@@ -594,7 +594,7 @@
 1:tfnpa(mpa):tfmpa:tfnpampa
 1:tfnPa(mPa):tfmPa:tfnPamPa
 0:tfz(zA):tzA:tfzzA
-3:toq*I(rI):toqrI:toq*IrI
+3:toq*I(rI):torI:toqIrI
 3:trapuza(sa):trapusa:trapuzasa
 4:trapu(za)sa:trapuza:trazasa
 3:tripi(vi)zwapa:trivizwapa:tripivizwa
@@ -615,7 +615,7 @@
 1:tryu(tryU)zaRa:tryUzaRa:tryutryU
 0:tvac(cA):tvcA:tvaccA
 0:tviz(zA):tvzA:tvizzA
-3:To(Tu)q*ana:Tuq*ana:ToTuq*a
+3:To(Tu)q*ana:Tuqana:ToTuqa
 0:dakziRAmUrtti(k):dakziRAmUrttk:dakziRAmUrttik
 3:dagA(kA)rgala:dakArgala:dagAkArga
 0:daRqamAMna(Ra)va:daRqamAMRava:daRqamAMnaRa
@@ -802,7 +802,7 @@
 1:paNka(Nke)ja:paNkeja:paNkaNke
 1:paNka(Nke)ruha:paNkeruha:paNkaNker
 2:paNktidUza(ka):paNktidUzaka:paNktidUka
-0:pacatitarA(mA)m:pacatitamAm:pacatitarAmA
+6:pacatitarA(mA)m:pacatitamAm:pacatitarAmA
 0:paYcatakzan(kzI):paYcatakkzI:paYcatakzankzI
 3:pa(pi)Yjara:piYjara:papiYja
 1:paYji(YjI):paYjI:paYjiYjI
@@ -854,9 +854,9 @@
 4:parva(RI)RikA:parvaRIRi:parRIRikA
 1:palli(llI):pallI:pallillI
 0:pavitrArIpa(ha)Ra:pavitrArIhaRa:pavitrArIpaha
-3:paSa(za--sa):za--sa:paSaza--sa
-3:paSa(za sa):za sa:paSaza sa
-3:paSa(za--sa):za--sa:paSaza--sa
+3:paSa(za--sa):zasa:paSazasa
+3:paSa(za sa):zasa:paSazasa
+3:paSa(za--sa):zasa:paSazasa
 1:pAMSa(sa)na:pAMsana:pAMSasa
 1:pAMSa(sa)va:pAMsava:pAMSasa
 1:pAMSu(su):pAMsu:pAMSusu
@@ -971,7 +971,7 @@
 3:pUrvA(rbA)para:pUrbApara:pUrvArbAp
 3:pUrvA(rbA)pahAnA:pUrbApahAnA:pUrvArbApah
 3:pUrvA(rbA)rdDya:pUrbArdDya:pUrvArbArd
-3:pUrvA(rbA)zAQ*A:pUrbAzAQ*A:pUrvArbAzA
+3:pUrvA(rbA)zAQ*A:pUrbAzAQA:pUrvArbAz
 3:pUrvA(rbA)hRa:pUrbAhRa:pUrvArbA
 3:pUrvA(rbA)hRa(hRe)tana:pUrbAhRa:pUrvArbA
 3:pUrvA(rbA)hRika:pUrbAhRika:pUrvArbAhR
@@ -1012,7 +1012,7 @@
 1:pratyAsa(sA)ra:pratyAsAra:pratyAsasA
 1:pradeSa(Si)nI:pradeSinI:pradeSaSi
 1:pranA(RA)yaka:praRAyaka:pranARAya
-3:prapunnAq*a(wa):prapunnAqwa:prapunnAq*awa
+3:prapunnAq*a(wa):prapunnAwa:prapunnAqawa
 1:praPulta(lla):praPulla:praPultalla
 1:praba(va)rha:pravarha:prabavar
 1:pramaRa(na)s:pramanas:pramaRana
@@ -1025,7 +1025,7 @@
 1:praheRa(la)ka:prahelaka:praheRala
 1:prahrA(hlA)da:prahlAda:prahrAhlA
 0:prAqvi(vA)veka:prAqvAveka:prAqvivAve
-0:prAtastarA(mA)m:prAtastamAm:prAtastarAmA
+6:prAtastarA(mA)m:prAtastamAm:prAtastarAmA
 1:prAdoza(zi)ka:prAdozika:prAdozazi
 0:prAvfz(zA):prAvzA:prAvfzzA
 1:prAhRetarA(mA)m:prAhRetamAm:prAhRetarAmA
@@ -1055,7 +1055,7 @@
 4:Pe(Ri)nikA:PeRini:RinikA
 1:PeRi(ni)la:Penila:PeRini
 1:Pela(lA):PelA:PelalA
-3:baq*avAkf(hf)ta:baq*avAhfta:baq*avAkfhf
+1:baq*avAkf(hf)ta:baqavAhfta:baqavAkfhf
 0:baRij(ja):baRja:baRijja
 1:ba(va)dara:vadara:bavada
 0:badara(pa)pAcana:badapapAcana:badarapapAca
@@ -1504,7 +1504,7 @@
 1:reba(va):reva:rebava
 1:romAvali(lI):romAvalI:romAvalilI
 1:rOwa(qa):rOqa:rOwaqa
-3:laguq*a(la)(ra):laguqla:laguq*ala
+3:laguq*a(la)(ra):lagula:laguqala
 0:laGaw(wi):laGwi:laGawwi
 4:laNkA(yi)pikA:laNkAyipi:laNyipikA
 3:lambo(mbO)zwa:lambOzwa:lambombO
