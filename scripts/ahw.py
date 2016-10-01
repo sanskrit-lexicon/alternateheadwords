@@ -36,7 +36,7 @@ class dataholder:
 		self.pagenum, self.pageside, self.hw, self.startline, self.endline, self.newhw1, self.newhw2, self.pre, self.mid, self.post, self.decodetype, self.matchcode, self.midlen = '','','','','','','','','','',2,0,0
 		if self.len == 5 and '(' in singleline:
 			[self.pagenum, self.pageside, self.hw, self.startline, self.endline] = re.split('[,:]',singleline)
-			if self.hw.endswith(')'):
+			if '(' in self.hw:
 				self.decodetype = 1 # Parenthesis at last
 				trip = re.split('[(]([^)]*)[)]',self.hw)
 				self.pre = trip[0]
@@ -45,18 +45,18 @@ class dataholder:
 				self.midlen = len(self.mid)
 				self.newhw1 = self.pre[:-self.midlen]+self.mid+self.post
 				self.newhw2 = self.pre+self.mid+self.post[:-self.midlen]
-			if self.post == '' and self.newhw1 in hw1 and l.levenshtein1(self.hw, self.newhw1, 1):
-				print '1:'+self.hw+':'+self.newhw1+':'+self.newhw2
-			elif self.newhw1 in hw1 and l.levenshtein1(self.hw, self.newhw1, 1):
-				print '1:'+self.hw+':'+self.newhw1+':'+self.newhw2
-			elif self.newhw2 in hw1:
-				print '2:'+self.hw+':'+self.newhw2+':'+self.newhw1
-			elif l.levenshtein(self.pre[:-self.midlen],self.mid) < l.levenshtein(self.post[:-self.midlen],self.mid):
-				print '3:'+self.hw+':'+self.newhw1+':'+self.newhw2
-			elif l.levenshtein(self.pre[:-self.midlen],self.mid) > l.levenshtein(self.post[:-self.midlen],self.mid):
-				print '4:'+self.hw+':'+self.newhw2+':'+self.newhw1
-			else:
-				print '0:'+self.hw+':'+self.newhw1+':'+self.newhw2
+				if self.post == '' and self.newhw1 in hw1 and l.levenshtein1(self.hw, self.newhw1, 1):
+					print '1:'+self.hw+':'+self.newhw1+':'+self.newhw2
+				elif self.newhw1 in hw1 and l.levenshtein1(self.hw, self.newhw1, 1):
+					print '1:'+self.hw+':'+self.newhw1+':'+self.newhw2
+				elif self.newhw2 in hw1:
+					print '2:'+self.hw+':'+self.newhw2+':'+self.newhw1
+				elif l.levenshtein(self.pre[-self.midlen:],self.mid) < l.levenshtein(self.post[:self.midlen],self.mid):
+					print '3:'+self.hw+':'+self.newhw1+':'+self.newhw2
+				elif l.levenshtein(self.pre[-self.midlen:],self.mid) > l.levenshtein(self.post[:self.midlen],self.mid):
+					print '4:'+self.hw+':'+self.newhw2+':'+self.newhw1
+				else:
+					print '0:'+self.hw+':'+self.newhw1+':'+self.newhw2
 
 if __name__=="__main__":
 	#print '#Step0'
