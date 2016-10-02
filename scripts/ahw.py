@@ -92,8 +92,8 @@ class dataholder:
 					print '12:'+self.hw+':'+self.newhw1+':'+self.newhw2
 					fout.write('12:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
 				elif len(self.post) >0 and self.post[0] == self.mid[0] and self.mid[0] in 'kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzshl|': # ma(mi)hira. Consonant matching has higher priority than vowel matching.
-					print '13:'+self.hw+':'+self.newhw1+':'+self.newhw2
-					fout.write('13:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+					print '13:'+self.hw+':'+self.newhw2+':'+self.newhw1
+					fout.write('13:'+self.hw+':'+self.newhw2+':'+self.newhw1+'\n')
 				elif len(self.mid)==2 and self.pre[-1] == self.mid[0] and self.post=='' and re.search('[aAiIuU]',self.mid[1]): # vIruD(DA)
 					self.newhw1 = self.pre[:-1]+self.mid
 					print '11:'+self.hw+':'+self.newhw1+':'+self.newhw2
@@ -113,8 +113,8 @@ if __name__=="__main__":
 	excludeddict = 'VCP'
 	hw1 = h.hw1(excludeddict)
 	hw1 = triming(hw1)
-	inputlist = [(r'da[(]d[)]$','d'),(r'rA[(]mA[)]m$','mAm'),(r'[(]da[)]d$','d'),(r'man[(]mA[)]$','mA'),(r'c[(]cA[)]$','cA'),(r'z[(]zA[)]$','zA'),(r'c[(]cA[)]$','cA'),(r'duH[(]du[)]','du'),(r'niH[(]ni[)]','ni'),(r'kza[(]kzya[)]','kzya')]
-	similarlist = [(r'[NYRnmM]','m'),(r'[rl]','l'),(r'[bv]','v'),(r'[Szs]','s'),(r'zwa','sta'),(r'[Uu]','u'),(r'[iI]','i')]
+	inputlist = [(r'da[(]d[)]$','d'),(r'rA[(]mA[)]m$','mAm'),(r'[(]da[)]d$','d'),(r'man[(]mA[)]$','mA'),(r'c[(]cA[)]$','cA'),(r'z[(]zA[)]$','zA'),(r'c[(]cA[)]$','cA'),(r'duH[(]du[)]','du'),(r'niH[(]ni[)]','ni'),(r'kza[(]kzya[)]','kzya'),(r'[(]zwa[)]sta','zwa')]
+	similarlist = [(r'[NYRnmM]','m'),(r'[rl]','l'),(r'[bv]','v'),(r'[Szs]','s'),(r'[Uu]','u'),(r'[iI]','i')]
 	#print '#Step1'
 	#print '    Analysing', sys.argv[1], 'and writing potential entries to', sys.argv[2]
 	fin0 = codecs.open(sys.argv[1],'r','utf-8')
