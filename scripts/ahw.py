@@ -97,8 +97,8 @@ if __name__=="__main__":
 	excludeddict = 'VCP'
 	hw1 = h.hw1(excludeddict)
 	hw1 = triming(hw1)
-	inputlist = [(r'da[(]d[)]$','d'),(r'rA[(]mA[)]m$','mAm'),(r'[(]da[)]d$','d')]
-	similarlist = [(r'[NYRnmM]','m'),(r'[rl]','l'),(r'[bv]','v')]
+	inputlist = [(r'da[(]d[)]$','d'),(r'rA[(]mA[)]m$','mAm'),(r'[(]da[)]d$','d'),(r'man[(]mA[)]$','mA'),(r'c[(]cA[)]$','cA'),(r'z[(]zA[)]$','zA'),(r'c[(]cA[)]$','cA'),(r'duH[(]du[)]','du'),(r'niH[(]ni[)]','ni')]
+	similarlist = [(r'[NYRnmM]','m'),(r'[rl]','l'),(r'[bv]','v'),(r'[Szs]','s'),(r'zwa','sta'),(r'[Uu]','u'),(r'[iI]','i')]
 	#print '#Step1'
 	#print '    Analysing', sys.argv[1], 'and writing potential entries to', sys.argv[2]
 	fin0 = codecs.open(sys.argv[1],'r','utf-8')
