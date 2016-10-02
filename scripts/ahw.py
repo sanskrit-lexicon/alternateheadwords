@@ -7,11 +7,12 @@ Expected output:
 Input:
 	data/vcp/vcphw0.txt
 Output:
-	data/vcp/vcpahw.txt (VCP additional Headwords)
+	data/vcp/vcpahw0.txt (VCP additional Headwords)
+	data/vcp/vcpahw1.txt (VCP headwords with suggestions)
 Usage:
 	python ahw.py inputfile outputfile
 	e.g.
-	python ahw.py ../data/vcp/vcphw0.txt ../data/vcp/vcpahw0.txt ../data/vcpahw1.txt
+	python ahw.py ../data/vcp/vcphw0.txt ../data/vcp/vcpahw0.txt ../data/vcp/vcpahw1.txt
 """
 import sys, re
 import codecs
@@ -26,10 +27,18 @@ def triming(lst):
 		member = member.strip()
 		output.append(member)
 	return output
+# Hard coded list of known solutions
 def knownsolutions(inputlist,headword):
 	for (input, output) in inputlist:
 		headword = re.sub(input,output,headword)
 	return headword
+# Levenshtein distance is same, but there is a group of similar orthography which helps us give it more priority. e.g. aRa(na)ka
+def similarorthography(headword):
+	global similarlist
+	for (input, output) in similarlist:
+		headword = re.sub(input,output,headword)
+	return headword
+
 class dataholder:
 	global hw1, fout, inputlist
 	'Class to hold the data while manipulation'
@@ -49,7 +58,7 @@ class dataholder:
 				self.post = trip[2].strip()
 				self.midlen = len(self.mid)
 				self.newhw1 = self.pre[:-self.midlen]+self.mid+self.post
-				self.newhw2 = self.pre+self.mid+self.post[:-self.midlen]
+				self.newhw2 = self.pre+self.mid+self.post[self.midlen:]
 				knownhw = knownsolutions(inputlist,self.hw)
 				if self.post == '' and self.newhw1 in hw1 and l.levenshtein1(self.hw, self.newhw1, 1):
 					print '1:'+self.hw+':'+self.newhw1+':'+self.newhw2
@@ -73,6 +82,12 @@ class dataholder:
 				elif l.levenshtein(self.pre[-self.midlen:],self.mid) > l.levenshtein(self.post[:self.midlen],self.mid):
 					print '4:'+self.hw+':'+self.newhw2+':'+self.newhw1
 					fout.write('4:'+self.hw+':'+self.newhw2+':'+self.newhw1+'\n')
+				elif similarorthography(self.pre[-self.midlen:]) == similarorthography(self.mid):
+					print '7:'+self.hw+':'+self.newhw1+':'+self.newhw2
+					fout.write('7:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+				elif similarorthography(self.post[:self.midlen]) == similarorthography(self.mid):
+					print '8:'+self.hw+':'+self.newhw2+':'+self.newhw1
+					fout.write('8:'+self.hw+':'+self.newhw2+':'+self.newhw1+'\n')
 				else:
 					fout.write('0:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
 
@@ -82,7 +97,8 @@ if __name__=="__main__":
 	excludeddict = 'VCP'
 	hw1 = h.hw1(excludeddict)
 	hw1 = triming(hw1)
-	inputlist = [(r'da[(]d[)]$','d'),(r'rA[(]mA[)]m$','mAm'),(r'[(]da[)]d$','d'),]
+	inputlist = [(r'da[(]d[)]$','d'),(r'rA[(]mA[)]m$','mAm'),(r'[(]da[)]d$','d')]
+	similarlist = [(r'[NYRnmM]','m'),(r'[rl]','l'),(r'[bv]','v')]
 	#print '#Step1'
 	#print '    Analysing', sys.argv[1], 'and writing potential entries to', sys.argv[2]
 	fin0 = codecs.open(sys.argv[1],'r','utf-8')
