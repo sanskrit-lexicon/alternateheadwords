@@ -116,7 +116,7 @@ class secondtime:
 		[self.code,self.hw,self.newhw1,self.newhw2] = re.split('[:]',singleline)
 		wordbigram = set(n.ngrams(self.newhw1,2))
 		wordtrigram = set(n.ngrams(self.newhw1,3))
-		print self.hw
+		
 		# Reconverting the codes which were found to have abnormal bigrams or trigrams to '0'.
 		if not wordbigram.issubset(bigrams):
 			print '2     ', singleline, wordbigram.difference(bigrams)
@@ -130,6 +130,7 @@ class secondtime:
 	
 
 if __name__=="__main__":
+	"""
 	print '#Step0'
 	print '    Preparing list of headwords from sanhw1.txt'
 	excludeddict = 'VCP'
@@ -151,7 +152,7 @@ if __name__=="__main__":
 		if not dat.hw == '':
 			fout0.write(dat.pagenum+','+dat.pageside+':'+dat.hw+':'+dat.startline+','+dat.endline+'\n')
 	fout0.close()
-
+	"""
 	fin1 = codecs.open(sys.argv[3],'r','utf-8')
 	data1 = fin1.readlines()
 	data1 = triming(data1)

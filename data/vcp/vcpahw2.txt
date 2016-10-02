@@ -1727,3 +1727,16 @@
 3:hamBA(mmA):hammA:hamBAmmA
 2:halI(ma)saka:halImaka:hamasaka
 3:ha(hA)sa:hAsa:hahA
+1:hastiSuRqA(RqI):hastiSuRqI:hastiSuRqARqI
+1:hAri(rI):hArI:hArirI
+1:hAlaha(hA)la:hAlahAla:hAlahahA
+1:hiRqi(RqI)ra:hiRqIra:hiRqiRqI
+3:hiraRyavAha(hu):hiraRyavAhu:hiraRyavAhahu
+1:hilamoci(cI):hilamocI:hilamocicI
+3:hu(hU)NkAra:hUNkAra:huhUAra
+1:huhu(hU):huhU:huhuhU
+1:hUhu(hU):hUhU:hUhuhU
+1:hft(d):hfd:hftd
+1:hEmA(mI):hEmI:hEmAmI
+2:hrI(ta)Ra:hrIta:htaRa
+1:hrIvera(la):hrIvela:hrIverala
