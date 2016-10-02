@@ -88,6 +88,12 @@ class dataholder:
 				elif similarorthography(self.post[:self.midlen]) == similarorthography(self.mid):
 					print '8:'+self.hw+':'+self.newhw2+':'+self.newhw1
 					fout.write('8:'+self.hw+':'+self.newhw2+':'+self.newhw1+'\n')
+				elif self.midlen <= len(self.pre) and self.pre[-len(self.mid)] == self.mid[0] and self.mid[0] in 'kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzshl|': # ma(mi)hira. Consonant matching has higher priority than vowel matching.
+					print '12:'+self.hw+':'+self.newhw1+':'+self.newhw2
+					fout.write('12:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+				elif len(self.post) >0 and self.post[0] == self.mid[0] and self.mid[0] in 'kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzshl|': # ma(mi)hira. Consonant matching has higher priority than vowel matching.
+					print '13:'+self.hw+':'+self.newhw1+':'+self.newhw2
+					fout.write('13:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
 				elif len(self.mid)==2 and self.pre[-1] == self.mid[0] and self.post=='' and re.search('[aAiIuU]',self.mid[1]): # vIruD(DA)
 					self.newhw1 = self.pre[:-1]+self.mid
 					print '11:'+self.hw+':'+self.newhw1+':'+self.newhw2

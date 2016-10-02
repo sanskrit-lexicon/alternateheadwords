@@ -23,7 +23,7 @@
 1:ataptatanu(nU):ataptatanU:ataptatanunU
 2:atita(mA)rAm:atitamAm:atimArAm
 1:atinu(nO):atinO:atinunO
-10:atipa(Ta)Tin:atipaTan:atiTaTin
+13:atipa(Ta)Tin:atiTaTin:atipaTan
 1:ati(tI)sAra:atIsAra:atitIra
 1:ati(tI)sArakin:atIsArakin:atitIrakin
 1:atyuktA(kTA):atyukTA:atyuktAkTA
@@ -229,14 +229,14 @@
 1:ftuzWA(sTA):ftusTA:ftuzWAsTA
 1:fDaj(k):fDak:fDajk
 1:fnPa(mPa):fmPa:fnPamPa
-0:fzi(zwi)zeRa:zwizeRa:fzizwia
+13:fzi(zwi)zeRa:zwizeRa:fzizwia
 1:fzi(zI)ka:fzIka:fzizI
 1:ekapuzkala(ra):ekapuzkara:ekapuzkalara
 3:ekaPalA(lI):ekaPalI:ekaPalAlI
 1:ekaveRi(RI):ekaveRI:ekaveRiRI
 1:ekAdna(nna)viMSati:ekAnnaviMSati:ekAdnannaSati
 1:equ(qU)ka:eqUka:equqU
-0:ela(lA)vAlu:elAvAlu:elalAlu
+12:ela(lA)vAlu:elAvAlu:elalAlu
 1:Eqa(la)viqa(la):Elaviqa:Eqalaqa
 1:okaRa(Ri):okaRi:okaRaRi
 1:ozaDi(DI):ozaDI:ozaDiDI
@@ -304,7 +304,7 @@
 3:kuve(be)ra:kubera:kuvebe
 3:kube(ve)rAcala:kuverAcala:kubevecala
 3:kubra(vra)hma:kuvrahma:kubravra
-10:kumBabi(ba)la:kumBabiba:kumBabala
+12:kumBabi(ba)la:kumBabala:kumBabiba
 2:kumBIDAnya(ka):kumBIDAnyaka:kumBIDAnka
 2:kuraRwa(ka):kuraRwaka:kuraRka
 3:ku(kU)rdda:kUrdda:kukUda
@@ -683,7 +683,7 @@
 3:deva(veda)sAvarRi:vedasAvarRi:devavedarRi
 1:deSakArA(rI):deSakArI:deSakArArI
 1:dehali(lI):dehalI:dehalilI
-10:dOrhf(ha)da:dOrhfha:dOrhada
+12:dOrhf(ha)da:dOrhada:dOrhfha
 1:dOzmanta(nti):dOzmanti:dOzmantanti
 1:dyuza(sa)d:dyusad:dyuzasa
 11:dyUtapratipad(dA):dyUtapratipadA:dyUtapratipaddA
@@ -823,7 +823,7 @@
 1:paramapu(pU)ruza:paramapUruza:paramapupUza
 1:paraSva(sva)Da:parasvaDa:paraSvasva
 3:parAna(Ra)sA:parARasA:parAnaRa
-0:pa(pA)rASarin:pArASarin:papASarin
+12:pa(pA)rASarin:pArASarin:papASarin
 3:pari(li)Ga:paliGa:parili
 1:pariGf(pf)zwika:paripfzwika:pariGfpfika
 1:pari(rI)RAya:parIRAya:parirIya
@@ -868,7 +868,7 @@
 1:pAMSu(su)cAmara:pAMsucAmara:pAMSusumara
 1:pAMSu(su)ja:pAMsuja:pAMSusu
 3:pAMSu(su)patra:pAMsupatra:pAMSusutra
-0:pAMSu(mu)mardana:pAMmumardana:pAMSumurdana
+13:pAMSu(mu)mardana:pAMmumardana:pAMSumurdana
 1:pAMSu(su)ra:pAMsura:pAMSusu
 1:pAMSu(su)rAgiRI:pAMsurAgiRI:pAMSusugiRI
 1:pAMSu(su)rAzwra:pAMsurAzwra:pAMSusuzwra
@@ -1058,7 +1058,7 @@
 1:baq*avAkf(hf)ta:baqavAhfta:baqavAkfhf
 11:baRij(ja):baRija:baRijja
 1:ba(va)dara:vadara:bavara
-0:badara(pa)pAcana:badapapAcana:badarapacana
+13:badara(pa)pAcana:badapapAcana:badarapacana
 7:ba(va)daraPalI:vadaraPalI:bavaraPalI
 7:ba(va)daraballI:vadaraballI:bavaraballI
 7:ba(va)darAmalaka:vadarAmalaka:bavarAmalaka
@@ -1123,7 +1123,7 @@
 4:bA(va)RaliNga:bAvaliNga:vaRaliNga
 3:bA(vA)dara:vAdara:bAvAra
 3:bA(vA)darAyaRa:vAdarAyaRa:bAvArAyaRa
-0:bAla(li)Kilya:bAliKilya:bAlalilya
+12:bAla(li)Kilya:bAliKilya:bAlalilya
 1:bAlhi(hI)ka:bAlhIka:bAlhihI
 1:bAzpa(spa):bAspa:bAzpaspa
 3:bA(vA)ha:vAha:bAvA
@@ -1450,7 +1450,7 @@
 4:mahA(vI)vIra:mahAvIra:mavIvIra
 4:mahA(bI)vIryya:mahAbIryya:mabIvIryya
 1:mahi(hI):mahI:mahihI
-0:ma(mi)hira:mihira:mamira
+12:ma(mi)hira:mihira:mamira
 1:mAkzi(kzI)ka:mAkzIka:mAkzikzI
 1:mAkzi(kzI)kaSarkarA:mAkzIkaSarkarA:mAkzikzIarkarA
 1:mARa(na)ka:mAnaka:mARana
