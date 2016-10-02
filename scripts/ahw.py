@@ -88,6 +88,16 @@ class dataholder:
 				elif similarorthography(self.post[:self.midlen]) == similarorthography(self.mid):
 					print '8:'+self.hw+':'+self.newhw2+':'+self.newhw1
 					fout.write('8:'+self.hw+':'+self.newhw2+':'+self.newhw1+'\n')
+				elif len(self.mid)==2 and self.pre[-1] == self.mid[0] and self.post=='' and re.search('[aAiIuU]',self.mid[1]): # vIruD(DA)
+					self.newhw1 = self.pre[:-1]+self.mid
+					print '11:'+self.hw+':'+self.newhw1+':'+self.newhw2
+					fout.write('11:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+				elif len(self.pre) < len(self.mid): # u(du)qumbara. There is no enough space on left.
+					print '9:'+self.hw+':'+self.newhw1+':'+self.newhw2
+					fout.write('9:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+				elif len(self.post) < len(self.pre): #pawwa(tta)na. There is no enough space on right.
+					print '10:'+self.hw+':'+self.newhw2+':'+self.newhw1
+					fout.write('10:'+self.hw+':'+self.newhw2+':'+self.newhw1+'\n')
 				else:
 					fout.write('0:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
 
@@ -98,7 +108,7 @@ if __name__=="__main__":
 	hw1 = h.hw1(excludeddict)
 	hw1 = triming(hw1)
 	inputlist = [(r'da[(]d[)]$','d'),(r'rA[(]mA[)]m$','mAm'),(r'[(]da[)]d$','d'),(r'man[(]mA[)]$','mA'),(r'c[(]cA[)]$','cA'),(r'z[(]zA[)]$','zA'),(r'c[(]cA[)]$','cA'),(r'duH[(]du[)]','du'),(r'niH[(]ni[)]','ni'),(r'kza[(]kzya[)]','kzya')]
-	similarlist = [(r'[NYRnmM]','m'),(r'[rl]','l'),(r'[bv]','v'),(r'[Szs]','s'),('zwa','sta'),(r'[Uu]','u'),(r'[iI]','i')]
+	similarlist = [(r'[NYRnmM]','m'),(r'[rl]','l'),(r'[bv]','v'),(r'[Szs]','s'),(r'zwa','sta'),(r'[Uu]','u'),(r'[iI]','i')]
 	#print '#Step1'
 	#print '    Analysing', sys.argv[1], 'and writing potential entries to', sys.argv[2]
 	fin0 = codecs.open(sys.argv[1],'r','utf-8')
