@@ -754,7 +754,7 @@
 3:nAndI(ndi)Goza:nAndiGoza:nAndIndia
 3:nAli(lI):nAlI:nAlilI
 1:nAhuza(zi):nAhuzi:nAhuzazi
-0:niH(ni)kzepa:nnikzepa:niHniepa
+6:niH(ni)kzepa:nikzepa:niHniepa
 2:niHsIma(n):niHsIman:niHsImn
 1:nikava(sa):nikasa:nikavasa
 1:nigA(ga)la:nigala:nigAga
@@ -771,7 +771,7 @@
 2:nizkA(Sa)sa:nizkASa:nizSasa
 1:nizkASi(si)ta:nizkAsita:nizkASisi
 1:nizkuwi(wI):nizkuwI:nizkuwiwI
-0:niH(ni)zWA:nnizWA:niHniA
+6:niH(ni)zWA:nizWA:niHniA
 1:nizWI(zWe)va:nizWeva:nizWIzWe
 1:nizWI(zWe)vana:nizWevana:nizWIzWea
 3:nizya(sya)nda:nisyanda:nizyasya
@@ -833,7 +833,7 @@
 1:pariva(ba)rha:paribarha:parivabaa
 1:pariBa(BA)va:pariBAva:pariBaBA
 3:pari(rI)yoga:parIyoga:parirIga
-0:pari(rI)ramBa:parIramBa:parirImBa
+7:pari(rI)ramBa:parIramBa:parirImBa
 1:pari(rI)vartta:parIvartta:parirIrtta
 1:pari(rI)vAda:parIvAda:parirIda
 1:pari(rI)vApa:parIvApa:parirIpa
@@ -899,7 +899,7 @@
 1:puri(rI):purI:purirI
 1:puri(rI)tat:purItat:purirIt
 3:puruRA(nA)ya:purunAya:puruRAnA
-0:purU(ru)ravasa:pururavasa:purUruvasa
+7:purU(ru)ravasa:pururavasa:purUruvasa
 0:puroqAS(Sa):puroqSa:puroqASSa
 1:puzkaravI(bI)ja:puzkarabIja:puzkaravIbI
 3:puzka(zya)laka:puzyalaka:puzkazyaa
@@ -1389,8 +1389,8 @@
 3:brA(vrA)hmIkanda:vrAhmIkanda:brAvrAkanda
 3:brA(vrA)hmya:vrAhmya:brAvrAa
 3:brA(vrA)hmyamuhUrtta:vrAhmyamuhUrtta:brAvrAamuhUrtta
-0:Bakza(kzya)kAra:BkzyakAra:Bakzakzya
-3:Bakza(kzya)patrA:BkzyapatrA:BakzakzyaA
+6:Bakza(kzya)kAra:BakzyakAra:Bakzakzya
+6:Bakza(kzya)patrA:BakzyapatrA:BakzakzyaA
 1:BaNgi(NgI):BaNgI:BaNgiNgI
 3:BaRwu(RwU)ka:BaRwUka:BaRwuRwU
 1:BaRqira(la):BaRqila:BaRqirala
@@ -1708,7 +1708,7 @@
 1:sOmitra(tri):sOmitri:sOmitratri
 3:ste(zwe)pa:zwepa:stezwe
 3:stEna(nya):stnya:stEnanya
-3:sTUlalakza(kzya):sTUlalkzya:sTUlalakzakzya
+6:sTUlalakza(kzya):sTUlalakzya:sTUlalakzakzya
 2:sTOReya(ka):sTOReyaka:sTOReka
 0:snuh(hA):snhA:snuhhA
 1:snuhi(hI):snuhI:snuhihI
