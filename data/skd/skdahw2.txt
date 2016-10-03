@@ -266,7 +266,7 @@
 1:vi(bi)lvapezikA:bilvapezikA:vibiapezikA
 1:vi(bi)lvA:bilvA:vibiA
 3:vivru(bru)van:vibruvan:vivrubru
-10:vismApa(ya)naH:vismApayaH:vismAyanaH
+10:vismApa(ya)naH:vismAyanaH:vismApayaH
 1:vI(bI)jaM:bIjaM:vIbIM
 3:vu(bu)dDiH:budDiH:vubuiH
 4:vf(ttra)traH:vfttra:ttratraH

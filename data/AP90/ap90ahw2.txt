@@ -56,7 +56,7 @@
 3:unmajj(masj):unmasj:unmajjmasj
 3:upakva(kvA)RaM:upakvARaM:upakvakvA
 1:upara(rA)maH:uparAmaH:upararAH
-10:upaSiMGa(ha)naM:upaSiMGahaM:upaSiMhanaM
+10:upaSiMGa(ha)naM:upaSiMhanaM:upaSiMGahaM
 1:uBaye(ya) dyus:uBayadyus:uBayeyaus
 3:uMba(bu)raH:uMburaH:uMbabuH
 1:ulba(lva)Ra:ulvaRa:ulbalva
@@ -70,7 +70,7 @@
 1:OrDvade(dE) hika:OrDvadEhika:OrDvadedEka
 3:OrDvasro(Sro)tasikaH:OrDvaSrotasikaH:OrDvasroSroikaH
 3:kawA(WA) kuH:kaWAkuH:kawAWAH
-10:kaqaMga(ka) raH:kaqaMgakaH:kaqaMkaraH
+10:kaqaMga(ka) raH:kaqaMkaraH:kaqaMgakaH
 1:kaqaMga(ka) rIya:kaqaMkarIya:kaqaMgakaya
 3:kaqa(la) traM:kalatraM:kaqalaaM
 3:kaqaM(laM) baH:kalaMbaH:kaqaMlaM
