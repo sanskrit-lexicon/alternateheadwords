@@ -1457,7 +1457,7 @@
 1:mAri(rI):mArI:mArirI
 1:mArjjAra(la):mArjjAla:mArjjArala
 1:mArjjArI(lI)ya:mArjjAlIya:mArjjArIlI
-2:mi(ttra)tra:mittra:ttratra
+6:mi(ttra)tra:mittra:mittra
 1:miSi(SI):miSI:miSiSI
 1:muda(dA):mudA:mudadA
 1:muSa(sa)lI:musalI:muSasa

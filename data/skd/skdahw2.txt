@@ -6,8 +6,8 @@
 4:ga(rvva)rbbaH:garvvaH:rvvarbbaH
 4:gI(rbbA)rvvARaH:gIrbbARaH:rbbArvvARaH
 4:gI(rbbA)rvvARakusumaM:gIrbbARakusumaM:rbbArvvARakusumaM
-6:Ca(tra)ttraM:CattraM:CatraaM
-2:CA(ttra)traH:CAttra:ttratraH
+6:Ca(tra)ttraM:CatraM:CatraaM
+6:CA(ttra)traH:CAttraH:CAttra
 3:ta(tva)ttvaM:tvattvaM:tatvaaM
 4:ta(rbba)rba:tarbba:rbbarba
 3:daDisa(Sa)ktavaH:daDiSaktavaH:daDisaSaavaH
@@ -20,11 +20,11 @@
 4:ni(mbu)mbUkaM:nimbukaM:mbumbUkaM
 3:nirudDapraka(kA)SaH:nirudDaprakASaH:nirudDaprakakAH
 3:nisya(zya)ndaH:nizyandaH:nisyazyaH
-6:pa(tra)ttraM:pattraM:patraaM
+6:pa(tra)ttraM:patraM:patraaM
 3:pItaSA(sA)laH:pItasAlaH:pItaSAsAH
-6:pu(tra)ttraH:puttraH:putraaH
+6:pu(tra)ttraH:putraH:putraaH
 4:pU(rvva)rbbaH:pUrvvaH:rvvarbbaH
-6:pO(tra)ttraH:pOttraH:pOtraaH
+6:pO(tra)ttraH:pOtraH:pOtraaH
 1:Pu(PU)t:PUt:PuPU
 7:PeRa(na)paH:PenapaH:PeRanaH
 1:PeRI(nI):PenI:PeRInI
@@ -269,7 +269,7 @@
 10:vismApa(ya)naH:vismAyanaH:vismApayaH
 1:vI(bI)jaM:bIjaM:vIbIM
 3:vu(bu)dDiH:budDiH:vubuiH
-4:vf(ttra)traH:vfttra:ttratraH
+6:vf(ttra)traH:vfttraH:vfttra
 3:vf(bf)haccaYcuH:bfhaccaYcuH:vfbfccaYcuH
 3:vf(bf)haccittaH:bfhaccittaH:vfbfccittaH
 3:vf(bf)hacCalkaH:bfhacCalkaH:vfbfcCalkaH
