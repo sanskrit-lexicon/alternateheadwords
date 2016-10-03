@@ -46,7 +46,7 @@ class dataholder:
 	def __init__(self, singleline,fout):
 		self.len = len(re.split('[,:-]',singleline))
 		self.parts = re.split('[,:-]',singleline)
-		#singleline = singleline.replace(' ','')
+		singleline = singleline.replace(u'¤','')
 		# Initialize all entries. Will fill as and when needed.
 		self.pagenum, self.pageside, self.hw, self.startline, self.endline, self.newhw1, self.newhw2, self.pre, self.mid, self.post, self.decodetype, self.matchcode, self.midlen = '','','','','','','','','','',2,0,0
 		if self.len == 5 and '(' in singleline:
