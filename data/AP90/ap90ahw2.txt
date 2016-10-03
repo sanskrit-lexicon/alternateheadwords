@@ -1,0 +1,99 @@
+1:agati(tI)ka:agatIka:agatitI
+3:aMGri(aMhriH):aMhriH:aMGriaMhriH
+1:ajju(jjU) kA:ajjUkA:ajjujjU
+7:aRa(na)ka:anaka:aRana
+1:atinicf(vf)t:atinivft:atinicfvf
+1:atipAdanicf(vf)t:atipAdanivft:atipAdanicfvf
+1:atiBa(BA)raH:atiBAraH:atiBaBAH
+3:ati(tI)rekaH:atIrekaH:atitIkaH
+1:atiSakka(kva)rI:atiSakvarI:atiSakkakva
+1:ati(tI)sAraH:atIsAraH:atitIraH
+1:ati(tI)sArin:atIsArin:atitIrin
+6:aDastarA(mA)m:aDastamAm:aDastarAmA
+3:aDipu(pU) ruzaH:aDipUruzaH:aDipupUzaH
+3:anAlaMbu(Bu)kA:anAlaMBukA:anAlaMbuBu
+1:animi(me)za:animeza:animime
+1:aprati(tI) kAra:apratIkAra:apratitIra
+1:apratta(ºpradatta):pradatta:aprattapradatta
+3:aBi(BI)ka:aBIka:aBiBI
+3:aBimi(me)hya:aBimehya:aBimimea
+3:aBiyugva(jva) n:aBiyujvan:aBiyugvajva
+1:aBi(BI)zwi:aBIzwi:aBiBIi
+3:aBizyaM(syaM) daH:aBisyaMdaH:aBizyaMsyaM
+3:aBizyaM(syaM) din:aBisyaMdin:aBizyaMsyaM
+3:aBisAM(SAM) tv:aBiSAMtv:aBisAMSAM
+1:amAma(mA) sI:amAmAsI:amAmamA
+1:amli(mlI)kA:amlIkA:amlimlI
+3:arAti(tI) yati:arAtIyati:arAtitIti
+3:aruza(zya)ti:arzyati:aruzazya
+3:avacCa(cCA)daH:avacCAdaH:avacCacCA
+1:ava(ba) Dra:abaDra:avabaa
+3:avyaBi(BI) cAraH:avyaBIcAraH:avyaBiBIraH
+1:ahe(hE)tuka:ahEtuka:ahehEka
+3:Agu(gU) raRaM:AgUraRaM:AgugURaM
+1:AgrahAyaRa(Ri)ka:AgrahAyaRika:AgrahAyaRaRi
+3:AcCA(cCu)kaH:AcCukaH:AcCAcCu
+1:AtApi(yi)n:AtAyin:AtApiyi
+3:Atire(rE)kyaM:AtirEkyaM:AtirerEaM
+1:AnuSra(SrA) vika:AnuSrAvika:AnuSraSrAa
+3:AMtari(rI)kza:AMtarIkza:AMtarirIa
+4:ABAsu(sva) ra:ABAsusva:ABsvara
+3:Ama(mA) nasyaM:AmAnasyaM:AmamAsyaM
+1:Amli(mlI)kA:AmlIkA:AmlimlI
+3:Arakza(kzi)kaH:ArakzikaH:Arakzakzi
+1:Ara(rA)vaH:ArAvaH:ArarAH
+3:AlAbuH(bUH):AlAbUH:AlAbuHbUH
+1:Ava(ba)rhita:Abarhita:Avabaita
+1:Avari(rI)tf:AvarItf:AvarirI
+3:iqa(la)spatiH:ilaspatiH:iqalaatiH
+3:iMdi(dI)varaM:iMdIvaraM:iMdidIraM
+1:izi(zI)kA:izIkA:izizI
+3:Iqe(le)nya:Ilenya:Iqelea
+3:ucciwaM(wiM)gaH:ucciwiMgaH:ucciwaMwiM
+1:ucCra(cCrA)yaH:ucCrAyaH:ucCracCrA
+1:ujjaya(yi)nI:ujjayinI:ujjayayi
+1:udaka(ki)la:udakila:udakaki
+3:unmajj(masj):unmasj:unmajjmasj
+3:upakva(kvA)RaM:upakvARaM:upakvakvA
+1:upara(rA)maH:uparAmaH:upararAH
+10:upaSiMGa(ha)naM:upaSiMGahaM:upaSiMhanaM
+1:uBaye(ya) dyus:uBayadyus:uBayeyaus
+3:uMba(bu)raH:uMburaH:uMbabuH
+1:ulba(lva)Ra:ulvaRa:ulbalva
+1:fta(tA)yu:ftAyu:ftatA
+1:fDaj(k):fDak:fDajk
+1:fzi(zI)kaH:fzIkaH:fzizIH
+3:Eqa(la)viqaH(laH):ElaviqaH:EqalaqaH
+3:Equ(qU)kaM:EqUkaM:EquqUM
+1:okaRaH(RiH):okaRiH:okaRaHRiH
+1:Oparo(rO)Dika:OparODika:OparorOka
+1:OrDvade(dE) hika:OrDvadEhika:OrDvadedEka
+3:OrDvasro(Sro)tasikaH:OrDvaSrotasikaH:OrDvasroSroikaH
+3:kawA(WA) kuH:kaWAkuH:kawAWAH
+10:kaqaMga(ka) raH:kaqaMgakaH:kaqaMkaraH
+1:kaqaMga(ka) rIya:kaqaMkarIya:kaqaMgakaya
+3:kaqa(la) traM:kalatraM:kaqalaaM
+3:kaqaM(laM) baH:kalaMbaH:kaqaMlaM
+3:kabaM(vaM)Din:kavaMDin:kabaMvaM
+1:kara(re)wuH:karewuH:karareH
+3:karaMBaH(baH):karaMbaH:karaMBaHbaH
+1:karena(va)raH:karevaraH:karenavaH
+1:karbu(rvu)ra:karvura:karburvu
+3:karbu(rvu)rita:karvurita:karburvua
+3:karbU(rvU)ra:karvUra:karbUrvU
+1:karva(rba)ra:karbara:karvarba
+7:kava(ba)ra:kabara:kavaba
+3:kava(ba)rI:kabarI:kavaba
+1:kavi(vI)yaM:kavIyaM:kavivIM
+1:kaSe(se)ru:kaseru:kaSese
+1:kaze(se)rukA:kaserukA:kazesekA
+1:kAkaru(rU)ka:kAkarUka:kAkarurU
+1:kAka(kA)laH:kAkAlaH:kAkakAH
+3:kAMcanAraH(laH):kAMcanAlaH:kAMcanAraHlaH
+1:kASmIra(ri)ka:kASmIrika:kASmIrari
+1:kAsU(SU):kASU:kAsUSU
+4:kiMSu(la)lukaH:kiMSulakaH:kiMlalukaH
+3:kiMcili(lu) kaH:kiMcilukaH:kiMcililuH
+1:kuMS(s):kuMs:kuMSs
+3:kuku(kU) daH:kukUdaH:kukukUH
+3:kukuMda(du) raH:kukuMduraH:kukuMdaduH

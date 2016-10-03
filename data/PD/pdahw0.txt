@@ -1,0 +1,16 @@
+1,0031b:*aMhaha(aMhahA):3895,3897
+1,0036b:akaTaha(ma)cakra:4534,4535
+1,0220b:akzirAji(ºjI):28108,28110
+1,0293a:agamyAgamya(? ma)kowi:37395,37397
+1,0309b:agArasTURAva(? vi)rohaRa:39478,39481
+1,0347a:agnigranTi(? nTa)sIman:44274,44276
+1,0358b:agnidozma(? za)n:45751,45754
+1,0361b:agninivf(? rvf)ttatva:46111,46113
+1,0391a:agnizwi(? zWi)kAdAna:49883,49884
+1,0391a:agnizwi(? zWi)kenDana:49885,49887
+1,0443b:agnyA(?)DirohaRa:56609,56610
+1,0541a:aNga(? ga)jAnurAga:69141,69143
+1,0555a:aNganibanDa(? dDa):70935,70938
+2,1174a:atisuganDi(n):149824,149825
+5,2805b:anuDvaMs(Dvas):358185,358189
+6,3337b:anUrADa(DA):425062,425067

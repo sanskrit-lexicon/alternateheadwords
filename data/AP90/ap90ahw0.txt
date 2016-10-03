@@ -1,0 +1,99 @@
+0009,b:agati(tI)ka:2285,2290
+0021,b:aMGri(aMhriH):4517,4530
+0025,c:ajju(jjU) kA:5239,5241
+0028,a:aRa(na)ka:5668,5675
+0032,a:atinicf(vf)t:6370,6375
+0032,b:atipAdanicf(vf)t:6461,6464
+0033,a:atiBa(BA)raH:6533,6541
+0033,c:ati(tI)rekaH:6691,6695
+0035,a:atiSakka(kva)rI:6922,6924
+0036,a:ati(tI)sAraH:7051,7053
+0036,a:ati(tI)sArin:7054,7058
+0045,b:aDastarA(mA)m:8700,8701
+0048,c:aDipu(pU) ruzaH:9253,9254
+0063,a:anAlaMbu(Bu)kA:11652,11653
+0064,b:animi(me)za:11923,11935
+0121,b:aprati(tI) kAra:21568,21572
+0122,a:apratta(ºpradatta):21701,21703
+0127,a:aBi(BI)ka:22500,22506
+0135,a:aBimi(me)hya:23902,23903
+0136,b:aBiyugva(jva) n:24091,24092
+0140,a:aBi(BI)zwi:24728,24741
+0140,b:aBizyaM(syaM) daH:24757,24768
+0140,b:aBizyaM(syaM) din:24769,24775
+0141,a:aBisAM(SAM) tv:24911,24913
+0151,a:amAma(mA) sI:26543,26544
+0155,c:amli(mlI)kA:27351,27355
+0160,c:arAti(tI) yati:28235,28237
+0162,c:aruza(zya)ti:28565,28565
+0179,a:avacCa(cCA)daH:31370,31371
+0182,c:ava(ba) Dra:31991,31992
+0198,c:avyaBi(BI) cAraH:34658,34661
+0219,b:ahe(hE)tuka:38228,38230
+0227,a:Agu(gU) raRaM:39503,39504
+0228,a:AgrahAyaRa(Ri)ka:39628,39633
+0230,a:AcCA(cCu)kaH:40010,40011
+0233,a:AtApi(yi)n:40490,40491
+0233,a:Atire(rE)kyaM:40523,40524
+0242,b:AnuSra(SrA) vika:42118,42122
+0243,a:AMtari(rI)kza:42194,42199
+0247,b:ABAsu(sva) ra:42939,42942
+0248,c:Ama(mA) nasyaM:43159,43160
+0250,c:Amli(mlI)kA:43479,43480
+0253,a:Arakza(kzi)kaH:43895,43897
+0254,b:Ara(rA)vaH:44120,44123
+0258,c:AlAbuH(bUH):44838,44839
+0260,a:Ava(ba)rhita:45082,45083
+0262,a:Avari(rI)tf:45382,45383
+0274,c:iqa(la)spatiH:47522,47523
+0276,c:iMdi(dI)varaM:47858,47860
+0281,c:izi(zI)kA:48722,48732
+0282,1:Iqe(le)nya:48888,48888
+0287,b:ucciwaM(wiM)gaH:49627,49627
+0288,a:ucCra(cCrA)yaH:49763,49775
+0288,c:ujjaya(yi)nI:49868,49876
+0301,a:udaka(ki)la:51915,51916
+0313,c:unmajj(masj):54012,54015
+0317,a:upakva(kvA)RaM:54600,54601
+0328,b:upara(rA)maH:56472,56474
+0331,b:upaSiMGa(ha)naM:56976,56977
+0340,a:uBaye(ya) dyus:58393,58394
+0340,b:uMba(bu)raH:58422,58423
+0342,b:ulba(lva)Ra:58759,58769
+0349,a:fta(tA)yu:59880,59880
+0350,a:fDaj(k):60047,60049
+0351,b:fzi(zI)kaH:60201,60202
+0358,c:Eqa(la)viqaH(laH):61382,61383
+0358,c:Equ(qU)kaM:61384,61385
+0360,a:okaRaH(RiH):61594,61595
+0363,c:Oparo(rO)Dika:62141,62145
+0364,b:OrDvade(dE) hika:62257,62262
+0364,b:OrDvasro(Sro)tasikaH:62263,62264
+0369,b:kawA(WA) kuH:63084,63084
+0370,c:kaqaMga(ka) raH:63304,63305
+0370,c:kaqaMga(ka) rIya:63306,63309
+0370,c:kaqa(la) traM:63310,63311
+0370,c:kaqaM(laM) baH:63313,63315
+0378,a:kabaM(vaM)Din:64550,64552
+0380,a:kara(re)wuH:64867,64868
+0380,b:karaMBaH(baH):64946,64952
+0381,b:karena(va)raH:65074,65074
+0383,c:karbu(rvu)ra:65477,65487
+0383,c:karbu(rvu)rita:65488,65489
+0383,c:karbU(rvU)ra:65490,65493
+0385,a:karva(rba)ra:65709,65713
+0389,b:kava(ba)ra:66412,66417
+0389,b:kava(ba)rI:66418,66422
+0389,c:kavi(vI)yaM:66477,66478
+0389,c:kaSe(se)ru:66507,66510
+0390,b:kaze(se)rukA:66616,66617
+0391,b:kAkaru(rU)ka:66750,66754
+0391,b:kAka(kA)laH:66755,66756
+0392,a:kAMcanAraH(laH):66891,66891
+0401,c:kASmIra(ri)ka:68492,68493
+0402,b:kAsU(SU):68587,68590
+0402,b:kiMSu(la)lukaH:68618,68619
+0402,c:kiMcili(lu) kaH:68644,68645
+0406,a:kuMS(s):69243,69244
+0406,b:kuku(kU) daH:69249,69252
+0406,b:kukuMda(du) raH:69253,69255
