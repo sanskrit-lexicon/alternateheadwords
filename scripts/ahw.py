@@ -116,7 +116,7 @@ if __name__=="__main__":
 	print '    Preparing list of headwords from sanhw1.txt'
 	hw1 = h.hw1(dictionary)
 	hw1 = triming(hw1)
-	inputlist = [(r'da[(]d[)]$','d'),(r'rA[(]mA[)]m$','mAm'),(r'[(]da[)]d$','d'),(r'man[(]mA[)]$','mA'),(r'c[(]cA[)]$','cA'),(r'z[(]zA[)]$','zA'),(r'c[(]cA[)]$','cA'),(r'duH[(]du[)]','du'),(r'niH[(]ni[)]','ni'),(r'kza[(]kzya[)]','kzya'),(r'[(]zwa[)]sta','zwa'),(r'rda[(]rdDa[)]','rdDa'),(r'[(]tra[)]ttra','tra'),(r'ttra[(]tra[)]','tra'),(r'[(]ttra[)]tra','ttra'),(r'ttva[(]tva[)]','tva')]
+	inputlist = [(r'da[(]d[)]$','d'),(r'rA[(]mA[)]m$','mAm'),(r'[(]da[)]d$','d'),(r'man[(]mA[)]$','mA'),(r'c[(]cA[)]$','cA'),(r'z[(]zA[)]$','zA'),(r'c[(]cA[)]$','cA'),(r'duH[(]du[)]','du'),(r'niH[(]ni[)]','ni'),(r'kza[(]kzya[)]','kzya'),(r'[(]zwa[)]sta','zwa'),(r'ttva[(]tva[)]','tva'),(r'rDa[(]rdDa[)]','rdDa'),(r'rda[(]rdDa[)]','rdDa'),(r'[(]tra[)]ttra','tra'),(r'ttra[(]tra[)]','tra'),(r'[(]ttra[)]tra','ttra'),(r'bBra[(]Bra[)]','Bra'),(r'bBri[(]Bri[)]','Bri'),(r'bBraM[(]BraM[)]','BraM'),(r'bBro[(]Bro[)]','Bro')]
 	similarlist = [(r'[NYRnmM]','m'),(r'[rl]','l'),(r'[bv]','v'),(r'[Szs]','s'),(r'[Uu]','u'),(r'[iI]','i'),(r'[aA]','a')]
 	#print '#Step1'
 	#print '    Analysing', sys.argv[1], 'and writing potential entries to', sys.argv[2]
