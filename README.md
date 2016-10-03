@@ -54,5 +54,3 @@ The following explanation gives a somewhat nearby explanation to this issue.
 
 `12` - Edit distance is the same, but left opening has consonant matching. e.g. 12:ma(mi)hira:mihira:mamira
 
-`13` - Edit distance is the same, but right opening has consonant matching. 
-

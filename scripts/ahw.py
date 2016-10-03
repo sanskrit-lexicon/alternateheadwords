@@ -94,9 +94,6 @@ class dataholder:
 				elif self.midlen <= len(self.pre) and self.pre[-len(self.mid)] == self.mid[0] and self.mid[0] in 'kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzshl|': # ma(mi)hira. Consonant matching has higher priority than vowel matching.
 					print '12:'+self.hw+':'+self.newhw1+':'+self.newhw2
 					fout.write('12:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
-				elif self.midlen <= len(self.post) and self.post[0] == self.mid[0] and self.mid[0] in 'kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzshl|':
-					print '13:'+self.hw+':'+self.newhw1+':'+self.newhw2
-					fout.write('13:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
 				elif len(self.mid)==2 and self.pre[-1] == self.mid[0] and self.post=='' and re.search('[aAiIuU]',self.mid[1]): # vIruD(DA)
 					self.newhw1 = self.pre[:-1]+self.mid
 					print '11:'+self.hw+':'+self.newhw1+':'+self.newhw2
