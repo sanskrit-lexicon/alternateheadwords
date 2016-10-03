@@ -10,9 +10,9 @@ Output:
 	data/vcp/vcpahw0.txt (VCP additional Headwords)
 	data/vcp/vcpahw1.txt (VCP headwords with suggestions)
 Usage:
-	python ahw.py inputfile outputfile
+	python ahw.py dictname
 	e.g.
-	python ahw.py ../data/vcp/vcphw0.txt ../data/vcp/vcpahw0.txt ../data/vcp/vcpahw1.txt ../data/vcp/vcpahw2.txt
+	e.g. python ahw.py VCP
 """
 import sys, re
 import codecs
@@ -44,16 +44,15 @@ class dataholder:
 	global hw1, inputlist
 	'Class to hold the data while manipulation'
 	def __init__(self, singleline,fout):
-		self.len = len(re.split('[,:]',singleline))
-		self.parts = re.split('[,:]',singleline)
-		singleline = singleline.strip(' ')
+		self.len = len(re.split('[,:-]',singleline))
+		self.parts = re.split('[,:-]',singleline)
+		#singleline = singleline.replace(' ','')
 		# Initialize all entries. Will fill as and when needed.
 		self.pagenum, self.pageside, self.hw, self.startline, self.endline, self.newhw1, self.newhw2, self.pre, self.mid, self.post, self.decodetype, self.matchcode, self.midlen = '','','','','','','','','','',2,0,0
 		if self.len == 5 and '(' in singleline:
-			[self.pagenum, self.pageside, self.hw, self.startline, self.endline] = re.split('[,:]',singleline)
-			if '(' in self.hw:
-				self.decodetype = 1 # Parenthesis at last
-				self.strippedhw = re.sub('[^a-zA-Z()|]','',self.hw)
+			[self.pagenum, self.pageside, self.hw, self.startline, self.endline] = re.split('[,:-]',singleline)
+			if '(' in self.hw and ')' in self.hw: # ')' in self.hw added because of entry in SKD - 1-105:arda yAtanAgatiyAcanezu . (gatO:16328,16331
+				self.strippedhw = re.sub('[^a-zA-Z()| ]','',self.hw)
 				trip = re.split('[(]([^)]*)[)]',self.strippedhw)
 				self.pre = trip[0].strip()
 				self.mid = trip[1].strip()
@@ -62,7 +61,9 @@ class dataholder:
 				self.newhw1 = self.pre[:-self.midlen]+self.mid+self.post
 				self.newhw2 = self.pre+self.mid+self.post[self.midlen:]
 				knownhw = knownsolutions(inputlist,self.hw)
-				if self.post == '' and self.newhw1 in hw1 and l.levenshtein1(self.hw, self.newhw1, 1):
+				if self.midlen > 1 and (self.pre[-self.midlen:] == self.mid or self.mid == self.post[:self.midlen]): # asU(kza)kzaRa - These are mainly some errors in print / typo. Needs examination.
+					fout.write('0:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+				elif self.post == '' and self.newhw1 in hw1 and l.levenshtein1(self.hw, self.newhw1, 1):
 					print '1:'+self.hw+':'+self.newhw1+':'+self.newhw2
 					fout.write('1:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
 				elif self.newhw1 in hw1 and l.levenshtein1(self.hw, self.newhw1, 1):
@@ -93,9 +94,6 @@ class dataholder:
 				elif self.midlen <= len(self.pre) and self.pre[-len(self.mid)] == self.mid[0] and self.mid[0] in 'kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzshl|': # ma(mi)hira. Consonant matching has higher priority than vowel matching.
 					print '12:'+self.hw+':'+self.newhw1+':'+self.newhw2
 					fout.write('12:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
-				elif len(self.post) >0 and self.post[0] == self.mid[0] and self.mid[0] in 'kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzshl|': # ma(mi)hira. Consonant matching has higher priority than vowel matching.
-					print '13:'+self.hw+':'+self.newhw2+':'+self.newhw1
-					fout.write('13:'+self.hw+':'+self.newhw2+':'+self.newhw1+'\n')
 				elif len(self.mid)==2 and self.pre[-1] == self.mid[0] and self.post=='' and re.search('[aAiIuU]',self.mid[1]): # vIruD(DA)
 					self.newhw1 = self.pre[:-1]+self.mid
 					print '11:'+self.hw+':'+self.newhw1+':'+self.newhw2
@@ -108,63 +106,29 @@ class dataholder:
 					fout.write('10:'+self.hw+':'+self.newhw2+':'+self.newhw1+'\n')
 				else:
 					fout.write('0:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
-
-class secondtime:
-	global hw1, bigrams, trigrams
-	'Class to identify abberrant suggestions which need manual examination'
-	def __init__(self,singleline,fout):
-		[self.code,self.hw,self.newhw1,self.newhw2] = re.split('[:]',singleline)
-		wordbigram = set(n.ngrams(self.newhw1,2))
-		wordtrigram = set(n.ngrams(self.newhw1,3))
-		
-		# Reconverting the codes which were found to have abnormal bigrams or trigrams to '0'.
-		if not wordbigram.issubset(bigrams):
-			print '2     ', singleline, wordbigram.difference(bigrams)
-			fout.write('0:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
-		elif not wordtrigram.issubset(trigrams):
-			print '3     ', singleline, wordtrigram.difference(trigrams)
-			fout.write('0:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
-		else:
-			fout.write(singleline+'\n')
 		
 	
 
 if __name__=="__main__":
-	"""
+	dictionary = sys.argv[1]
+	dictname = dictionary.lower()
 	print '#Step0'
 	print '    Preparing list of headwords from sanhw1.txt'
-	excludeddict = 'VCP'
-	hw1 = h.hw1(excludeddict)
+	hw1 = h.hw1(dictionary)
 	hw1 = triming(hw1)
-	inputlist = [(r'da[(]d[)]$','d'),(r'rA[(]mA[)]m$','mAm'),(r'[(]da[)]d$','d'),(r'man[(]mA[)]$','mA'),(r'c[(]cA[)]$','cA'),(r'z[(]zA[)]$','zA'),(r'c[(]cA[)]$','cA'),(r'duH[(]du[)]','du'),(r'niH[(]ni[)]','ni'),(r'kza[(]kzya[)]','kzya'),(r'[(]zwa[)]sta','zwa')]
+	inputlist = [(r'da[(]d[)]$','d'),(r'rA[(]mA[)]m$','mAm'),(r'[(]da[)]d$','d'),(r'man[(]mA[)]$','mA'),(r'c[(]cA[)]$','cA'),(r'z[(]zA[)]$','zA'),(r'c[(]cA[)]$','cA'),(r'duH[(]du[)]','du'),(r'niH[(]ni[)]','ni'),(r'kza[(]kzya[)]','kzya'),(r'[(]zwa[)]sta','zwa'),(r'rda[(]rdDa[)]','rdDa'),(r'[(]tra[)]ttra','ttra'),(r'ttra[(]tra[)]','tra'),(r'ttva[(]tva[)]','tva')]
 	similarlist = [(r'[NYRnmM]','m'),(r'[rl]','l'),(r'[bv]','v'),(r'[Szs]','s'),(r'[Uu]','u'),(r'[iI]','i'),(r'[aA]','a')]
 	#print '#Step1'
 	#print '    Analysing', sys.argv[1], 'and writing potential entries to', sys.argv[2]
-	fin0 = codecs.open(sys.argv[1],'r','utf-8')
+	fin0 = codecs.open('../data/'+dictname+'/'+dictname+'hw0.txt','r','utf-8')
 	data0 = fin0.readlines()
 	data0 = triming(data0)
 	fin0.close()
-	fout0 = codecs.open(sys.argv[2],'w','utf-8')
-	fout1 = codecs.open(sys.argv[3],'w','utf-8')
+	fout0 = codecs.open('../data/'+dictname+'/'+dictname+'ahw0.txt','w','utf-8')
+	fout1 = codecs.open('../data/'+dictname+'/'+dictname+'ahw1.txt','w','utf-8')
 	counterfirsttype = 0
 	for datum0 in data0:
 		dat = dataholder(datum0,fout1)
 		if not dat.hw == '':
 			fout0.write(dat.pagenum+','+dat.pageside+':'+dat.hw+':'+dat.startline+','+dat.endline+'\n')
 	fout0.close()
-	"""
-	fin1 = codecs.open(sys.argv[3],'r','utf-8')
-	data1 = fin1.readlines()
-	data1 = triming(data1)
-	fout2 = codecs.open(sys.argv[4],'w','utf-8')
-	fin1.close()
-	
-	hw = n.hw
-	bigrams = n.getngrams(hw,2)
-	bigrams = set(bigrams)
-	trigrams = n.getngrams(hw,3)
-	trigrams = set(trigrams)
-	print "Created bigrams and trigrams"
-	print "Finding abnormal bigrams and trigrams"
-	for datum1 in data1:
-		dat = secondtime(datum1,fout2)

@@ -23,7 +23,7 @@
 1:ataptatanu(nU):ataptatanU:ataptatanunU
 2:atita(mA)rAm:atitamAm:atimArAm
 1:atinu(nO):atinO:atinunO
-13:atipa(Ta)Tin:atipaTan:atiTaTin
+10:atipa(Ta)Tin:atipaTan:atiTaTin
 1:ati(tI)sAra:atIsAra:atitIra
 1:ati(tI)sArakin:atIsArakin:atitIrakin
 1:atyuktA(kTA):atyukTA:atyuktAkTA
@@ -229,7 +229,7 @@
 1:ftuzWA(sTA):ftusTA:ftuzWAsTA
 1:fDaj(k):fDak:fDajk
 1:fnPa(mPa):fmPa:fnPamPa
-0:fzi(zwi)zeRa:fzizwia:zwizeRa
+0:fzi(zwi)zeRa:zwizeRa:fzizwia
 1:fzi(zI)ka:fzIka:fzizI
 1:ekapuzkala(ra):ekapuzkara:ekapuzkalara
 3:ekaPalA(lI):ekaPalI:ekaPalAlI
@@ -854,9 +854,7 @@
 2:parva(RI)RikA:parvaRIkA:parRIRikA
 1:palli(llI):pallI:pallillI
 10:pavitrArIpa(ha)Ra:pavitrArIpaha:pavitrArIhaRa
-3:paSa(za--sa):zasa:paSazasa
-3:paSa(za sa):zasa:paSazasa
-3:paSa(za--sa):zasa:paSazasa
+0:paSa(za sa):za sa:paSaza sa
 1:pAMSa(sa)na:pAMsana:pAMSasa
 1:pAMSa(sa)va:pAMsava:pAMSasa
 1:pAMSu(su):pAMsu:pAMSusu
@@ -868,7 +866,7 @@
 1:pAMSu(su)cAmara:pAMsucAmara:pAMSusumara
 1:pAMSu(su)ja:pAMsuja:pAMSusu
 3:pAMSu(su)patra:pAMsupatra:pAMSusutra
-13:pAMSu(mu)mardana:pAMSumurdana:pAMmumardana
+0:pAMSu(mu)mardana:pAMmumardana:pAMSumurdana
 1:pAMSu(su)ra:pAMsura:pAMSusu
 1:pAMSu(su)rAgiRI:pAMsurAgiRI:pAMSusugiRI
 1:pAMSu(su)rAzwra:pAMsurAzwra:pAMSusuzwra
