@@ -31,12 +31,20 @@ def triming(lst):
 		output.append(member)
 	return output
 
+# Function to find patterns in the headword and subheadwordtag to enable its joining.
+def knownsolutions(joinedword):
+	global knownsolutionlist
+	result = joinedword
+	for (regex,replaceregex) in knownsolutionlist:
+		result = re.sub(regex,replaceregex,result)
+	return result
 
 if __name__=="__main__":
 	dictname = sys.argv[1]
 	reHeadword = r'^<P>\(?\[?\{@(.*?)@}'
 	reEmbedded = r'\{\%([^%]*)\%\}'
-
+	knownsolutionlist = [('aIkf$','Ikf'),('antat$','at'),('[aAi]ita$','ita'),('a([Ae])$','\g<1>'),('ain$','in'),('aI$','I'),('aI([yn])a$','I\g<1>a'),('aik([aA])$','ik\g<1>')]
+	"""
 	fin = codecs.open('../data/'+dictname+'/'+dictname+'.txt','r','utf-8')
 	fout = codecs.open('../data/'+dictname+'/'+dictname+'ehw0.txt','w','utf-8')
 	headword = ''
@@ -60,9 +68,12 @@ if __name__=="__main__":
 			matchembed = re.findall(reEmbedded,line)
 			if len(matchembed) > 0:
 				for embeddedtag in matchembed:
-					print headword.encode('utf-8'), embeddedtag.encode('utf-8')
-					fout.write(';'+line+'\n')
-					fout.write(headword+'@'+embeddedtag+'@'+unicode(counter)+'\n')
+					emb = re.split(r'[ ;]',embeddedtag)
+					for memb in emb:
+						if not re.search(r'^[^a-zA-Z0-9]*$',memb):
+							print headword.encode('utf-8'), memb.encode('utf-8')
+							fout.write(';'+line+'\n')
+							fout.write(headword+'@'+memb+'@'+unicode(counter)+'\n')
 	fin.close()
 	fout.close()
 
@@ -81,10 +92,12 @@ if __name__=="__main__":
 			line = line.replace(u'ç','S')
 			line = line.replace(u'°','')
 			line = line.replace(u'-','')
+			line = line.replace('.','')
 			fout1.write(line+'@'+linenum+'\n')
 	fin1.close()
 	fout1.close()
-
+	"""
+	
 	hw = set(h.hw1())
 	fin2 = codecs.open('../data/'+dictname+'/'+dictname+'ehw1.txt','r','utf-8')
 	fout2 = codecs.open('../data/'+dictname+'/'+dictname+'ehw2.txt','w','utf-8')
@@ -97,10 +110,17 @@ if __name__=="__main__":
 			[head,sub,linenum] = line.split('@')			
 			if head+sub in hw:
 				hwmatch += 1
-				print head+sub
 				fout2.write(head+'@'+sub+'@'+head+sub+'@'+linenum+'@1\n')
 			else:
-				fout2.write(head+'@'+sub+'@'+head+sub+'@'+linenum+'@0\n')
+				trialsolution = knownsolutions(head+sub)
+				if (not trialsolution == head+sub) and (trialsolution in hw):
+					hwmatch += 1
+					fout2.write(head+'@'+sub+'@'+trialsolution+'@'+linenum+'@2\n')
+				elif not trialsolution == head+sub:
+					hwmatch += 1
+					fout2.write(head+'@'+sub+'@'+trialsolution+'@'+linenum+'@3\n')
+				else:
+					fout2.write(head+'@'+sub+'@'+head+sub+'@'+linenum+'@0\n')
 			
 	print hwmatch, 'subheadwords found in sanhw1.'
 	fin2.close()
