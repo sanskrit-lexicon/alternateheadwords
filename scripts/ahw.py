@@ -62,50 +62,50 @@ class dataholder:
 				self.newhw2 = self.pre+self.mid+self.post[self.midlen:]
 				knownhw = knownsolutions(inputlist,self.hw)
 				if self.midlen > 1 and (self.pre[-self.midlen:] == self.mid or self.mid == self.post[:self.midlen]): # asU(kza)kzaRa - These are mainly some errors in print / typo. Needs examination.
-					fout.write('0:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+					fout.write('0:'+self.hw+':'+self.newhw1+':'+self.newhw2+':'+self.startline+':'+self.endline+'\n')
 				elif self.post == '' and self.newhw1 in hw1 and l.levenshtein1(self.hw, self.newhw1, 1):
 					print '1:'+self.hw+':'+self.newhw1+':'+self.newhw2
-					fout.write('1:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+					fout.write('1:'+self.hw+':'+self.newhw1+':'+self.newhw2+':'+self.startline+':'+self.endline+'\n')
 				elif self.newhw1 in hw1 and l.levenshtein1(self.hw, self.newhw1, 1):
 					print '1:'+self.hw+':'+self.newhw1+':'+self.newhw2
-					fout.write('1:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+					fout.write('1:'+self.hw+':'+self.newhw1+':'+self.newhw2+':'+self.startline+':'+self.endline+'\n')
 				elif len(self.pre) == 1 and len(self.mid) == 1: # u(U)rdda,a(A)hituRqika
 					print '5:'+self.hw+':'+self.newhw1+':'+self.newhw2
-					fout.write('5:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+					fout.write('5:'+self.hw+':'+self.newhw1+':'+self.newhw2+':'+self.startline+':'+self.endline+'\n')
 				elif not knownhw == self.hw: # upadfzada(d)
 					self.newhw1 = knownhw
 					print '6:'+self.hw+':'+self.newhw1+':'+self.newhw2
-					fout.write('6:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+					fout.write('6:'+self.hw+':'+self.newhw1+':'+self.newhw2+':'+self.startline+':'+self.endline+'\n')
 				elif self.newhw2 in hw1:
 					print '2:'+self.hw+':'+self.newhw2+':'+self.newhw1
-					fout.write('2:'+self.hw+':'+self.newhw2+':'+self.newhw1+'\n')
+					fout.write('2:'+self.hw+':'+self.newhw2+':'+self.newhw1+':'+self.startline+':'+self.endline+'\n')
 				elif l.levenshtein(self.pre[-self.midlen:],self.mid) < l.levenshtein(self.post[:self.midlen],self.mid):
 					print '3:'+self.hw+':'+self.newhw1+':'+self.newhw2
-					fout.write('3:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+					fout.write('3:'+self.hw+':'+self.newhw1+':'+self.newhw2+':'+self.startline+':'+self.endline+'\n')
 				elif l.levenshtein(self.pre[-self.midlen:],self.mid) > l.levenshtein(self.post[:self.midlen],self.mid):
 					print '4:'+self.hw+':'+self.newhw2+':'+self.newhw1
-					fout.write('4:'+self.hw+':'+self.newhw2+':'+self.newhw1+'\n')
+					fout.write('4:'+self.hw+':'+self.newhw2+':'+self.newhw1+':'+self.startline+':'+self.endline+'\n')
 				elif similarorthography(self.pre[-self.midlen:]) == similarorthography(self.mid):
 					print '7:'+self.hw+':'+self.newhw1+':'+self.newhw2
-					fout.write('7:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+					fout.write('7:'+self.hw+':'+self.newhw1+':'+self.newhw2+':'+self.startline+':'+self.endline+'\n')
 				elif similarorthography(self.post[:self.midlen]) == similarorthography(self.mid):
 					print '8:'+self.hw+':'+self.newhw2+':'+self.newhw1
-					fout.write('8:'+self.hw+':'+self.newhw2+':'+self.newhw1+'\n')
+					fout.write('8:'+self.hw+':'+self.newhw2+':'+self.newhw1+':'+self.startline+':'+self.endline+'\n')
 				elif self.midlen <= len(self.pre) and self.pre[-len(self.mid)] == self.mid[0] and self.mid[0] in 'kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzshl|': # ma(mi)hira. Consonant matching has higher priority than vowel matching.
 					print '12:'+self.hw+':'+self.newhw1+':'+self.newhw2
-					fout.write('12:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+					fout.write('12:'+self.hw+':'+self.newhw1+':'+self.newhw2+':'+self.startline+':'+self.endline+'\n')
 				elif len(self.mid)==2 and self.pre[-1] == self.mid[0] and self.post=='' and re.search('[aAiIuU]',self.mid[1]): # vIruD(DA)
 					self.newhw1 = self.pre[:-1]+self.mid
 					print '11:'+self.hw+':'+self.newhw1+':'+self.newhw2
-					fout.write('11:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+					fout.write('11:'+self.hw+':'+self.newhw1+':'+self.newhw2+':'+self.startline+':'+self.endline+'\n')
 				elif len(self.pre) < len(self.mid): # u(du)qumbara. There is no enough space on left.
 					print '9:'+self.hw+':'+self.newhw2+':'+self.newhw1
-					fout.write('9:'+self.hw+':'+self.newhw2+':'+self.newhw1+'\n')
+					fout.write('9:'+self.hw+':'+self.newhw2+':'+self.newhw1+':'+self.startline+':'+self.endline+'\n')
 				elif len(self.post)>0 and len(self.post) < len(self.pre): #pawwa(tta)na. There is no enough space on right.
 					print '10:'+self.hw+':'+self.newhw1+':'+self.newhw2
-					fout.write('10:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+					fout.write('10:'+self.hw+':'+self.newhw1+':'+self.newhw2+':'+self.startline+':'+self.endline+'\n')
 				else:
-					fout.write('0:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+					fout.write('0:'+self.hw+':'+self.newhw1+':'+self.newhw2+':'+self.startline+':'+self.endline+'\n')
 		
 	
 

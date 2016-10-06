@@ -32,7 +32,7 @@ class secondtime:
 	'Class to identify abberrant suggestions which need manual examination'
 	def __init__(self,singleline,fout):
 		#singleline = singleline.replace(' ','')
-		[self.code,self.hw,self.newhw1,self.newhw2] = re.split('[:]',singleline)
+		[self.code,self.hw,self.newhw1,self.newhw2,self.stratline,self.endline] = re.split('[:]',singleline)
 		wordbigram = set(n.ngrams(self.newhw1,2))
 		wordtrigram = set(n.ngrams(self.newhw1,3))
 		# Reconverting the codes which were found to have abnormal bigrams or trigrams to '0'.
