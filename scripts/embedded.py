@@ -43,7 +43,7 @@ if __name__=="__main__":
 	dictname = sys.argv[1]
 	reHeadword = r'^<P>\(?\[?\{@(.*?)@}'
 	reEmbedded = r'\{\%([^%]*)\%\}'
-	knownsolutionlist = [('aIkf$','Ikf'),('antat$','at'),('[aAi]ita$','ita'),('a([Ae])$','\g<1>'),('ain$','in'),('aI$','I'),('aI([yn])a$','I\g<1>a'),('aik([aA])$','ik\g<1>')]
+	knownsolutionlist = [('aIkf$','Ikf'),('antat$','at'),('[aAi]it([aA])$','it\g<1>'),('a([Aei])$','\g<1>'),('ain$','in'),('[ai]I$','I'),('aI([yn])a$','I\g<1>a'),('aik([aA])$','ik\g<1>'),('[.,]',''),('aa([mM])$','a\g<1>'),('aIBU$','IBU'),('aAs$','As')]
 	"""
 	fin = codecs.open('../data/'+dictname+'/'+dictname+'.txt','r','utf-8')
 	fout = codecs.open('../data/'+dictname+'/'+dictname+'ehw0.txt','w','utf-8')
@@ -111,6 +111,12 @@ if __name__=="__main__":
 			if head+sub in hw:
 				hwmatch += 1
 				fout2.write(head+'@'+sub+'@'+head+sub+'@'+linenum+'@1\n')
+			elif len(sub) > len(head) and sub.startswith(head[:-1]) and sub in hw: #asuKa@asuKAvaha
+				hwmatch += 1
+				fout2.write(head+'@'+sub+'@'+sub+'@'+linenum+'@1\n')
+			elif len(sub) > len(head) and sub.startswith(head[:-1]): #asuKa@asuKAvaha
+				hwmatch += 1
+				fout2.write(head+'@'+sub+'@'+sub+'@'+linenum+'@4\n')
 			else:
 				trialsolution = knownsolutions(head+sub)
 				if (not trialsolution == head+sub) and (trialsolution in hw):
@@ -122,6 +128,6 @@ if __name__=="__main__":
 				else:
 					fout2.write(head+'@'+sub+'@'+head+sub+'@'+linenum+'@0\n')
 			
-	print hwmatch, 'subheadwords found in sanhw1.'
+	print hwmatch, 'subheadwords matched.'
 	fin2.close()
 	fout2.close()
