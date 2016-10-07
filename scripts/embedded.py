@@ -38,14 +38,32 @@ def knownsolutions(joinedword):
 	for (regex,replaceregex) in knownsolutionlist:
 		result = re.sub(regex,replaceregex,result)
 	return result
+# Function to store regexes which require no change e.g. 'tva'
+def nochange(joinedword):
+	global nochangelist
+	for regex in nochangelist:
+		#print joinedword
+		if re.search(regex,joinedword):
+			return True
+			break
+	else:
+		return None
 
+def overlap(head,sub):
+	for i in range(2,len(head)):
+		if sub.startswith(head[-i:]):
+			return head+sub[i:]
+			break
+	else:
+		return head+sub
 if __name__=="__main__":
 	dictname = sys.argv[1]
 	reHeadword = r'^<P>\(?\[?\{@(.*?)@}'
 	reEmbedded = r'\{\%([^%]*)\%\}'
-	knownsolutionlist = [('aIkf$','Ikf'),('antat$','at'),('[aAi]it([aA])$','it\g<1>'),('a([Aei])$','\g<1>'),('([ai])in$','\g<1>in'),('[ai]I$','I'),('aI([yn])a$','I\g<1>a'),('aik([aA])$','ik\g<1>'),('[.,|]',''),('aa([mM])$','a\g<1>'),('aIBU$','IBU'),('aAs$','As'),('aAt$','At'),('aiya$','iya'),('aAvant$','Avant'),('ae([Rn])a$','e\g<1>a'),('aAya$','Aya'),('^a([hl])am','a\g<1>am'),('^brahman([^aAiIuUfFxXeEoO])','brahma\g<1>')]
+	knownsolutionlist = [('[aA]Ikf$','Ikf'),('antat$','at'),('[aAi]it([aA])$','it\g<1>'),('a([Aei])$','\g<1>'),('[ai]in$','in'),('[ai]I$','I'),('aI([yn])a$','I\g<1>a'),('aik([aA])$','ik\g<1>'),('[.,|]',''),('aa([mMs])$','a\g<1>'),('aIBU$','IBU'),('aAs$','As'),('aAt$','At'),('aiya$','iya'),('aAvant$','Avant'),('ae([Rn])a$','e\g<1>a'),('aAya$','Aya'),('^a([hl])am','a\g<1>am'),('man([^aAiIuUfFxXeEoO])','ma\g<1>'),('tite$','te')]
+	nochangelist = [('tva$'),('tA$'),('avant$')]
 	upasarga = ['ava','ati','aDi']
-
+	"""
 	fin = codecs.open('../data/'+dictname+'/'+dictname+'.txt','r','utf-8')
 	fout = codecs.open('../data/'+dictname+'/'+dictname+'ehw0.txt','w','utf-8')
 	headword = ''
@@ -96,6 +114,7 @@ if __name__=="__main__":
 			fout1.write(line+'@'+linenum+'\n')
 	fin1.close()
 	fout1.close()
+	"""
 	
 	hw = set(h.hw1())
 	fin2 = codecs.open('../data/'+dictname+'/'+dictname+'ehw1.txt','r','utf-8')
@@ -118,16 +137,31 @@ if __name__=="__main__":
 				fout2.write(head+'@'+sub+'@'+sub+'@'+linenum+'@4\n')
 			else:
 				trialsolution = knownsolutions(head+sub)
+				overlapsolution = overlap(head,sub)
 				if (not trialsolution == head+sub) and (trialsolution in hw):
 					hwmatch += 1
 					fout2.write(head+'@'+sub+'@'+trialsolution+'@'+linenum+'@2\n')
 				elif not trialsolution == head+sub:
 					hwmatch += 1
 					fout2.write(head+'@'+sub+'@'+trialsolution+'@'+linenum+'@3\n')
+				elif nochange(head+sub): #aSakta@tva@aSaktatva
+					hwmatch += 1
+					fout2.write(head+'@'+sub+'@'+head+sub+'@'+linenum+'@5\n')
+				elif (not overlapsolution == head+sub) and (overlapsolution in hw): # nizkuz@kuzita
+					hwmatch += 1
+					fout2.write(head+'@'+sub+'@'+overlapsolution+'@'+linenum+'@2\n')
+				elif not overlapsolution == head+sub:
+					hwmatch += 1
+					fout2.write(head+'@'+sub+'@'+overlapsolution+'@'+linenum+'@7\n')
+				elif l.levenshtein(head,sub) < 2 and sub in hw: # banDya@vanDya
+					hwmatch += 1
+					fout2.write(head+'@'+sub+'@'+sub+'@'+linenum+'@1\n')
+				elif l.levenshtein(head,sub) < 2: # banDya@vanDya
+					hwmatch += 1
+					fout2.write(head+'@'+sub+'@'+sub+'@'+linenum+'@6\n')
 				else:
 					fout2.write(head+'@'+sub+'@'+head+sub+'@'+linenum+'@0\n')
 			
 	print hwmatch, 'subheadwords matched.'
 	fin2.close()
 	fout2.close()
-
