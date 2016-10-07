@@ -43,8 +43,9 @@ if __name__=="__main__":
 	dictname = sys.argv[1]
 	reHeadword = r'^<P>\(?\[?\{@(.*?)@}'
 	reEmbedded = r'\{\%([^%]*)\%\}'
-	knownsolutionlist = [('aIkf$','Ikf'),('antat$','at'),('[aAi]it([aA])$','it\g<1>'),('a([Aei])$','\g<1>'),('ain$','in'),('[ai]I$','I'),('aI([yn])a$','I\g<1>a'),('aik([aA])$','ik\g<1>'),('[.,]',''),('aa([mM])$','a\g<1>'),('aIBU$','IBU'),('aAs$','As')]
-	"""
+	knownsolutionlist = [('aIkf$','Ikf'),('antat$','at'),('[aAi]it([aA])$','it\g<1>'),('a([Aei])$','\g<1>'),('([ai])in$','\g<1>in'),('[ai]I$','I'),('aI([yn])a$','I\g<1>a'),('aik([aA])$','ik\g<1>'),('[.,|]',''),('aa([mM])$','a\g<1>'),('aIBU$','IBU'),('aAs$','As'),('aAt$','At'),('aiya$','iya'),('aAvant$','Avant'),('ae([Rn])a$','e\g<1>a'),('aAya$','Aya'),('^a([hl])am','a\g<1>am'),('^brahman([^aAiIuUfFxXeEoO])','brahma\g<1>')]
+	upasarga = ['ava','ati','aDi']
+
 	fin = codecs.open('../data/'+dictname+'/'+dictname+'.txt','r','utf-8')
 	fout = codecs.open('../data/'+dictname+'/'+dictname+'ehw0.txt','w','utf-8')
 	headword = ''
@@ -52,7 +53,6 @@ if __name__=="__main__":
 	dictstart = False
 	dictend = False
 	counter = 0
-	print re.findall(reEmbedded,"<P>{%°kalpana1-%} f. assignation d'une part (d'he4ri|tage); {%°prakalpana1-%}")
 	
 	for line in fin:
 		counter += 1
@@ -66,7 +66,7 @@ if __name__=="__main__":
 			if matchheadword:
 				headword = matchheadword.group(1)
 			matchembed = re.findall(reEmbedded,line)
-			if len(matchembed) > 0:
+			if len(matchembed) > 0 and not re.match('^[A-Z]',headword):
 				for embeddedtag in matchembed:
 					emb = re.split(r'[ ;]',embeddedtag)
 					for memb in emb:
@@ -96,7 +96,6 @@ if __name__=="__main__":
 			fout1.write(line+'@'+linenum+'\n')
 	fin1.close()
 	fout1.close()
-	"""
 	
 	hw = set(h.hw1())
 	fin2 = codecs.open('../data/'+dictname+'/'+dictname+'ehw1.txt','r','utf-8')
@@ -111,10 +110,10 @@ if __name__=="__main__":
 			if head+sub in hw:
 				hwmatch += 1
 				fout2.write(head+'@'+sub+'@'+head+sub+'@'+linenum+'@1\n')
-			elif len(sub) > len(head) and sub.startswith(head[:-1]) and sub in hw: #asuKa@asuKAvaha
+			elif len(sub) >= len(head) and sub.startswith(head[:-1]) and sub in hw: #asuKa@asuKAvaha
 				hwmatch += 1
 				fout2.write(head+'@'+sub+'@'+sub+'@'+linenum+'@1\n')
-			elif len(sub) > len(head) and sub.startswith(head[:-1]): #asuKa@asuKAvaha
+			elif len(sub) >= len(head) and sub.startswith(head[:-1]): #asuKa@asuKAvaha
 				hwmatch += 1
 				fout2.write(head+'@'+sub+'@'+sub+'@'+linenum+'@4\n')
 			else:
@@ -131,3 +130,4 @@ if __name__=="__main__":
 	print hwmatch, 'subheadwords matched.'
 	fin2.close()
 	fout2.close()
+
