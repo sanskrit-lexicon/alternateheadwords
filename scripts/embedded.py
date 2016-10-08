@@ -76,7 +76,7 @@ if __name__=="__main__":
 	reEmbedded = r'\{\%([^%]*)\%\}'
 	knownsolutionlist = [('[aA]Ikf$','Ikf'),('antat$','at'),('[aAi]it([aA])$','it\g<1>'),('a([Aei])$','\g<1>'),('[ai]in$','in'),('[ai]I$','I'),('aI([yn])a$','I\g<1>a'),('aik([aA])$','ik\g<1>'),("[.,|']",''),('aa([mMs])$','a\g<1>'),('aIBU$','IBU'),('aAs$','As'),('aAt$','At'),('aiya$','iya'),('aAvant$','Avant'),('ae([Rn])a$','e\g<1>a'),('aAya$','Aya'),('^a([hl])am','a\g<1>am'),('man([^aAiIuUfFxXeEoO])','ma\g<1>'),('tite$','te'),('s\(z\)ka$','zka'),('aAlu$','Alu'),('^agniA','agnyA'),('^asant([KPCWTcwtkpSzs])','asat\g<1>'),('^asant([^KPCWTcwtkpSzs])','asad\g<1>'),('^aDas([KPWTwtkps])','aDaH\g<1>'),('^aDas([JBGQDjbgqd])','aDo\g<1>'),('^aDasS','aDaSS'),('^aDas([cC])','aDaS\g<1>'),('^tria','trya'),('^dvia','dvya'),('^vyoman([^v])','vyoma\g<1>'),('akf$','Ikf'),('vanvarI$','varI'),('a[(]n[)]([^aAiIuUfFxXeEoO])','a\g<1>'),('a[(]n[)]([aAiIuUfFxXeEoO])','\g<1>')]
 	nochangelist = [('tva$'),('tA$'),('avant$')]
-	upasarga = ['ava','ati','aDi','vy','vyA']
+	upasarga = ['pra','prati','praty','api','parA','apa','pari','pary','anu','anv','ava','vi','vyati','vyA','vy','saM','sam','su','sv','ati','nir','ni','ud','ut','aDi','aDy','dur','duH','aBi','aBy','vyati']
 
 	"""
 	print "#Step 1. Writing embedded headwords with their corresponding line in ehw0.txt"
@@ -172,6 +172,9 @@ if __name__=="__main__":
 						if mem in hw:
 							hwmatch += 1
 							fout2.write(head+'@'+sub+'@'+mem+'@'+linenum+'@2\n')
+							break
+					else:
+						fout2.write(head+'@'+sub+'@'+head+sub+'@'+linenum+'@0\n')
 				elif not trialsolution == head+sub:
 					hwmatch += 1
 					fout2.write(head+'@'+sub+'@'+trialsolution+'@'+linenum+'@3\n')
