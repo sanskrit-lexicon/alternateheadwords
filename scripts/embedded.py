@@ -69,14 +69,40 @@ def upasargaremoval(head,sub):
 			upa1 = upa
 			output.append(upa1+overlap(head1,sub))
 	return output
-
+def longest_common_substring(s1, s2):
+    m = [[0] * (1 + len(s2)) for i in xrange(1 + len(s1))]
+    longest, x_longest = 0, 0
+    for x in xrange(1, 1 + len(s1)):
+        for y in xrange(1, 1 + len(s2)):
+            if s1[x - 1] == s2[y - 1]:
+                m[x][y] = m[x - 1][y - 1] + 1
+                if m[x][y] > longest:
+                    longest = m[x][y]
+                    x_longest = x
+            else:
+                m[x][y] = 0
+    return s1[x_longest - longest: x_longest]
+def commsubstring(head,sub):
+	lcs = longest_common_substring(head,sub)
+	if (lcs) > 2:
+		headparts = head.split(lcs)
+		subparts = sub.split(lcs)
+		if len(subparts[0]) > 0 and len(subparts[1]) > 0:
+			return sub
+		elif len(subparts[0]) >= len(headparts[0]):
+			return sub
+		elif len(headparts[0]) > len(subparts[0]) and len(headparts[1]) <= len(subparts[1]):
+			return headparts[0]+lcs+subparts[1]
+		else:
+			return headparts[0]+lcs+subparts[1]
+		
 if __name__=="__main__":
 	dictname = sys.argv[1]
 	reHeadword = r'^<P>\(?\[?\{@(.*?)@}'
 	reEmbedded = r'\{\%([^%]*)\%\}'
-	knownsolutionlist = [('[aA]Ikf$','Ikf'),('antat$','at'),('[aAi]it([aA])$','it\g<1>'),('a([Aei])$','\g<1>'),('[aiA]in$','in'),('[ai]I$','I'),('aI([yn])a$','I\g<1>a'),('[aAI]ik([aA])$','ik\g<1>'),("[.,|']",''),('aa([mMs])$','a\g<1>'),('aIBU$','IBU'),('aAs$','As'),('aAt$','At'),('aiya$','iya'),('aAvant$','Avant'),('ae([Rn])a$','e\g<1>a'),('aAya$','Aya'),('^a([hl])am','a\g<1>am'),('man([^aAiIuUfFxXeEoO])','ma\g<1>'),('tite$','te'),('s\(z\)ka$','zka'),('aAlu$','Alu'),('^agniA','agnyA'),('^asant([KPCWTcwtkpSzs])','asat\g<1>'),('^asant([^KPCWTcwtkpSzs])','asad\g<1>'),('^aDas([KPWTwtkps])','aDaH\g<1>'),('^aDas([JBGQDjbgqd])','aDo\g<1>'),('^aDasS','aDaSS'),('^aDas([cC])','aDaS\g<1>'),('^tria','trya'),('^dvia','dvya'),('^vyoman([^v])','vyoma\g<1>'),('[aAIi]kf$','Ikf'),('vanvarI$','varI'),('a[(]n[)]([^aAiIuUfFxXeEoO])','a\g<1>'),('a[(]n[)]([aAiIuUfFxXeEoO])','\g<1>'),('^ap([JBGQDjbgqd])','ab\g<1>'),('janjAta$','jAta'),('aAvatI$','AvatI'),('u\(v\)I$','vI'),('vantvat$','vat'),('aya$','ya'),('aIkf','Ikf'),('tl','ll'),('DAhita$','hita')]
+	knownsolutionlist = [('[aA]Ikf$','Ikf'),('antat$','at'),('[aAi]it([aA])$','it\g<1>'),('a([Aei])$','\g<1>'),('[aiA]in$','in'),('[ai]I$','I'),('aI([yn])a$','I\g<1>a'),('[aAI]ik([aA])$','ik\g<1>'),("[.,|']",''),('aa([mMs])$','a\g<1>'),('aIBU$','IBU'),('aAs$','As'),('aAt$','At'),('aiya$','iya'),('aAvant$','Avant'),('ae([Rn])a$','e\g<1>a'),('aAya$','Aya'),('^a([hl])am','a\g<1>am'),('man([^aAiIuUfFxXeEoO])','ma\g<1>'),('tite$','te'),('s\(z\)ka$','zka'),('aAlu$','Alu'),('^agniA','agnyA'),('^asant([KPCWTcwtkpSzs])','asat\g<1>'),('^asant([^KPCWTcwtkpSzs])','asad\g<1>'),('^aDas([KPWTwtkps])','aDaH\g<1>'),('^aDas([JBGQDjbgqd])','aDo\g<1>'),('^aDasS','aDaSS'),('^aDas([cC])','aDaS\g<1>'),('^tria','trya'),('^dvia','dvya'),('^vyoman([^v])','vyoma\g<1>'),('[aAIi]kf$','Ikf'),('vanvarI$','varI'),('a[(]n[)]([^aAiIuUfFxXeEoO])','a\g<1>'),('a[(]n[)]([aAiIuUfFxXeEoO])','\g<1>'),('^ap([JBGQDjbgqd])','ab\g<1>'),('janjAta$','jAta'),('aAvatI$','AvatI'),('u\(v\)I$','vI'),('vantvat$','vat'),('aya$','ya'),('aIkf','Ikf'),('tl','ll'),('DAhita$','hita'),('aant$','at')]
 	nochangelist = [('tva$'),('tA$'),('avant$'),('vat$')]
-	upasarga = ['pra','prati','praty','api','parA','apa','pari','pary','anu','anv','ava','vi','vyati','vyA','vy','saM','sam','su','sv','ati','nir','ni','ud','ut','aDi','aDy','dur','duH','aBi','aBy','vyati','aprati',]
+	upasarga = ['pra','prati','praty','api','parA','apa','pari','pary','anu','anv','ava','vi','vyati','vyA','vy','saM','sam','su','sv','ati','nir','ni','ud','ut','aDi','aDy','dur','duH','aBi','aBy','vyati','aprati','vipra']
 
 	"""
 	print "#Step 1. Writing embedded headwords with their corresponding line in ehw0.txt"
@@ -193,6 +219,10 @@ if __name__=="__main__":
 				elif len(re.findall('([aAiIuUfFxXeEoO])',head)) <= 1 and sub in ['ti','te']: # tan@tenuH - Ignoring verbs (only one vowel identifies verbs mostly)
 					hwmatch += 1
 					fout2.write(head+'@'+sub+'@'+sub+'@'+linenum+'@99\n')
+				elif len(longest_common_substring(head,sub)) > 2:
+					commsubstring(head,sub)
+					hwmatch += 1
+					fout2.write(head+'@'+sub+'@'+commsubstring(head,sub)+'@'+linenum+'@11\n')
 				else:
 					fout2.write(head+'@'+sub+'@'+head+sub+'@'+linenum+'@0\n')
 			
