@@ -51,8 +51,11 @@ def nochange(joinedword):
 
 def overlap(head,sub):
 	for i in range(2,len(head)):
-		if sub.startswith(head[-i:]):
+		if sub.startswith(head[-i:]): # nizkuz@kuzita
 			return head+sub[i:]
+			break
+		elif sub.startswith(head[:i]): # aNkayati@aNkita
+			return sub
 			break
 	else:
 		return head+sub
@@ -60,7 +63,7 @@ if __name__=="__main__":
 	dictname = sys.argv[1]
 	reHeadword = r'^<P>\(?\[?\{@(.*?)@}'
 	reEmbedded = r'\{\%([^%]*)\%\}'
-	knownsolutionlist = [('[aA]Ikf$','Ikf'),('antat$','at'),('[aAi]it([aA])$','it\g<1>'),('a([Aei])$','\g<1>'),('[ai]in$','in'),('[ai]I$','I'),('aI([yn])a$','I\g<1>a'),('aik([aA])$','ik\g<1>'),('[.,|]',''),('aa([mMs])$','a\g<1>'),('aIBU$','IBU'),('aAs$','As'),('aAt$','At'),('aiya$','iya'),('aAvant$','Avant'),('ae([Rn])a$','e\g<1>a'),('aAya$','Aya'),('^a([hl])am','a\g<1>am'),('man([^aAiIuUfFxXeEoO])','ma\g<1>'),('tite$','te')]
+	knownsolutionlist = [('[aA]Ikf$','Ikf'),('antat$','at'),('[aAi]it([aA])$','it\g<1>'),('a([Aei])$','\g<1>'),('[ai]in$','in'),('[ai]I$','I'),('aI([yn])a$','I\g<1>a'),('aik([aA])$','ik\g<1>'),('[.,|]',''),('aa([mMs])$','a\g<1>'),('aIBU$','IBU'),('aAs$','As'),('aAt$','At'),('aiya$','iya'),('aAvant$','Avant'),('ae([Rn])a$','e\g<1>a'),('aAya$','Aya'),('^a([hl])am','a\g<1>am'),('man([^aAiIuUfFxXeEoO])','ma\g<1>'),('tite$','te'),('s\(z\)ka$','zka'),('aAlu$','Alu'),('^agniA','agnyA')]
 	nochangelist = [('tva$'),('tA$'),('avant$')]
 	upasarga = ['ava','ati','aDi']
 	"""

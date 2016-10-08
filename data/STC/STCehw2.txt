@@ -176,7 +176,7 @@ agni@da@agnida@867@1
 agni@dAyaka@agnidAyaka@867@1
 agni@dagDa@agnidagDa@869@1
 agni@datta@agnidatta@871@1
-agni@A@agniA@871@0
+agni@A@agnyA@871@2
 agni@DArA@agniDArA@873@1
 agni@pakva@agnipakva@875@1
 agni@parikriyA@agniparikriyA@877@1
@@ -196,7 +196,7 @@ agni@veSya@agniveSya@901@1
 agni@SaraRa@agniSaraRa@904@1
 agni@SAlA@agniSAlA@904@1
 agni@SiKa@agniSiKa@906@1
-agni@A@agniA@907@0
+agni@A@agnyA@907@2
 agni@SudDi@agniSudDi@909@1
 agni@SuSrUzA@agniSuSrUzA@911@1
 agni@zwut@agnizwut@913@1
@@ -212,10 +212,10 @@ agni@hotra@agnihotra@928@1
 agni@in@agnin@928@3
 agni@agnInDana@agnInDana@931@1
 agni@agnyagAra@agnyagAra@933@1
-agni@AgAra@agniAgAra@933@0
-agni@ADAna@agniADAna@935@0
-agni@ADeya@agniADeya@935@0
-agni@Ahita@agniAhita@937@0
+agni@AgAra@agnyAgAra@933@2
+agni@ADAna@agnyADAna@935@2
+agni@ADeya@agnyADeya@935@2
+agni@Ahita@agnyAhita@937@2
 agra@e@agre@942@2
 agra@am@agram@943@2
 agra@tas@agratas@943@1
@@ -349,7 +349,7 @@ aNGri@pAta@aNGripAta@1228@1
 aNGri@aNGryavanejana@aNGryavanejana@1230@1
 aNGri@I@aNGrI@1230@3
 aNGri@tva@aNGritva@1230@5
-acakzus@(z)ka@acakzus(z)ka@1239@0
+acakzus@(z)ka@acakzuzka@1239@2
 acakzus@acakzurvizaya@acakzurvizaya@1241@1
 acarama@vayas@acaramavayas@1256@1
 acala@A@acalA@1261@2
@@ -506,7 +506,7 @@ atidurmanas@durma|nAyamAna@atidurmanasdurmanAyamAna@1851@3
 atidUra@tva@atidUratva@1867@1
 atidvaya@I@atidvayI@1877@2
 atiDIratA@DE|rya@atiDIratADErya@1885@3
-atinidra@Alu@atinidraAlu@1891@0
+atinidra@Alu@atinidrAlu@1891@2
 atinirbanDena@nirbanDatas@atinirbanDenanirbanDatas@1899@0
 atipuRya@vant@atipuRyavant@1964@1
 atiprasakta@I@atiprasaktI@2015@3
