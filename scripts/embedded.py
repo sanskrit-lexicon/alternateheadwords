@@ -56,18 +56,27 @@ def overlap(head,sub):
 				return head+sub[i:]
 				break
 			elif sub.startswith(head[:i]): # aNkayati@aNkita
-				print head, sub
 				return sub
 				break
 	else:
 		return head+sub
+def upasargaremoval(head,sub):
+	global upasarga
+	output = []
+	for upa in upasarga:
+		if head.startswith(upa):
+			head1 = head.lstrip(upa)
+			upa1 = upa
+			output.append(upa1+overlap(head1,sub))
+	return output
+
 if __name__=="__main__":
 	dictname = sys.argv[1]
 	reHeadword = r'^<P>\(?\[?\{@(.*?)@}'
 	reEmbedded = r'\{\%([^%]*)\%\}'
-	knownsolutionlist = [('[aA]Ikf$','Ikf'),('antat$','at'),('[aAi]it([aA])$','it\g<1>'),('a([Aei])$','\g<1>'),('[ai]in$','in'),('[ai]I$','I'),('aI([yn])a$','I\g<1>a'),('aik([aA])$','ik\g<1>'),('[.,|]',''),('aa([mMs])$','a\g<1>'),('aIBU$','IBU'),('aAs$','As'),('aAt$','At'),('aiya$','iya'),('aAvant$','Avant'),('ae([Rn])a$','e\g<1>a'),('aAya$','Aya'),('^a([hl])am','a\g<1>am'),('man([^aAiIuUfFxXeEoO])','ma\g<1>'),('tite$','te'),('s\(z\)ka$','zka'),('aAlu$','Alu'),('^agniA','agnyA'),('^asant([KPCWTcwtkpSzs])','asat\g<1>'),('^asant([^KPCWTcwtkpSzs])','asad\g<1>')]
+	knownsolutionlist = [('[aA]Ikf$','Ikf'),('antat$','at'),('[aAi]it([aA])$','it\g<1>'),('a([Aei])$','\g<1>'),('[ai]in$','in'),('[ai]I$','I'),('aI([yn])a$','I\g<1>a'),('aik([aA])$','ik\g<1>'),("[.,|']",''),('aa([mMs])$','a\g<1>'),('aIBU$','IBU'),('aAs$','As'),('aAt$','At'),('aiya$','iya'),('aAvant$','Avant'),('ae([Rn])a$','e\g<1>a'),('aAya$','Aya'),('^a([hl])am','a\g<1>am'),('man([^aAiIuUfFxXeEoO])','ma\g<1>'),('tite$','te'),('s\(z\)ka$','zka'),('aAlu$','Alu'),('^agniA','agnyA'),('^asant([KPCWTcwtkpSzs])','asat\g<1>'),('^asant([^KPCWTcwtkpSzs])','asad\g<1>'),('^aDas([KPWTwtkps])','aDaH\g<1>'),('^aDas([JBGQDjbgqd])','aDo\g<1>'),('^aDasS','aDaSS'),('^aDas([cC])','aDaS\g<1>'),('^tria','trya'),('^dvia','dvya'),('^vyoman([^v])','vyoma\g<1>'),('akf$','Ikf'),('vanvarI$','varI'),('a[(]n[)]([^aAiIuUfFxXeEoO])','a\g<1>'),('a[(]n[)]([aAiIuUfFxXeEoO])','\g<1>')]
 	nochangelist = [('tva$'),('tA$'),('avant$')]
-	upasarga = ['ava','ati','aDi']
+	upasarga = ['ava','ati','aDi','vy','vyA']
 
 	"""
 	print "#Step 1. Writing embedded headwords with their corresponding line in ehw0.txt"
@@ -102,7 +111,7 @@ if __name__=="__main__":
 	fin.close()
 	fout.close()
 
-	#print "#Step 2. Writing embedded headwords in SLP1 in ehw1.txt"
+	print "#Step 2. Writing embedded headwords in SLP1 in ehw1.txt"
 	fin1 = codecs.open('../data/'+dictname+'/'+dictname+'ehw0.txt','r','utf-8')
 	fout1 = codecs.open('../data/'+dictname+'/'+dictname+'ehw1.txt','w','utf-8')
 	for line in fin1:
@@ -118,6 +127,7 @@ if __name__=="__main__":
 			line = line.replace(u'ç','S')
 			line = line.replace(u'°','')
 			line = line.replace(u'|','')
+			line = line.replace(u"'","")
 			line = line.replace(u'-','')
 			line = line.replace('.','')
 			line = line.replace(u'¤','')
@@ -150,12 +160,18 @@ if __name__=="__main__":
 			else:
 				trialsolution = knownsolutions(head+sub)
 				overlapsolution = overlap(head,sub)
+				upasargasolution = upasargaremoval(head,sub)
 				if (not trialsolution == head+sub) and (trialsolution in hw):
 					hwmatch += 1
 					fout2.write(head+'@'+sub+'@'+trialsolution+'@'+linenum+'@2\n')
 				elif (not overlapsolution == head+sub) and (overlapsolution in hw): # nizkuz@kuzita
 					hwmatch += 1
 					fout2.write(head+'@'+sub+'@'+overlapsolution+'@'+linenum+'@2\n')
+				elif (not head+sub in upasargasolution) and len(upasargasolution)>0: # vyAkulayati@kulita
+					for mem in upasargasolution:
+						if mem in hw:
+							hwmatch += 1
+							fout2.write(head+'@'+sub+'@'+mem+'@'+linenum+'@2\n')
 				elif not trialsolution == head+sub:
 					hwmatch += 1
 					fout2.write(head+'@'+sub+'@'+trialsolution+'@'+linenum+'@3\n')

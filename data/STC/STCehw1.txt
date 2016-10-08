@@ -869,7 +869,7 @@ aYjali@kArikA@1500
 ;<P>{%°put2a-%} m. nt. creux des mains (lors de {%l'an5jali%}).
 aYjali@puwa@1502
 ;<P>{%°put2a-%} m. nt. creux des mains (lors de {%l'an5jali%}).
-aYjali@l'aYjali@1502
+aYjali@laYjali@1502
 ;<P>{%°pragraha-%} a. qui rapproche ses mains pour l'{%an5jali.%}
 aYjali@pragraha@1504
 ;<P>{%°pragraha-%} a. qui rapproche ses mains pour l'{%an5jali.%}
@@ -935,7 +935,7 @@ atas@idam@1608
 ;<P>{%ato-nimittam%} adv. c'est pourquoi; {%°'rtham%} id.
 atas@atonimittam@1612
 ;<P>{%ato-nimittam%} adv. c'est pourquoi; {%°'rtham%} id.
-atas@'rTam@1612
+atas@rTam@1612
 ;<P>{@atasika1-@} f. Linum usitatissimum; {%atasi1-%} id.
 atasikA@atasI@1614
 ;<P>{@ati-kr2cchra-@} (tre11s pe4nible) m. n. d'une pe4nitence; {%-am%} a11
@@ -1449,7 +1449,7 @@ aDas@aDaScara@3173
 ;<P>{%°caran2a1vapa1ta-%} m. fait de se jeter aux pieds de qq'un.
 aDas@caraRAvapAta@3175
 ;<P>{%adho-'ks2a-ja-%} m. Kr2s2n2a.
-aDas@aDo'kzaja@3177
+aDas@aDokzaja@3177
 ;<P>{%°gata-%} a. v. qui a pe4ri; qui s'incline.
 aDas@gata@3179
 ;<P>{%°gati-%} f. descente, chute; descente aux enfers; a. qui descend; qui
@@ -2341,7 +2341,7 @@ anta@velA@6033
 ;<P>{%°sad-%} m. e4le11ve.
 anta@sad@6035
 ;<P>{%ante-' vasa1yin-%} a. et m. qui vit au bout du village, homme de la
-anta@ante'@6037
+anta@ante@6037
 ;<P>{%ante-' vasa1yin-%} a. et m. qui vit au bout du village, homme de la
 anta@vasAyin@6037
 ;<P>{%°va1sin-%} m. e4le11ve; {%°va1sitva-%} nt. qualite4 d'e4le11ve.
@@ -2807,15 +2807,15 @@ anyAya@vftti@6476
 ;<P>{%°anyu1na1dhika-%} a. ni trop ni trop peu.
 anyUna@anyUnADika@6484
 ;<P>{%°kr2tya-%} nt. pl. services mutuels.
-anyo'nya@kftya@6489
+anyonya@kftya@6489
 ;<P>{%°gata-%} a. mutuel.
-anyo'nya@gata@6491
+anyonya@gata@6491
 ;<P>{%°dharmin-%} a. l'un ayant les qualite4s de l'au|tre.
-anyo'nya@Darmin@6493
+anyonya@Darmin@6493
 ;<P>{%°preman-%} nt. amour re4ciproque.
-anyo'nya@preman@6495
+anyonya@preman@6495
 ;<P>{%°bha1va-%} m. e4change de l'un avec l'autre.
-anyo'nya@BAva@6497
+anyonya@BAva@6497
 ;<P>{@anv-aks2a-@} a. qui suit; {%-am%} aussito10t apre11s.
 anvakza@am@6501
 ;(dans la phrase); {%-vant-%} a. ou11 il y a contact ou lien; bien ne4.
@@ -3125,13 +3125,13 @@ api@api@7418
 ;si, bien que; {%ko 'pi%} quel|qu'un; {%kutra1pi%} en quelque endroit que ce
 api@ko@7419
 ;si, bien que; {%ko 'pi%} quel|qu'un; {%kutra1pi%} en quelque endroit que ce
-api@'pi@7419
+api@pi@7419
 ;si, bien que; {%ko 'pi%} quel|qu'un; {%kutra1pi%} en quelque endroit que ce
 api@kutrApi@7419
 ;soit; {%yo 'pi%} quiconque -- particule (initiale) interrogative ou optative;
 api@yo@7420
 ;soit; {%yo 'pi%} quiconque -- particule (initiale) interrogative ou optative;
-api@'pi@7420
+api@pi@7420
 ;est-ce que? plaise au ciel que, pourvu que!  {%api na1ma%} je souhaite que,
 api@api@7421
 ;est-ce que? plaise au ciel que, pourvu que!  {%api na1ma%} je souhaite que,
@@ -10665,7 +10665,7 @@ eka@sarva@21884
 ;<P>{@eka-@} (flex. de {%sarva-%}) num. et pron. un ({%naiko 'pi, naikaç cana%}
 eka@nEko@21884
 ;<P>{@eka-@} (flex. de {%sarva-%}) num. et pron. un ({%naiko 'pi, naikaç cana%}
-eka@'pi,@21884
+eka@pi,@21884
 ;<P>{@eka-@} (flex. de {%sarva-%}) num. et pron. un ({%naiko 'pi, naikaç cana%}
 eka@nEkaS@21884
 ;<P>{@eka-@} (flex. de {%sarva-%}) num. et pron. un ({%naiko 'pi, naikaç cana%}
@@ -11489,7 +11489,7 @@ ka@na@22680
 ;Ces locu|tions pre4ce4de4es de {%na%} forment pron. ne4g.  :  {%na ko 'pi%}
 ka@ko@22680
 ;Ces locu|tions pre4ce4de4es de {%na%} forment pron. ne4g.  :  {%na ko 'pi%}
-ka@'pi@22680
+ka@pi@22680
 ;personne ; {%na kim2 cana%} rien ; qqf. pre4ce4de4es du relatif {%ya- :  yat
 ka@na@22681
 ;personne ; {%na kim2 cana%} rien ; qqf. pre4ce4de4es du relatif {%ya- :  yat
@@ -11501,7 +11501,7 @@ ka@kaH@22682
 ;kim2 ca%} n'importe quoi ; {%kah2 ko 'tra bhoh2%} « hola11, quelqu'un ! » (dans
 ka@ko@22682
 ;kim2 ca%} n'importe quoi ; {%kah2 ko 'tra bhoh2%} « hola11, quelqu'un ! » (dans
-ka@'tra@22682
+ka@tra@22682
 ;kim2 ca%} n'importe quoi ; {%kah2 ko 'tra bhoh2%} « hola11, quelqu'un ! » (dans
 ka@BoH@22682
 ;les drames) ; {%kim artham%} pourquoi faire ?  {%kim anyad%} ou {%aparam%} quoi
@@ -11805,7 +11805,7 @@ katama@cana,@23004
 ;soit ; {%katamaç cana, katamo 'pi%} (dans une propos. ne4gative) aucun.
 katama@katamo@23004
 ;soit ; {%katamaç cana, katamo 'pi%} (dans une propos. ne4gative) aucun.
-katama@'pi@23004
+katama@pi@23004
 ;<P>{@katara-@} (compar. de 1 {%ka-%}) pronom interr.  (fle4chi sur {%ya-%}) qui
 katara@ka@23006
 ;<P>{@katara-@} (compar. de 1 {%ka-%}) pronom interr.  (fle4chi sur {%ya-%}) qui
@@ -23507,7 +23507,7 @@ tatas@tatas@35883
 ;?  {%tato 'nyatas%} ailleurs ; v. {%yatas.%}
 tatas@tato@35884
 ;?  {%tato 'nyatas%} ailleurs ; v. {%yatas.%}
-tatas@'nyatas@35884
+tatas@nyatas@35884
 ;?  {%tato 'nyatas%} ailleurs ; v. {%yatas.%}
 tatas@yatas@35884
 ;<P>{@tata1-maha-@} v. 2 {%tata-.%}
@@ -23669,7 +23669,7 @@ tad@ya@35973
 ;ajoute4 a11 d'autres pron., leur donne une valeur emphatique ; {%so 'ham%}
 tad@so@35975
 ;ajoute4 a11 d'autres pron., leur donne une valeur emphatique ; {%so 'ham%}
-tad@'ham@35975
+tad@ham@35975
 ;moi-me10me, moi que voici (en style narratif {%aham%} est qqf. omis et le
 tad@aham@35976
 ;de4monstratif cons|truit avec le verbe a11 la 1{^re^} pers.)  ; {%tad etad%} cela
@@ -23679,7 +23679,7 @@ tad@etad@35977
 ;me10me, {%so 'yam%} celui-ci me10me, {%ta1ny amu1ni%} ceux-la11 me10mes, {%ya1
 tad@so@35978
 ;me10me, {%so 'yam%} celui-ci me10me, {%ta1ny amu1ni%} ceux-la11 me10mes, {%ya1
-tad@'yam@35978
+tad@yam@35978
 ;me10me, {%so 'yam%} celui-ci me10me, {%ta1ny amu1ni%} ceux-la11 me10mes, {%ya1
 tad@tAny@35978
 ;me10me, {%so 'yam%} celui-ci me10me, {%ta1ny amu1ni%} ceux-la11 me10mes, {%ya1
@@ -24185,7 +24185,7 @@ tapas@niDi@36328
 ;<P>{%°nis2t2ha-%} a. qui se livre a11 l'asce11se.
 tapas@nizWa@36330
 ;<P>{%°'nta-%} a. qui a l'asce4tisme pour terme.
-tapas@'nta@36332
+tapas@nta@36332
 ;<P>{%°bala-%} m. pouvoir de la de4votion auste11re.
 tapas@bala@36334
 ;<P>{%°mu1rti-%} f. incarnation de la de4votion asce4|tique.
@@ -24203,7 +24203,7 @@ tapas@rati@36345
 ;<P>{%°ra1çi-%} m. accumulation d'auste4rite4s, de pe4ni|tences.
 tapas@rASi@36347
 ;<P>{%°'rtha-%} a. qui a pour but la de4votion auste11re; {%-i1ya-%} destine4 a11
-tapas@'rTa@36349
+tapas@rTa@36349
 ;<P>{%°'rtha-%} a. qui a pour but la de4votion auste11re; {%-i1ya-%} destine4 a11
 tapas@Iya@36349
 ;<P>{%°loka-%} m. un des 7 mondes, situe4 au-dessus du {%jana°.%}
@@ -24217,7 +24217,7 @@ tapas@vfdDa@36356
 ;<P>{@tapasya-@} nt. de4votion auste11re, asce11se (dans {%-e 'bhavat%} se
 tapasya@e@36358
 ;<P>{@tapasya-@} nt. de4votion auste11re, asce11se (dans {%-e 'bhavat%} se
-tapasya@'Bavat@36358
+tapasya@Bavat@36358
 ;<P>{@tapasvi°@} v. {%tapasvin- ; -ta1-%} f. = {%tapasya-.%}
 tapasvi@tapasvin@36363
 ;<P>{@tapasvi°@} v. {%tapasvin- ; -ta1-%} f. = {%tapasya-.%}
@@ -25663,7 +25663,7 @@ tejas@kAma@37823
 ;<P>{%tejah2-prabha-%} (resplendissant) nt. n. d'une arme le4gendaire.
 tejas@tejaHpraBa@37825
 ;<P>{%tejo-'%} {%m2ça-sam2bhava-%} a. qui a pour origine une parcelle de
-tejas@tejo'@37827
+tejas@tejo@37827
 ;<P>{%tejo-'%} {%m2ça-sam2bhava-%} a. qui a pour origine une parcelle de
 tejas@MSasaMBava@37827
 ;<P>{%°bala-sama1yukta-%} a. v. doue4 de force phy|sique et spirituelle.
@@ -30495,7 +30495,7 @@ doza@aM@42697
 ;a11 qq'un (acc.); {%-am2 labh-%} se rendre cou|pable; {%ko'tra dos2ah%} qu'y
 doza@laB@42697
 ;a11 qq'un (acc.); {%-am2 labh-%} se rendre cou|pable; {%ko'tra dos2ah%} qu'y
-doza@ko'tra@42697
+doza@kotra@42697
 ;a11 qq'un (acc.); {%-am2 labh-%} se rendre cou|pable; {%ko'tra dos2ah%} qu'y
 doza@dozah@42697
 ;a-t-il a11 redire ? quel mal y a-t-il ?  {%nais2a dos2ah2%} ce n'est pas un tort,
@@ -32877,7 +32877,7 @@ na@na@45007
 ;valeur ne4gative; {%na ko 'pi%} personne, {%na kim2 cid%} rien, {%na kada1
 na@ko@45007
 ;valeur ne4gative; {%na ko 'pi%} personne, {%na kim2 cid%} rien, {%na kada1
-na@'pi@45007
+na@pi@45007
 ;valeur ne4gative; {%na ko 'pi%} personne, {%na kim2 cid%} rien, {%na kada1
 na@na@45007
 ;valeur ne4gative; {%na ko 'pi%} personne, {%na kim2 cid%} rien, {%na kada1
@@ -33239,7 +33239,7 @@ naBas@cara@45381
 ;<P>{%°da-%} m. un des Viçve-Deva.
 naBas@da@45383
 ;<P>{%°'n3gan2a-%} nt. aire ce4leste, firmament.  [Page350-2]
-naBas@'NgaRa@45385
+naBas@NgaRa@45385
 ;<P>{%°vartman-%} nt. atmosphe11re.
 naBas@vartman@45387
 ;<P>{%°vi1thi1-%} f. route ce4leste (suivie par le soleil).
@@ -38619,7 +38619,7 @@ parama@I@52021
 ;<P>{%parama1tman-%} m. esprit supre10me, l'un des deux aspects de {%l'a1tman%}
 parama@paramAtman@52023
 ;<P>{%parama1tman-%} m. esprit supre10me, l'un des deux aspects de {%l'a1tman%}
-parama@l'Atman@52023
+parama@lAtman@52023
 ;(opp. a11 {%ji1va1tman-%}) ; {%parama1tmana1%} de tout son coeur;
 parama@jIvAtman@52024
 ;(opp. a11 {%ji1va1tman-%}) ; {%parama1tmana1%} de tout son coeur;
@@ -38693,7 +38693,7 @@ paras@paraHSata@52072
 ;<P>{%°sahasra-%} a. pl. plus de mille.
 paras@sahasra@52074
 ;<P>{%paro'ks2a-%} v. s. v.
-paras@paro'kza@52076
+paras@parokza@52076
 ;<P>{%°rajas-%} a. qui n'est pas touche4 par les passions.
 paras@rajas@52078
 ;<P>{%°vari1ya1m2s-%} compar. excellent parmi tous.
@@ -39593,7 +39593,7 @@ pare@para@53807
 ;<P>{@paro°@} v. {%paras.%}
 paro@paras@53809
 ;<P>{@paroks2a-@} ({%paro'ks2a-%}) a. au dela11 du rayon vi|suel, invisible,
-parokza@paro'kza@53811
+parokza@parokza@53811
 ;absent; inconnu, incompre4hen|sible; e4tranger; {%-am%} hors de la vue, a11
 parokza@am@53812
 ;l'insu de (instr. ge4n. ifc.); {%-e%} id.; derrie11re le dos de (ge4n.);
@@ -51375,7 +51375,7 @@ BUyAMs@saMnivftti@67996
 ;<P>{%°sam2nivr2tti-%} a. qui revient de nouveau ({%a°%}).
 BUyAMs@a@67996
 ;<P>{%bhu1yo'na1gamana-%} nt. fait de ne plus revenir.
-BUyAMs@BUyo'nAgamana@67998
+BUyAMs@BUyonAgamana@67998
 ;beaucoup, excessivement ; {%-ta1-%} f. grand nom|bre ; {%-ças%} en tre11s grand
 BUyizWa@tA@68004
 ;beaucoup, excessivement ; {%-ta1-%} f. grand nom|bre ; {%-ças%} en tre11s grand
@@ -57063,7 +57063,7 @@ ya@ca@73721
 ;cana, ko 'pi%}) qui que ce soit qui, quiconque; {%yo 'ham%} moi qui, puisque je;
 ya@yo@73722
 ;cana, ko 'pi%}) qui que ce soit qui, quiconque; {%yo 'ham%} moi qui, puisque je;
-ya@'ham@73722
+ya@ham@73722
 ;{%-tara-%} compar. qui (de deux, des deux); v. {%tad-.%} En 1{^er^} terme de
 ya@tara@73723
 ;{%-tara-%} compar. qui (de deux, des deux); v. {%tad-.%} En 1{^er^} terme de
@@ -59201,7 +59201,7 @@ rakzas@Gna@75662
 ;<P>{%°devata1-%} f. pl. les Raks2as comme divinite4s.
 rakzas@devatA@75665
 ;<P>{%°'dhidevata1-%} f. de4esse qui commande aux Raks2as.
-rakzas@'DidevatA@75667
+rakzas@DidevatA@75667
 ;<P>{@raks2a1-@} f. garde, protection; sentinelle; amulette; {%-vant-%} a.
 rakzA@vant@75669
 ;<P>{%°gan2d2aka-%} m. sorte d'amulette.
@@ -62249,7 +62249,7 @@ lola@lolekzaRA@78956
 ;<P>{%lola1pa1n3ga-%} a. de qui fre4mit le coin de l'oeil.
 lola@lolApANga@78958
 ;<P>{%lol'os2t2ha-%} a. dont les le11vres remuent.
-lola@lol'ozWa@78960
+lola@lolozWa@78960
 ;<P>{@lolita-@} a. v. agite4, tremblant; {%lolati,%} etc. v. {%LUL-.%}
 lolita@lolati,@78962
 ;<P>{@lolita-@} a. v. agite4, tremblant; {%lolati,%} etc. v. {%LUL-.%}
@@ -63237,17 +63237,17 @@ vayas@sTa@79938
 ;<P>{%vayo-gata-%} a. v. d'un a10ge avance4, a10ge4, vieux; nt. fin de la
 vayas@vayogata@79940
 ;<P>{%°'tiga-%} {%°'ti1ta-%} a. v. qui a de4passe4 l'a10ge, tre11s vieux, caduc;
-vayas@'tiga@79943
+vayas@tiga@79943
 ;<P>{%°'tiga-%} {%°'ti1ta-%} a. v. qui a de4passe4 l'a10ge, tre11s vieux, caduc;
-vayas@'tIta@79943
+vayas@tIta@79943
 ;<P>{%°'dhika-%} a. plus a10ge4, d'un a10ge avance4; m. vieillard.  [Page627-1]
-vayas@'Dika@79946
+vayas@Dika@79946
 ;<P>{%°ba1la-%} a. jeune.
 vayas@bAla@79948
 ;<P>{%°ru1pa-%} nt. jeunesse et beaute4.
 vayas@rUpa@79950
 ;<P>{%°'vastha1-%} f. a10ge, e4poque de la vie (ord. au nombre de 3:  enfance,
-vayas@'vasTA@79952
+vayas@vasTA@79952
 ;<P>{%°vr2ddha-%} a. v. a10ge4, vieux.
 vayas@vfdDa@79955
 ;(souv. voc.); {%-ka-%} id.; {%-a1-%} f. compagne, amie, confidente; {%-tva-%}
@@ -77869,7 +77869,7 @@ SreyAMs@kara@94597
 ;<P>{%çreyah2-pariçra1ma-%} m. effort vers l'e4manci|pation finale.
 SreyAMs@SreyaHpariSrAma@94599
 ;<P>{%çreyo-'bhika1n3ks2in-%} a. {%°ka1ma-.%}
-SreyAMs@Sreyo'BikANkzin@94601
+SreyAMs@SreyoBikANkzin@94601
 ;<P>{%çreyo-'bhika1n3ks2in-%} a. {%°ka1ma-.%}
 SreyAMs@kAma@94601
 ;(loc. ifc.); meilleur, pre4fe4rable, meil|leur que (abl. ou ge4n.); {%-tama-%}
@@ -82805,7 +82805,7 @@ samAlamBa@in@100415
 ;<P>{@sam-a1la1pa-@} m. entretien, conversation ({%-saha%} ou {%anyo'nyam%}).
 samAlApa@saha@100418
 ;<P>{@sam-a1la1pa-@} m. entretien, conversation ({%-saha%} ou {%anyo'nyam%}).
-samAlApa@anyo'nyam@100418
+samAlApa@anyonyam@100418
 ;<P>{@sam-a1-lin3gati@} {%-te%} de4n. e4treindre, embras|ser, serrer fortement ;
 samAliNgati@te@100422
 ;{%-°lin3gita-%} e4treint, etc.
@@ -83609,7 +83609,7 @@ saMpraS@praSna@101922
 ;(ifc.)  ; ({%-°praçno 'tra na vidyate%} la question ne se pose pas, cela va de
 saMpraS@praSno@101923
 ;(ifc.)  ; ({%-°praçno 'tra na vidyate%} la question ne se pose pas, cela va de
-saMpraS@'tra@101923
+saMpraS@tra@101923
 ;(ifc.)  ; ({%-°praçno 'tra na vidyate%} la question ne se pose pas, cela va de
 saMpraS@na@101923
 ;(ifc.)  ; ({%-°praçno 'tra na vidyate%} la question ne se pose pas, cela va de
@@ -83741,7 +83741,7 @@ saMbAD@bADa@102083
 ;mutuellement ({%-anyo 'nya°%}).
 saMbAD@anyo@102086
 ;mutuellement ({%-anyo 'nya°%}).
-saMbAD@'nya@102086
+saMbAD@nya@102086
 ;<P>{%sam2ba1dha-vartin- °vartman-%} a. pl. qui se meuvent en foule (sur la
 saMbAD@saMbADavartin@102088
 ;<P>{%sam2ba1dha-vartin- °vartman-%} a. pl. qui se meuvent en foule (sur la
