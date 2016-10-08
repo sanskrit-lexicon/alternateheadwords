@@ -167,7 +167,7 @@ agni@kuRqa@agnikuRqa@850@1
 agni@kriyA@agnikriyA@853@1
 agni@garBa@agnigarBa@855@1
 agni@gfha@agnigfha@857@1
-agni@Saya@agniSaya@859@0
+agni@Saya@agniSya@859@3
 agni@cit@agnicit@861@1
 agni@jvalitatejana@agnijvalitatejana@863@1
 agni@traya@agnitraya@865@1
@@ -358,7 +358,7 @@ acala@acalADipa@acalADipa@1265@1
 acala@acalendra@acalendra@1265@1
 acala@aca,@acalaaca@1265@3
 acala@leSvara@acalaleSvara@1265@0
-acApala@ya@acApalaya@1271@0
+acApala@ya@acApalya@1271@2
 acira@dyuti@aciradyuti@1288@1
 acira@praBA@acirapraBA@1288@1
 acira@BAs@aciraBAs@1288@1
@@ -366,15 +366,15 @@ acira@rocis@acirarocis@1288@1
 acira@acirAMSu@acirAMSu@1288@1
 acira@acirABA@acirABA@1289@1
 acira@aciroQA@aciroQA@1291@1
-acCa@hfdaya@acCahfdaya@1304@0
+acCa@hfdaya@acCahfdya@1304@3
 acCa@acCoda@acCoda@1306@1
 acCidra@am@acCidram@1320@2
 acCidra@eRa@acCidreRa@1320@2
-acCUrI@ikA@acCUrIikA@1323@0
+acCUrI@ikA@acCUrikA@1323@2
 acyuta@acyutAyus@acyutAyus@1332@1
 aj@aYj@aYj@1334@1
 aj@ajati@ajati@1334@4
-aj@te@ajte@1334@0
+aj@te@te@1334@99
 aja@A@ajA@1336@2
 aja@gara@ajagara@1338@1
 aja@mIQa@ajamIQa@1340@1
@@ -398,7 +398,7 @@ ajAta@ajAtAri@ajAtAri@1401@1
 ajita@BftyatA@ajitaBftyatA@1409@1
 ajita@ajitAtman@ajitAtman@1411@1
 ajita@ajitendriya@ajitendriya@1413@1
-ajina@AvatI@ajinaAvatI@1416@0
+ajina@AvatI@ajinAvatI@1416@2
 ajina@in@ajinin@1416@2
 ajina@ratna@ajinaratna@1418@1
 ajina@vAsas@ajinavAsas@1420@1
@@ -425,7 +425,7 @@ aYjana@aYjanAcala@aYjanAcala@1490@1
 aYjana@aYjanABa@aYjanABa@1490@1
 aYjana@parvan@aYjanaparvan@1492@1
 aYjali@iM@aYjaliiM@1495@0
-aYjali@kf@aYjalikf@1495@0
+aYjali@kf@aYjalIkf@1495@2
 aYjali@aYjali@aYjali@1496@1
 aYjali@banD@aYjalibanD@1496@0
 aYjali@karman@aYjalikarman@1498@1
@@ -443,7 +443,7 @@ awavI@bala@awavIbala@1528@1
 awwa@AlaAlaka@awwaAlaAlaka@1534@0
 awwa@pAla@awwapAla@1536@1
 awwahAsa@hAsya@awwahAsahAsya@1540@0
-aRu@(v)I@aRu(v)I@1549@0
+aRu@(v)I@aRvI@1549@2
 aRu@aRIyAMs@aRIyAMs@1551@4
 aRu@aRutara@aRutara@1551@1
 aRu@aRizWa@aRizWa@1551@1
@@ -727,7 +727,7 @@ aDas@aDokzaja@aDokzaja@3177@2
 aDas@gata@aDogata@3179@2
 aDas@gati@aDogati@3181@2
 aDas@dfzwi@aDodfzwi@3184@2
-aDas@nilaya@aDasnilaya@3186@0
+aDas@nilaya@aDasnilya@3186@3
 aDas@nIvI@aDasnIvI@3188@0
 aDas@BAga@aDoBAga@3190@2
 aDas@muKa@aDasmuKa@3192@0
@@ -877,7 +877,7 @@ anaBijYa@tA@anaBijYatA@3921@1
 anaByAvftti@yA@anaByAvfttiyA@3966@0
 anaBra@vfzwi@anaBravfzwi@3972@1
 anamitra@lABa@anamitralABa@3982@1
-anarGa@ya@anarGaya@3997@0
+anarGa@ya@anarGya@3997@2
 anarGa@eya@anarGaeya@3997@0
 anarGa@yatva@anarGayatva@3997@5
 anarTa@ka@anarTaka@4003@1
@@ -941,7 +941,7 @@ anArya@vftta@anAryavftta@4321@1
 anAvfta@anAvftArgala@anAvftArgala@4348@4
 anASaka@anASakAyana@anASakAyana@4358@1
 anAsAdayant@AsAdayamAna@anAsAdayantAsAdayamAna@4378@0
-anAstika@ya@anAstikaya@4387@0
+anAstika@ya@anAstikya@4387@2
 anAsTa@A@anAsTA@4391@2
 anAhitAgni@tA@anAhitAgnitA@4403@1
 aniketa@tA@aniketatA@4416@1
@@ -1016,7 +1016,7 @@ anucintana@cintA@anucintA@4855@2
 anucCvasant@ucCvasamAna@anucCvasantucCvasamAna@4868@0
 anuja@A@anujA@4872@2
 anuja@janman@anujanman@4873@2
-anujan@jAta@anujanjAta@4875@0
+anujan@jAta@anujAta@4875@2
 anujIvin@jIvisAtkfta@anujIvisAtkfta@4893@2
 anujnA@jYAta@anujnAjYAta@4902@0
 anutsAha@in@anutsAhin@4948@2
@@ -1104,7 +1104,7 @@ anusAra@eRa@anusAreRa@5829@2
 anusAraka@sArin@anusArin@5832@2
 anusUyA@anasUyA@anasUyA@5839@2
 anusf@sfta@anusfta@5842@2
-anusevA@in@anusevAin@5848@0
+anusevA@in@anusevin@5848@2
 anusvAra@M@anusvAraM@5861@0
 anuhrAda@hlAda@anuhrAdahlAda@5873@0
 anUtTA@Tita@anUtTATita@5881@0
@@ -1323,7 +1323,7 @@ anDa@kAra@anDakAra@6337@1
 anDa@tA@anDatA@6337@1
 anDa@ita@anDita@6338@2
 anDa@in@anDin@6338@3
-anDa@maya@anDamaya@6339@0
+anDa@maya@anDamya@6339@3
 anDa@kUpa@anDakUpa@6341@1
 anDa@tamas@anDatamas@6343@1
 anDa@tamasa@anDatamasa@6343@1
@@ -1412,7 +1412,7 @@ anvaya@vant@anvayavant@6512@1
 anvaya@anvayAgata@anvayAgata@6514@1
 anvarTa@tas@anvarTatas@6516@1
 anvarTa@saMjYa@anvarTasaMjYa@6519@1
-anvavekzA@in@anvavekzAin@6539@0
+anvavekzA@in@anvavekzin@6539@2
 anvAgam@gata@anvAgamgata@6548@0
 anvAhArya@pacana@anvAhAryapacana@6584@1
 anvi@ita@anvita@6587@2
@@ -1428,21 +1428,21 @@ ap@adBis,@adBis,@6609@4
 ap@cara@apcara@6612@1
 ap@pati@appati@6614@1
 ap@abinDana@abinDana@6616@1
-ap@ja@apja@6618@0
-ap@janABa@apjanABa@6618@0
-ap@jaBU@apjaBU@6619@0
-ap@jasaMBava@apjasaMBava@6619@0
-ap@jinI@apjinI@6619@0
-ap@jinIpati@apjinIpati@6620@0
-ap@da@apda@6622@0
-ap@durga@apdurga@6624@0
-ap@Di@apDi@6626@0
-ap@DikanyA@apDikanyA@6626@0
-ap@DijIvin@apDijIvin@6626@0
-ap@Ditanaya@apDitanaya@6627@0
-ap@bindu@apbindu@6629@0
-ap@Bava@apBava@6631@0
-ap@BU@apBU@6631@0
+ap@ja@abja@6618@2
+ap@janABa@abjanABa@6618@2
+ap@jaBU@abjaBU@6619@2
+ap@jasaMBava@abjasaMBava@6619@2
+ap@jinI@abjinI@6619@2
+ap@jinIpati@abjinIpati@6620@2
+ap@da@abda@6622@2
+ap@durga@abdurga@6624@2
+ap@Di@abDi@6626@2
+ap@DikanyA@abDikanyA@6626@2
+ap@DijIvin@abDijIvin@6626@2
+ap@Ditanaya@abDitanya@6627@3
+ap@bindu@abbindu@6629@2
+ap@Bava@abBava@6631@3
+ap@BU@abBU@6631@3
 ap@apAMtaratama@apAMtaratama@6633@4
 apa@ap@ap@6637@2
 apakAra@tA@apakAratA@6659@1
@@ -1499,7 +1499,7 @@ aparAD@rAdDa@aparAdDa@6984@2
 aparADika@rADin@aparADin@6989@2
 aparADika@rADitA@aparADitA@6990@2
 aparicCeda@kartf@aparicCedakartf@7023@0
-aparihAra@ya@aparihAraya@7063@0
+aparihAra@ya@aparihArya@7063@2
 aparokza@am@aparokzam@7073@2
 aparokza@e@aparokze@7073@3
 aparokza@At@aparokzAt@7073@2
@@ -1580,7 +1580,7 @@ apuzpa@ita@apuzpita@7490@2
 apUpa@ka@apUpaka@7498@1
 apUpa@ikA@apUpikA@7498@2
 apUpa@SAlA@apUpaSAlA@7500@1
-apUra@ya@apUraya@7502@0
+apUra@ya@apUrya@7502@2
 apUrva@tA@apUrvatA@7511@1
 apUrva@tva@apUrvatva@7511@1
 apUrva@darSana@apUrvadarSana@7513@1
@@ -1599,7 +1599,7 @@ aprakASa@ita@aprakASita@7593@2
 apraja@as@aprajas@7613@2
 apraja@jAtA@aprajajAtA@7614@5
 apraRaya@in@apraRayin@7620@2
-apratikAra@kArya@apratikArakArya@7637@0
+apratikAra@kArya@apratikArya@7637@2
 apratikUlakft@pratikUlayant@apratikUlakftpratikUlayant@7641@0
 apratibudDa@ka@apratibudDaka@7684@1
 aprativiDi@prativiDeya@aprativiDiprativiDeya@7713@0
@@ -1673,7 +1673,7 @@ aBAga@Deya@aBAgaDeya@8045@1
 aBAva@in@aBAvin@8059@2
 aBAva@ka@aBAvaka@8060@1
 aBikaNkz@kANkzita@aBikaNkzkANkzita@8079@0
-aBikANkzA@in@aBikANkzAin@8082@0
+aBikANkzA@in@aBikANkzin@8082@2
 aBikxp@kxpta@aBikxpta@8102@2
 aBikrama@kramaRa@aBikramaRa@8108@2
 aBikrama@krAnti@aBikrAnti@8108@2
@@ -1687,7 +1687,7 @@ aBigrah@aBigfhItapARi@aBigfhItapARi@8161@2
 aBiGAta@ita@aBiGAtita@8163@2
 aBicaraRa@cAra@aBicaraRacAra@8178@0
 aBicaraRa@ka@aBicaraRaka@8179@0
-aBijan@jAta@aBijanjAta@8193@0
+aBijan@jAta@aBijAta@8193@2
 aBijan@tA@aBijantA@8195@5
 aBijana@vant@aBijanavant@8197@1
 aBijAtya@aBijAta@aBijAta@8207@2
@@ -1788,7 +1788,7 @@ aBivfz@vfzwa@aBivfzwa@8972@2
 aBivfh@aBibfh@aBibfh@8974@2
 aBivyaYj@akta@aBivyaYjakta@8980@0
 aBivyAhf@hfta@aBivyAhfta@8990@2
-aBiSaNkA@in@aBiSaNkAin@9007@0
+aBiSaNkA@in@aBiSaNkin@9007@2
 aBiSap@Sapta@aBiSapta@9013@2
 aBizava@Ra@aBizavaRa@9048@1
 aBizic@zikta@aBizikta@9053@2
@@ -1800,7 +1800,7 @@ aBisaMvf@vfta@aBisaMvfta@9114@2
 aBisaMSri@Srita@aBisaMSrita@9123@2
 aBisaMsf@sfta@aBisaMsfta@9130@2
 aBisaMsTA@sTita@aBisaMsTAsTita@9141@0
-aBisaMhata@ya@aBisaMhataya@9147@0
+aBisaMhata@ya@aBisaMhatya@9147@2
 aBisaMkzip@kzipta@aBisaMkzipta@9158@2
 aBisaMgam@gata@aBisaMgamgata@9167@0
 aBisatkf@kfta@aBisatkfta@9178@2
@@ -1941,7 +1941,7 @@ amara@amareSa@amareSa@9892@1
 amara@amareSvara@amareSvara@9892@1
 amara@amaropama@amaropama@9894@1
 amara@amaraMjaya@amaraMjaya@9896@1
-amara@manya@amaramaya@9898@2
+amara@manya@amaramya@9898@3
 amaru@Sataka@amaruSataka@9905@1
 amartya@tA@amartyatA@9907@1
 amartya@BAva@amartyaBAva@9909@1
@@ -2123,7 +2123,7 @@ ayas@jAla@ayasjAla@10341@0
 ayas@DAtu@ayasDAtu@10343@0
 ayas@bAhu@ayasbAhu@10345@0
 ayas@muKa@ayasmuKa@10347@0
-ayas@hfdaya@ayashfdaya@10350@0
+ayas@hfdaya@ayashfdya@10350@3
 ayasmaya@I@ayasmayI@10352@2
 ayAcant@yAcamAna@ayAcantyAcamAna@10354@0
 ayAcita@yAcyamAna@ayAcitayAcyamAna@10356@0
@@ -2741,7 +2741,7 @@ avitfpta@ka@avitfptaka@12476@1
 avitfpta@tA@avitfptatA@12477@1
 avidita@e@avidite@12491@2
 avidita@am@aviditam@12491@2
-avidita@Baya@aviditaBaya@12494@0
+avidita@Baya@aviditaBya@12494@3
 avidita@aviditAtman@aviditAtman@12496@4
 avidUra@am@avidUram@12499@2
 avidUra@At@avidUrAt@12499@2
@@ -2841,7 +2841,7 @@ aSani@grAvan@aSanigrAvan@12985@1
 aSani@praBa@aSanipraBa@12987@1
 aSabda@am@aSabdam@12993@3
 aSaraRa@Ikf@aSaraRIkf@12999@3
-aSaraRa@ya@aSaraRaya@12999@0
+aSaraRa@ya@aSaraRya@12999@2
 aSastra@pARi@aSastrapARi@13013@1
 aSastra@pUta@aSastrapUta@13015@1
 aSastra@vaDa@aSastravaDa@13017@1
@@ -3348,7 +3348,7 @@ Akalpa@am@Akalpam@14463@2
 Akalpa@kalpAntam@AkalpakalpAntam@14464@0
 Akalpa@sAra@AkalpasAra@14466@1
 Akasmika@I@AkasmikI@14470@3
-AkANkzA@in@AkANkzAin@14474@0
+AkANkzA@in@AkANkzin@14474@2
 AkAra@vant@AkAravant@14478@1
 AkAraRa@Iya@AkAraRIya@14481@2
 AkAlika@I@AkAlikI@14487@2
@@ -3563,7 +3563,7 @@ Atman@praSaMsaka@AtmapraSaMsaka@15195@2
 Atman@praSaMsin@AtmapraSaMsin@15195@2
 Atman@praSaMsA@AtmapraSaMsA@15197@2
 Atman@boDa@AtmaboDa@15199@2
-Atman@Baya@AtmaBaya@15201@2
+Atman@Baya@AtmaBya@15201@3
 Atman@Bava@AtmaBava@15203@2
 Atman@BAva@AtmaBAva@15205@2
 Atman@BU@AtmaBU@15207@2
@@ -3582,7 +3582,7 @@ Atman@vaDyA@AtmavaDyA@15229@2
 Atman@varga@Atmavarga@15231@2
 Atman@vaSa@AtmavaSa@15233@2
 Atman@vaSya@AtmavaSya@15235@2
-Atman@vikraya@Atmavikraya@15237@2
+Atman@vikraya@Atmavikrya@15237@3
 Atman@vid@Atmavid@15239@2
 Atman@vittA@AtmavittA@15239@2
 Atman@vidyA@AtmavidyA@15240@2
@@ -3736,13 +3736,13 @@ Anarca@arc@Anarcaarc@15660@0
 Anarta@satkfta@Anartasatkfta@15665@1
 Anard@nardita@Anardita@15669@2
 AnaSuH@aS@AnaSuHaS@15671@0
-AnupUrva@ya@AnupUrvaya@15698@0
+AnupUrva@ya@AnupUrvya@15698@2
 AnupUrva@I@AnupUrvI@15698@2
 AnupUrva@At@AnupUrvAt@15699@3
 AnupUrva@eRa@AnupUrveRa@15699@3
 AnupUrva@yA@AnupUrvayA@15699@0
 AnuzaNgika@I@AnuzaNgikI@15713@3
-AnfSaMsa@ya@AnfSaMsaya@15726@0
+AnfSaMsa@ya@AnfSaMsya@15726@2
 Antara@jYa@AntarajYa@15736@0
 AnvAhika@I@AnvAhikI@15750@3
 AnvIkzika@I@AnvIkzikI@15752@2
@@ -3854,7 +3854,7 @@ Ayuza@Ayus@Ayus@16266@2
 Ayuzya@vant@Ayuzyavant@16273@1
 Ayus@AyurdA@AyurdA@16278@1
 Ayus@veda@Ayusveda@16280@0
-Ayus@maya@Ayusmaya@16280@0
+Ayus@maya@Ayusmya@16280@3
 Ayus@AyuHSeza@AyuHSeza@16283@1
 Ayus@tA@AyustA@16283@5
 Ayus@Ayuzkara@Ayuzkara@16286@1
@@ -4068,7 +4068,7 @@ Asad@AsannaprasavA@AsannaprasavA@17161@1
 Asad@yoDin@AsadyoDin@17163@0
 Asana@parigrahaM@AsanaparigrahaM@17168@0
 Asana@kf@AsanIkf@17168@2
-AsandI@ikA@AsandIikA@17170@0
+AsandI@ikA@AsandikA@17170@2
 AsAra@SarkarA@AsAraSarkarA@17193@1
 AsiD@sidDa@AsiDsidDa@17204@0
 AsIs@AsIt@AsIt@17216@1
@@ -4079,7 +4079,7 @@ Asura@sva@Asurasva@17225@1
 Asura@AsurIvfzwi@AsurIvfzwi@17227@1
 AsurAyaRa@Asuri@Asuri@17229@2
 AsurAyaRa@AsurivAsin@AsurivAsin@17231@2
-AsevA@in@AsevAin@17247@0
+AsevA@in@Asevin@17247@2
 AstaraRa@vant@AstaraRavant@17262@1
 AstaraRa@Iya@AstaraRIya@17263@2
 Astika@I@AstikI@17269@3
@@ -4257,7 +4257,7 @@ indra@dvizwa@indradvizwa@17668@1
 indra@Danus@indraDanus@17670@1
 indra@Darma@indraDarma@17672@0
 indra@nIla@indranIla@17674@1
-indra@maya@indramaya@17674@0
+indra@maya@indramya@17674@3
 indra@pramati@indrapramati@17676@1
 indra@pramada@indrapramada@17676@1
 indra@prasTa@indraprasTa@17678@1
@@ -4309,16 +4309,16 @@ ilA@Dara@ilADara@17771@0
 ilA@sutA@ilAsutA@17773@1
 ilA@itAvfta@ilAitAvfta@17775@0
 iz@icCati@icCati@17785@4
-iz@te@izte@17785@0
+iz@te@te@17785@99
 iz@ezita@izezita@17786@0
 iz@ezwum@izezwum@17786@0
 iz@ezitum@izezitum@17786@0
 iz@izya@izya@17786@1
 iz@izyati@izyati@17791@4
-iz@te@izte@17791@0
+iz@te@te@17791@99
 iz@EzIt@izEzIt@17791@0
 iz@ezayati@izezayati@17791@0
-iz@te@izte@17791@0
+iz@te@te@17791@99
 iz@izita@izita@17791@1
 iz@prez@izprez@17792@0
 iza@izaMBara@izaMBara@17796@1
@@ -4349,7 +4349,7 @@ iha@loka@ihaloka@17847@1
 iha@sTa@ihasTa@17849@1
 iha@ihArTa@ihArTa@17851@1
 iha@in@ihin@17851@3
-IkzA@in@IkzAin@17872@0
+IkzA@in@Ikzin@17872@2
 Ije@yaj@Ijeyaj@17878@0
 Iqenya@Iqya@Iqya@17883@2
 Iti@iti@iti@17887@1
@@ -4788,7 +4788,7 @@ udvij@vejita@udvijvejita@19555@0
 udvij@udvignacitta@udvignacitta@19557@1
 udvij@cetas@udvijcetas@19557@0
 udvij@manas@udvijmanas@19557@0
-udvij@hfdaya@udvijhfdaya@19557@0
+udvij@hfdaya@udvijhfdya@19557@3
 udvij@dfS@udvijdfS@19560@0
 udvij@locana@udvijlocana@19560@0
 udvIkz@vIkzita@udvIkzita@19575@2
@@ -4997,7 +4997,7 @@ upasAntvayati@sAntvita@upasAntvayatisAntvita@20839@0
 upasf@sfta@upasfta@20856@2
 upasf@vant@upasfvant@20856@0
 upasfj@sfzwa@upasfjsfzwa@20860@0
-upasevA@in@upasevAin@20873@0
+upasevA@in@upasevin@20873@2
 upaskara@Ra@upaskaraRa@20876@1
 upasTA@sTita@upasTAsTita@20896@0
 upasTAna@gfha@upasTAnagfha@20904@1
@@ -5054,7 +5054,7 @@ upArj@upArjita@upArjita@21127@1
 upArjana@A@upArjanA@21129@3
 upAlabDavya@laBya@upAlabDavyalaBya@21139@0
 upAlamBa@na@upAlamBana@21143@1
-upAlamBa@vizaya@upAlamBavizaya@21144@0
+upAlamBa@vizaya@upAlamBavizya@21144@3
 upAvft@vftta@upAvftta@21152@2
 upASri@Srita@upASrita@21165@2
 upAsaka@ikA@upAsakikA@21175@3
@@ -5241,7 +5241,7 @@ UzuH@vas@UzuHvas@21682@0
 Uzman@Uzmapa@Uzmapa@21686@1
 Uh@vah@Uhvah@21693@0
 Uh@Uhati@Uhati@21696@4
-Uh@te@Uhte@21696@0
+Uh@te@te@21696@99
 Uh@Uhayati@Uhayati@21696@4
 Uh@Uhitum@Uhitum@21696@4
 Uh@Uhya@Uhya@21696@1
@@ -5264,7 +5264,7 @@ fc@fgveda@fgveda@21735@1
 fc@arc@fcarc@21737@0
 fcC@f@fcCf@21743@0
 fcCa@yadfcCA@fcCayadfcCA@21745@0
-fju@(v)I@fju(v)I@21749@0
+fju@(v)I@fjvI@21749@2
 fju@Ukf@fjuUkf@21750@0
 fju@tA@fjutA@21750@1
 fju@tva@fjutva@21750@1
@@ -5342,10 +5342,10 @@ eka@eke@eke@21886@4
 eka@ekaHe@ekaHe@21886@4
 eka@aparaH@ekaaparaH@21887@0
 eka@ena@ekena@21887@3
-eka@tAvat@ekatAvat@21887@0
+eka@tAvat@ekatAvat@21887@5
 eka@IBU@ekIBU@21888@2
 eka@tama@ekatama@21888@1
-eka@ya@ekaya@21889@0
+eka@ya@ekya@21889@3
 eka@tara@ekatara@21889@1
 eka@sarva@ekasarva@21889@0
 eka@tA@ekatA@21890@1
@@ -5544,7 +5544,7 @@ eka@ekAvasaram@ekAvasaram@22175@1
 eka@ekASIti@ekASIti@22177@1
 eka@ekAha@ekAha@22179@1
 eka@ekAhAra@ekAhAra@22181@1
-eka@ya@ekaya@22181@0
+eka@ya@ekya@22181@3
 eka@ekEka@ekEka@22184@1
 eka@am@ekam@22184@3
 eka@Sas@ekaSas@22184@1
@@ -5581,7 +5581,7 @@ etad@etatkAla@etatkAla@22251@1
 etAdfkza@dfS@etAdfkzadfS@22257@0
 etAdfkza@dfSa@etAdfkzadfSa@22257@0
 etAdfkza@I@etAdfkzI@22257@3
-etAvant@vat@etAvantvat@22260@0
+etAvant@vat@etAvat@22260@2
 etAvant@vattva@etAvantvattva@22261@5
 etAvant@etAvanmAtra@etAvanmAtra@22263@1
 eDa@vant@eDavant@22269@1
@@ -5697,7 +5697,7 @@ Opala@I@OpalI@22608@3
 OraBra@ka@OraBraka@22625@1
 OraBra@ika@OraBrika@22626@2
 Orasa@I@OrasI@22628@2
-Orasa@ya@Orasaya@22629@0
+Orasa@ya@Orasya@22629@2
 OrRa@I@OrRI@22633@3
 OrDvadeha@ika@OrDvadehika@22636@2
 Orva@OrvAgni@OrvAgni@22643@1
@@ -5847,7 +5847,7 @@ kawi@karpawa@kawikarpawa@22874@1
 kawi@tra@kawitra@22876@1
 kawi@vAsa@kawivAsa@22878@1
 kawi@sUtra@kawisUtra@22880@1
-kawu@(v)I@kawu(v)I@22884@0
+kawu@(v)I@kawvI@22884@2
 kawu@u@kawuu@22884@0
 kawu@ka@kawuka@22886@1
 kawu@tA@kawutA@22887@1
@@ -5894,7 +5894,7 @@ kaRqu@Uti@kaRquUti@22985@0
 kaRqUyati@te@kaRqUyate@22987@3
 kaRqUyana@ka@kaRqUyanaka@22989@1
 katama@ka@ka@23002@2
-katama@ya@katamaya@23002@0
+katama@ya@katamya@23002@3
 katama@yatamaH@katamayatamaH@23003@0
 katama@katamaS@katamaS@23003@4
 katama@ca@katamaca@23003@0
@@ -5903,7 +5903,7 @@ katama@cana,@katamacana@23004@3
 katama@katamo@katamo@23004@4
 katama@pi@katamapi@23004@0
 katara@ka@ka@23006@2
-katara@ya@kataraya@23006@0
+katara@ya@katarya@23006@3
 katara@kataraS@kataraS@23007@4
 katara@cana@kataracana@23007@0
 kati@cid@katicid@23010@0
@@ -6042,7 +6042,7 @@ kandara@vant@kandaravant@23240@1
 kandala@in@kandalin@23245@2
 kandala@I@kandalI@23245@2
 kandala@kadalI@kadalI@23246@2
-kanduka@AvatI@kandukaAvatI@23250@0
+kanduka@AvatI@kandukAvatI@23250@2
 kanduka@lIlA@kandukalIlA@23253@1
 kanduka@kandukotsava@kandukotsava@23255@1
 kandowa@kandowwa@kandowwa@23257@4
@@ -6260,7 +6260,7 @@ karIza@aMkaza@karIzaaMkaza@23714@0
 karuRa@am@karuRam@23717@2
 karuRa@tara@karuRatara@23717@0
 karuRa@A@karuRA@23718@2
-karuRa@Amaya@karuRaAmaya@23718@0
+karuRa@Amaya@karuRaAmya@23718@3
 karuRa@I@karuRI@23718@2
 karuRa@Avant@karuRAvant@23719@2
 karuRa@vedin@karuRavedin@23721@1
@@ -6362,7 +6362,7 @@ karman@kAra@karmakAra@23945@2
 karman@kft@karmakft@23947@2
 karman@koSa@karmakoSa@23949@2
 karman@kzama@karmakzama@23951@2
-karman@kzaya@karmakzaya@23953@2
+karman@kzaya@karmakzya@23953@3
 karman@gati@karmagati@23955@2
 karman@caRqAla@karmacaRqAla@23957@2
 karman@cezwA@karmacezwA@23959@2
@@ -6372,7 +6372,7 @@ karman@jita@karmajita@23965@2
 karman@dAyAdavant@karmadAyAdavant@23967@2
 karman@deva@karmadeva@23970@2
 karman@doza@karmadoza@23972@2
-karman@DAraya@karmaDAraya@23974@2
+karman@DAraya@karmaDArya@23974@3
 karman@nizWa@karmanizWa@23977@2
 karman@paTa@karmapaTa@23979@2
 karman@pAka@karmapAka@23981@2
@@ -6390,7 +6390,7 @@ karman@tas@karmatas@24002@2
 karman@vajra@karmavajra@24004@2
 karman@vaSa@karmavaSa@24007@2
 karman@viDi@karmaviDi@24009@2
-karman@viparyaya@karmaviparyaya@24011@2
+karman@viparyaya@karmaviparyya@24011@3
 karman@vipAka@karmavipAka@24013@2
 karman@pAka@karmapAka@24013@2
 karman@SAlA@karmaSAlA@24015@2
@@ -6418,9 +6418,9 @@ karhi@api)@karhiapi)@24075@0
 karhi@karhi@karhi@24076@1
 karhi@cid@karhicid@24076@0
 kal@kalayati@kalayati@24078@1
-kal@te@kalte@24078@0
+kal@te@te@24078@99
 kal@kAlayati@kalkAlayati@24081@0
-kal@te@kalte@24081@0
+kal@te@te@24081@99
 kala@kaRWa@kalakaRWa@24087@1
 kala@kala@kalakala@24089@1
 kala@kalarava@kalakalarava@24089@1
@@ -6464,7 +6464,7 @@ kalaha@kalahAntaritA@kalahAntaritA@24163@1
 kalA@vant@kalAvant@24171@1
 kalA@vatI@kalAvatI@24171@1
 kalA@keli@kalAkeli@24174@1
-kalA@kzaya@kalAkzaya@24176@0
+kalA@kzaya@kalAkzya@24176@3
 kalA@pUrRa@kalApUrRa@24178@1
 kalA@Bft@kalABft@24181@1
 kalA@Seza@kalASeza@24183@1
@@ -6711,7 +6711,7 @@ kApI@putra@kApIputra@24756@1
 kApuruza@tA@kApuruzatA@24758@1
 kApota@I@kApotI@24763@2
 kAbanDa@kAv@kAv@24769@7
-kAbanDa@ya@kAbanDaya@24769@0
+kAbanDa@ya@kAbanDya@24769@2
 kAma@At@kAmAt@24772@2
 kAma@A@kAmA@24774@2
 kAma@kAmayA@kAmayA@24774@1
@@ -6806,7 +6806,7 @@ kAma@kAmASrama@kAmASrama@24908@1
 kAma@pada@kAmapada@24908@0
 kAma@kAmonmatta@kAmonmatta@24910@1
 kAmaWa@ka@kAmaWaka@24912@1
-kAmaRqalava@ya@kAmaRqalavaya@24914@0
+kAmaRqalava@ya@kAmaRqalavya@24914@2
 kAmandaka@I@kAmadakI@24916@3
 kAmam@kAma@kAma@24919@2
 kAmam@tu@kAmamtu@24921@0
@@ -6947,7 +6947,7 @@ kAla@kAlANga@kAlANga@25235@1
 kAla@kAlAYjana@kAlAYjana@25238@1
 kAla@kAlARqaja@kAlARqaja@25240@1
 kAla@kAlAyasa@kAlAyasa@25242@1
-kAla@maya@kAlamaya@25242@0
+kAla@maya@kAlamya@25242@3
 kAla@I@kAlI@25242@2
 kAla@kAlodaka@kAlodaka@25244@1
 kAla@kAloraga@kAloraga@25246@1
@@ -7240,7 +7240,7 @@ kIdfS@kIdfgrUpa@kIdfgrUpa@25806@1
 kIdfS@varRa@kIdfSvarRa@25808@0
 kIdfS@vyApAravant@kIdfSvyApAravant@25810@5
 kIrtana@Iya@kIrtanIya@25819@2
-kIrtana@ya@kIrtanaya@25820@0
+kIrtana@ya@kIrtanya@25820@2
 kIrtayati@kIrtyate@kIrtyate@25822@7
 kIrtayati@kIrtita@kIrtita@25822@2
 kIrtayati@kIrtya@kIrtya@25822@2
@@ -8005,7 +8005,7 @@ kfzya@kAra@kfzyakAra@27491@1
 ke@ka@ka@27511@1
 kekaya@I@kekayI@27514@2
 kekara;@locana@kekara;locana@27518@0
-kekA@in@kekAin@27520@0
+kekA@in@kekin@27520@2
 kekA@kekotkaRWa@kekotkaRWa@27522@1
 ketaka@I@ketakI@27526@2
 ketayati@ketita@ketita@27533@2
@@ -8188,12 +8188,12 @@ kOmuda@maha@kOmudamaha@27944@0
 kOmuda@mahotsara@kOmudamahotsara@27944@0
 kOrava@I@kOravI@27950@2
 kOla@I@kOlI@27962@2
-kOlIna@ya@kOlInaya@27972@0
+kOlIna@ya@kOlInya@27972@2
 kOvera@kObera@kObera@27976@2
 kOSa@I@kOSI@27978@3
 kOSala@kOsala@kOsala@27982@2
-kOSala@ya@kOSalaya@27985@0
-kOSAmbI@ikA@kOSAmbIikA@27990@0
+kOSala@ya@kOSalya@27985@2
+kOSAmbI@ikA@kOSAmbikA@27990@2
 kOSAmbI@Iya@kOSAmbIIya@27991@0
 kOSArava@kOzArava@kOzArava@27993@2
 kOSASvI@kOSAmbI@kOSAmbI@27995@2
@@ -8435,7 +8435,7 @@ kzama@vant@kzamavant@28565@1
 kzama@in@kzamin@28565@2
 kzamA@Bft@kzamABft@28570@1
 kzamA@kzomAM@kzomAM@28572@7
-kzamA@kf@kzamAkf@28572@0
+kzamA@kf@kzamIkf@28572@3
 kzamA@vant@kzamAvant@28573@1
 kzamA@SIla@kzamASIla@28575@1
 kzamA@kzamAnvita@kzamAnvita@28577@1
@@ -8611,7 +8611,7 @@ kzema@kzemADi@kzemADi@28956@1
 kzema@kzemendra@kzemendra@28958@1
 kzema@kzemaMkara@kzemaMkara@28960@1
 kzoRi@I@kzoRI@28970@2
-kzoRi@Imaya@kzoRiImaya@28970@0
+kzoRi@Imaya@kzoRiImya@28970@3
 kzoRi@I@kzoRI@28970@2
 kzoRi@Ipati@kzoRiIpati@28973@0
 kzoRi@Bft@kzoRiBft@28975@0
@@ -8668,7 +8668,7 @@ KaYjarIwa@ka@KaYjarIwaka@29090@1
 KawvA@KawwA@KawwA@29096@2
 KawvA@tale@KawvAtale@29098@1
 KawvA@KawvANga@KawvANga@29100@1
-KawvA@in@KawvAin@29101@0
+KawvA@in@Kawvin@29101@3
 KawvA@Dara@KawvADara@29102@0
 KawvA@GaRwA@KawvAGaRwA@29102@0
 Kaqga@in@Kaqgin@29106@2
@@ -8974,7 +8974,7 @@ gaBasti@mant@gaBastimant@29763@1
 gaBasti@mAlin@gaBastimAlin@29766@1
 gaBIra@tva@gaBIratva@29768@5
 gama@gamAgama@gamAgama@29784@1
-gamana@samaya@gamanasamaya@29792@0
+gamana@samaya@gamanasamya@29792@3
 gamBIra@gaBIra@gaBIra@29803@2
 gamBIra@A@gamBIrA@29803@2
 gamBIra@payas@gamBIrapayas@29805@0
@@ -8994,7 +8994,7 @@ garIyAMs@garIyastva@garIyastva@29840@2
 garuqa@Dvaja@garuqaDvaja@29846@1
 garuqa@maRi@garuqamaRi@29848@1
 garuqa@mARikya@garuqamARikya@29848@1
-garuqa@maya@garuqamaya@29848@0
+garuqa@maya@garuqamya@29848@3
 garuqa@I@garuqI@29848@2
 garuqa@garuqeSAna@garuqeSAna@29851@1
 garga@srotas@gargasrotas@29858@1
@@ -9112,7 +9112,7 @@ gahana@tva@gahanatva@30084@1
 gahana@Ikf@gahanIkf@30085@2
 gahvara@gahvarezWa@gahvarezWa@30090@1
 gA@jigAti@gAjigAti@30094@0
-gA@te@gAte@30094@0
+gA@te@te@30094@99
 gA@agAt@gAagAt@30094@0
 gA@jigIzati@gAjigIzati@30094@0
 gAQa@am@gAQam@30109@2
@@ -9140,8 +9140,8 @@ gAtra@SozaRa@gAtraSozaRa@30142@1
 gAtra@gAtrAvara@gAtrAvara@30144@1
 gAtra@gAtrAvaraRa@gAtrAvaraRa@30146@1
 gAtra@gAtrotsAdana@gAtrotsAdana@30148@1
-gATA@ikA@gATAikA@30152@0
-gATA@in@gATAin@30153@0
+gATA@ikA@gATikA@30152@2
+gATA@in@gATin@30153@2
 gADi@in@gADin@30158@2
 gADi@ja@gADija@30160@1
 gADi@nandana@gADinandana@30160@1
@@ -9180,7 +9180,7 @@ gir@gira@gira@30269@1
 gir@giri@giri@30269@1
 giri@ka@girika@30271@1
 giri@kA@girikA@30271@1
-giri@vat@girivat@30272@0
+giri@vat@girivat@30272@5
 giri@kacCapa@girikacCapa@30274@1
 giri@kuhara@girikuhara@30276@1
 giri@kUwa@girikUwa@30278@1
@@ -9338,7 +9338,7 @@ guRa@pUga@guRapUga@30543@1
 guRavatI@guRavant@guRavant@30549@2
 guRI@guRa@guRa@30557@1
 gupti@pAlaka@guptipAlaka@30582@1
-guru@(v)I@guru(v)I@30592@0
+guru@(v)I@gurvI@30592@2
 guru@garIyAMs,@gurugarIyAMs@30592@3
 guru@garizWa@gurugarizWa@30592@0
 guru@tama@gurutama@30596@1
@@ -9408,7 +9408,7 @@ guha@guhAgahanavant@guhAgahanavant@30695@1
 guha@cara@guhacara@30697@0
 guha@muKa@guhamuKa@30699@0
 guha@vAsin@guhavAsin@30701@0
-guha@Saya@guhaSaya@30703@0
+guha@Saya@guhaSya@30703@3
 guha@hita@guhahita@30705@0
 guha@cara@guhacara@30705@0
 guha@guheSvara@guheSvara@30707@1
@@ -9544,7 +9544,7 @@ gfhya@sUtra@gfhyasUtra@30956@1
 gF@gfRAti@gfRAti@30959@4
 gF@gfRIte@gfRIte@30959@4
 gF@girate@girate@30959@4
-gF@ti@gFti@30959@0
+gF@ti@ti@30959@99
 geha@in@gehin@30969@2
 geha@gfha@gfha@30969@1
 geha@gfhin@gehagfhin@30969@0
@@ -9716,7 +9716,7 @@ gotra@sKalita@gotrasKalita@31255@1
 gotra@sTiti@gotrasTiti@31258@1
 gotra@vrata@gotravrata@31258@1
 gotrin@gotraja@gotraja@31260@2
-goDA@ikA@goDAikA@31268@0
+goDA@ikA@goDikA@31268@2
 goDAra@goDera@goDera@31270@2
 gopa@I@gopI@31273@2
 gopa@vaDU@gopavaDU@31276@1
@@ -9870,7 +9870,7 @@ GawI@ka@GawIka@31690@0
 GawI@GawikAyantra@GawikAyantra@31690@1
 Gawwitf@Gaw@Gaw@31702@2
 GaRwA@vant@GaRwAvant@31706@1
-GaRwA@in@GaRwAin@31706@0
+GaRwA@in@GaRwin@31706@2
 GaRwA@karRa@GaRwAkarRa@31708@1
 GaRwA@tAqa@GaRwAtAqa@31710@1
 GaRwA@rava@GaRwArava@31712@1
@@ -9921,7 +9921,7 @@ GAtayati@han,@GAtayatihan@31789@3
 GAsa@ika@GAsika@31799@2
 GuRa@kzata@GuRakzata@31806@1
 GuRa@GuRAkzara@GuRAkzara@31808@1
-GuRa@vat@GuRavat@31810@0
+GuRa@vat@GuRavat@31810@5
 GutkAra@Guk@Guk@31812@7
 GUt@Gut@Gut@31830@6
 GUrRa@na@GUrRana@31835@1
@@ -10007,7 +10007,7 @@ cakra@vartitA@cakravartitA@32030@1
 cakra@vartin@cakravartin@32032@1
 cakra@vAka@cakravAka@32035@1
 cakra@I@cakrI@32035@2
-cakra@maya@cakramaya@32035@0
+cakra@maya@cakramya@32035@3
 cakra@in@cakrin@32036@2
 cakra@vAkopakUjita@cakravAkopakUjita@32036@1
 cakra@vAta@cakravAta@32039@1
@@ -10035,7 +10035,7 @@ cakzur@cakzus@cakzus@32089@1
 cakzus@vakzu@cakzusvakzu@32096@0
 cakzus@cakzurapeta@cakzurapeta@32099@1
 cakzus@muz@cakzusmuz@32101@0
-cakzus@vizaya@cakzusvizaya@32103@0
+cakzus@vizaya@cakzusvizya@32103@3
 cakzus@e@cakzuse@32103@0
 cakzus@han@cakzushan@32105@0
 cakzus@haRam,@cakzushaRam@32105@3
@@ -10218,7 +10218,7 @@ catvAras@catvAri@catvAri@32412@7
 catvAras@catur@catur@32412@2
 cana@ka@canaka@32417@0
 cana@kim@canakim@32417@0
-cana@ya,@canaya@32417@3
+cana@ya,@canya@32417@3
 candana@ka@candanaka@32419@1
 candana@I@candanI@32420@2
 candana@maya@candanamaya@32420@1
@@ -10367,13 +10367,13 @@ carita@vrata@caritavrata@32692@1
 carita@caritArTa@caritArTa@32694@1
 carita@tA@caritatA@32694@5
 carcarI@IkA@carcarIIkA@32712@0
-carcA@ikA@carcAikA@32715@0
+carcA@ikA@carcikA@32715@2
 carcA@carcaka@carcaka@32715@1
 cartavya@caritavya@caritavya@32721@2
 carma@carman@carman@32723@1
 carman@carmakAra@carmakAra@32729@1
 carman@kArya@carmakArya@32731@2
-carman@kAzWamaya@carmakAzWamaya@32733@2
+carman@kAzWamaya@carmakAzWamya@32733@3
 carman@kAzWikA@carmakAzWikA@32735@2
 carman@KaRqa@carmaKaRqa@32737@2
 carman@ja@carmaja@32739@2
@@ -10427,7 +10427,7 @@ cApa@guRa@cApaguRa@32909@1
 cApa@yazwi@cApayazwi@32911@1
 cApa@latA@cApalatA@32911@1
 cApa@leKA@cApaleKA@32913@1
-cApala@ya@cApalaya@32917@0
+cApala@ya@cApalya@32917@2
 cAmara@grAhiRI@cAmaragrAhiRI@32922@1
 cAmara@DAri@cAmaraDAri@32922@1
 cAmara@DAriRI@cAmaraDAriRI@32922@1
@@ -10478,7 +10478,7 @@ cikura@nikara@cikuranikara@33049@1
 cikura@BAra@cikuraBAra@33049@1
 cicIkucI@cIcIkUcI@cicIkucIcIkUcI@33057@7
 cit@cetayati@citcetayati@33063@0
-cit@te@citte@33063@0
+cit@te@te@33063@99
 cit@cikitsati@cikitsati@33063@4
 cit@cikitsayizyati@cikitsayizyati@33063@4
 cit@cikitsyamAna@cikitsyamAna@33063@4
@@ -10676,7 +10676,7 @@ cItkAra@kArin@cItkArakArin@33402@0
 cItkAra@kAravant@cItkAravant@33402@2
 cItkAra@cit,@cItkAracit@33403@3
 cIna@pizwa@cInapizwa@33409@1
-cIna@maya@cInamaya@33409@0
+cIna@maya@cInamya@33409@3
 cIna@cInAMSuka@cInAMSuka@33411@1
 cInaka@cIna@cIna@33413@2
 cIra@cIrI@cIrI@33416@1
@@ -10809,7 +10809,7 @@ Cattra@CattropAnaha@CattropAnaha@33754@1
 Cattrin@CattrinyAya@CattrinyAya@33760@1
 Cattrin@Cattrin@Cattrin@33760@1
 Cad@CAdayati@CadCAdayati@33763@0
-Cad@te@Cadte@33763@0
+Cad@te@te@33763@99
 Cad@CAdayAM@CadCAdayAM@33763@0
 Cad@cakre@Cadcakre@33763@0
 Cad@Canna@Canna@33763@1
@@ -10863,7 +10863,7 @@ Cid@Cintte@Cintte@33886@4
 Cid@cicCeda@CidcicCeda@33886@0
 Cid@cicCide@CidcicCide@33886@0
 Cid@Cetsyati@CidCetsyati@33887@0
-Cid@te@Cidte@33887@0
+Cid@te@te@33887@99
 Cid@Cidyate@Cidyate@33887@4
 Cid@Cedayati@CidCedayati@33887@0
 Cid@acicCidat@CidacicCidat@33887@0
@@ -10921,7 +10921,7 @@ jagat@ekanATa@jagatekanATa@34004@0
 jagat@guru@jagatguru@34006@0
 jagat@dIpa@jagatdIpa@34008@0
 jagat@bIja@jagatbIja@34010@0
-jagat@Baya@jagatBaya@34012@0
+jagat@Baya@jagatBya@34012@3
 jagat@yAtrA@jagatyAtrA@34014@0
 jagat@yoni@jagatyoni@34016@0
 jagat@vandya@jagatvandya@34019@0
@@ -11313,7 +11313,7 @@ jAta@manmaTa@jAtamanmaTa@34784@1
 jAta@kAma@jAtakAma@34784@1
 jAta@mAtra@jAtamAtra@34786@1
 jAta@rUpa@jAtarUpa@34788@1
-jAta@maya@jAtamaya@34788@0
+jAta@maya@jAtamya@34788@3
 jAta@I@jAtI@34788@2
 jAta@rUpaSila@jAtarUpaSila@34789@1
 jAta@roma@jAtaroma@34791@1
@@ -11364,7 +11364,7 @@ jAtu@j@jAtuj@34862@0
 jAtu@cid@jAtucid@34862@0
 jAtukarRa@I@jAtukarRI@34865@3
 jAtukarRa@jatu@jAtukarRajatu@34865@0
-jAtukarRa@ya@jAtukarRaya@34865@0
+jAtukarRa@ya@jAtukarRya@34865@3
 jAtuDAna@yAtu@jAtuDAnayAtu@34868@0
 jAtuza@I@jAtuzI@34870@3
 jAnaka@I@jAnakI@34877@2
@@ -11425,7 +11425,7 @@ jAhnava@I@jAhnavI@35026@2
 jigamizA@u@jigamizAu@35036@0
 jigIzA@u@jigIzAu@35040@0
 jigIzA@utA@jigIzAutA@35040@5
-jiGAMsA@in@jiGAMsAin@35045@0
+jiGAMsA@in@jiGAMsin@35045@2
 jiGAMsA@u@jiGAMsAu@35045@0
 jiGAMsA@yamAna@jiGAMsAyamAna@35046@0
 jiGfkzA@u@jiGfkzAu@35048@0
@@ -11460,7 +11460,7 @@ jihma@mIna@jihmamIna@35112@1
 jihma@yoDin@jihmayoDin@35114@1
 jihvA@a@jihvAa@35118@0
 jihvA@aka@jihvAaka@35118@0
-jihvA@ikA@jihvAikA@35118@0
+jihvA@ikA@jihvikA@35118@2
 jihvA@vant@jihvAvant@35119@1
 jihvA@lOlya@jihvAlOlya@35121@1
 jihvA@jihvAgra@jihvAgra@35123@1
@@ -11542,7 +11542,7 @@ jugupsA@ita@jugupsita@35284@2
 juz@juzate@juzate@35289@4
 juz@jozati@juzjozati@35289@0
 juz@jozayate@juzjozayate@35289@0
-juz@ti@juzti@35289@0
+juz@ti@ti@35289@99
 juz@juzwa@juzwa@35290@1
 juhoti@yajatikriyA@juhotiyajatikriyA@35304@1
 jfmBa@A@jfmBA@35321@2
@@ -11737,7 +11737,7 @@ tat@tad@tad@35863@1
 tata@druh@tatadruh@35871@1
 tata@tatAmaha@tatAmaha@35873@1
 tata@pitA@tatapitA@35873@5
-tatama@ya@tatamaya@35875@0
+tatama@ya@tatamya@35875@3
 tatas@yatas@yatas@35877@1
 tatas@tad@tad@35877@2
 tatas@yadA@tatasyadA@35880@0
@@ -11810,7 +11810,7 @@ taTA@jAtIya@taTAjAtIya@35942@1
 taTA@BAvin@taTABAvin@35944@1
 taTA@BUta@taTABUta@35946@1
 taTA@rUpa@taTArUpa@35948@1
-taTA@in@taTAin@35948@0
+taTA@in@taTin@35948@3
 taTA@viDa@taTAviDa@35950@1
 taTA@am@taTAam@35951@0
 taTA@viDAna@taTAviDAna@35953@1
@@ -11826,9 +11826,9 @@ tad@sa@tadsa@35971@0
 tad@sA@tadsA@35971@0
 tad@tad@tad@35971@1
 tad@tO@tadtO@35972@0
-tad@te@tadte@35972@0
-tad@te@tadte@35972@0
-tad@te@tadte@35972@0
+tad@te@te@35972@99
+tad@te@te@35972@99
+tad@te@te@35972@99
 tad@tAs@tadtAs@35972@0
 tad@tAni@tadtAni@35972@0
 tad@ya@tadya@35973@0
@@ -11848,8 +11848,8 @@ tad@yadtad,@tadyadtad@35981@3
 tad@yad@yad@35981@1
 tad@yadtat@tadyadtat@35981@0
 tad@tad@tad@35981@1
-tad@te@tadte@35981@0
-tad@te@tadte@35981@0
+tad@te@te@35981@99
+tad@te@te@35981@99
 tad@tad@tad@35982@1
 tad@yatra@tadyatra@35982@0
 tad@yatas@tadyatas@35982@0
@@ -11951,7 +11951,7 @@ tadA@yadAtadA@tadAyadAtadA@36123@0
 tadA@yadA@yadA@36123@1
 tadAnIm@(IM)tana@tadAnIm(IM)tana@36127@0
 tadIya@saNga@tadIyasaNga@36132@1
-tadvat@yadvat@yadvat@36134@1
+tadvat@yadvat@tadvatyadvat@36134@5
 tadvat@yaTA@tadvatyaTA@36135@0
 tan@tanoti@tanoti@36137@4
 tan@tanUte@tanUte@36137@4
@@ -11975,7 +11975,7 @@ tanaya@priya@tanayapriya@36149@0
 tanizWa@tanIyAMs@tanIyAMs@36155@7
 tanizWa@tanu@tanu@36155@2
 tanu@u@tanuu@36157@0
-tanu@(v)I@tanu(v)I@36157@0
+tanu@(v)I@tanvI@36157@2
 tanu@u@tanuu@36158@0
 tanu@tanU@tanU@36158@1
 tanu@tara@tanutara@36158@1
@@ -12046,18 +12046,18 @@ tanmaya@tva@tanmayatva@36263@1
 tanv@tanu@tanu@36267@1
 tanvant@tanvAna@tanvAna@36269@7
 (1) tap@tapati@(1) taptapati@36271@0
-(1) tap@te@(1) tapte@36271@0
+(1) tap@te@te@36271@99
 (1) tap@tapyati@(1) taptapyati@36271@0
 (1) tap@tatApa@(1) taptatApa@36271@0
 (1) tap@tepe@(1) taptepe@36271@0
 (1) tap@tepire@(1) taptepire@36272@0
 (1) tap@atItapat@(1) tapatItapat@36272@0
 (1) tap@tapsyati@(1) taptapsyati@36272@0
-(1) tap@te@(1) tapte@36272@0
+(1) tap@te@te@36272@99
 (1) tap@tapizyati@(1) taptapizyati@36272@0
 (1) tap@tapyate@(1) taptapyate@36272@0
 (1) tap@tApayati@(1) taptApayati@36272@0
-(1) tap@te@(1) tapte@36272@0
+(1) tap@te@te@36272@99
 (1) tap@tApyate@(1) taptApyate@36273@0
 (1) tap@tAtapyate@(1) taptAtapyate@36273@0
 (1) tap@tapta@(1) taptapta@36273@0
@@ -12107,7 +12107,7 @@ tapas@jana@tapasjana@36352@0
 tapas@vana@tapasvana@36354@0
 tapas@vfdDa@tapasvfdDa@36356@0
 tapasya@e@tapasye@36358@3
-tapasya@Bavat@tapasyaBavat@36358@0
+tapasya@Bavat@tapasyaBavat@36358@5
 tapasvi@tapasvin@tapasvin@36363@1
 tapasvi@tA@tapasvitA@36363@1
 tapasvi@tapasya@tapasya@36363@2
@@ -12394,7 +12394,7 @@ tAvant@yAvant,@tAvantyAvant@37015@3
 tAvant@yad@tAvantyad@37016@0
 tAvant@yaTokta@tAvantyaTokta@37016@0
 tAvant@tAvat@tAvat@37016@2
-tAvant@yAvat@tAvantyAvat@37017@0
+tAvant@yAvat@tAvantyAvat@37017@5
 tAvant@yAvan@tAvantyAvan@37018@0
 tAvant@na@tAvantna@37018@0
 tAvant@itas@tAvantitas@37021@0
@@ -12405,7 +12405,7 @@ tAvant@eva@tAvanteva@37022@0
 tAvant@mA@tAvantmA@37023@0
 tAvant@tAvat@tAvat@37023@2
 tAvant@tAvad@tAvad@37024@2
-tAvant@yAvat@tAvantyAvat@37024@0
+tAvant@yAvat@tAvantyAvat@37024@5
 tAvant@tAvan@tAvan@37024@2
 tAvant@naapi@tAvantnaapi@37024@0
 tAvant@na@tAvantna@37024@0
@@ -12619,7 +12619,7 @@ tuNga@BadrA@tuNgaBadrA@37408@1
 tuNga@veRA@tuNgaveRA@37410@1
 tucCa@Ikfta@tucCaIkfta@37416@0
 tud@tudati@tudati@37429@4
-tud@te@tudte@37429@0
+tud@te@te@37429@99
 tud@tutoda@tutoda@37429@4
 tud@tudyate@tudyate@37429@4
 tud@todayati@tudtodayati@37429@0
@@ -12746,7 +12746,7 @@ tURa@I@tURI@37631@2
 tURa@Ikf@tURIkf@37631@2
 tURa@muKa@tURamuKa@37634@1
 tURa@tURIdvaya@tURIdvaya@37636@4
-tURa@Saya@tURaSaya@37638@0
+tURa@Saya@tURaSya@37638@3
 tURavant@tURin@tURin@37640@2
 tURIra@tURa@tURa@37642@2
 tUbara@ka@tUbaraka@37646@1
@@ -13269,7 +13269,7 @@ treDA@sTita@treDAsTita@38550@1
 tresuH@tras@tras@38552@2
 trEkAlika@I@trEkAlikI@38558@3
 trEDam@triDA@triDA@38569@2
-trEliNga@ya@trEliNgaya@38579@0
+trEliNga@ya@trEliNgya@38579@2
 trElokya@kartf@trElokyakartf@38583@1
 trElokya@nATa@trElokyanATa@38585@1
 trElokya@praBava@trElokyapraBava@38587@1
@@ -13314,7 +13314,7 @@ tvad@dfSa@tvaddfSa@38667@0
 tvad@I@tvadI@38667@0
 tvad@aka@tvadaka@38667@0
 tvarA@AM@tvarAAM@38680@0
-tvarA@kf@tvarAkf@38680@0
+tvarA@kf@tvarIkf@38680@3
 tvarA@ayA@tvarAayA@38681@0
 tvarA@vant@tvarAvant@38682@1
 tvarita@am@tvaritam@38687@2
@@ -13536,7 +13536,7 @@ danta@lin@dantalin@39137@0
 danta@dantAdanti@dantAdanti@39141@1
 danti@dantin@dantin@39145@1
 dantin@dantidanta@dantidanta@39149@1
-dantin@maya@dantinmaya@39149@0
+dantin@maya@dantinmya@39149@3
 dantin@I@dantinI@39149@1
 dantin@sTa@dantinsTa@39152@0
 dantura@tA@danturatA@39157@1
@@ -13562,7 +13562,7 @@ dayA@vant@dayAvant@39236@1
 dayAlu@tA@dayAlutA@39239@1
 dayAlu@tva@dayAlutva@39239@1
 dayita@A@dayitA@39242@2
-dayita@Amaya@dayitaAmaya@39242@0
+dayita@Amaya@dayitaAmya@39242@3
 dara@am@daram@39245@2
 dara@timira@daratimira@39247@1
 dara@vikasita@daravikasita@39249@0
@@ -13724,7 +13724,7 @@ dahra@dahrAgni@dahrAgni@39589@1
 dA@dadAti@dadAti@39591@1
 dA@datte@datte@39591@1
 dA@dadati@dadati@39591@4
-dA@te@dAte@39591@0
+dA@te@te@39591@99
 dA@dadmi@dadmi@39591@1
 dA@dehi@dehi@39592@1
 dA@dadO@dadO@39592@1
@@ -13733,12 +13733,12 @@ dA@adAt@dAadAt@39592@0
 dA@adizi@dAadizi@39592@0
 dA@adIdapat@dAadIdapat@39592@0
 dA@dAsyati@dAsyati@39592@4
-dA@te@dAte@39592@0
+dA@te@te@39592@99
 dA@adAsyat@dAadAsyat@39593@0
 dA@dIyate@dIyate@39593@4
 dA@dApayati@dApayati@39593@4
 dA@ditsati@ditsati@39593@1
-dA@te@dAte@39593@0
+dA@te@te@39593@99
 dA@datta@datta@39593@1
 dA@tta@dAtta@39593@1
 dA@dita@dita@39593@1
@@ -13822,7 +13822,7 @@ dA@dA@dAdA@39623@1
 dA@day@day@39625@1
 dA@dA(y)@dA(y)@39627@4
 dAkzAyaRa@I@dAkzAyaRI@39631@2
-dAkzAyaRa@ya@dAkzAyaRaya@39632@0
+dAkzAyaRa@ya@dAkzAyaRya@39632@2
 dAkzeya@I@dAkzeyI@39640@2
 dAqima@Pala@dAqimaPala@39647@1
 dARqika@I@dARqikI@39653@3
@@ -13887,7 +13887,7 @@ dAra@karman@dArakarman@39797@1
 dAra@dArADIna@dArADIna@39799@1
 dAraka@ikA@dArakikA@39801@3
 dAraka@ikA@dArakikA@39804@3
-dAraka@dvaya@dArakadvaya@39806@0
+dAraka@dvaya@dArakadvya@39806@3
 dAraRa@I@dAraRI@39808@2
 dArava@I@dAravI@39813@3
 dArikA@dAraka@dAraka@39815@2
@@ -14125,9 +14125,9 @@ diS@vAraRa@diSvAraRa@40209@0
 diS@karin@diSkarin@40209@0
 diS@vAsas@diSvAsas@40211@0
 diS@ambara@diSambara@40211@0
-diS@vijaya@diSvijaya@40213@0
+diS@vijaya@diSvijya@40213@3
 diS@viBAga@diSviBAga@40215@0
-diS@vilaya@diSvilaya@40217@0
+diS@vilaya@diSvilya@40217@3
 diS@vyApin@diSvyApin@40219@0
 diS@diNnAga@diNnAga@40222@1
 diS@karin@diSkarin@40222@0
@@ -14285,7 +14285,7 @@ dIrGa@dIrGotkaRWamanas@dIrGotkaRWamanas@40504@1
 dIrGikA@dIrGI@dIrGI@40508@2
 dIrGikA@dIrGa@dIrGa@40508@2
 dIv@dIvyati@dIvyati@40513@1
-dIv@te@dIvte@40513@0
+dIv@te@te@40513@99
 dIv@divyati@dIvdivyati@40513@0
 dIv@adevizyat@dIvadevizyat@40514@0
 dIv@devayati@dIvdevayati@40514@0
@@ -14398,15 +14398,15 @@ durAcara@ita@durAcarita@40782@2
 durAcAra@in@durAcArin@40785@2
 durAtman@Atmavant@durAtmavant@40788@2
 durAtman@AtmatA@durAtmatA@40788@2
-durArakza@ya@durArakzaya@40816@0
-durArADa@ya@durArADaya@40818@0
+durArakza@ya@durArakzya@40816@2
+durArADa@ya@durArADya@40818@2
 durAruha@Aroha@durAroha@40821@2
 durAruha@ArohatA@durArohatA@40822@2
 durAsada@Asaha@durAsaha@40850@2
 durita@kzaya@duritakzaya@40861@1
 durIkza@tA@durIkzatA@40863@1
 durukta@i@durukti@40867@2
-durucCeda@ya@durucCedaya@40870@0
+durucCeda@ya@durucCedya@40870@2
 durupasarpa@in@durupasarpin@40894@2
 durUha@tama@durUhatama@40896@1
 durodara@durodarAvatAra@durodarAvatAra@40901@4
@@ -14438,15 +14438,15 @@ durGawa@tva@durGawatva@40951@1
 durjana@Ayate@durjanaAyate@40955@0
 durjana@Ikf@durjanIkf@40956@2
 durjAta@i@durjAti@40965@2
-durjeya@jaya@durjeyajaya@40969@0
+durjeya@jaya@durjeyajya@40969@3
 durjYAna@jYeya@durjYeya@40971@2
-durRaya@naya@durRayanaya@40974@0
+durRaya@naya@durRayanya@40974@3
 durRaya@RIta@durRayaRIta@40974@0
 durRaya@i@durRayi@40974@3
 durRaya@nIta@durRayanIta@40974@0
 durRaya@i@durRayi@40974@3
 durdama@na@durdamana@40976@1
-durdama@ya@durdamaya@40976@0
+durdama@ya@durdamya@40976@2
 durdarSa@na@durdarSana@40980@1
 durdarSa@tA@durdarSatA@40981@1
 durdfS@a@durdfSa@40995@1
@@ -14459,9 +14459,9 @@ durDarza@tva@durDarzatva@41012@1
 durDarza@Ra@durDarzaRa@41012@1
 durDArya@Dara@durDAryaDara@41015@0
 durDArya@manasA@durDAryamanasA@41015@0
-durnaya@Raya@durnayaRaya@41020@0
+durnaya@Raya@durnayaRya@41020@3
 durnirIkza@Ra@durnirIkzaRa@41031@1
-durnirIkza@ya@durnirIkzaya@41031@0
+durnirIkza@ya@durnirIkzya@41031@2
 durnivAra@tA@durnivAratA@41038@1
 durnizkramaRa@nizprapatana@durnizprapatana@41040@2
 durnizkramaRa@niHsaraRa@durniHsaraRa@41040@2
@@ -14475,7 +14475,7 @@ durbala@IyAMs@durbalaIyAMs@41055@0
 durbala@I@durbalI@41056@2
 durbala@BU@durbalaBU@41056@0
 durbala@durbalendriya@durbalendriya@41058@1
-durboDa@ya@durboDaya@41065@0
+durboDa@ya@durboDya@41065@2
 durBaga@A@durBagA@41069@2
 durBaga@tva@durBagatva@41069@1
 durBAza@ita@durBAzita@41082@2
@@ -14516,12 +14516,12 @@ durvArIya@vArya@durvArya@41202@2
 durvArIya@vAryatA@durvArIyavAryatA@41203@0
 durvArIya@vAryatva@durvAryatva@41203@2
 durvigAha@avagAha@durvigAhaavagAha@41217@0
-durvigAha@ya@durvigAhaya@41217@0
-durvitarka@ya@durvitarkaya@41228@0
+durvigAha@ya@durvigAhya@41217@2
+durvitarka@ya@durvitarkya@41228@2
 durviDa@i@durviDi@41235@2
 durvinaya@vinIta@durvinIta@41238@2
 durvinaya@ka@durvinayaka@41239@0
-durviBAva@ya@durviBAvaya@41244@0
+durviBAva@ya@durviBAvya@41244@2
 durvilasita@vilAsa@durvilAsa@41253@2
 durvftta@i@durvftti@41267@2
 durhfd@hfdaya@durhfdaya@41291@2
@@ -14541,9 +14541,9 @@ duHSala@A@duHSalA@41324@2
 duHSIla@A@duHSIlA@41334@2
 duHSIla@tA@duHSIlatA@41335@1
 duz@duzyati@duzyati@41341@1
-duz@te@duzte@41341@0
+duz@te@te@41341@99
 duz@dUzayati@duzdUzayati@41341@0
-duz@te@duzte@41341@0
+duz@te@te@41341@99
 duz@dUzyate@duzdUzyate@41341@0
 duz@duzwa@duzwa@41341@1
 duz@vAcaM@duzvAcaM@41346@0
@@ -14580,7 +14580,7 @@ duzwa@duzwAntarAtman@duzwAntarAtman@41410@1
 duzwa@cetas@duzwacetas@41410@1
 duzwa@duzwASva@duzwASva@41412@4
 duzwa@yukta@duzwayukta@41412@0
-duzprakampa@ya@duzprakampaya@41426@0
+duzprakampa@ya@duzprakampya@41426@2
 duzprajYa@prajYAna@duzprajYaprajYAna@41436@0
 duzprativIkzaRIya@prativIkzya@duzprativIkzaRIyaprativIkzya@41447@0
 duzpraDarza@Ra@duzpraDarzaRa@41452@1
@@ -14589,7 +14589,7 @@ duzpraDarza@praDfzya@duzpraDarzapraDfzya@41453@0
 duzprasaha@prasAha@duzprasahaprasAha@41463@0
 duzprasAda@na@duzprasAdana@41466@1
 duzprApa@Ra@duzprApaRa@41471@1
-duzprApa@ya@duzprApaya@41471@0
+duzprApa@ya@duzprApya@41471@2
 duzprApa@prApta@duzprApaprApta@41472@0
 duzyanta@duzmanta@duzmanta@41477@2
 duzyanta@duzvantaduHzanta@duzvantaduHzanta@41477@7
@@ -14605,11 +14605,11 @@ dustara@Ra@dustaraRa@41487@1
 dustara@I@dustarI@41487@3
 dustAra@tIrRa@dustAratIrRa@41491@0
 dustAra@tara@dustAratara@41491@0
-dustyaja@ya@dustyajaya@41497@0
+dustyaja@ya@dustyajya@41497@2
 dustyaja@tyAjya@dustyajatyAjya@41497@0
 duHsattva@vant@duHsattvavant@41506@1
 duHsaMDAna@saMDeya@duHsaMDeya@41511@2
-duHsaMpAda@ya@duHsaMpAdaya@41516@0
+duHsaMpAda@ya@duHsaMpAdya@41516@2
 duHsaha@tara@duHsahatara@41521@0
 duHsaha@tva@duHsahatva@41522@1
 duHsTa@am@duHsTam@41536@2
@@ -14780,9 +14780,9 @@ dfS@paS@dfSpaS@41840@0
 dfS@adIdfSat@dfSadIdfSat@41841@0
 dfS@adarSi@dfSadarSi@41841@0
 dfS@drakzyati@dfSdrakzyati@41842@0
-dfS@te@dfSte@41842@0
+dfS@te@te@41842@99
 dfS@dfSyate@dfSyate@41842@4
-dfS@ti@dfSti@41842@0
+dfS@ti@ti@41842@99
 dfS@iva@dfSiva@41848@0
 dfS@dfk@dfk@41854@1
 dfS@dfg@dfg@41854@1
@@ -14842,7 +14842,7 @@ dfzwi@saMBeda@dfzwisaMBeda@41955@1
 dfzwIviza@dfzwi@dfzwi@41957@2
 dev@devati@devati@41975@4
 dev@devayati@devayati@41975@4
-dev@te@devte@41975@0
+dev@te@te@41975@99
 dev@devitum@devitum@41975@4
 dev@dyUna@devdyUna@41975@0
 dev@paridev@devparidev@41976@0
@@ -15291,7 +15291,7 @@ dOryoDana@i@dOryoDani@42776@2
 dOrhfda@dohada@dOrhfdadohada@42779@0
 dOzkula@eya@dOzkulaeya@42789@0
 dOzkula@I@dOzkulI@42789@3
-dOzkula@ya@dOzkulaya@42790@0
+dOzkula@ya@dOzkulya@42790@2
 dOzyanta@dOzmanta@dOzmanta@42792@2
 dOzyanta@i@dOzyanti@42792@2
 dOhitra@I@dOhitrI@42795@2
@@ -15353,7 +15353,7 @@ dyu@spfSant@dyuspfSant@42859@0
 dyu@dyAvApfTivI@dyAvApfTivI@42861@1
 dyu@I@dyuI@42861@0
 dyut@dyotati@dyotati@42863@7
-dyut@te@dyutte@42863@0
+dyut@te@te@42863@99
 dyut@didyute@dyutdidyute@42863@0
 dyut@adyutat@dyutadyutat@42863@0
 dyut@dyotayati@dyotayati@42863@7
@@ -15426,12 +15426,12 @@ drARa@drA@drA@43007@2
 drAviqa@I@drAviqI@43014@2
 drAviqa@draviqa@draviqa@43015@2
 dru@dravati@dravati@43019@4
-dru@te@drute@43019@0
+dru@te@te@43019@99
 dru@dudrAva@drududrAva@43019@0
 dru@dudruve@drududruve@43019@0
-dru@adudruvat@druadudruvat@43019@0
+dru@adudruvat@druadudruvat@43019@5
 dru@drAvayati@drAvayati@43019@4
-dru@te@drute@43019@0
+dru@te@te@43019@99
 dru@dravayanti@dravayanti@43020@4
 dru@drAvyate@drAvyate@43020@4
 dru@druta@druta@43020@1
@@ -15442,7 +15442,7 @@ druta@am@drutam@43031@2
 druta@taram@drutataram@43031@1
 druta@gati@drutagati@43034@1
 druta@padam@drutapadam@43036@1
-druta@laya@drutalaya@43038@0
+druta@laya@drutalya@43038@3
 druta@varAhakula@drutavarAhakula@43040@1
 druta@vAhana@drutavAhana@43042@1
 druta@vikrama@drutavikrama@43044@1
@@ -15460,7 +15460,7 @@ druma@vAsin@drumavAsin@43068@1
 druma@sena@drumasena@43070@1
 druma@drumAgra@drumAgra@43072@1
 druh@druhyati@druhyati@43078@4
-druh@te@druhte@43078@0
+druh@te@te@43078@99
 druh@dudroha@druhdudroha@43078@0
 druh@Druk@druhDruk@43083@0
 droRa@I@droRI@43096@2
@@ -15525,7 +15525,7 @@ dvA@paYcASat@dvApaYcASat@43193@1
 dvA@para@dvApara@43195@1
 dvA@viMSa@dvAviMSa@43198@1
 dvA@I@dvAI@43198@0
-dvA@ti@dvAti@43198@0
+dvA@ti@ti@43198@99
 dvA@titama@dvAtitama@43198@0
 dvA@viMSaSatama@dvAviMSaSatama@43199@0
 dvA@I@dvAI@43199@0
@@ -15701,7 +15701,7 @@ dvika@Sata@dvikaSata@43388@0
 dviguRa@tara@dviguRatara@43391@1
 dviguRa@taram@dviguRataram@43391@1
 dviguRa@tva@dviguRatva@43392@1
-dviguRa@Akf@dviguRaAkf@43393@0
+dviguRa@Akf@dviguRaIkf@43393@3
 dviguRa@Ikf@dviguRIkf@43393@2
 dviguRa@IBU@dviguRIBU@43394@2
 dviguRAyate@guRIBU@dviguRAyateguRIBU@43396@0
@@ -15744,7 +15744,7 @@ dviz@dvizant@dvizant@43458@1
 dviz@dviw@dviw@43461@1
 dviz@dviwsevin@dviwsevin@43464@1
 dvis@tAvant@dvistAvant@43468@0
-dvis@tAvat@dvistAvat@43468@0
+dvis@tAvat@dvistAvat@43468@5
 dvis@dvirukta@dvirukta@43471@1
 dvis@i@dvisi@43471@0
 dvis@uccArita@dvisuccArita@43473@0
@@ -15770,9 +15770,9 @@ dvEDa@IBU@dvEDIBU@43525@2
 dvEDa@dvEDIBAva@dvEDIBAva@43528@1
 dvEDa@BUta@dvEDaBUta@43532@0
 dvEpa@I@dvEpI@43534@3
-dvEpa@ya@dvEpaya@43534@0
+dvEpa@ya@dvEpya@43534@2
 dvEpa@Ayana@dvEpaAyana@43535@0
-dvEpakza@ya@dvEpakzaya@43537@0
+dvEpakza@ya@dvEpakzya@43537@2
 dvEmAtura@I@dvEmAturI@43539@3
 dvEmAtura@mAtra@dvEmAturamAtra@43539@0
 dvEraTa@I@dvEraTI@43543@3
@@ -15828,7 +15828,7 @@ Dana@DanAdAna@DanAdAna@43646@1
 Dana@DanADigoptf@DanADigoptf@43648@1
 Dana@DanADipati@DanADipati@43650@1
 Dana@pati@Danapati@43650@1
-Dana@ya@Danaya@43650@0
+Dana@ya@Danya@43650@2
 Dana@DanADyakza@DanADyakza@43652@1
 Dana@DanApti@DanApti@43654@1
 Dana@DanAgama@DanAgama@43654@1
@@ -15903,7 +15903,7 @@ Dara@pati@Darapati@43793@0
 Dara@putra@Daraputra@43795@0
 Dara@Bft@DaraBft@43797@0
 Dara@Dara@Dara@43797@1
-Dara@Saya@DaraSaya@43799@0
+Dara@Saya@DaraSya@43799@3
 Dara@I@DarI@43799@3
 Dara@DarADipa@DarADipa@43801@1
 Dara@pati@Darapati@43801@0
@@ -16168,7 +16168,7 @@ DAraRa@A@DAraRA@44284@2
 DAraRa@AM@DAraRaAM@44286@0
 DAraRa@gam@DAraRagam@44286@0
 DAraRa@I@DAraRI@44286@2
-DAraRa@Amaya@DAraRaAmaya@44287@0
+DAraRa@Amaya@DAraRaAmya@44287@3
 DAraRa@I@DAraRI@44287@2
 DAraRa@DAraRAyukta@DAraRAyukta@44290@1
 DArA@vasor@DArAvasor@44296@0
@@ -16204,11 +16204,11 @@ DArzwa@i@DArzwi@44356@3
 DAv@paScAt@DAvpaScAt@44362@0
 DAv@aBimuKam@DAvaBimuKam@44363@0
 DAv@DAvati@DAvati@44366@4
-DAv@te@DAvte@44366@0
+DAv@te@te@44366@99
 DAv@daDAvire@DAvdaDAvire@44366@0
 DAv@DAvyate@DAvyate@44366@4
 DAv@DAvayati@DAvayati@44366@4
-DAv@te@DAvte@44366@0
+DAv@te@te@44366@99
 DAv@DOta@DAvDOta@44366@0
 DAv@DOtvA@DAvDOtvA@44367@0
 DAv@DAvya@DAvya@44367@4
@@ -16359,7 +16359,7 @@ DftarAzwra@I@DftarAzwrI@44732@2
 DftarAzwra@suta@DftarAzwrasuta@44734@1
 DftarAzwra@sUnu@DftarAzwrasUnu@44734@1
 Dfti@iM@DftiiM@44740@0
-Dfti@kf@Dftikf@44740@0
+Dfti@kf@DftIkf@44740@3
 Dfti@iM@DftiiM@44740@0
 Dfti@banD@DftibanD@44740@0
 Dfti@mant@Dftimant@44741@1
@@ -16907,7 +16907,7 @@ nAka@cara@nAkacara@45918@1
 nAka@nArI@nAkanArI@45920@1
 nAka@pAla@nAkapAla@45922@1
 nAka@pfzWa@nAkapfzWa@45924@1
-nAka@ya@nAkaya@45924@0
+nAka@ya@nAkya@45924@3
 nAka@loka@nAkaloka@45927@1
 nAka@strI@nAkastrI@45929@1
 nAka@nArI@nAkanArI@45929@1
@@ -16996,8 +16996,8 @@ nAwya@vedI@nAwyavedI@46080@1
 nAwya@SAstra@nAwyaSAstra@46082@1
 nAwya@nAwyAcArya@nAwyAcArya@46085@1
 nAwya@ka@nAwyaka@46085@0
-nAqI@ika@nAqIika@46088@0
-nAqI@ikA@nAqIikA@46088@0
+nAqI@ika@nAqika@46088@2
+nAqI@ikA@nAqikA@46088@2
 nAqI@nAlikA@nAlikA@46089@2
 nAqI@i@nAqIi@46089@0
 nAqI@nAqI@nAqI@46089@1
@@ -17196,7 +17196,7 @@ nikAma@suKin@nikAmasuKin@46594@1
 nikASa@am@nikASam@46603@3
 nikumBila@A@nikumBilA@46613@2
 nikuramba@nikurumba@nikurumba@46615@2
-nikulInakA@ikA@nikulInakAikA@46617@0
+nikulInakA@ikA@nikulInakikA@46617@3
 nikUj@kUjamAna@nikUjkUjamAna@46619@0
 nikUj@kUjita@nikUjita@46620@2
 nikf@kfta@nikfta@46624@2
@@ -17499,7 +17499,7 @@ nirapekza@tA@nirapekzatA@47526@1
 nirapekza@tva@nirapekzatva@47526@1
 nirapekza@ita@nirapekzita@47527@2
 nirapekza@in@nirapekzin@47528@2
-nirapekza@ya@nirapekzaya@47529@0
+nirapekza@ya@nirapekzya@47529@2
 niraBImAna@niraBi@niraBi@47539@7
 niraBra@e@niraBre@47541@2
 niraya@in@nirayin@47554@2
@@ -17556,14 +17556,14 @@ nirASa@kf@nirASIkf@47745@3
 nirASa@in@nirASin@47746@2
 nirASa@kara@nirASakara@47748@1
 nirASaNka@am@nirASaNkam@47750@2
-nirASaNka@ya@nirASaNkaya@47751@0
+nirASaNka@ya@nirASaNkya@47751@2
 nirASis@ASa@nirASisASa@47753@0
 nirASis@ASIstva@nirASisASIstva@47753@5
 nirASrama@in@nirASramin@47756@2
 nirASrama@pada@nirASramapada@47758@1
 nirAsitva@ASatva@nirAsitvaASatva@47768@5
 nirAsu@ambu@nirAsuambu@47770@0
-nirAsvAda@ya@nirAsvAdaya@47775@0
+nirAsvAda@ya@nirAsvAdya@47775@2
 nirAsvAda@yatama@nirAsvAdayatama@47776@0
 nirAsvAda@rasa@nirAsvAdarasa@47778@1
 nirAhAra@tA@nirAhAratA@47781@1
@@ -17681,7 +17681,7 @@ nirBid@n@nirBidn@48225@0
 nirBid@Binna@nirBidBinna@48226@0
 nirBfta@niBfta@niBfta@48234@2
 nirBeda@in@nirBedin@48237@2
-nirBeda@ya@nirBedaya@48238@0
+nirBeda@ya@nirBedya@48238@2
 nirmakzika@am@nirmakzikam@48244@2
 nirmajj@magna@nirmajjmagna@48246@0
 nirmaYcana@maYCana@nirmaYcanamaYCana@48251@0
@@ -17869,7 +17869,7 @@ nivft@mAMsa@nivftmAMsa@48964@0
 nivft@yajYasvADyAya@nivftyajYasvADyAya@48966@0
 nivft@yOvana@nivftyOvana@48968@0
 nivft@lOlya@nivftlOlya@48970@0
-nivft@hfdaya@nivfthfdaya@48972@0
+nivft@hfdaya@nivfthfdya@48972@3
 nivft@prati@nivftprati@48972@0
 nivft@nivfttendriya@nivfttendriya@48974@1
 nivftti@nir@nir@48978@2
@@ -18153,7 +18153,7 @@ nihnu@hnuta@nihnuta@49899@2
 nihrAda@vant@nihrAdavant@49905@1
 nihrAda@ita@nihrAdita@49905@2
 nI@nayati@nayati@49908@4
-nI@te@nIte@49908@0
+nI@te@te@49908@99
 nI@ninAya@ninAya@49908@4
 nI@ninyuH@ninyuH@49908@4
 nI@kriyAM@nIkriyAM@49915@0
@@ -18290,11 +18290,11 @@ nu@nu@nu@50133@1
 nu@nunu@nunu@50136@4
 nu@nO@nO@50138@1
 nud@nudati@nudati@50144@4
-nud@te@nudte@50144@0
+nud@te@te@50144@99
 nud@nunoda@nunoda@50144@4
 nud@nunude@nunude@50144@4
 nud@notsyati@nudnotsyati@50144@0
-nud@te@nudte@50144@0
+nud@te@te@50144@99
 nud@nodayati@nudnodayati@50144@0
 nud@nodyate@nudnodyate@50145@0
 nud@nutta@nutta@50145@1
@@ -18360,7 +18360,7 @@ nfSaMsa@tA@nfSaMsatA@50256@1
 nfSaMsa@vant@nfSaMsavant@50256@1
 nfSaMsa@ita@nfSaMsita@50257@2
 nfSaMsa@tA@nfSaMsatA@50257@1
-nfSaMsa@ya@nfSaMsaya@50257@0
+nfSaMsa@ya@nfSaMsya@50257@2
 nfSaMsa@kArin@nfSaMsakArin@50260@1
 nfSaMsa@kft@nfSaMsakft@50260@1
 nfSaMsa@varRa@nfSaMsavarRa@50262@1
@@ -18429,7 +18429,7 @@ nEdAGa@I@nEdAGI@50395@2
 nEdAGa@ika@nEdAGika@50396@2
 nEdAna@ika@nEdAnika@50398@2
 nEdra@I@nEdrI@50402@3
-nEpuRa@ya@nEpuRaya@50410@0
+nEpuRa@ya@nEpuRya@50410@2
 nEpuRa@yena@nEpuRayena@50410@0
 nEmiza@Iya@nEmizIya@50421@2
 nEmiza@eya@nEmizaeya@50421@0
@@ -18603,7 +18603,7 @@ paNkti@dUza@paNktidUza@50836@1
 paNkti@doza@paNktidoza@50839@1
 paNkti@pAvana@paNktipAvana@50841@1
 paNkti@raTa@paNktiraTa@50843@1
-paNgu@(v)I@paNgu(v)I@50845@0
+paNgu@(v)I@paNgvI@50845@3
 paNgu@U@paNguU@50845@0
 paNgu@ka@paNguka@50845@1
 paNgu@tA@paNgutA@50845@1
@@ -18623,8 +18623,8 @@ paYca(n)@ka@paYcaka@50878@2
 paYca(n)@A@paYcA@50879@2
 paYca(n)@jana@paYcajana@50881@2
 paYca(n)@I@paYcI@50883@2
-paYca(n)@janAlaya@paYcajanAlaya@50883@2
-paYca(n)@nadAlaya@paYcanadAlaya@50884@3
+paYca(n)@janAlaya@paYcajanAlya@50883@3
+paYca(n)@nadAlaya@paYcanadAlya@50884@3
 paYca(n)@tantra@paYcatantra@50886@2
 paYca(n)@tapas@paYcatapas@50888@2
 paYca(n)@tapa@paYcatapa@50888@2
@@ -18633,7 +18633,7 @@ paYca(n)@triMSat@paYcatriMSat@50893@2
 paYca(n)@trika@paYcatrika@50895@2
 paYca(n)@daSa@paYcadaSa@50897@2
 paYca(n)@I@paYcI@50897@2
-paYca(n)@maya@paYcamaya@50897@2
+paYca(n)@maya@paYcamya@50897@3
 paYca(n)@I@paYcI@50897@2
 paYca(n)@daSa(n)@paYcadaSa(n)@50899@3
 paYca(n)@daSavArzika@paYcadaSavArzika@50899@2
@@ -18645,7 +18645,7 @@ paYca(n)@DAtuka@paYcaDAtuka@50904@2
 paYca(n)@DAraRaka@paYcaDAraRaka@50906@2
 paYca(n)@naKa@paYcanaKa@50908@2
 paYca(n)@nada@paYcanada@50910@2
-paYca(n)@nadAlaya@paYcanadAlaya@50911@3
+paYca(n)@nadAlaya@paYcanadAlya@50911@3
 paYca(n)@navata@paYcanavata@50914@2
 paYca(n)@I@paYcI@50914@2
 paYca(n)@i@paYci@50914@2
@@ -18661,7 +18661,7 @@ paYca(n)@parva@paYcaparva@50924@2
 paYca(n)@an@paYcan@50924@2
 paYca(n)@palI@paYcapalI@50927@2
 paYca(n)@pura@paYcapura@50929@2
-paYca(n)@puzpamaya@paYcapuzpamaya@50931@2
+paYca(n)@puzpamaya@paYcapuzpamya@50931@3
 paYca(n)@I@paYcI@50931@2
 paYca(n)@prasUti@paYcaprasUti@50933@2
 paYca(n)@prasTa@paYcaprasTa@50935@2
@@ -18673,7 +18673,7 @@ paYca(n)@binduprasfta@paYcabinduprasfta@50945@2
 paYca(n)@brahma@paYcabrahma@50947@2
 paYca(n)@Badra@paYcaBadra@50949@2
 paYca(n)@mahAkalpa@paYcamahAkalpa@50951@2
-paYca(n)@mahABUtamaya@paYcamahABUtamaya@50953@2
+paYca(n)@mahABUtamaya@paYcamahABUtamya@50953@3
 paYca(n)@I@paYcI@50953@2
 paYca(n)@mAzika@paYcamAzika@50955@2
 paYca(n)@muKa@paYcamuKa@50957@2
@@ -18808,7 +18808,7 @@ pawizWa@pawIyAMs@pawIyAMs@51146@7
 pawizWa@pawu@pawu@51146@2
 pawIra@mAruta@pawIramAruta@51150@1
 pawu@u@pawuu@51153@0
-pawu@(v)I@pawu(v)I@51153@0
+pawu@(v)I@pawvI@51153@3
 pawu@tva@pawutva@51155@1
 pawu@tA@pawutA@51155@1
 pawu@tara@pawutara@51156@1
@@ -18862,7 +18862,7 @@ paRya@paRyANganA@paRyANganA@51264@1
 paRya@vikrayin@paRyavikrayin@51266@1
 pataga@pataMga@pataMga@51277@2
 pataga@I@patagI@51278@3
-pataga@vat@patagavat@51279@0
+pataga@vat@patagavat@51279@5
 pataga@pati@patagapati@51281@1
 pataga@rAja@patagarAja@51281@1
 pataga@pataMgarAja@pataMgarAja@51281@2
@@ -18972,7 +18972,7 @@ paTi(n)@paTyaSana@paTi(n)paTyaSana@51459@0
 paTi(n)@odana@paTi(n)odana@51459@0
 paTya@A@paTyA@51462@2
 pad@padyate@padyate@51464@4
-pad@ti@padti@51464@0
+pad@ti@ti@51464@99
 pad@papAda@papAda@51464@4
 pad@peduH@padpeduH@51464@0
 pad@panna@panna@51466@1
@@ -19016,7 +19016,7 @@ pada@padAnuga@padAnuga@51527@1
 pada@padAnusAra@padAnusAra@51530@1
 pada@padAnta@padAnta@51532@1
 pada@Iya@padIya@51532@3
-pada@ya@padaya@51532@0
+pada@ya@padya@51532@2
 pada@padAntara@padAntara@51534@1
 pada@e@pade@51534@3
 pada@sTitvA@padasTitvA@51534@0
@@ -19161,7 +19161,7 @@ para@puruza@parapuruza@51805@1
 para@pUruza@parapUruza@51805@1
 para@puzwa@parapuzwa@51807@1
 para@A@parA@51807@2
-para@maya@paramaya@51808@0
+para@maya@paramya@51808@3
 para@I@parI@51808@2
 para@pUrvA@parapUrvA@51810@1
 para@pUrvApati@parapUrvApati@51810@1
@@ -19239,7 +19239,7 @@ para@tva@paratva@51914@1
 para@am@param@51915@2
 para@e@pare@51915@2
 para@parArDa@parArDa@51917@1
-para@ya@paraya@51918@0
+para@ya@parya@51918@2
 para@parAvara@parAvara@51922@1
 para@tva@paratva@51926@1
 para@jYa@parajYa@51926@0
@@ -19305,20 +19305,20 @@ parama@paramAKya@paramAKya@52016@1
 parama@paramANganA@paramANganA@52018@1
 parama@paramARu@paramARu@52020@1
 parama@tA@paramatA@52020@1
-parama@maya@paramaya@52021@7
+parama@maya@paramamya@52021@3
 parama@I@paramI@52021@3
 parama@paramAtman@paramAtman@52023@1
 parama@lAtman@paramalAtman@52023@0
 parama@jIvAtman@paramajIvAtman@52024@0
 parama@paramAtmanA@paramAtmanA@52024@4
-parama@parAtmamaya@parAtmamaya@52025@7
+parama@parAtmamaya@paramaparAtmamya@52025@3
 parama@I@paramI@52025@3
 parama@paramAdButa@paramAdButa@52027@4
 parama@paramAnanda@paramAnanda@52029@1
 parama@paramAnna@paramAnna@52032@1
 parama@paramApasaras@paramApasaras@52034@4
 parama@paramArta@paramArta@52036@1
-parama@vat@paramavat@52036@0
+parama@vat@paramavat@52036@5
 parama@paramArTa@paramArTa@52038@1
 parama@ena@paramena@52039@3
 parama@At@paramAt@52039@3
@@ -19335,7 +19335,7 @@ parama@paramezvAsa@paramezvAsa@52048@1
 parama@tA@paramatA@52048@1
 parama@paramopAsaka@paramopAsaka@52050@1
 parama@paramezWin@paramezWin@52052@1
-paravant@vat@paravantvat@52056@0
+paravant@vat@paravat@52056@2
 paravant@vattA@paravantvattA@52057@5
 paraSu@rAma@paraSurAma@52061@1
 paraSu@vana@paraSuvana@52063@1
@@ -19477,7 +19477,7 @@ paricyuta@i@paricyuti@52534@2
 parijana@tA@parijanatA@52537@1
 parijIrRa@jIryant@parijIrRajIryant@52545@0
 parijYA@jYAta@parijYAta@52551@2
-parijnAna@maya@parijnAnamaya@52556@0
+parijnAna@maya@parijnAnamya@52556@3
 parijnAna@I@parijnAnI@52556@3
 parijnAna@in@parijnAnin@52556@3
 pariqIna@qInaka@pariqInaka@52563@2
@@ -19591,7 +19591,7 @@ pariBAva@in@pariBAvin@53024@2
 pariBAvana@A@pariBAvanA@53027@2
 pariBAvuka@I@pariBAvukI@53029@3
 pariBAz@BAzita@pariBAzita@53032@2
-pariBAzA@in@pariBAzAin@53037@0
+pariBAzA@in@pariBAzin@53037@2
 pariBid@Binna@pariBinna@53040@2
 pariBuj@Bukta@pariBukta@53043@2
 pariBU@BUta@pariBUta@53049@2
@@ -19710,7 +19710,7 @@ pariSaNk@iti@pariSaNkiti@53451@0
 pariSiz@Sizwa@pariSizwa@53469@2
 pariSIlayati@SIlita@pariSIlayatiSIlita@53476@0
 pariSudDi@iM@pariSudDiiM@53483@0
-pariSudDi@kf@pariSudDikf@53483@0
+pariSudDi@kf@pariSudDIkf@53483@3
 pariSuD@SudDa@pariSudDa@53485@2
 pariSuB@SoBita@pariSuBSoBita@53488@0
 pariSeza@eRa@pariSezeRa@53502@2
@@ -19759,7 +19759,7 @@ parihA@hIna@parihAhIna@53707@0
 parihA@hApita@parihApita@53709@2
 parihARi@hAni@parihAni@53713@2
 parihAra@in@parihArin@53717@2
-parihAra@ya@parihAraya@53717@0
+parihAra@ya@parihArya@53717@2
 parihf@hfta@parihfta@53728@2
 parihf@hftya@parihftya@53729@2
 parI@manasA@parImanasA@53735@0
@@ -20010,7 +20010,7 @@ pAMSu@guRWita@pAMSuguRWita@54321@0
 pAMSu@DvastaSiroruha@pAMSuDvastaSiroruha@54323@0
 pAMSu@varza@pAMSuvarza@54325@1
 pAMSu@vikarzaRa@pAMSuvikarzaRa@54327@0
-pAMSu@saMcaya@pAMSusaMcaya@54329@0
+pAMSu@saMcaya@pAMSusaMcya@54329@3
 pAMSu@samUhana@pAMSusamUhana@54331@0
 pAka@SAsana@pAkaSAsana@54338@1
 pAka@hantf@pAkahantf@54338@1
@@ -20053,7 +20053,7 @@ pARavika@I@pARavikI@54445@3
 pARi@im@pARiim@54448@0
 pARi@grah@pARigrah@54448@0
 pARi@O@pARiO@54448@0
-pARi@kf@pARikf@54448@0
+pARi@kf@pARIkf@54448@3
 pARi@mant@pARimant@54449@1
 pARi@kuliSa@pARikuliSa@54452@0
 pARi@graha@pARigraha@54454@1
@@ -20331,7 +20331,7 @@ pAradArika@dArin@pAradArikadArin@54967@0
 pAradArika@dArya@pAradArikadArya@54967@0
 pAramaka@ikA@pAramakikA@54972@3
 pAramahaMsa@I@pAramahaMsI@54976@3
-pAramahaMsa@ya@pAramahaMsaya@54976@0
+pAramahaMsa@ya@pAramahaMsya@54976@2
 pAramArTika@I@pAramArTikI@54979@3
 pAramArTika@pAramArTya@pAramArTya@54980@2
 pArameSvara@I@pArameSvarI@54982@3
@@ -20381,7 +20381,7 @@ pArIkzit@RAhya@pArIkzitRAhya@55076@0
 pArIkzit@pAri@pAri@55076@2
 pAre@pAra@pAra@55082@1
 pArokza@I@pArokzI@55084@3
-pArokza@ya@pArokzaya@55085@0
+pArokza@ya@pArokzya@55085@2
 pArTa@mayaI@pArTamayI@55090@3
 pArTiva@I@pArTivI@55094@2
 pArTiva@A@pArTivA@55094@3
@@ -20917,7 +20917,7 @@ pura@purotsava@purotsava@56083@1
 pura@purodyAna@purodyAna@56085@1
 pura@puraMjana@puraMjana@56087@1
 pura@I@purI@56088@2
-pura@jaya@purajaya@56090@0
+pura@jaya@purajya@56090@3
 pura@dara@puradara@56092@0
 pura@darapura@puradarapura@56092@0
 pura@darapurAtiTi@puradarapurAtiTi@56093@0
@@ -21244,7 +21244,7 @@ pUrRa@kumBa@pUrRakumBa@56767@1
 pUrRa@apAm@pUrRaapAm@56767@0
 pUrRa@candra@pUrRacandra@56770@1
 pUrRa@pAtra@pUrRapAtra@56772@1
-pUrRa@maya@pUrRamaya@56773@0
+pUrRa@maya@pUrRamya@56773@3
 pUrRa@I@pUrRI@56773@2
 pUrRa@pAtravfttyA@pUrRapAtravfttyA@56774@1
 pUrRa@Badra@pUrRaBadra@56777@1
@@ -21417,15 +21417,15 @@ pfTak@SayyA@pfTakSayyA@57095@1
 pfTak@suKa@pfTaksuKa@57097@1
 pfTak@sTiti@pfTaksTiti@57099@1
 pfTak@pfTagarTa@pfTagarTa@57101@1
-pfTak@Alaya@pfTakAlaya@57104@0
+pfTak@Alaya@pfTakAlya@57104@3
 pfTak@gaRa@pfTakgaRa@57106@0
 pfTak@jana@pfTakjana@57108@0
-pfTak@vat@pfTakvat@57109@0
+pfTak@vat@pfTakvat@57109@5
 pfTak@dfS@pfTakdfS@57111@0
 pfTak@dvAra@pfTakdvAra@57113@0
 pfTak@BAva@pfTakBAva@57115@0
 pfTak@yoga@pfTakyoga@57117@0
-pfTak@rasamaya@pfTakrasamaya@57119@0
+pfTak@rasamaya@pfTakrasamya@57119@3
 pfTak@I@pfTakI@57119@0
 pfTak@vartman@pfTakvartman@57121@0
 pfTak@viDa@pfTakviDa@57123@0
@@ -21449,9 +21449,9 @@ pfTivI@devI@pfTivIdevI@57145@1
 pfTivI@Bft@pfTivIBft@57147@1
 pfTivI@rAjya@pfTivIrAjya@57149@1
 pfTivI@pfTivISvara@pfTivISvara@57151@1
-pfTu@(v)I@pfTu(v)I@57153@0
+pfTu@(v)I@pfTvI@57153@2
 pfTu@u@pfTuu@57153@0
-pfTu@(v)I@pfTu(v)I@57155@0
+pfTu@(v)I@pfTvI@57155@2
 pfTu@kIrti@pfTukIrti@57157@1
 pfTu@jaGana@pfTujaGana@57159@1
 pfTu@daMzwra@pfTudaMzwra@57161@1
@@ -21549,7 +21549,7 @@ peSala@Ikf@peSalIkf@57328@2
 peSala@maDya@peSalamaDya@57330@1
 peSas@kArin@peSaskArin@57334@1
 peSas@kft@peSaskft@57334@1
-peSI@ikA@peSIikA@57337@0
+peSI@ikA@peSikA@57337@2
 peSI@peSyaRqa@peSyaRqa@57339@1
 peza@Ikf@pezIkf@57341@2
 pEWara@I@pEWarI@57352@3
@@ -21562,7 +21562,7 @@ pEppala@I@pEppalI@57369@3
 pElava@I@pElavI@57375@3
 pESAca@I@pESAcI@57379@2
 pESAca@graha@pESAcagraha@57380@0
-pESuna@ya@pESunaya@57386@0
+pESuna@ya@pESunya@57386@2
 pESuna@pESunyavAdin@pESunyavAdin@57388@1
 pota@ka@potaka@57393@1
 pota@tva@potatva@57395@1
@@ -21602,7 +21602,7 @@ pOruza@I@pOruzI@57498@2
 pOruzeya@I@pOruzeyI@57504@3
 pOroDasa@pOrohitya@pOrohitya@57514@2
 pOrRamAsa@I@pOrRamAsI@57518@2
-pOrRamAsa@ya@pOrRamAsaya@57520@0
+pOrRamAsa@ya@pOrRamAsya@57520@2
 pOrvadehika@dEhika@pOrvadehikadEhika@57526@0
 pOrvika@I@pOrvikI@57531@2
 pOloma@I@pOlomI@57539@2
@@ -21770,7 +21770,7 @@ pracCad@vftti@pracCadvftti@58036@0
 pracCAdana@pawa@pracCAdanapawa@58042@1
 pracyu@cyuta@pracyuta@58054@2
 praja@prajA@prajA@58057@1
-prajan@jAta@prajanjAta@58062@0
+prajan@jAta@prajAta@58062@2
 prajan@A@prajanA@58063@0
 prajana@na@prajanana@58066@1
 prajana@prajanArTam@prajanArTam@58069@1
@@ -21871,7 +21871,7 @@ pratApa@candra@pratApacandra@58382@1
 pratApa@mukuwa@pratApamukuwa@58382@1
 pratAra@Ra@pratAraRa@58388@1
 pratAra@ka@pratAraka@58389@1
-pratAra@ya@pratAraya@58389@0
+pratAra@ya@pratArya@58389@3
 prati@I@pratI@58393@2
 pratikarman@karma@pratikarmakarma@58413@3
 pratikAra@jYa@pratikArajYa@58430@1
@@ -22048,7 +22048,7 @@ prativiDA@hita@prativiDAhita@59256@0
 prativfttA@prativfttAntam@prativfttAntam@59297@1
 prativeSa@in@prativeSin@59305@2
 prativeSa@I@prativeSI@59305@2
-prativeSa@ya@prativeSaya@59305@0
+prativeSa@ya@prativeSya@59305@2
 prativeSma@an@prativeSmaan@59307@0
 prativyaD@vidDa@prativyaDvidDa@59313@0
 prativyUh@UQa@prativyUhUQa@59316@0
@@ -22397,7 +22397,7 @@ praBA@BAta@praBAta@60747@2
 praBA@praBAtakaraRIya@praBAtakaraRIya@60750@1
 praBA@kalpa@praBAkalpa@60752@0
 praBA@prAya@prAya@60752@2
-praBA@samaya@praBAsamaya@60754@0
+praBA@samaya@praBAsamya@60754@3
 praBA@vant@praBAvant@60757@1
 praBA@vatI@praBAvatI@60758@1
 praBA@kara@praBAkara@60760@1
@@ -22720,7 +22720,7 @@ praSasta@vacana@praSastavacana@61775@1
 praSastavya@SaMstavya@praSaMstavya@61777@2
 praSasya@SaMs@praSaMs@61783@2
 praSAKA@avant@praSAKAavant@61785@5
-praSAKA@ikA@praSAKAikA@61786@0
+praSAKA@ikA@praSAKikA@61786@2
 praSAnti@dUtI@praSAntidUtI@61791@1
 praSAs@aDi@praSAsaDi@61795@0
 praSAs@SAsita@praSAsita@61796@2
@@ -22956,7 +22956,7 @@ prAcIna@garBa@prAcInagarBa@62434@1
 prAcIna@barhis@prAcInabarhis@62436@1
 prAcIna@mUla@prAcInamUla@62439@1
 prAcIna@yoga@prAcInayoga@62441@1
-prAcIna@ya@prAcInaya@62441@0
+prAcIna@ya@prAcInya@62441@3
 prAcIna@yogIputra@prAcInayogIputra@62442@1
 prAcIna@SAla@prAcInaSAla@62444@1
 prAcIna@prAcInAmalaka@prAcInAmalaka@62446@1
@@ -22989,7 +22989,7 @@ prAYc@kfta@prAYckfta@62499@0
 prAYc@koSala@prAYckoSala@62501@0
 prAYc@ciram@prAYcciram@62503@0
 prAYc@CAya@prAYcCAya@62505@0
-prAYc@tanaya@prAYctanaya@62507@0
+prAYc@tanaya@prAYctanya@62507@3
 prAYc@tUla@prAYctUla@62509@0
 prAYc@prastuta@prastuta@62511@2
 prAYc@prAtarASika@prAtarASika@62513@2
@@ -23141,7 +23141,7 @@ prAtar@prAtaScandradyuti@prAtaScandradyuti@62750@1
 prAtar@prAtastrivarga@prAtastrivarga@62752@4
 prAtikUlika@I@prAtikUlikI@62756@3
 prAtikUlika@tA@prAtikUlikatA@62756@1
-prAtipakza@ya@prAtipakzaya@62761@0
+prAtipakza@ya@prAtipakzya@62761@2
 prAtipOruzika@I@prAtipOruzikI@62765@3
 prAtiBa@I@prAtiBI@62767@3
 prAtiBa@A@prAtiBA@62768@2
@@ -23226,7 +23226,7 @@ prAvaraRa@vArika@prAvaraRavArika@62994@0
 prAvaraRa@prAvArakarRa@prAvArakarRa@62997@2
 prAvf@vfta@prAvfta@63006@2
 prAvfz@w@prAvfzw@63011@0
-prAvfz@vfRmaya@prAvfzvfRmaya@63011@0
+prAvfz@vfRmaya@prAvfzvfRmya@63011@3
 prAvfz@I@prAvfzI@63012@0
 prAvfz@prAvfwkAla@prAvfwkAla@63014@1
 prAvfz@prAvfzija@prAvfzija@63016@1
@@ -23385,7 +23385,7 @@ prekzA@kArin@prekzAkArin@63314@1
 prekzA@samAja@prekzAsamAja@63316@1
 prekzA@prekzAgAra@prekzAgAra@63318@1
 preNK@INKati@preNKINKati@63328@0
-preNK@te@preNKte@63328@0
+preNK@te@te@63328@99
 preNK@INKayati@preNKINKayati@63328@0
 preNK@INKita@preNKINKita@63328@0
 preNKa@A@preNKA@63332@2
@@ -23581,7 +23581,7 @@ Palati@@Palati@63826@1
 Palati@Palita@Palita@63826@2
 Palita@Palati@Palati@63836@2
 Palgu@u@Palguu@63847@0
-Palgu@(v)I@Palgu(v)I@63847@0
+Palgu@(v)I@PalgvI@63847@3
 Palgu@u@Palguu@63848@0
 Palgu@tA@PalgutA@63848@1
 Palgu@tva@Palgutva@63849@1
@@ -23670,7 +23670,7 @@ badDa@tva@badDatva@64028@5
 badDa@mOna@badDamOna@64031@1
 badDa@rAga@badDarAga@64033@1
 badDa@lakza@badDalakza@64035@1
-badDa@ya@badDaya@64035@0
+badDa@ya@badDya@64035@3
 badDa@dfzwi@badDadfzwi@64035@1
 badDa@vAc@badDavAc@64037@1
 badDa@vepaTu@badDavepaTu@64039@1
@@ -23833,7 +23833,7 @@ bala@kArABilAzin@balakArABilAzin@64380@0
 bala@kfta@balakfta@64383@1
 bala@ya@balaya@64383@1
 balakza@I@balakzI@64388@3
-balavant@vat@balavantvat@64393@0
+balavant@vat@balavat@64393@2
 balavant@vattama@balavantvattama@64394@0
 balavant@vattara@balavantvattara@64395@0
 balavant@vattA@balavantvattA@64395@5
@@ -23890,7 +23890,7 @@ bahis@gata@bahisgata@64501@0
 bahis@tva@bahistva@64501@5
 bahis@giri@bahisgiri@64503@0
 bahis@girya@bahisgirya@64503@0
-bahis@grAmapratiSraya@bahisgrAmapratiSraya@64506@0
+bahis@grAmapratiSraya@bahisgrAmapratiSrya@64506@3
 bahis@dfS@bahisdfS@64508@0
 bahis@dvAra@bahisdvAra@64510@0
 bahis@yAtrA@bahisyAtrA@64512@0
@@ -23903,7 +23903,7 @@ bahis@ka@bahiska@64520@0
 bahis@bahiScara@bahiScara@64523@1
 bahis@b@bahisb@64524@0
 bahis@prARa@bahisprARa@64524@0
-bahis@hfdaya@bahishfdaya@64524@0
+bahis@hfdaya@bahishfdya@64524@3
 bahis@bahizkArya@bahizkArya@64527@1
 bahis@kfta@bahiskfta@64529@0
 bahis@kriyA@bahiskriyA@64533@0
@@ -23912,7 +23912,7 @@ bahis@prajYa@bahisprajYa@64537@0
 bahis@prARa@bahisprARa@64539@0
 bahis@bahiHsaMsTa@bahiHsaMsTa@64541@1
 bahu@u@bahuu@64543@0
-bahu@(v)I@bahu(v)I@64543@0
+bahu@(v)I@bahvI@64543@3
 bahu@u@bahuu@64544@0
 bahu@yadtad@bahuyadtad@64545@0
 bahu@b@bahub@64545@0
@@ -24044,9 +24044,9 @@ bahu@fca@bahufca@64740@0
 bahu@enas@bahuenas@64742@0
 bahutiTa@am@bahutiTam@64744@2
 bahuDA@b@bahuDAb@64749@0
-bahuDA@kf@bahuDAkf@64749@0
+bahuDA@kf@bahuDIkf@64749@3
 bahuDA@bahuDAtmaka@bahuDAtmaka@64751@1
-bahuDA@ikA@bahuDAikA@64751@0
+bahuDA@ikA@bahuDikA@64751@3
 bahula@tA@bahulatA@64756@1
 bahula@tva@bahulatva@64756@1
 bahula@Ikf@bahulIkf@64758@2
@@ -24078,7 +24078,7 @@ bARi@vARi@vARi@64814@1
 bARi@I@bARI@64814@2
 bARi@bARija@bARija@64814@1
 bARi@ya@bARiya@64814@0
-bARi@vARijaya@bARivARijaya@64815@0
+bARi@vARijaya@bARivARijya@64815@3
 bAdara@I@bAdarI@64819@3
 bAdarAyaRa@I@bAdarAyaRI@64822@3
 bADa@A@bADA@64834@2
@@ -24091,11 +24091,11 @@ bAnDava@jana@bAnDavajana@64862@1
 bAnDava@Dur@bAnDavaDur@64864@0
 bAnDava@saMsTA@bAnDavasaMsTA@64866@0
 bAnDava@samAja@bAnDavasamAja@64866@0
-bABrava@ya@bABravaya@64870@0
+bABrava@ya@bABravya@64870@2
 bArhadbala@I@bArhadbalI@64879@3
 bArhadraTa@I@bArhadraTI@64881@3
 bArhaspata@I@bArhaspatI@64884@3
-bArhaspata@ya@bArhaspataya@64884@0
+bArhaspata@ya@bArhaspatya@64884@2
 bArhizada@bArhiH@bArhiH@64887@7
 bAla@vAla@vAla@64894@1
 bAla@tA@bAlatA@64895@1
@@ -24321,7 +24321,7 @@ bilva@tejas@bilvatejas@65285@1
 bilva@daRqa@bilvadaRqa@65287@1
 bilva@in@bilvin@65287@3
 bilva@pattra@bilvapattra@65289@1
-bilva@maya@bilvamaya@65289@0
+bilva@maya@bilvamya@65289@3
 bilva@I@bilvI@65289@3
 bilva@pARqara@bilvapARqara@65291@1
 bilva@ura@bilvaura@65291@0
@@ -24330,7 +24330,7 @@ bisa@kisalayacCedapATeyavant@bisakisalayacCedapATeyavant@65298@1
 bisa@guRa@bisaguRa@65301@1
 bisa@granTi@bisagranTi@65303@1
 bisa@tantu@bisatantu@65305@1
-bisa@maya@bisamaya@65305@0
+bisa@maya@bisamya@65305@3
 bisa@I@bisI@65305@2
 bisa@prasUna@bisaprasUna@65307@1
 bisa@mfRAla@bisamfRAla@65309@0
@@ -24377,7 +24377,7 @@ budDa@budDAnta@budDAnta@65395@1
 budDa@budDopAsaka@budDopAsaka@65397@1
 budDa@ikA@budDikA@65397@3
 budDi@iM@budDiiM@65404@0
-budDi@kf@budDikf@65404@0
+budDi@kf@budDIkf@65404@3
 budDi@prakf@budDiprIkf@65404@3
 budDi@prati@budDiprati@65405@0
 budDi@yA@budDiyA@65405@0
@@ -24428,13 +24428,13 @@ budbuda@A@budbudA@65474@2
 buD@boDyate@buDboDyate@65477@0
 buD@bobuDIti@buDbobuDIti@65478@0
 buD@buButsati@buButsati@65478@4
-buD@te@buDte@65478@0
+buD@te@te@65478@99
 buD@budDabodDum@budDabodDum@65478@4
 buD@budDvA@budDvA@65478@1
 buD@buDya@buDya@65478@1
 buD@But@buDBut@65485@0
 buDa@svAmin@buDasvAmin@65490@0
-buDna@ya@buDnaya@65493@0
+buDna@ya@buDnya@65493@2
 buBukzA@ita@buBukzita@65495@2
 buBukzA@u@buBukzAu@65496@0
 buBukzA@buBukzApanaya@buBukzApanaya@65498@1
@@ -24443,7 +24443,7 @@ buBUzA@u@buBUzAu@65505@0
 bfbu@vfDu@bfbuvfDu@65512@0
 bfsI@zI@bfsIzI@65514@0
 bfh@bfMhayati@bfMhayati@65516@4
-bfh@te@bfhte@65516@0
+bfh@te@te@65516@99
 bfh@bfMhita@bfMhita@65516@1
 bfh@vfMhita@bfhvfMhita@65518@0
 bfh@vfh@vfh@65520@1
@@ -24575,7 +24575,7 @@ brahman@tattva@brahmatattva@65757@2
 brahman@tantra@brahmatantra@65759@2
 brahman@tuNga@brahmatuNga@65761@2
 brahman@tejas@brahmatejas@65763@2
-brahman@tejomaya@brahmatejomaya@65763@2
+brahman@tejomaya@brahmatejomya@65763@3
 brahman@I@brahmanI@65763@0
 brahman@da@brahmada@65766@2
 brahman@daRqa@brahmadaRqa@65768@2
@@ -24658,7 +24658,7 @@ brahman@vaDyAkfta@brahmavaDyAkfta@65897@2
 brahman@varcasa@brahmavarcasa@65899@2
 brahman@in@brahmanin@65900@0
 brahman@itara@brahmanitara@65901@0
-brahman@ya@brahmaya@65901@3
+brahman@ya@brahmya@65901@3
 brahman@varcasakAma@brahmavarcasakAma@65902@2
 brahman@varcasvin@brahmavarcasvin@65903@2
 brahman@varcasin@brahmavarcasin@65904@2
@@ -24716,7 +24716,7 @@ brahman@brahmANgaBU@brahmANgaBU@65992@2
 brahman@brahmAYjalikfta@brahmAYjalikfta@65995@2
 brahman@braHmARqa@brahmabraHmARqa@65998@3
 brahman@brahmAdi@brahmabrahmAdi@66000@3
-brahman@ya@brahmaya@66000@3
+brahman@ya@brahmya@66000@3
 brahman@brahmADigamika@brahmADigamika@66002@2
 brahman@brahmAByAsa@brahmAByAsa@66004@2
 brahman@brahmAraRya@brahmAraRya@66006@2
@@ -24828,7 +24828,7 @@ Bagavat@Bagavad@Bagavad@66250@1
 Bagavat@Bagavant@Bagavant@66250@1
 Bagavant@(vat)tva@Bagavant(vat)tva@66257@5
 Bagavant@(van)@Bagavant(van)@66257@0
-Bagavant@maya@Bagavantmaya@66258@0
+Bagavant@maya@Bagavantmya@66258@3
 Bagavant@I@BagavantI@66258@0
 Bagavant@BAgavatpadI@BagavantBAgavatpadI@66260@0
 Bagavant@BagavadgItA@BagavadgItA@66262@2
@@ -24838,7 +24838,7 @@ Bagavant@I@BagavantI@66266@0
 Bagavant@yAna@BagavantyAna@66268@0
 Bagavant@yAnaparvan@BagavantyAnaparvan@66268@0
 Bagavant@rAta@BagavantrAta@66271@0
-BaginI@ikA@BaginIikA@66273@0
+BaginI@ikA@BaginikA@66273@2
 BaginI@pati@BaginIpati@66275@1
 BaginI@suta@BaginIsuta@66277@1
 BagIraTa@yaSas@BagIraTayaSas@66282@1
@@ -24892,7 +24892,7 @@ Badra@vAc@BadravAc@66445@1
 Badra@aM@BadraM@66446@2
 Badra@kf@BadrIkf@66446@3
 Badra@car@Badracar@66446@0
-Badra@Akf@BadraAkf@66446@0
+Badra@Akf@BadraIkf@66446@3
 Badra@kAlI@BadrakAlI@66449@1
 Badra@Gawaka@BadraGawaka@66451@1
 Badra@danta@Badradanta@66453@1
@@ -25049,7 +25049,7 @@ Bavitf@BU@BavitfBU@66759@0
 Bavya@rUpa@BavyarUpa@66770@1
 Bavya@BavyAkfti@BavyAkfti@66772@1
 Bas@ita@Basita@66776@1
-BastrA@ikA@BastrAikA@66778@0
+BastrA@ikA@BastrikA@66778@2
 BastrA@BastrABaraRa@BastrABaraRa@66781@1
 Basman@Basma@Basma@66783@2
 Basman@Bakz@Bakz@66783@2
@@ -25199,7 +25199,7 @@ BArya@vant@BAryavant@67073@5
 BArya@drohin@BAryadrohin@67075@0
 BArya@patitva@BAryapatitva@67077@5
 BAluki@putra@BAlukiputra@67081@0
-BAllaveya@vaya@BAllaveyavaya@67083@0
+BAllaveya@vaya@BAllaveyavya@67083@3
 BAva@BAvo@BAvo@67088@4
 BAva@aM@BAvaM@67088@3
 BAva@nigacCati@BAvanigacCati@67088@0
@@ -25267,7 +25267,7 @@ BAsura@mUrti@BAsuramUrti@67250@1
 BAsura@hemarASi@BAsurahemarASi@67252@1
 BAsvara@varRa@BAsvaravarRa@67259@1
 BikzA@AM@BikzAAM@67268@0
-BikzA@kf@BikzAkf@67268@0
+BikzA@kf@BikzIkf@67268@3
 BikzA@vant@BikzAvant@67269@1
 BikzA@cara@BikzAcara@67272@1
 BikzA@I@BikzAI@67272@0
@@ -25278,7 +25278,7 @@ BikzA@pAtra@BikzApAtra@67275@1
 BikzA@BARqa@BikzABARqa@67275@1
 BikzA@BikzAwana@BikzAwana@67277@1
 BikzA@aM@BikzAaM@67277@0
-BikzA@kf@BikzAkf@67277@0
+BikzA@kf@BikzIkf@67277@3
 BikzA@BikzAwana@BikzAwana@67280@1
 BikzA@BikzAyaRa@BikzAyaRa@67282@1
 BikzA@BikzAwana@BikzAwana@67282@1
@@ -25323,7 +25323,7 @@ Billa@rAja@BillarAja@67380@0
 Bizaj@ak@Bizajak@67382@0
 Bizaj@Bizaktama@Bizaktama@67382@1
 Bizaj@yati@Bizajyati@67383@0
-BI@vat@BIvat@67390@0
+BI@vat@BIvat@67390@5
 BI@BItacitta@BItacitta@67393@1
 BI@paritrARavastu@BIparitrARavastu@67395@0
 BI@BIta@BIta@67398@1
@@ -25354,7 +25354,7 @@ BIma@I@BImI@67440@3
 BIma@vikrama@BImavikrama@67443@1
 BIma@parAkrama@BImaparAkrama@67443@1
 BIma@sena@BImasena@67445@1
-BIma@maya@BImaya@67446@7
+BIma@maya@BImamya@67446@3
 BIma@I@BImI@67446@3
 BIma@BImANgada@BImANgada@67448@1
 BIma@BImABirakzita@BImABirakzita@67450@4
@@ -25380,7 +25380,7 @@ Bu@BU@BU@67491@1
 Bukta@vant@Buktavant@67495@1
 Bukta@pIta@BuktapIta@67497@1
 Bukta@Boga@BuktaBoga@67499@1
-Bukta@ya@Buktaya@67499@0
+Bukta@ya@Buktya@67499@3
 Bukta@mAtre@BuktamAtre@67502@1
 Bukta@Seza@BuktaSeza@67504@1
 Bukta@supta@Buktasupta@67506@1
@@ -25395,7 +25395,7 @@ Buj@Bunakti@Bunakti@67523@4
 Buj@BuYjanti@BuYjanti@67523@4
 Buj@uH@BujuH@67524@0
 Buj@Bokzyate@BujBokzyate@67524@0
-Buj@ti@Bujti@67524@0
+Buj@ti@ti@67524@99
 Buj@Bujyate@Bujyate@67524@4
 Buj@Bojayati@BujBojayati@67524@0
 Buj@BuYjApayati@BuYjApayati@67525@4
@@ -25458,17 +25458,17 @@ Buvana@BuvanOkas@BuvanOkas@67644@1
 Buvar@vyAhfti@BuvarvyAhfti@67649@0
 Buvi@BU@BuviBU@67651@0
 BU@Bavati@Bavati@67655@1
-BU@te@BUte@67655@0
+BU@te@te@67655@99
 BU@aBUvan@BUaBUvan@67655@0
 BU@aBAvi@BUaBAvi@67656@0
 BU@Bavizyati@Bavizyati@67656@4
-BU@te@BUte@67656@0
+BU@te@te@67656@99
 BU@BUyate@BUyate@67656@4
 BU@BAvayati@BAvayati@67656@4
-BU@te@BUte@67656@0
+BU@te@te@67656@99
 BU@BAvyate@BAvyate@67657@4
 BU@buBUzati@BUbuBUzati@67657@0
-BU@te@BUte@67657@0
+BU@te@te@67657@99
 BU@boBavIti@BUboBavIti@67657@0
 BU@BUta@BUta@67657@1
 BU@Bavitum@Bavitum@67657@4
@@ -25716,7 +25716,7 @@ BUri@Boja@BUriBoja@68045@1
 BUri@varcas@BUrivarcas@68047@1
 BUri@vasu@BUrivasu@68049@1
 BUri@vikrama@BUrivikrama@68051@1
-BUri@vyaya@BUrivyaya@68053@0
+BUri@vyaya@BUrivyya@68053@3
 BUri@Sravas@BUriSravas@68055@1
 BUri@BUri@BUri@68055@1
 BUri@zeRa@BUrizeRa@68057@1
@@ -26058,7 +26058,7 @@ maYca@yUpa@maYcayUpa@68840@1
 maYjarayati@maYjarita@maYjarita@68842@2
 maYjarI@i@maYjarIi@68845@0
 maYjarI@mkf@maYjarImkf@68847@0
-maYjarI@ikA@maYjarIikA@68847@0
+maYjarI@ikA@maYjarikA@68847@2
 maYjarI@cAmara@maYjarIcAmara@68850@1
 maYjarI@jAla@maYjarIjAla@68852@1
 maYjarI@jAlaDArin@maYjarIjAlaDArin@68852@1
@@ -26219,7 +26219,7 @@ maTin@manTan@manTan@69175@2
 maTin@maTmaTi@maTmaTi@69175@7
 mad@madati@madati@69181@4
 mad@mAdyati@madmAdyati@69181@0
-mad@te@madte@69181@0
+mad@te@te@69181@99
 mad@madita@madita@69182@4
 mad@mattas@mattas@69188@1
 mad@madvat@madvat@69188@1
@@ -26307,11 +26307,11 @@ madana@madanAvasTa@madanAvasTa@69333@1
 madana@A@madanA@69333@2
 madana@madanotsuka@madanotsuka@69335@1
 madana@madanodyAna@madanodyAna@69337@1
-madayantI@ikA@madayantIikA@69341@0
+madayantI@ikA@madayantikA@69341@2
 madira@A@madirA@69347@2
-madira@Amaya@madiraAmaya@69348@0
+madira@Amaya@madiraAmya@69348@3
 madira@I@madirI@69348@3
-madira@AvatI@madiraAvatI@69349@0
+madira@AvatI@madirAvatI@69349@2
 madira@madirAkzI@madirAkzI@69351@1
 madira@madirekzaRA@madirekzaRA@69351@1
 madira@madirASva@madirASva@69354@1
@@ -26547,7 +26547,7 @@ manas@hArikA@manashArikA@69735@0
 manas@hft@manashft@69737@0
 manas@hlAda@manashlAda@69739@0
 manas@manasija@manasija@69741@1
-manas@Saya@manasSaya@69741@0
+manas@Saya@manasSya@69741@3
 manas@mandaruj@manasmadaruj@69743@3
 manaska@manas@manas@69745@2
 manasvin@manasvitA@manasvitA@69751@1
@@ -26555,8 +26555,8 @@ manasvin@I@manasvinI@69752@1
 manAk@na@manAkna@69754@0
 manAk@m@manAkm@69754@0
 manAk@ta@manAkta@69755@0
-manIzA@ikA@manIzAikA@69757@0
-manIzA@in@manIzAin@69757@0
+manIzA@ikA@manIzikA@69757@2
+manIzA@in@manIzin@69757@2
 manIzA@itA@manIzitA@69758@2
 manu@tva@manutva@69765@1
 manu@ja@manuja@69767@1
@@ -26782,7 +26782,7 @@ marakata@SyAma@marakataSyAma@70175@1
 maraRa@aM@maraRaM@70177@2
 maraRa@kf@maraRIkf@70177@3
 maraRa@daSA@maraRadaSA@70179@1
-maraRa@samaya@maraRasamaya@70179@0
+maraRa@samaya@maraRasamya@70179@3
 maraRa@Darman@maraRaDarman@70181@1
 maraRa@niScaya@maraRaniScaya@70183@1
 maraRa@maRqana@maRqana@70185@2
@@ -26858,7 +26858,7 @@ marman@marmAtiga@marmAtiga@70315@2
 marman@marmAvaraRa@marmAvaraRa@70317@2
 marmara@IBUta@marmaraIBUta@70320@0
 marmara@pattramokza@marmarapattramokza@70322@1
-maryAdA@in@maryAdAin@70329@0
+maryAdA@in@maryAdin@70329@2
 maryAdA@giri@maryAdAgiri@70332@1
 maryAdA@maryAdAcala@maryAdAcala@70332@1
 maryAdA@Bedaka@maryAdABedaka@70334@1
@@ -26921,7 +26921,7 @@ mastaka@SUla@mastakaSUla@70463@1
 mastaka@piRqaka@mastakapiRqaka@70465@1
 mah@mahate@mahate@70471@4
 mah@mahayati@mahayati@70471@4
-mah@te@mahte@70471@0
+mah@te@te@70471@99
 mah@mahitamahitvA@mahitamahitvA@70471@4
 mah@nATa@mahnATa@70474@0
 maha@mahA0@mahA0@70478@4
@@ -27038,13 +27038,13 @@ mahA@nftya@mahAnftya@70682@1
 mahA@netra@mahAnetra@70684@1
 mahA@pakza@mahApakza@70686@1
 mahA@paTa@mahApaTa@70688@1
-mahA@ika@mahAika@70689@0
+mahA@ika@mahika@70689@3
 mahA@paTagiri@mahApaTagiri@70689@1
 mahA@padma@mahApadma@70691@1
 mahA@parvata@mahAparvata@70694@1
 mahA@pavitra@mahApavitra@70696@1
 mahA@pAtaka@mahApAtaka@70698@1
-mahA@in@mahAin@70698@0
+mahA@in@mahin@70698@2
 mahA@pAda@mahApAda@70701@1
 mahA@pAna@mahApAna@70703@1
 mahA@pAra@mahApAra@70705@1
@@ -27066,7 +27066,7 @@ mahA@pralaya@mahApralaya@70733@1
 mahA@praSna@mahApraSna@70735@1
 mahA@prasAda@mahAprasAda@70737@1
 mahA@prasTAna@mahAprasTAna@70739@1
-mahA@ika@mahAika@70739@0
+mahA@ika@mahika@70739@3
 mahA@prAjYa@mahAprAjYa@70742@1
 mahA@prARa@mahAprARa@70744@1
 mahA@Pala@mahAPala@70746@1
@@ -27081,7 +27081,7 @@ mahA@Bawa@mahABawa@70764@1
 mahA@Baya@mahABaya@70766@1
 mahA@Bara@mahABara@70768@1
 mahA@BAga@mahABAga@70770@1
-mahA@in@mahAin@70770@0
+mahA@in@mahin@70770@2
 mahA@ya@mahAya@70770@0
 mahA@yatA@mahAyatA@70771@5
 mahA@BAgavata@mahABAgavata@70773@1
@@ -27100,7 +27100,7 @@ mahA@mati@mahAmati@70801@1
 mahA@manas@mahAmanas@70803@1
 mahA@manuzya@mahAmanuzya@70805@1
 mahA@mantra@mahAmantra@70807@1
-mahA@in@mahAin@70807@0
+mahA@in@mahin@70807@2
 mahA@marakata@mahAmarakata@70809@1
 mahA@mAMsa@mahAmAMsa@70811@1
 mahA@mAtra@mahAmAtra@70813@1
@@ -27145,7 +27145,7 @@ mahA@rAva@mahArAva@70885@1
 mahA@rAzwra@mahArAzwra@70887@1
 mahA@I@mahAI@70888@0
 mahA@rUpa@mahArUpa@70890@1
-mahA@in@mahAin@70890@0
+mahA@in@mahin@70890@2
 mahA@retas@mahAretas@70892@1
 mahA@bIja@mahAbIja@70892@1
 mahA@roman@mahAroman@70894@1
@@ -27178,8 +27178,8 @@ mahA@vega@mahAvega@70945@1
 mahA@vela@mahAvela@70947@1
 mahA@vESasa@mahAvESasa@70949@0
 mahA@vrata@mahAvrata@70951@1
-mahA@ika@mahAika@70953@0
-mahA@in@mahAin@70953@0
+mahA@ika@mahika@70953@3
+mahA@in@mahin@70953@2
 mahA@Sakti@mahASakti@70955@1
 mahA@SaNKa@mahASaNKa@70957@1
 mahA@SANKa@mahASANKa@70957@0
@@ -27322,7 +27322,7 @@ mahAnt@AyuDa@mahAntAyuDa@71182@0
 mahAnt@AvAsa@mahAntAvAsa@71184@0
 mahAnt@ASA@mahAntASA@71186@0
 mahAnt@guRatva@mahAntguRatva@71188@5
-mahAnt@Baya@mahAntBaya@71190@0
+mahAnt@Baya@mahAntBya@71190@3
 mahi@tA@mahitA@71194@1
 mahi@tva@mahitva@71194@1
 mahi@mant@mahimant@71194@1
@@ -27439,7 +27439,7 @@ mAtali@sAraTi@mAtalisAraTi@71416@1
 mAtula@AnI@mAtulaAnI@71419@0
 mAtula@eya@mAtulaeya@71419@0
 mAtula@kamAtula@mAtulakamAtula@71420@0
-mAtula@ya@mAtulaya@71420@0
+mAtula@ya@mAtulya@71420@2
 mAtuliNga@mAtuluNga@mAtuluNga@71422@2
 mAtf@tas@mAtftas@71426@1
 mAtf@vat@mAtfvat@71427@1
@@ -27525,7 +27525,7 @@ mAna@varjaka@mAnavarjaka@71588@1
 mAna@varjita@mAnavarjita@71590@1
 mAna@varDana@mAnavarDana@71592@1
 mAna@vikrayin@mAnavikrayin@71594@1
-mAna@vijaya@mAnavijaya@71596@0
+mAna@vijaya@mAnavijya@71596@3
 mAna@sAra@mAnasAra@71598@1
 mAna@mAnAgnihotra@mAnAgnihotra@71600@1
 mAna@mAnAnDa@mAnAnDa@71602@1
@@ -27615,7 +27615,7 @@ mAra@mArABirAma@mArABirAma@71785@1
 mAra@mArAri@mArAri@71787@1
 mArakata@I@mArakatI@71791@3
 mAriza@A@mArizA@71798@2
-mArIca@ya@mArIcaya@71802@0
+mArIca@ya@mArIcya@71802@2
 mAruta@I@mArutI@71806@2
 mAruta@A@mArutA@71807@2
 mAruta@sUnu@mArutasUnu@71809@1
@@ -27765,7 +27765,7 @@ mitra@mitrAvaruRa@mitrAvaruRa@72126@1
 mitra@vasu@mitravasu@72128@0
 mitra@mitrIkfta@mitrIkfta@72130@1
 miTas@miTaHkftya@miTaHkftya@72141@1
-miTas@samaya@miTassamaya@72143@0
+miTas@samaya@miTassamya@72143@3
 miTas@miToviroDin@miToviroDin@72145@2
 miTila@A@miTilA@72149@2
 miTila@miTilADipati@miTilADipati@72151@1
@@ -27774,10 +27774,10 @@ miTuna@IBU@miTunIBU@72155@2
 miTuna@vratin@miTunavratin@72157@1
 miTuna@miTunIBAva@miTunIBAva@72159@1
 miTyA@m@miTyAm@72162@0
-miTyA@kf@miTyAkf@72162@0
+miTyA@kf@miTyIkf@72162@3
 miTyA@na@miTyAna@72163@0
 miTyA@m@miTyAm@72163@0
-miTyA@kf@miTyAkf@72163@0
+miTyA@kf@miTyIkf@72163@3
 miTyA@m@miTyAm@72163@0
 miTyA@BU@miTyABU@72163@0
 miTyA@kAruRika@miTyAkAruRika@72165@1
@@ -27955,7 +27955,7 @@ mugDa@mugDAgraRI@mugDAgraRI@72502@1
 mugDa@mugDAtman@mugDAtman@72504@1
 mugDa@mugDAloka@mugDAloka@72506@1
 mugDa@mugDendu@mugDendu@72508@1
-muc@ti@mucti@72511@0
+muc@ti@ti@72511@99
 muc@prati@mucprati@72515@0
 muc@mokzate@mucmokzate@72517@0
 muc@mokzayati@mucmokzayati@72518@0
@@ -27972,12 +27972,12 @@ muRqayati@muRqitamuRqa@muRqitamuRqa@72553@2
 muRqayati@mUrDan@muRqayatimUrDan@72553@0
 muRqayati@Siras@muRqayatiSiras@72553@0
 mud@modate@mudmodate@72557@0
-mud@ti@mudti@72557@0
+mud@ti@ti@72557@99
 mud@mumoda@mumoda@72557@1
 mud@mumude@mumude@72557@4
 mud@modizyate@mudmodizyate@72557@0
 mud@modayati@mudmodayati@72557@0
-mud@te@mudte@72557@0
+mud@te@te@72557@99
 mud@mudita@mudita@72557@1
 mudA@vant@mudAvant@72565@1
 mudA@yukta@mudAyukta@72567@1
@@ -28025,7 +28025,7 @@ muz@muzati@muzati@72664@4
 muz@mumoza@mumoza@72664@4
 muz@amozi@muzamozi@72664@0
 muz@muzyate@muzyate@72664@4
-muz@ti@muzti@72664@0
+muz@ti@ti@72664@99
 muz@muzita@muzita@72665@1
 muz@muzwa@muzwa@72665@1
 muz@muzitvA@muzitvA@72665@1
@@ -28114,7 +28114,7 @@ mUla@prakfti@mUlaprakfti@72829@1
 mUla@praRihita@mUlapraRihita@72831@1
 mUla@Bftya@mUlaBftya@72833@1
 mUla@mantra@mUlamantra@72835@1
-mUla@maya@mUlamaya@72836@0
+mUla@maya@mUlamya@72836@3
 mUla@I@mUlI@72836@2
 mUla@vApa@mUlavApa@72838@1
 mUla@vinASana@mUlavinASana@72840@1
@@ -28143,7 +28143,7 @@ mfga@mfgaSiras@mfgaSiras@72889@1
 mfga@I@mfgI@72889@2
 mfga@tva@mfgatva@72890@1
 mfga@vatI@mfgavatI@72890@1
-mfga@AvatI@mfgaAvatI@72891@0
+mfga@AvatI@mfgAvatI@72891@2
 mfga@kAnana@mfgakAnana@72893@1
 mfga@grahaRa@mfgagrahaRa@72895@1
 mfga@caryA@mfgacaryA@72897@1
@@ -28221,7 +28221,7 @@ mfgayA@vihf,@mfgayAvihf@72982@3
 mfgayA@Darma@mfgayADarma@72985@1
 mfgayA@rasa@mfgayArasa@72987@1
 mfgayA@vihAra@mfgayAvihAra@72987@1
-mfgayA@in@mfgayAin@72987@0
+mfgayA@in@mfgayin@72987@3
 mfgayA@vana@mfgayAvana@72990@1
 mfgayA@veza@mfgayAveza@72992@1
 mfgayA@SIla@mfgayASIla@72994@1
@@ -28243,7 +28243,7 @@ mfRAla@mfRAlANgada@mfRAlANgada@73035@1
 mfRAla@hAra@mfRAlahAra@73038@1
 mfRAlaka@mfRAla@mfRAla@73040@2
 mfRAlaka@ikA@mfRAlakikA@73040@3
-mfRAlaka@ikAmaya@mfRAlakaikAmaya@73041@0
+mfRAlaka@ikAmaya@mfRAlakaikAmya@73041@3
 mfRAlaka@I@mfRAlakI@73041@3
 mfRAlaka@mfRAlikApelava@mfRAlikApelava@73043@2
 mft@mfd@mfd@73047@1
@@ -28307,7 +28307,7 @@ mfd@prakzepa@mfdprakzepa@73154@0
 mfd@mfllozwa@mfllozwa@73156@1
 mfdaNga@aMga@mfdaNgaaMga@73158@0
 mfdu@u@mfduu@73162@0
-mfdu@(v)I@mfdu(v)I@73162@0
+mfdu@(v)I@mfdvI@73162@2
 mfdu@Ukf@mfduUkf@73163@0
 mfdu@tA@mfdutA@73163@1
 mfdu@tva@mfdutva@73164@1
@@ -28330,7 +28330,7 @@ mfDa@BU@mfDaBU@73196@1
 mfn@mfl@mfl@73198@1
 mfn@mfd@mfd@73198@1
 mfzA@m@mfzAm@73209@0
-mfzA@kf@mfzAkf@73209@0
+mfzA@kf@mfzIkf@73209@3
 mfzA@man@mfzAman@73210@0
 mfzA@jYAna@mfzAjYAna@73212@1
 mfzA@dAna@mfzAdAna@73214@1
@@ -28445,7 +28445,7 @@ mEtreya@ka@mEtreyaka@73459@1
 mETila@I@mETilI@73463@2
 mETila@eya@mETilaeya@73464@0
 mETuna@I@mETunI@73466@3
-mETuna@ya@mETunaya@73468@0
+mETuna@ya@mETunya@73468@2
 mETuna@gata@mETunagata@73471@1
 mETuna@jvara@mETunajvara@73473@1
 mETuna@Darmin@mETunaDarmin@73475@1
@@ -28713,7 +28713,7 @@ yatra@yatrAstamitaSAyin@yatrAstamitaSAyin@74034@1
 yatra@yatrecCaka@yatrecCaka@74036@1
 yaTA@taTA@yaTAtaTA@74043@1
 yaTA@evam@yaTAevam@74043@0
-yaTA@tadvat@yaTAtadvat@74044@0
+yaTA@tadvat@yaTAtadvat@74044@5
 yaTA@yaTAtaTA@yaTAtaTA@74044@1
 yaTA@y@yaTAy@74045@0
 yaTA@y@yaTAy@74045@0
@@ -28991,7 +28991,7 @@ yad@astu@yadastu@74446@0
 yad@yat@yat@74447@1
 yad@satyam@yadsatyam@74447@0
 yad@yadvat@yadvat@74447@1
-yad@tadvat@yadtadvat@74448@0
+yad@tadvat@yadtadvat@74448@5
 yad@yanmaya@yanmaya@74448@1
 yad@I@yadI@74448@1
 yad@tad@tad@74448@1
@@ -29048,7 +29048,7 @@ yadi@kila@yadikila@74514@0
 yadi@y@yadiy@74515@0
 yadi@ced@yadiced@74515@0
 yadi@y@yadiy@74515@0
-yadi@tAvat@yaditAvat@74515@0
+yadi@tAvat@yaditAvat@74515@5
 yadi@y@yadiy@74515@0
 yadi@nAma@yadinAma@74515@0
 yadi@y@yadiy@74516@0
@@ -29363,7 +29363,7 @@ yugma@ka@yugmaka@75145@1
 yugma@cArin@yugmacArin@75148@1
 yugma@yugmApatyA@yugmApatyA@75150@1
 yugya@sTa@yugyasTa@75154@1
-yuj@ti@yujti@75157@0
+yuj@ti@ti@75157@99
 yuj@yojyate@yujyojyate@75158@0
 yuj@yukta@yukta@75158@1
 yuj@yoktum@yujyoktum@75158@0
@@ -29442,7 +29442,7 @@ yUpa@yUpAKya@yUpAKya@75303@1
 yUpa@yUpocCaraya@yUpocCaraya@75305@4
 yUpa@yUpolUKalika@yUpolUKalika@75307@1
 ye@ya@yeya@75313@1
-yena@ya@yenaya@75315@0
+yena@ya@yenya@75315@3
 yeme@yam@yemeyam@75318@0
 yoga@am@yogam@75335@3
 yoga@i@yogi@75335@2
@@ -29738,7 +29738,7 @@ rata@ratotsava@ratotsava@75967@1
 rata@ratoparatasaMsupta@ratoparatasaMsupta@75969@1
 rati@iM@ratiiM@75972@0
 rati@laBvid@ratilaBvid@75972@0
-rati@kf@ratikf@75972@0
+rati@kf@ratIkf@75972@3
 rati@banD@ratibanD@75972@0
 rati@I@ratI@75974@2
 rati@mant@ratimant@75975@1
@@ -29821,7 +29821,7 @@ raTa@jYAna@raTajYAna@76110@1
 raTa@in@raTin@76110@2
 raTa@durga@raTadurga@76113@1
 raTa@Dur@raTaDur@76115@1
-raTa@ya@raTaya@76115@0
+raTa@ya@raTya@76115@2
 raTa@DUrgata@raTaDUrgata@76116@1
 raTa@nABi@raTanABi@76118@1
 raTa@nIqa@raTanIqa@76120@1
@@ -29941,7 +29941,7 @@ raSmi@krIqa@raSmikrIqa@76375@1
 raSmi@mAlin@raSmimAlin@76377@1
 raSmi@muca@raSmimuca@76379@1
 ras@rasati@rasati@76381@4
-ras@te@raste@76381@0
+ras@te@te@76381@99
 ras@rarAsa@rarAsa@76381@4
 ras@resuH@rasresuH@76381@0
 ras@rasita@rasita@76381@1
@@ -30052,11 +30052,11 @@ rANkava@rANkavAjinaSAyin@rANkavAjinaSAyin@76607@1
 rANkava@rANkavAstaraRa@rANkavAstaraRa@76609@1
 rANkava@rANkavAstfta@rANkavAstfta@76611@1
 rAj@rAjati@rAjati@76613@4
-rAj@te@rAjte@76613@0
+rAj@te@te@76613@99
 rAj@rarAja@rAjrarAja@76613@0
 rAj@reje@rAjreje@76613@0
 rAj@rAjayati@rAjayati@76613@4
-rAj@te@rAjte@76613@0
+rAj@te@te@76613@99
 rAj@rAjita@rAjita@76613@1
 rAj@rAw@rAw@76617@1
 rAjaka@Iyas@rAjakaIyas@76619@0
@@ -30097,7 +30097,7 @@ rAjan@cakra@rAjancakra@76666@0
 rAjan@aM@rAjanaM@76666@0
 rAjan@pravartay@rAjanpravartay@76666@0
 rAjan@jambU@rAjanjambU@76669@0
-rAjan@tanaya@rAjantanaya@76671@0
+rAjan@tanaya@rAjantanya@76671@3
 rAjan@A@rAjanA@76671@0
 rAjan@taraNgiRI@rAjantaraNgiRI@76673@0
 rAjan@tAlI@rAjantAlI@76676@0
@@ -30106,7 +30106,7 @@ rAjan@darSana@rAjandarSana@76680@0
 rAjan@dAra@rAjandAra@76682@0
 rAjan@ikA@rAjanikA@76682@0
 rAjan@duhitf@rAjanduhitf@76684@0
-rAjan@maya@rAjanmaya@76684@0
+rAjan@maya@rAjanmya@76684@3
 rAjan@I@rAjanI@76684@1
 rAjan@dvAr@rAjandvAr@76686@0
 rAjan@dvAra@rAjandvAra@76686@0
@@ -30116,7 +30116,7 @@ rAjan@an@rAjan@76690@2
 rAjan@Darmavid@rAjanDarmavid@76690@0
 rAjan@DarmAnuSAsanaparvan@rAjanDarmAnuSAsanaparvan@76691@0
 rAjan@DAnI@rAjanDAnI@76693@0
-rAjan@naya@rAjannaya@76695@0
+rAjan@naya@rAjannya@76695@3
 rAjan@nirDUtadaRqa@rAjannirDUtadaRqa@76697@0
 rAjan@niveSana@rAjanniveSana@76699@0
 rAjan@nIti@rAjannIti@76701@0
@@ -30143,7 +30143,7 @@ rAjan@banDu@rAjanbanDu@76728@0
 rAjan@bIjitA@rAjanbIjitA@76730@5
 rAjan@Bawa@rAjanBawa@76732@0
 rAjan@Bfta@rAjanBfta@76732@0
-rAjan@Baya@rAjanBaya@76734@0
+rAjan@Baya@rAjanBya@76734@3
 rAjan@Bavana@rAjanBavana@76736@0
 rAjan@mandira@rAjanmadira@76736@3
 rAjan@Bftya@rAjanBftya@76738@0
@@ -30190,7 +30190,7 @@ rAjan@SrI@rAjanSrI@76802@0
 rAjan@lakzamI@rAjanlakzamI@76802@0
 rAjan@Srotriya@rAjanSrotriya@76804@0
 rAjan@rzi@rAjanrzi@76804@0
-rAjan@saMSraya@rAjansaMSraya@76806@0
+rAjan@saMSraya@rAjansaMSrya@76806@3
 rAjan@saMsad@rAjansaMsad@76808@0
 rAjan@sattra@rAjansattra@76810@0
 rAjan@sadman@rAjansadman@76812@0
@@ -30423,7 +30423,7 @@ rucira@deva@ruciradeva@77271@1
 rucira@BAzaRa@ruciraBAzaRa@77273@1
 rucira@rucirASva@rucirASva@77275@1
 ruj@rujati@rujati@77277@4
-ruj@te@rujte@77277@0
+ruj@te@te@77277@99
 ruj@ruroja@ruroja@77277@4
 ruj@arUrujat@rujarUrujat@77277@0
 ruj@rujyate@rujyate@77277@4
@@ -30462,8 +30462,8 @@ rudra@sAvarRi@rudrasAvarRi@77344@1
 rudra@suta@rudrasuta@77346@1
 rudra@rudrAkzamAlA@rudrAkzamAlA@77348@1
 rudra@ikA@rudrikA@77348@3
-rudra@valaya@rudravalaya@77348@0
-ruD@ti@ruDti@77351@0
+rudra@valaya@rudravalya@77348@3
+ruD@ti@ti@77351@99
 ruDira@tAmrAkza@ruDiratAmrAkza@77361@1
 ruDira@I@ruDirI@77361@3
 ruDira@pradigDa@ruDirapradigDa@77363@1
@@ -30476,10 +30476,10 @@ ruDira@ruDirASana@ruDirASana@77375@1
 ruru@ka@ruruka@77386@1
 ruru@vidAriRI@ruruvidAriRI@77388@1
 ruz@ruzyati@ruzyati@77394@4
-ruz@te@ruzte@77394@0
+ruz@te@te@77394@99
 ruz@ruzati@ruzati@77394@4
 ruz@rozayati@ruzrozayati@77394@0
-ruz@te@ruzte@77394@0
+ruz@te@te@77394@99
 ruz@ruzita@ruzita@77395@1
 ruz@ruzwA@ruzwA@77395@4
 ruz@ruzya@ruzya@77395@1
@@ -30490,7 +30490,7 @@ ruz@ruSadraTa@ruSadraTa@77399@1
 ruz@ruw@ruw@77401@1
 ruz@A@ruzA@77401@1
 ruh@rohayati@ruhrohayati@77404@0
-ruh@te@ruhte@77404@0
+ruh@te@te@77404@99
 ruh@na@ruhna@77406@0
 ruh@r@ruhr@77406@0
 ruh@ruw@ruw@77410@1
@@ -30561,7 +30561,7 @@ reKA@mAtram@reKAmAtram@77544@1
 reRu@tva@reRutva@77552@1
 reRu@guRWita@reRuguRWita@77554@1
 reRuka@A@reRukA@77556@2
-reRuka@tanaya@reRukatanaya@77558@0
+reRuka@tanaya@reRukatanya@77558@3
 reRuka@suta@reRukasuta@77558@0
 retas@reto@reto@77560@2
 retas@DA@retasDA@77560@0
@@ -30719,7 +30719,7 @@ lakzya@lakzyABiharaRa@lakzyABiharaRa@77889@1
 lakzya@lakzyArTa@lakzyArTa@77891@1
 lakzya@lakzyAlakzya@lakzyAlakzya@77893@1
 laguqa@in@laguqin@77912@2
-laGu@(v)I@laGu(v)I@77919@0
+laGu@(v)I@laGvI@77919@2
 laGu@u@laGuu@77921@0
 laGu@u@laGuu@77921@0
 laGu@man@laGuman@77921@0
@@ -30773,7 +30773,7 @@ lajjA@lu@lajjAlu@78010@1
 lajjA@lajjAkfti@lajjAkfti@78012@1
 lawaBa@A@lawaBA@78018@2
 laqaha@lawaBa@lawaBa@78024@2
-latA@ikA@latAikA@78028@0
+latA@ikA@latikA@78028@2
 latA@gahanavant@latAgahanavant@78030@1
 latA@gfha@latAgfha@78032@1
 latA@maRqapa@latAmaRqapa@78032@1
@@ -30844,7 +30844,7 @@ lavaRa@lavaRAmburASi@lavaRAmburASi@78247@1
 lavaRa@lavaRodaka@lavaRodaka@78250@1
 lavalI@PalapARqura@lavalIPalapARqura@78254@1
 las@lasati@lasati@78261@4
-las@te@laste@78261@0
+las@te@te@78261@99
 las@lalAsa@lalAsa@78261@4
 las@lAsayati@laslAsayati@78261@0
 las@lasita@lasita@78261@1
@@ -31505,7 +31505,7 @@ vana@pAla@vanapAla@79712@1
 vana@pa@vanapa@79712@1
 vana@pAlADipa@vanapAlADipa@79712@1
 vana@puzpa@vanapuzpa@79714@1
-vana@maya@vanamaya@79714@0
+vana@maya@vanamya@79714@3
 vana@I@vanI@79714@2
 vana@pratizWa@vanapratizWa@79717@1
 vana@prasTa@vanaprasTa@79719@1
@@ -31835,7 +31835,7 @@ varza@gaRa@varzagaRa@80430@1
 varza@giri@varzagiri@80432@1
 varza@Gna@varzaGna@80434@1
 varza@tra@varzatra@80436@1
-varza@dvaya@varzadvaya@80438@0
+varza@dvaya@varzadvya@80438@3
 varza@Dara@varzaDara@80440@1
 varza@DArADara@varzaDArADara@80442@1
 varza@pa@varzapa@80444@1
@@ -31876,7 +31876,7 @@ varza@cara@varzacara@80485@0
 varza@rAtra@varzarAtra@80487@1
 varza@I@varzI@80487@3
 varza@kAla@varzakAla@80487@0
-varza@samaya@varzasamaya@80487@0
+varza@samaya@varzasamya@80487@3
 varzaRa@I@varzaRI@80489@2
 varzita@A@varzitA@80492@2
 varzin@(i)tA@varzin(i)tA@80495@5
@@ -31890,7 +31890,7 @@ vala@nASana@valanASana@80517@1
 vala@bala@bala@80518@1
 valantikA@valaBikA@valaBikA@80524@2
 valaBI@I@valaBII@80526@0
-valaBI@ikA@valaBIikA@80527@0
+valaBI@ikA@valaBikA@80527@2
 valaya@Ikf@valayIkf@80530@2
 valaya@Ikfta@valayaIkfta@80531@0
 valaya@IBU@valayIBU@80531@2
@@ -31998,16 +31998,16 @@ vas@vasitvA@vasitvA@80715@1
 vas@vasya@vasya@80715@1
 vas@vasitum@vasitum@80715@4
 vas@vasati@vasati@80719@1
-vas@te@vaste@80719@0
+vas@te@te@80719@99
 vas@uvAsa@vasuvAsa@80719@0
 vas@UzuH@vasUzuH@80719@0
 vas@avAtsIt@vasavAtsIt@80720@0
 vas@vatsyati@vatsyati@80720@4
-vas@te@vaste@80720@0
+vas@te@te@80720@99
 vas@vasizyati@vasizyati@80720@4
 vas@uzyate@vasuzyate@80720@0
 vas@vAsayati@vasvAsayati@80720@0
-vas@te@vaste@80720@0
+vas@te@te@80720@99
 vas@vAsyate@vasvAsyate@80721@0
 vas@vasita@vasita@80721@1
 vas@uzitauzwa@vasuzitauzwa@80721@0
@@ -32132,19 +32132,19 @@ vastra@vastrAvalarta@vastrAvalarta@80944@4
 vastra@vastrotkarzaRa@vastrotkarzaRa@80946@1
 vasyAMs@vasu@vasu@80948@2
 vah@vahati@vahati@80950@1
-vah@te@vahte@80950@0
+vah@te@te@80950@99
 vah@uvAha@vahuvAha@80950@0
 vah@UhuH@vahUhuH@80950@0
 vah@vavAha@vavAha@80950@4
 vah@vavAhatuH@vavAhatuH@80950@4
 vah@avAhi@vahavAhi@80951@0
 vah@vakzyati@vakzyati@80951@4
-vah@te@vahte@80951@0
+vah@te@te@80951@99
 vah@vahizyati@vahizyati@80951@4
 vah@uhyate@vahuhyate@80951@0
 vah@vAvahIti@vahvAvahIti@80951@0
 vah@vAhayati@vahvAhayati@80951@0
-vah@te@vahte@80951@0
+vah@te@te@80951@99
 vah@vAhyate@vahvAhyate@80952@0
 vah@UQavoQum@vahUQavoQum@80952@0
 vah@uhya@vahuhya@80952@0
@@ -32180,7 +32180,7 @@ vA@vAta@vAvAta@81009@1
 vA@vAna@vAna@81009@1
 vA@vAtum@vAtum@81009@4
 vA@vayati@vayati@81012@1
-vA@te@vAte@81012@0
+vA@te@te@81012@99
 vA@uta@vAuta@81012@0
 vA@navA@vAnavA@81016@0
 vA@vAvA@vAvA@81016@4
@@ -32213,7 +32213,7 @@ vAkya@sAraTi@vAkyasAraTi@81053@1
 vAkya@vAkyArTa@vAkyArTa@81055@1
 vAkya@vAkyopacAra@vAkyopacAra@81057@1
 vAg@vAc@vAc@81059@1
-vAgurA@ika@vAgurAika@81061@0
+vAgurA@ika@vAgurika@81061@2
 vAgurA@vftti@vAgurAvftti@81063@1
 vAgmin@(mi)tva@vAgmin(mi)tva@81066@5
 vAN@vAc@vAc@81069@1
@@ -32338,7 +32338,7 @@ vAjin@vAraRaSAlA@vAraRaSAlA@81296@2
 vAjin@vAhana@vAhana@81298@2
 vAjin@Siras@vAjinSiras@81300@0
 vAYCA@AM@vAYCAAM@81306@0
-vAYCA@kf@vAYCAkf@81306@0
+vAYCA@kf@vAYCIkf@81306@3
 vAw@vah@vAwvah@81309@0
 vAwa@ka@vAwaka@81312@1
 vAwa@ikA@vAwikA@81312@2
@@ -32421,7 +32421,7 @@ vAnta@vfzwi@vAntavfzwi@81508@1
 vAnta@vAntASin@vAntASin@81510@1
 vApI@kA@vApIkA@81517@0
 vApI@I@vApII@81517@0
-vApI@ikA@vApIikA@81517@0
+vApI@ikA@vApikA@81517@2
 vApI@vistIrRa@vApIvistIrRa@81519@1
 vAma@I@vAmI@81525@2
 vAma@datta@vAmadatta@81527@1
@@ -32497,7 +32497,7 @@ vAyu@skanDa@vAyuskanDa@81644@1
 vAyu@han@vAyuhan@81646@1
 vAr@vAri@vAri@81650@1
 vAr@Di@vArDi@81652@1
-vAr@Divat@vArDivat@81652@0
+vAr@Divat@vArDivat@81652@5
 vAr@muc@vArmuc@81654@1
 vAr@vAha@vArvAha@81654@1
 vAra@aM@vAraM@81658@2
@@ -32595,13 +32595,13 @@ vArtta@vArttAramBa@vArttAramBa@81830@1
 vArttika@A@vArttikA@81836@2
 vArtraGna@I@vArtraGnI@81839@3
 vArtraGna@hatya@vArtraGnahatya@81840@0
-vArdDaka@ya@vArdDakaya@81842@0
+vArdDaka@ya@vArdDakya@81842@2
 vArdDaka@BAva@vArdDakaBAva@81844@1
 vArdDuza@I@vArdDuzI@81850@2
 vArdDuza@ika@vArdDuzika@81850@2
 vArdDuza@in@vArdDuzin@81850@2
 vArdDuza@I@vArdDuzI@81850@2
-vArdDuza@ya@vArdDuzaya@81850@0
+vArdDuza@ya@vArdDuzya@81850@2
 vArzagaRa@gaRIputra@vArzagaRagaRIputra@81857@0
 vArzagaRa@gaRya@vArzagaRagaRya@81858@0
 vArzika@I@vArzikI@81868@2
@@ -32653,7 +32653,7 @@ vAsaka@sajjA@vAsakasajjA@81984@1
 vAsana@e@vAsane@81989@3
 vAsana@kfta@vAsanakfta@81989@0
 vAsana@A@vAsanA@81993@2
-vAsana@Amaya@vAsanaAmaya@81997@0
+vAsana@Amaya@vAsanaAmya@81997@3
 vAsana@I@vAsanI@81997@3
 vAsanta@I@vAsantI@82000@2
 vAsanta@ika@vAsantika@82001@2
@@ -32753,7 +32753,7 @@ vikawa@vikawAnana@vikawAnana@82229@1
 vikawa@vadana@vikawavadana@82229@1
 vikatT@katTita@vikatTita@82234@2
 vikatTana@A@vikatTanA@82236@3
-vikatTA@in@vikatTAin@82239@0
+vikatTA@in@vikatTin@82239@2
 vikamp@kampita@vikampita@82246@2
 vikara@vizkara@vizkara@82250@2
 vikarAla@A@vikarAlA@82254@2
@@ -32871,7 +32871,7 @@ vigam@gata@vigata@82587@2
 vigam@vigatakalmaza@vigatakalmaza@82590@1
 vigam@klama@vigamklama@82592@0
 vigam@nayana@vigamnayana@82594@0
-vigam@Baya@vigamBaya@82596@0
+vigam@Baya@vigamBya@82596@3
 vigam@lakzaRa@vigamlakzaRa@82598@0
 vigam@SrIka@vigamSrIka@82601@0
 vigam@saMtrAza@vigamsaMtrAza@82603@0
@@ -32892,7 +32892,7 @@ vigal@vasana@vigalvasana@82636@0
 vigal@Suc@vigalSuc@82638@0
 vigAh@gAQa@vigAQa@82642@2
 vigAha@na@vigAhana@82646@1
-vigAha@ya@vigAhaya@82646@0
+vigAha@ya@vigAhya@82646@2
 viguRa@Ikf@viguRIkf@82653@2
 vigUQa@cArin@vigUQacArin@82659@1
 vigrah@keSe@vigrahkeSe@82664@0
@@ -33013,7 +33013,7 @@ vicCid@SarapAtatva@vicCidSarapAtatva@82932@5
 vicCeda@na@vicCedana@82941@1
 vicCeda@in@vicCedin@82941@2
 vicyuta@I@vicyutI@82945@3
-vijan@jAta@vijanjAta@82957@0
+vijan@jAta@vijAta@82957@2
 vijana@e@vijane@82960@2
 vijana@Ikfta@vijanaIkfta@82961@0
 vijaya@A@vijayA@82969@2
@@ -33183,13 +33183,13 @@ vitrAsayitukAma@trAsita@vitrAsita@83331@2
 vid@vetti@vidvetti@83333@0
 vid@vidanti@vidanti@83333@4
 vid@vidati@vidati@83333@4
-vid@te@vidte@83333@0
+vid@te@te@83333@99
 vid@vindati@vindati@83333@4
-vid@te@vidte@83333@0
+vid@te@te@83333@99
 vid@vedate@vidvedate@83334@0
 vid@veda@vidveda@83334@0
 vid@viduH@viduH@83334@1
-vid@ti@vidti@83335@0
+vid@ti@ti@83335@99
 vid@vedyate@vidvedyate@83335@0
 vid@vividizati@vividizati@83336@4
 vid@vivitsati@vivitsati@83336@4
@@ -33198,9 +33198,9 @@ vid@veditum@vidveditum@83336@0
 vid@vettum@vidvettum@83336@0
 vid@viditvA@viditvA@83336@1
 vid@vindati@vindati@83344@4
-vid@te@vidte@83344@0
+vid@te@te@83344@99
 vid@vindate@vindate@83345@4
-vid@ti@vidti@83346@0
+vid@ti@ti@83346@99
 vid@vedayati@vidvedayati@83346@0
 vid@vivitsati@vivitsati@83346@4
 vid@vitta@vitta@83346@1
@@ -33236,7 +33236,7 @@ vidAra@Ra@vidAraRa@83411@1
 vidAra@ita@vidArita@83412@2
 vidAra@in@vidArin@83412@2
 vidAra@dAraka@vidAraka@83413@2
-vidAra@ya@vidAraya@83413@0
+vidAra@ya@vidArya@83413@2
 vidiS@diSA@vidiSA@83419@2
 vidiS@deSa@vidiSdeSa@83420@0
 vidIp@dIpta@vidIpta@83422@2
@@ -33267,7 +33267,7 @@ vidUra@vigata@vidUravigata@83461@1
 vidUra@saMSrava@vidUrasaMSrava@83463@1
 vidF@dIrRa@vidFdIrRa@83479@0
 vidF@vidIrRamuKa@vidIrRamuKa@83481@1
-vidF@hfdaya@vidFhfdaya@83483@0
+vidF@hfdaya@vidFhfdya@83483@3
 videSa@sTa@videSasTa@83487@1
 videha@tva@videhatva@83490@1
 videha@tvaM@videhatvaM@83491@0
@@ -33324,7 +33324,7 @@ vidyA@vidyABikANkzin@vidyABikANkzin@83566@4
 vidyA@vidyABIpsin@vidyABIpsin@83566@1
 vidyA@vidyABimAnavant@vidyABimAnavant@83568@4
 vidyA@vidyArTa@vidyArTa@83570@1
-vidyA@in@vidyAin@83570@0
+vidyA@in@vidyin@83570@3
 vidyA@vidyAvadAta@vidyAvadAta@83572@4
 vidyA@vidyeSvara@vidyeSvara@83574@1
 vidyA@vidyopArjanA@vidyopArjanA@83576@1
@@ -33556,7 +33556,7 @@ vinASa@I@vinASI@83968@2
 vinASa@ita@vinASita@83970@2
 vinASa@naS@vinASanaS@83970@0
 vinASa@in@vinASin@83970@2
-vinASa@ya@vinASaya@83971@0
+vinASa@ya@vinASya@83971@2
 vinASa@Darman@vinASaDarman@83973@1
 vinASa@vinASAnta@vinASAnta@83975@1
 vinikIrRa@nikIrya@vinikIrRanikIrya@83984@0
@@ -33717,7 +33717,7 @@ viparivft@viparivartitADara@viparivartitADara@84415@2
 viparI@parIta@viparIta@84418@2
 viparI@ka@viparIka@84419@0
 viparI@tA@viparItA@84420@1
-viparI@vat@viparIvat@84420@0
+viparI@vat@viparIvat@84420@5
 viparI@viparItakArin@viparItakArin@84422@1
 viparI@citta@viparIcitta@84424@0
 viparI@cetas@viparIcetas@84425@0
@@ -33813,7 +33813,7 @@ vipraduzwa@BAva@vipraduzwaBAva@84647@1
 vipradru@druta@vipradruta@84650@2
 viprabudDa@boDita@viprabudDaboDita@84658@0
 vipramuc@mukta@vipramucmukta@84667@0
-vipramuc@vimuktaBaya@vimuktaBaya@84669@7
+vipramuc@vimuktaBaya@vipramucvimuktaBya@84669@3
 vipramuh@mohita@vipramuhmohita@84671@0
 vipramokza@Ra@vipramokzaRa@84674@1
 vipramokza@mocya@vipramokzamocya@84675@0
@@ -33913,7 +33913,7 @@ viBAz@BAzita@viBAzita@84923@2
 viBAs@BAsita@viBAsita@84929@2
 viBid@Binna@viBinna@84938@2
 viBI@BIzayati@viBIzayati@84943@7
-viBIzA@ikA@viBIzAikA@84953@0
+viBIzA@ikA@viBIzikA@84953@2
 viBu@U@viBuU@84956@0
 viBu@v@viBuv@84956@0
 viBu@I@viBuI@84956@0
@@ -33930,7 +33930,7 @@ viBUzaRa@I@viBUzaRI@84981@3
 viBUzaRa@viBUzaRodBAsin@viBUzaRodBAsin@84984@1
 viBeda@BrU@viBedaBrU@84993@0
 viBeda@na@viBedana@84994@1
-viBeda@ya@viBedaya@84995@0
+viBeda@ya@viBedya@84995@2
 viBraMSa@ita@viBraMSita@84998@2
 viBraMSa@tas@viBraMSatas@84999@0
 viBraMSa@in@viBraMSin@84999@2
@@ -33994,7 +33994,7 @@ vimAna@a@vimAnaa@85123@0
 vimAna@na@vimAnana@85124@1
 vimAna@nA@vimAnanA@85124@1
 vimAna@ayitavya@vimAnaayitavya@85125@0
-vimAna@ya@vimAnaya@85125@0
+vimAna@ya@vimAnya@85125@2
 vimAna@ita@vimAnita@85125@2
 vimAna@man@vimAnaman@85125@0
 vimArga@dfzwi@vimArgadfzwi@85130@1
@@ -34079,7 +34079,7 @@ viraYj@rakta@virakta@85300@2
 viraYj@prati,@viraYjprati@85302@3
 viraYj@raYjita@viraYjita@85302@2
 viraYj@viraktaBAva@viraktaBAva@85305@2
-viraYj@hfdaya@viraYjhfdaya@85305@0
+viraYj@hfdaya@viraYjhfdya@85305@3
 viraTa@Ikf@viraTIkf@85312@2
 viraTa@IBU@viraTIBU@85313@2
 viraTa@viraTIkaraRa@viraTIkaraRa@85315@1
@@ -34110,7 +34110,7 @@ virAj@rAw@virAw@85363@2
 virAj@vi@vi@85365@2
 virAj@virAwsuta@virAwsuta@85367@1
 virAja@in@virAjin@85369@2
-virAja@ya@virAjaya@85370@0
+virAja@ya@virAjya@85370@2
 virAwa@nagara@virAwanagara@85374@1
 virAwa@parvan@virAwaparvan@85376@1
 virAva@Ra@virAvaRa@85390@1
@@ -34118,7 +34118,7 @@ virAva@in@virAvin@85390@2
 viric@rikta@virikta@85393@2
 viriYca@i@viriYci@85395@2
 viriYca@atA@viriYcaatA@85395@5
-viriYca@ya@viriYcaya@85396@0
+viriYca@ya@viriYcya@85396@2
 viriYca@saMvAda@viriYcasaMvAda@85398@0
 viru@ruta@viruta@85403@2
 virud@rudita@virudita@85419@2
@@ -34156,7 +34156,7 @@ viroDa@na@viroDana@85488@1
 viroDa@vant@viroDavant@85490@1
 viroDa@ita@viroDita@85490@2
 viroDa@itA@viroDitA@85492@2
-viroDa@ya@viroDaya@85492@0
+viroDa@ya@viroDya@85492@2
 viroDa@kriyA@viroDakriyA@85495@1
 viropaRa@ropita@viropita@85497@2
 viropaRa@ruh@viropaRaruh@85498@0
@@ -34166,7 +34166,7 @@ viroha@ropaRa@viropaRa@85503@2
 vila@bila@bila@85506@1
 vilakzayati@te@vilakzayate@85508@3
 vilakzayati@lakzita@vilakzita@85509@2
-vilakza@ya@vilakzaya@85512@0
+vilakza@ya@vilakzya@85512@2
 vilakza@tva@vilakzatva@85513@1
 vilakza@Ikf@vilakzIkf@85514@2
 vilaNG@laNGita@vilaNGita@85524@2
@@ -34231,7 +34231,7 @@ vilepa@nin@vilepanin@85635@1
 vilepa@a@vilepaa@85635@0
 vilepa@ikA@vilepikA@85635@2
 vilepa@in@vilepin@85636@2
-vilepa@ya@vilepaya@85636@0
+vilepa@ya@vilepya@85636@2
 vilok@ita@vilokita@85640@1
 viloka@na@vilokana@85643@1
 viloka@in@vilokin@85644@2
@@ -34275,11 +34275,11 @@ vivasana@vastra@vivasanavastra@85755@0
 vivasana@vastratA@vivasanavastratA@85755@0
 vivasvant@vivasvatsuta@vivasvatsuta@85761@2
 vivAda@in@vivAdin@85774@2
-vivAsa@ya@vivAsaya@85784@0
+vivAsa@ya@vivAsya@85784@2
 vivAsas@vasana@vivAsasvasana@85790@0
 vivAha@ita@vivAhita@85793@2
 vivAha@nIyA@vivAhanIyA@85793@1
-vivAha@ya@vivAhaya@85794@0
+vivAha@ya@vivAhya@85794@2
 vivAha@satkriyA@vivAhasatkriyA@85795@0
 vivAha@dIkzA@vivAhadIkzA@85797@1
 vivAha@pawaha@vivAhapawaha@85799@1
@@ -34363,7 +34363,7 @@ viSaNkawa@saM@viSaNkawasaM@85944@0
 viSaNkawa@A@viSaNkawA@85944@3
 viSaNkawa@I@viSaNkawI@85944@3
 viSaNkA@ayA@viSaNkAayA@85948@0
-viSaNkA@in@viSaNkAin@85949@0
+viSaNkA@in@viSaNkin@85949@2
 viSada@tA@viSadatA@85952@1
 viSada@ayati@viSadaayati@85953@0
 viSada@ita@viSadita@85953@2
@@ -34800,7 +34800,7 @@ vizwara@Sravas@vizwaraSravas@86676@1
 vizwi@kara@vizwikara@86681@1
 vizWA@zWita@vizWita@86686@2
 vizWA@AM@vizWAAM@86689@0
-vizWA@kf@vizWAkf@86689@0
+vizWA@kf@vizWIkf@86689@3
 vizWA@muc@vizWAmuc@86689@0
 vizWA@BU@vizWABU@86692@1
 vizRu@tva@vizRutva@86695@1
@@ -35076,21 +35076,21 @@ vI@SaNka@vISaNka@87149@0
 vI@rAga@vIrAga@87151@0
 vI@vrIqa@vrIqa@87153@1
 vI@Soka@vISoka@87155@0
-vI@hiraRmaya@vIhiraRmaya@87157@0
+vI@hiraRmaya@vIhiraRmya@87157@3
 vI@vItottara@vItottara@87159@1
 vI@vi@vi@87161@1
 vI@padavI@vIpadavI@87163@0
 vI@veti,@veti,@87165@4
 vI@Avi@vIAvi@87165@0
 vI@vIta@vIta@87165@1
-vIkz@vat@vIkzvat@87170@0
+vIkz@vat@vIkzvat@87170@5
 vIkz@hfdi@vIkzhfdi@87170@0
 vIkz@v@vIkzv@87170@0
 vIkz@vIkzita@vIkzita@87171@1
 vIkz@vIkzya@vIkzya@87172@1
 vIkzaRa@Iya@vIkzaRIya@87175@2
 vIkzA@AM@vIkzAAM@87178@0
-vIkzA@kf@vIkzAkf@87178@0
+vIkzA@kf@vIkzIkf@87178@3
 vIkzA@itavya@vIkzAitavya@87178@0
 vIkzA@vIkzaRIya@vIkzaRIya@87179@1
 vIkzA@itf@vIkzAitf@87179@0
@@ -35098,7 +35098,7 @@ vIci@avIci@avIci@87181@1
 vIci@kA@vIcikA@87181@1
 vIci@kzoBa@vIcikzoBa@87184@1
 vIja@bIja@bIja@87190@1
-vIwA@ikA@vIwAikA@87196@0
+vIwA@ikA@vIwikA@87196@2
 vIRA@karRa@vIRAkarRa@87201@1
 vIRA@datta@vIRAdatta@87203@1
 vIRA@paRavatURavant@vIRApaRavatURavant@87205@1
@@ -35207,7 +35207,7 @@ vIra@vIrAsana@vIrAsana@87385@1
 vIra@vIrendra@vIrendra@87388@1
 vIra@vIraMkarA@vIraMkarA@87390@1
 vIra@vIra@vIra@87390@1
-vIra@manya@vIramaya@87392@2
+vIra@manya@vIramya@87392@3
 vIra@vIramAnin@vIramAnin@87392@1
 vIraRa@I@vIraRI@87398@2
 vIraRa@ka@vIraRaka@87398@1
@@ -35239,13 +35239,13 @@ vf@vfRute@vfRute@87441@4
 vf@UrRoti@vfUrRoti@87441@0
 vf@UrRute@vfUrRute@87441@0
 vf@varati@varati@87441@4
-vf@te@vfte@87441@0
+vf@te@te@87441@99
 vf@vavAra@vavAra@87442@4
 vf@vavruH@vavruH@87442@1
 vf@vavre@vavre@87442@4
 vf@vriyate@vriyate@87442@4
 vf@vArayati@vArayati@87442@1
-vf@te@vfte@87442@0
+vf@te@te@87442@99
 vf@vAryate@vAryate@87442@4
 vf@vfta@vfta@87443@1
 vf@vartum@vartum@87443@4
@@ -35262,7 +35262,7 @@ vfka@devI@vfkadevI@87462@1
 vfka@raTa@vfkaraTa@87464@1
 vfka@sTala@vfkasTala@87466@1
 vfka@vfkodara@vfkodara@87468@1
-vfka@maya@vfkamaya@87468@0
+vfka@maya@vfkamya@87468@3
 vfka@I@vfkI@87468@2
 vfkza@ka@vfkzaka@87475@1
 vfkza@gahana@vfkzagahana@87477@0
@@ -35309,9 +35309,9 @@ vft@avftat@vftavftat@87545@0
 vft@avftsan@vftavftsan@87546@0
 vft@vartiTAs@vftvartiTAs@87546@0
 vft@vartsyati@vftvartsyati@87546@0
-vft@te@vftte@87546@0
+vft@te@te@87546@99
 vft@vartayati@vftvartayati@87546@0
-vft@te@vftte@87546@0
+vft@te@te@87546@99
 vft@vartyate@vftvartyate@87546@0
 vft@varIvftyate@vftvarIvftyate@87547@0
 vft@vfttavartitum@vfttavartitum@87547@4
@@ -35359,7 +35359,7 @@ vftta@vfttAyataBuja@vfttAyataBuja@87616@1
 vftta@vfttotsava@vfttotsava@87618@1
 vftta@vfttOjas@vfttOjas@87620@1
 vftti@iM@vfttiiM@87624@0
-vftti@kf@vfttikf@87624@0
+vftti@kf@vfttIkf@87624@3
 vftti@kalpay@vfttikalpay@87624@0
 vftti@tA@vfttitA@87630@1
 vftti@tva@vfttitva@87630@1
@@ -35395,7 +35395,7 @@ vftra@hantf@vftrahantf@87675@1
 vftra@druh@vftradruh@87675@1
 vftra@vftrAri@vftrAri@87675@1
 vfTA@v@vfTAv@87678@0
-vfTA@kf@vfTAkf@87678@0
+vfTA@kf@vfTIkf@87678@3
 vfTA@kulasamAcAra@vfTAkulasamAcAra@87681@1
 vfTA@kfsarasaMyAva@vfTAkfsarasaMyAva@87684@1
 vfTA@kleSa@vfTAkleSa@87687@0
@@ -35753,7 +35753,7 @@ velA@AyAm@velAAyAm@88324@0
 velA@kUla@velAkUla@88326@1
 velA@tawa@velAtawa@88328@1
 velA@tawAnta@velAtawAnta@88328@1
-velA@nilaya@velAnilaya@88330@0
+velA@nilaya@velAnilya@88330@3
 velA@vana@velAvana@88332@1
 velA@vIci@velAvIci@88334@1
 velA@samudra@velAsamudra@88336@1
@@ -35819,13 +35819,13 @@ vEkfta@vant@vEkftavant@88459@1
 vEkfta@i@vEkfti@88460@2
 vEkfta@a@vEkftaa@88460@0
 vEkfta@vivarta@vEkftavivarta@88462@1
-vEklava@ya@vEklavaya@88467@0
+vEklava@ya@vEklavya@88467@2
 vEklava@yatA@vEklavayatA@88468@5
 vEklava@vEklava@vEklava@88468@1
 vEKAnasa@I@vEKAnasI@88471@2
 vEKAnasa@mata@vEKAnasamata@88474@1
 vEKAnasa@vEKAnasASrama@vEKAnasASrama@88476@1
-vEcitra@ya@vEcitraya@88489@0
+vEcitra@ya@vEcitrya@88489@2
 vEcitra@vIrya@vEcitravIrya@88491@1
 vEcitra@ka@vEcitraka@88491@0
 vEcitra@vIryin@vEcitravIryin@88492@1
@@ -35875,7 +35875,7 @@ vEdeSika@nivAsin@vEdeSikanivAsin@88595@1
 vEdeha@I@vEdehI@88598@2
 vEdeha@ka@vEdehaka@88599@1
 vEdeha@ika@vEdehika@88600@2
-vEdeha@Imaya@vEdehaImaya@88601@0
+vEdeha@Imaya@vEdehaImya@88601@3
 vEdeha@vEdehIbanDu@vEdehIbanDu@88603@1
 vEdya@ka@vEdyaka@88606@1
 vEdya@rAja@vEdyarAja@88608@1
@@ -35929,13 +35929,13 @@ vEra@vErASaMsana@vErASaMsana@88739@1
 vEra@vEraMkara@vEraMkara@88741@1
 vEraktya@vEratya@vEratya@88744@2
 vEraktya@vEraktya@vEraktya@88744@1
-vErasa@ya@vErasaya@88748@0
+vErasa@ya@vErasya@88748@2
 vErAgya@tA@vErAgyatA@88752@1
 vErAgya@prati@vErAgyaprati@88753@0
 vErAgya@Pala@vErAgyaPala@88755@0
 vErAgya@yukta@vErAgyayukta@88757@0
 vErAgya@Sataka@vErAgyaSataka@88759@1
-vErAja@ya@vErAjaya@88763@0
+vErAja@ya@vErAjya@88763@2
 vErAwa@I@vErAwI@88765@2
 vErAwa@I@vErAwI@88766@2
 vErAyate@Ayitf@vErAyateAyitf@88768@0
@@ -35947,7 +35947,7 @@ vErin@i@vErini@88772@0
 vErin@tA@vErintA@88772@5
 vErin@tva@vErintva@88773@5
 vErI@vEra@vEra@88775@1
-vErUpa@ya@vErUpaya@88777@0
+vErUpa@ya@vErUpya@88777@2
 vErUpa@yatA@vErUpayatA@88778@5
 vErocana@i@vErocani@88780@2
 vEla@bEla@bEla@88784@1
@@ -35955,13 +35955,13 @@ vElakzya@vant@vElakzyavant@88788@1
 vEvasvata@I@vEvasvatI@88798@2
 vEvAha@ika@vEvAhika@88801@2
 vEvAha@I@vEvAhI@88801@3
-vEvAha@ya@vEvAhaya@88802@0
+vEvAha@ya@vEvAhya@88802@2
 vESaMpAyana@SAMSapAyana@vESaMpAyanaSAMSapAyana@88806@0
-vESasa@ya@vESasaya@88810@0
+vESasa@ya@vESasya@88810@2
 vESasa@vEzamya@vEzamya@88811@2
 vESAKa@I@vESAKI@88814@2
 vESArada@I@vESAradI@88817@3
-vESArada@ya@vESAradaya@88818@0
+vESArada@ya@vESAradya@88818@2
 vESAla@ika@vESAlika@88820@2
 vESAla@I@vESAlI@88821@2
 vESAla@eya@vESAlaeya@88822@0
@@ -35991,7 +35991,7 @@ vESvAnara@datta@vESvAnaradatta@88869@1
 vESvAnara@paTa@vESvAnarapaTa@88871@1
 vESvAmitra@I@vESvAmitrI@88873@2
 vESvAmitra@i@vESvAmitri@88873@2
-vEzama@ya@vEzamaya@88878@0
+vEzama@ya@vEzamya@88878@2
 vEzRava@I@vEzRavI@88887@2
 vEhaga@I@vEhagI@88895@3
 vEhAyasa@I@vEhAyasI@88897@2
@@ -36066,7 +36066,7 @@ vyatI@kAla@vyatIkAla@89090@0
 vyatI@kAla@vyatIkAla@89092@0
 vyaTana@vyaTayitf@vyaTayitf@89113@2
 vyaTA@AM@vyaTAAM@89116@0
-vyaTA@kf@vyaTAkf@89116@0
+vyaTA@kf@vyaTIkf@89116@3
 vyaTA@vyaTAkula@vyaTAkula@89118@1
 vyaTA@vyaTAkrAnta@vyaTAkrAnta@89118@1
 vyaTA@vyaTAtura@vyaTAtura@89121@1
@@ -36082,7 +36082,7 @@ vyapadeSa@tas@vyapadeSatas@89169@0
 vyapadeSa@ena@vyapadeSena@89169@3
 vyapadeSa@ka@vyapadeSaka@89170@1
 vyapadeSa@in@vyapadeSin@89171@2
-vyapadeSa@ya@vyapadeSaya@89171@0
+vyapadeSa@ya@vyapadeSya@89171@2
 vyapadeSa@BAgin@vyapadeSaBAgin@89174@0
 vyapadeSa@vyapadeSArTam@vyapadeSArTam@89176@1
 vyapanaya@na@vyapanayana@89178@1
@@ -36096,7 +36096,7 @@ vyape@apeta@vyapeta@89242@2
 vyape@kalmaza@vyapekalmaza@89245@0
 vyape@GfRa@vyapeGfRa@89247@0
 vyape@DErya@vyapeDErya@89249@0
-vyape@Baya@vyapeBaya@89251@0
+vyape@Baya@vyapeBya@89251@3
 vyape@BI@vyapeBI@89251@0
 vyape@harza@vyapeharza@89253@0
 vyapekz@apekzaka@vyapekzaka@89256@2
@@ -36232,7 +36232,7 @@ vyAkoSa@koza@vyAkoSakoza@89548@0
 vyAkoSa@kokanadatA@vyAkoSakokanadatA@89551@5
 vyAkzip@kzipta@vyAkzipta@89559@2
 vyAkzip@vyakziptamanas@vyakziptamanas@89561@7
-vyAkzip@hfdaya@vyAkziphfdaya@89561@0
+vyAkzip@hfdaya@vyAkziphfdya@89561@3
 vyAkzepa@in@vyAkzepin@89564@2
 vyAKyA@KyAta@vyAKyAta@89567@2
 vyAKyA@KyAtavya@vyAKyAtavya@89568@2
@@ -36537,7 +36537,7 @@ vrAtya@tA@vrAtyatA@90207@1
 vrAtya@tva@vrAtyatva@90207@1
 vrIqA@a@vrIqAa@90212@0
 vrIqA@AM@vrIqAAM@90213@0
-vrIqA@kf@vrIqAkf@90213@0
+vrIqA@kf@vrIqIkf@90213@3
 vrIqA@Am@vrIqAAm@90213@0
 vrIqA@upagam@vrIqAupagam@90213@0
 vrIqA@vant@vrIqAvant@90213@1
@@ -36554,7 +36554,7 @@ SaMvara@SaMvUka@SaMvUka@90238@2
 SaMvara@Sambara@Sambara@90238@2
 SaMvara@SambUka@SambUka@90238@2
 SaMs@SaMsati@SaMsati@90240@4
-SaMs@te@SaMste@90240@0
+SaMs@te@te@90240@99
 SaMs@SaSaMsa@SaSaMsa@90240@7
 SaMs@se@SaMsse@90240@0
 SaMs@SaMsuH@SaMsuH@90240@4
@@ -36566,7 +36566,7 @@ Sak@SaSAka@SaSAka@90259@4
 Sak@SekuH@SakSekuH@90259@0
 Sak@ti@Sakti@90260@1
 Sak@Sikzati@SakSikzati@90260@0
-Sak@te@Sakte@90260@0
+Sak@te@te@90260@99
 Sak@Sakta@Sakta@90260@1
 Sak@Sakita@Sakita@90260@1
 Sak@Sakyate@Sakyate@90263@4
@@ -36677,7 +36677,7 @@ Sakra@SakrAvarta@SakrAvarta@90453@1
 Sakra@SakrAsana@SakrAsana@90455@1
 Sakra@Sakrotsava@Sakrotsava@90457@1
 SaNk@SaNkate@SaNkate@90463@4
-SaNk@ti@SaNkti@90463@0
+SaNk@ti@ti@90463@99
 SaNk@SaNkIs@SaNkIs@90463@4
 SaNk@SaNkizWAs@SaNkizWAs@90463@4
 SaNk@SaNkiTAs@SaNkiTAs@90463@4
@@ -36910,7 +36910,7 @@ SanEs@SanEScara@SanEScara@90869@1
 SanEs@vAra@SanEsvAra@90870@0
 SaMtanu@Sam@Sam@90872@2
 Sap@Sapati@Sapati@90876@4
-Sap@te@Sapte@90876@0
+Sap@te@te@90876@99
 Sap@SaSApa@SaSApa@90876@4
 Sap@SepuH@SapSepuH@90876@0
 Sap@yadi@Sapyadi@90880@0
@@ -36976,13 +36976,13 @@ Sabdayati;@te@Sabdayati;te@90976@0
 Sabdayati;@Sabdita@Sabdita@90976@2
 SabdAyate@ti@SabdAyateti@90981@0
 Sam@SAmyati@SamSAmyati@90983@0
-Sam@te@Samte@90983@0
+Sam@te@te@90983@99
 Sam@Samet@Samet@90983@4
 Sam@SaSAma@SaSAma@90983@4
 Sam@SemuH@SamSemuH@90983@0
 Sam@aSISamat@SamaSISamat@90984@0
 Sam@Samayati@Samayati@90984@4
-Sam@te@Samte@90984@0
+Sam@te@te@90984@99
 Sam@SAmayati@SamSAmayati@90984@0
 Sam@SAmyate@SamSAmyate@90984@0
 Sam@SAnta@SamSAnta@90984@0
@@ -37182,7 +37182,7 @@ SarIra@daRqa@SarIradaRqa@91347@1
 SarIra@deSa@SarIradeSa@91349@1
 SarIra@DAtu@SarIraDAtu@91351@1
 SarIra@nicaya@SarIranicaya@91353@1
-SarIra@niScaya@SarIraniScaya@91353@0
+SarIra@niScaya@SarIraniScya@91353@3
 SarIra@pakti@SarIrapakti@91355@1
 SarIra@pAta@SarIrapAta@91357@1
 SarIra@praBava@SarIrapraBava@91359@1
@@ -37239,7 +37239,7 @@ SalaBa@tA@SalaBatA@91477@1
 SalaBa@tva@SalaBatva@91477@1
 SalaBa@SalaBAstra@SalaBAstra@91480@1
 Salala@ita@Salalita@91486@2
-SalAkA@in@SalAkAin@91490@0
+SalAkA@in@SalAkin@91490@2
 SalAkA@A@SalAkAA@91490@0
 SalAkA@SalAkA@SalAkA@91490@1
 SalAkA@SalAkaDUrta@SalAkaDUrta@91492@1
@@ -37365,7 +37365,7 @@ Sastra@SastrAyuDa@SastrAyuDa@91706@1
 Sastra@SastrAstraBfttva@SastrAstraBfttva@91708@1
 Sastra@SastropajIvin@SastropajIvin@91710@1
 Sastra@SastrASastfi@SastrASastfi@91712@4
-SastrI@ikA@SastrIikA@91714@0
+SastrI@ikA@SastrikA@91714@2
 SastrI@SyAma@SastrISyAma@91716@1
 Sasya@A@SasyA@91718@3
 Sasya@sasya@sasya@91721@1
@@ -37593,7 +37593,7 @@ SAs@SizyAt@SAsSizyAt@92248@0
 SAs@aSAt@SAsaSAt@92248@0
 SAs@SAste@SAste@92248@4
 SAs@SAsati@SAsati@92249@4
-SAs@te@SAste@92249@0
+SAs@te@te@92249@99
 SAs@SaSAsa@SAsSaSAsa@92249@0
 SAs@SaSAsuH@SAsSaSAsuH@92249@0
 SAs@Sasta@SAsSasta@92250@0
@@ -37643,12 +37643,12 @@ SiMSapA@a@SiMSapAa@92336@0
 SikTa@sikTa@sikTa@92338@1
 Sikz@Sak@SikzSak@92343@0
 Sikz@Sikzate@Sikzate@92343@4
-Sikz@ti@Sikzti@92343@0
+Sikz@ti@ti@92343@99
 Sikz@SikzARa@SikzARa@92343@1
 Sikz@SiSikza@SiSikza@92344@7
 Sikz@Sikzyate@Sikzyate@92344@4
 Sikz@Sikzayati@Sikzayati@92344@4
-Sikz@te@Sikzte@92344@0
+Sikz@te@te@92344@99
 Sikz@sakASAt@SikzsakASAt@92345@0
 SikzaRa@Iya@SikzaRIya@92353@2
 SikzA@vant@SikzAvant@92359@1
@@ -37898,7 +37898,7 @@ Siz@Sinazwi@Sinazwi@92793@4
 Siz@SiSize@SiSize@92793@4
 Siz@Sizyate@Sizyate@92793@1
 Siz@Sezayati@SizSezayati@92793@0
-Siz@te@Sizte@92793@0
+Siz@te@te@92793@99
 Siz@@Siz@92793@1
 Siz@Sizwa@Sizwa@92793@1
 Siz@Sizya@Sizya@92793@1
@@ -37937,7 +37937,7 @@ SI@Sezyate@Sezyate@92835@4
 SI@ti@SIti@92835@1
 SI@SIyant@SIyant@92835@4
 SI@SAyayati@SAyayati@92836@4
-SI@te@SIte@92836@0
+SI@te@te@92836@99
 SI@SiSayizate@SiSayizate@92836@4
 SI@Sayita@Sayita@92836@1
 SI@Sayitum@Sayitum@92836@4
@@ -38122,7 +38122,7 @@ Sukla@SuklApANga@SuklApANga@93129@1
 Sukla@SuklABijAtIya@SuklABijAtIya@93131@1
 Sukla@Sukletara@Sukletara@93133@1
 Suc@Socati@SucSocati@93140@0
-Suc@te@Sucte@93140@0
+Suc@te@te@93140@99
 Suc@Socimi@SucSocimi@93140@0
 Suc@Sucyate@Sucyate@93141@4
 Suc@Socitum@SucSocitum@93141@0
@@ -38180,7 +38180,7 @@ SudDi@iM@SudDiiM@93237@0
 SudDi@laB@SudDilaB@93237@0
 SudDi@mant@SudDimant@93238@1
 SuD@SuDyati@SuDyati@93240@4
-SuD@te@SuDte@93240@0
+SuD@te@te@93240@99
 SuD@SoDayati@SuDSoDayati@93240@0
 SuD@SoDyate@SuDSoDyate@93240@0
 SuD@SudDa@SudDa@93240@1
@@ -38247,9 +38247,9 @@ SuSrUzA@para@SuSrUzApara@93380@1
 SuSrUzitf@SuSrUzin@SuSrUzin@93384@2
 SuSrUzya@SuSrUzitavya@SuSrUzitavya@93390@2
 Suz@Suzyati@Suzyati@93392@4
-Suz@te@Suzte@93392@0
+Suz@te@te@93392@99
 Suz@Sozayati@SuzSozayati@93392@0
-Suz@te@Suzte@93392@0
+Suz@te@te@93392@99
 Suz@Sozyate@SuzSozyate@93392@0
 Suzira@suzira@suzira@93395@1
 Suzka@ka@Suzkaka@93398@1
@@ -38334,7 +38334,7 @@ SUrpa@I@SUrpI@93536@2
 SUrpa@naKA@SUrpanaKA@93536@1
 SUrpa@I@SUrpI@93536@2
 SUla@A@SUlA@93544@2
-SUla@Akf@SUlaAkf@93545@0
+SUla@Akf@SUlaIkf@93545@3
 SUla@in@SUlin@93545@2
 SUla@i@SUli@93545@2
 SUla@vata@SUlavata@93546@1
@@ -38397,7 +38397,7 @@ SfRi@sfRi@sfRi@93649@1
 SfD@SarDayati@SfDSarDayati@93653@0
 SF@SfRAti@SfRAti@93655@4
 SF@SIryate@SIryate@93655@4
-SF@ti@SFti@93655@0
+SF@ti@ti@93655@99
 SF@SIrRa@SIrRa@93655@1
 SeKara@tA@SeKaratA@93660@1
 SeKara@Ikf@SeKarIkf@93661@2
@@ -38426,8 +38426,8 @@ Seza@vistArapARqu@SezavistArapARqu@93703@1
 SEkya@SEkyAyasamaya@SEkyAyasamaya@93712@1
 SEkya@I@SEkyI@93712@3
 SEkza@I@SEkzI@93714@3
-SEkza@ya@SEkzaya@93715@0
-SEGra@ya@SEGraya@93721@0
+SEkza@ya@SEkzya@93715@2
+SEGra@ya@SEGrya@93721@2
 SEbala@SEbAla@SEbAla@93731@2
 SEbala@SEvala@SEvala@93731@2
 SEbala@SEvAla@SEvAla@93731@2
@@ -38564,7 +38564,7 @@ SOkla@janman@SOklajanman@93966@0
 SOca@tva@SOcatva@93974@1
 SOca@vant@SOcavant@93975@1
 SOwIra@tA@SOwIratA@93978@1
-SOwIra@ya@SOwIraya@93978@0
+SOwIra@ya@SOwIrya@93978@2
 SORqa@A@SORqA@93980@2
 SORqa@I@SORqI@93980@2
 SORqa@et@SORqaet@93980@0
@@ -38573,9 +38573,9 @@ SORqa@A@SORqA@93981@2
 SORqa@ika@SORqika@93982@2
 SORqa@in@SORqin@93983@2
 SORqa@I@SORqI@93983@2
-SORqIra@ya@SORqIraya@93985@0
+SORqIra@ya@SORqIrya@93985@2
 SORqIra@SOwIra@SOwIra@93985@2
-SORqIra@ya@SORqIraya@93985@0
+SORqIra@ya@SORqIrya@93985@2
 SOna@I@SOnI@93989@3
 SOna@sOna@sOna@93991@1
 SOrasena@I@SOrasenI@93998@2
@@ -38660,7 +38660,7 @@ SradDA@deya@SradDAdeya@94140@1
 SradDeya@tva@SradDeyatva@94151@1
 Sram@SrAmyati@SrAmyati@94158@7
 Sram@Sramati@Sramati@94158@4
-Sram@te@Sramte@94158@0
+Sram@te@te@94158@99
 Sram@SaSrAma@SramSaSrAma@94158@0
 Sram@SaSramuH@SramSaSramuH@94158@0
 Sram@SrAmyate@SrAmyate@94159@7
@@ -38716,7 +38716,7 @@ SravaRa@SravaRodara@SravaRodara@94242@1
 SravaRa@A@SravaRA@94244@2
 SravaRa@dvAdaSI@SravaRadvAdaSI@94247@1
 SrA@Srapayati@Srapayati@94259@4
-SrA@te@SrAte@94259@0
+SrA@te@te@94259@99
 SrA@Srapyate@Srapyate@94259@4
 SrA@Sfta@SrASfta@94259@0
 SrAdDa@aM@SrAdDaM@94263@2
@@ -38743,13 +38743,13 @@ SrAvasta@ka@SrAvastaka@94303@1
 SrAvasta@I@SrAvastI@94303@2
 SrAvya@Sravya@Sravya@94311@2
 Sri@Srayati@Srayati@94313@4
-Sri@te@Srite@94313@0
+Sri@te@te@94313@99
 Sri@SiSrAya@SriSiSrAya@94313@0
 Sri@SiSriye@SriSiSriye@94313@0
 Sri@aSiSriyat@SriaSiSriyat@94313@0
 Sri@yuH@SriyuH@94313@0
 Sri@Srayizyati@Srayizyati@94314@4
-Sri@te@Srite@94314@0
+Sri@te@te@94314@99
 Sri@SrIyate@SrIyate@94314@4
 Sri@Srita@Srita@94314@1
 Sri@Srayitum@Srayitum@94314@4
@@ -38763,7 +38763,7 @@ SrI@kaRWa@SrIkaRWa@94339@1
 SrI@tA@SrItA@94340@5
 SrI@kaRWakaRWa@SrIkaRWakaRWa@94340@1
 SrI@kaRWadeSa@SrIkaRWadeSa@94341@1
-SrI@kaRWanitaya@SrIkaRWanitaya@94341@0
+SrI@kaRWanitaya@SrIkaRWanitya@94341@3
 SrI@kaRWavizaya@SrIkaRWavizaya@94341@1
 SrI@KaRqa@SrIKaRqa@94344@1
 SrI@KaRqacarcA@SrIKaRqacarcA@94344@1
@@ -38819,11 +38819,11 @@ Sru@SuSrAva@SruSuSrAva@94420@0
 Sru@SuSruve@SruSuSruve@94421@0
 Sru@aSrOzIt@SruaSrOzIt@94421@0
 Sru@Srozyati@Srozyati@94421@4
-Sru@te@Srute@94421@0
+Sru@te@te@94421@99
 Sru@SrUyate@SrUyate@94421@4
 Sru@ti@Sruti@94421@1
 Sru@SrAvayati@SrAvayati@94421@4
-Sru@te@Srute@94421@0
+Sru@te@te@94421@99
 Sru@SrAvyate@SrAvyate@94422@4
 Sru@SuSrUzate@SruSuSrUzate@94422@0
 Sru@ti@Sruti@94422@1
@@ -38842,7 +38842,7 @@ Sru@A@SruA@94446@0
 Sru@Dara@SruDara@94448@0
 Sru@DAraRa@SruDAraRa@94450@0
 Sru@Di@SruDi@94452@1
-Sru@nizkraya@Srunizkraya@94454@0
+Sru@nizkraya@Srunizkrya@94454@3
 Sru@pAraga@SrupAraga@94456@0
 Sru@pAradfSvan@SrupAradfSvan@94456@0
 Sru@pUrva@SrupUrva@94458@0
@@ -38986,7 +38986,7 @@ SlaTa@SlaTANga@SlaTANga@94690@1
 SlaTa@tA@SlaTatA@94690@5
 SlaTa@SlaTodyama@SlaTodyama@94693@1
 SlAG@SlAGate@SlAGate@94697@1
-SlAG@ti@SlAGti@94697@0
+SlAG@ti@ti@94697@99
 SlAG@SaSlAGire@SlAGSaSlAGire@94697@0
 SlAGana@Iya@SlAGanIya@94702@2
 SlAGana@Iyatara@SlAGanaIyatara@94703@0
@@ -38998,7 +38998,7 @@ SlAGya@tA@SlAGyatA@94714@1
 SlAGya@yOvanA@SlAGyayOvanA@94717@1
 SlAGya@SlAGyAnvaya@SlAGyAnvaya@94719@1
 Sliz@Slizyati@Slizyati@94721@4
-Sliz@te@Slizte@94721@0
+Sliz@te@te@94721@99
 Sliz@Slezwokti@Slezwokti@94729@7
 SlIpada@in@SlIpadin@94731@2
 Sleza@A@SlezA@94736@2
@@ -39061,7 +39061,7 @@ Svan@SunaHSepa@SvanSunaHSepa@94827@0
 SvaBra@vant@SvaBravant@94829@1
 SvaBra@muKa@SvaBramuKa@94832@1
 SvaSura@ka@SvaSuraka@94836@1
-SvaSura@ya@SvaSuraya@94836@0
+SvaSura@ya@SvaSurya@94836@2
 SvaSrU@SvaSura@SvaSrUSvaSura@94841@1
 SvaSrU@snuzA@SvaSrUsnuzA@94843@1
 Svas@Svasiti@Svasiti@94845@4
@@ -39090,7 +39090,7 @@ SvAviD@a@SvAviDa@94881@1
 SvAviD@SvAvicCalalita@SvAvicCalalita@94883@1
 SvAviD@SvAvilloman@SvAvilloman@94885@1
 SvASura@I@SvASurI@94887@3
-SvASura@ya@SvASuraya@94887@0
+SvASura@ya@SvASurya@94887@2
 SvASura@SvaSurya@SvaSurya@94888@2
 SvAsa@roDa@SvAsaroDa@94894@1
 SvAsa@SvAsAnila@SvAsAnila@94896@1
@@ -39196,14 +39196,14 @@ zaz@vaktra@zazvaktra@95058@0
 zaz@varga@zazvarga@95060@0
 zaz@viMSa@zazviMSa@95062@0
 zaz@I@zazI@95062@0
-zaz@ti@zazti@95062@0
+zaz@ti@ti@95062@99
 zaz@titama@zaztitama@95062@0
 zaz@viDa@zazviDa@95064@0
 zaz@zaRRavata@zaRRavata@95066@1
 zaz@i@zazi@95066@0
 zaz@itama@zazitama@95066@0
 zaz@RABi@zazRABi@95068@0
-zaz@mAsanicaya@zazmAsanicaya@95070@0
+zaz@mAsanicaya@zazmAsanicya@95070@3
 zaz@mAsAByantare@zazmAsAByantare@95071@0
 zaz@muKa@zazmuKa@95073@0
 zaz@zoqaSa@zazzoqaSa@95075@0
@@ -39286,7 +39286,7 @@ saMyuj@yukta@saMyukta@95272@2
 saMyuj@yuktam@saMyuktam@95274@2
 saMyuta@saha,@saMyutasaha@95281@3
 saMyoga@saha,@saMyogasaha@95289@3
-saMyoga@viparyaya@saMyogaviparyaya@95295@0
+saMyoga@viparyaya@saMyogaviparyya@95295@3
 saMyojita@yojya@saMyojya@95299@2
 saMyojita@karayugala@saMyojitakarayugala@95302@1
 saMrakz@rakzita@saMrakzita@95309@2
@@ -39358,7 +39358,7 @@ saMvalana@valita@saMvalita@95488@2
 saMvAda@ka@saMvAdaka@95511@1
 saMvAda@na@saMvAdana@95511@1
 saMvAda@in@saMvAdin@95511@2
-saMvAda@ya@saMvAdaya@95512@0
+saMvAda@ya@saMvAdya@95512@2
 saMvAra@Ra@saMvAraRa@95515@1
 saMvAsa@in@saMvAsin@95523@2
 saMvAhitavya@vAhya@saMvAhya@95538@2
@@ -39402,7 +39402,7 @@ saMvft@vftta@saMvftta@95667@2
 saMvft@vfta@saMvfta@95668@2
 saMvft@vartita@saMvftvartita@95668@0
 saMvfti@iM@saMvftiiM@95670@0
-saMvfti@kf@saMvftikf@95670@0
+saMvfti@kf@saMvftIkf@95670@3
 saMvfti@mant@saMvftimant@95671@1
 saMvftti@sad@sad@95675@2
 saMvftti@sant@sant@95675@2
@@ -39411,7 +39411,7 @@ saMvfD@varDita@saMvfDvarDita@95682@0
 saMvfh@bfh@saMvfhbfh@95687@0
 saMvega@in@saMvegin@95690@3
 saMveda@na@saMvedana@95692@1
-saMveda@ya@saMvedaya@95693@0
+saMveda@ya@saMvedya@95693@2
 saMveSa@na@saMveSana@95702@1
 saMvezw@vezwita@saMvezwvezwita@95706@0
 saMvezw@vezwa@saMvezwa@95706@2
@@ -39421,8 +39421,8 @@ saMSap@Sapta@saMSapta@95735@2
 saMSap@vant@saMSapvant@95735@0
 saMSaptaka@vaDaparvan@saMSaptakavaDaparvan@95739@1
 saMSabda@ita@saMSabdita@95741@2
-saMSabda@ya@saMSabdaya@95742@0
-saMSabda@ya@saMSabdaya@95742@0
+saMSabda@ya@saMSabdya@95742@2
+saMSabda@ya@saMSabdya@95742@2
 saMSabda@yamAna@saMSabdayamAna@95743@0
 saMSabda@Sabdita@saMSabdita@95743@2
 saMSam@agniM@saMSamagniM@95748@0
@@ -39715,7 +39715,7 @@ sakASa@tas@sakASatas@96450@0
 sakASa@At@sakASAt@96450@2
 sakutUhala@am@sakutUhalam@96459@2
 sakula@kala@sakulakala@96461@0
-sakula@ya@sakulaya@96461@0
+sakula@ya@sakulya@96461@2
 sakula@ja@sakulaja@96464@1
 sakft@d@sakftd@96471@0
 sakft@ahnas@sakftahnas@96471@0
@@ -39973,7 +39973,7 @@ sajala@nayana@sajalanayana@97101@1
 sajala@pfzata@sajalapfzata@97103@1
 sajAta@i@sajAti@97107@2
 sajAta@Iya@sajAtIya@97108@2
-sajAta@ya@sajAtaya@97109@0
+sajAta@ya@sajAtya@97109@2
 sajIva@tA@sajIvatA@97117@1
 sajIva@tA@sajIvatA@97119@1
 sajja@sajya@sajya@97126@2
@@ -40012,14 +40012,14 @@ saMcArin@tA@saMcArintA@97193@5
 saMci@cita@saMcita@97197@2
 saMcintayati@cintita@saMcintita@97205@2
 saMcintayati@cintya@saMcintya@97206@2
-saMcintayati@vat@saMcintayativat@97207@0
+saMcintayati@vat@saMcintayativat@97207@5
 saMcodana@A@saMcodanA@97224@2
 saMcodana@codayitavya@saMcodayitavya@97225@2
 saMcodana@codita@saMcodita@97225@2
 saMCad@Canna@saMCanna@97229@2
 saMCid@Cinna@saMCinna@97235@2
 saMCettavya@Cettf@saMCettf@97239@2
-saMjan@jAta@saMjanjAta@97253@0
+saMjan@jAta@saMjAta@97253@2
 saMjan@janita@saMjanita@97254@2
 saMjan@saMjAtakopa@saMjAtakopa@97256@2
 saMjan@nirveda@saMjannirveda@97258@0
@@ -40050,7 +40050,7 @@ saMjYapana@jYapta@saMjYapta@97315@2
 saMjYA@jYAta@saMjYAta@97319@2
 saMjYA@jYApita@saMjYApita@97319@2
 saMjYA@AM@saMjYAAM@97325@0
-saMjYA@kf@saMjYAkf@97325@0
+saMjYA@kf@saMjYIkf@97325@3
 saMjYA@dA@saMjYAdA@97325@0
 saMjYA@AM@saMjYAAM@97325@0
 saMjYA@laBay@saMjYAlaBay@97325@0
@@ -40242,13 +40242,13 @@ satvara@itam@satvaraitam@97674@0
 satvara@racanam@satvararacanam@97676@1
 satvara@satvaram@satvaram@97676@1
 sad@sIdati@sadsIdati@97678@0
-sad@te@sadte@97678@0
+sad@te@te@97678@99
 sad@sasAda@sasAda@97678@4
 sad@seduH@sadseduH@97678@0
 sad@asadat@sadasadat@97678@0
 sad@sIdizyati@sadsIdizyati@97678@0
 sad@sadayati@sadayati@97678@4
-sad@te@sadte@97678@0
+sad@te@te@97678@99
 sad@sAdyate@sadsAdyate@97679@0
 sad@sannasIditum@sannasIditum@97679@4
 sad@sadya@sadya@97679@1
@@ -40338,7 +40338,7 @@ sanABa@nABi@sanABanABi@97899@0
 sanABa@i@sanABi@97899@2
 sanABa@i@sanABi@97900@2
 sanABa@BAginI@sanABaBAginI@97901@0
-sanABa@ya@sanABaya@97901@0
+sanABa@ya@sanABya@97901@2
 sanABa@nABa@sanABa@97901@2
 sanAma@ka@sanAmaka@97903@1
 sanAma@ikA@sanAmikA@97903@3
@@ -40354,7 +40354,7 @@ sant@saccarita@saccarita@97946@2
 sant@caryA@santcaryA@97947@0
 sant@carita@santcarita@97947@0
 sant@cidAnanda@santcidAnanda@97949@0
-sant@cinmaya@santcinmaya@97951@0
+sant@cinmaya@santcinmya@97951@3
 sant@I@santI@97951@0
 sant@CAstra@santCAstra@97953@0
 sant@vant@vant@97953@6
@@ -40592,7 +40592,7 @@ saMdeSa@dA@saMdeSadA@98398@0
 saMdeSa@tas@saMdeSatas@98398@0
 saMdeSa@ka@saMdeSaka@98398@1
 saMdeSa@ita@saMdeSita@98399@2
-saMdeSa@ya@saMdeSaya@98399@0
+saMdeSa@ya@saMdeSya@98399@2
 saMdeSa@pada@saMdeSapada@98402@1
 saMdeSa@hara@saMdeSahara@98404@1
 saMdeSa@hArin@saMdeSahArin@98404@1
@@ -40604,7 +40604,7 @@ saMdeha@nAsti@saMdehanAsti@98412@0
 saMdeha@aH@saMdehaaH@98412@0
 saMdeha@kaH@saMdehakaH@98412@0
 saMdeha@aH@saMdehaaH@98412@0
-saMdeha@ya@saMdehaya@98413@0
+saMdeha@ya@saMdehya@98413@2
 saMdeha@dolA@saMdehadolA@98415@1
 saMdeha@Dft@saMdehaDft@98417@1
 saMdeha@Bft@saMdehaBft@98417@1
@@ -40743,7 +40743,7 @@ saMnipat@pAtita@saMnipatpAtita@98701@0
 saMnipat@pAtya@saMnipatpAtya@98702@0
 saMnipAta@mETune@saMnipAtamETune@98706@0
 saMnipAta@ita@saMnipAtita@98707@2
-saMnipAta@ya@saMnipAtaya@98707@0
+saMnipAta@ya@saMnipAtya@98707@2
 saMnipAta@nidrA@saMnipAtanidrA@98709@1
 saMniyam@yata@saMniyamyata@98732@0
 saMniyuj@arTam@saMniyujarTam@98735@0
@@ -40781,7 +40781,7 @@ saMnyAsa@in@saMnyAsin@98838@2
 sapakza@ka@sapakzaka@98844@1
 sapakza@tA@sapakzatA@98844@1
 sapakza@tva@sapakzatva@98844@1
-sapattra@Akf@sapattraAkf@98851@0
+sapattra@Akf@sapattraIkf@98851@3
 sapattra@leKa@sapattraleKa@98854@1
 sapatna@tA@sapatnatA@98857@1
 sapatna@tva@sapatnatva@98857@1
@@ -40828,7 +40828,7 @@ saptati@saMKyAka@saptatisaMKyAka@98968@1
 saptati@saMbanDa@saMbanDa@98970@2
 saptati@Sukasaptati@saptatiSukasaptati@98970@0
 sapta(n)@paYca@saptapaYca@98974@3
-sapta(n)@saptakaTAmaya@saptasaptakaTAmaya@98976@3
+sapta(n)@saptakaTAmaya@saptasaptakaTAmya@98976@3
 sapta(n)@I@saptI@98976@3
 sapta(n)@karRa@saptakarRa@98978@2
 sapta(n)@kftvas@saptakftvas@98980@2
@@ -40923,7 +40923,7 @@ sapta(n)@ruci@saptaruci@99076@2
 sapta(n)@saptArRava@saptasaptArRava@99078@3
 sapta(n)@samudra@saptasamudra@99078@2
 sapta(n)@samudravant@saptasamudravant@99078@2
-sapta(n)@jaleSaya@saptajaleSaya@99078@3
+sapta(n)@jaleSaya@saptajaleSya@99078@3
 sapta(n)@saptAzwa@saptasaptAzwa@99081@3
 sapta(n)@saptAha@saptasaptAha@99083@3
 sapta(n)@am@saptam@99083@3
@@ -41307,7 +41307,7 @@ samADA@DAtavya@samADAtavya@100160@2
 samADA@samAhitaDI@samAhitaDI@100163@2
 samADA@manobudDi@samADAmanobudDi@100165@0
 samADi@iM@samADiiM@100174@0
-samADi@kf@samADikf@100174@0
+samADi@kf@samADIkf@100174@3
 samADi@mant@samADimant@100176@1
 samADi@nizWa@samADinizWa@100179@1
 samADi@Bft@samADiBft@100179@1
@@ -41438,7 +41438,7 @@ samASvas@Svasya@samASvasya@100522@2
 samASvas@SvAsita@samASvasSvAsita@100523@0
 samASvas@SvAsya@samASvasSvAsya@100523@0
 samASvAsa@na@samASvAsana@100527@1
-samASvAsa@itaya@samASvAsaitaya@100527@0
+samASvAsa@itaya@samASvAsaitya@100527@3
 samAs@iva@samAsiva@100532@0
 samAs@AsIna@samAsIna@100533@2
 samAsa@am@samAsam@100538@2
@@ -41458,7 +41458,7 @@ samAsTa@sama@sama@100576@2
 samAsTA@sTita@samAsTAsTita@100580@0
 samAhan@hata@samAhanhata@100590@0
 samAhAra@ca,@samAhAraca@100598@3
-samAhAra@ya@samAhAraya@100599@0
+samAhAra@ya@samAhArya@100599@2
 samAhAra@varRa@samAhAravarRa@100602@1
 samAhAra@E@samAhAraE@100602@0
 samAhAra@O@samAhAraO@100602@0
@@ -41478,7 +41478,7 @@ samiti@mardana@samitimardana@100637@1
 samiti@SAlin@samitiSAlin@100639@1
 samiti@SoBana@samitiSoBana@100641@1
 samiti@samitiMgama@samitiMgama@100643@1
-samiti@jaya@samitijaya@100646@0
+samiti@jaya@samitijya@100646@3
 samitf@Samitf@Samitf@100649@1
 samid@vant@samidvant@100653@1
 samid@idDa@samidDa@100654@2
@@ -41551,7 +41551,7 @@ samudaya@aM@samudayaM@100899@2
 samudaya@kf@samudayIkf@100899@3
 samudaya@in@samudayin@100901@2
 samudAcAra@vant@samudAcAravant@100908@1
-samudAya@maya@samudAyamaya@100913@0
+samudAya@maya@samudAyamya@100913@3
 samudAya@I@samudAyI@100913@3
 samudAhf@hfta@samudAhfta@100918@2
 samudi@ita@samudita@100922@2
@@ -41933,7 +41933,7 @@ saMBf@saMBftArTa@saMBftArTa@102225@4
 saMBf@saMBftOzaDa@saMBftOzaDa@102227@4
 saMBeda@vant@saMBedavant@102230@1
 saMBeda@sArDam@saMBedasArDam@102230@0
-saMBeda@ya@saMBedaya@102230@0
+saMBeda@ya@saMBedya@102230@2
 saMBeda@a@saMBedaa@102231@0
 saMBoga@in@saMBogin@102235@2
 saMBoga@BogyatA@saMBogaBogyatA@102236@0
@@ -41971,7 +41971,7 @@ saMmAna@nIya@saMmAnanIya@102299@1
 saMmAna@ita@saMmAnita@102300@3
 saMmAna@man@saMmAnaman@102300@0
 saMmAna@in@saMmAnin@102300@2
-saMmAna@ya@saMmAnaya@102301@0
+saMmAna@ya@saMmAnya@102301@2
 saMmAnayati@man@saMmAnayatiman@102303@0
 saMmArjaka@mArijana@saMmArjakamArijana@102307@0
 saMmArjaka@n)I@saMmArjakan)I@102308@0
@@ -42352,7 +42352,7 @@ sarva@IRa@sarvaIRa@102950@0
 sarva@sarvAcArya@sarvAcArya@102952@1
 sarva@sarvAjIva@sarvAjIva@102954@1
 sarva@sarvAtiTi@sarvAtiTi@102956@1
-sarva@ya@sarvaya@102956@0
+sarva@ya@sarvya@102956@3
 sarva@sarvAtiSAyin@sarvAtiSAyin@102958@1
 sarva@sarvAtmaka@sarvAtmaka@102960@1
 sarva@ena@sarvena@102960@3
@@ -42470,7 +42470,7 @@ salila@salilodBava@salilodBava@103149@1
 salila@salilOkas@salilOkas@103151@1
 salila@salilOdana@salilOdana@103153@1
 salila@salilecara@salilecara@103155@1
-salila@Saya@salilaSaya@103157@0
+salila@Saya@salilaSya@103157@3
 salIla@am@salIlam@103159@2
 salIla@iva@salIlaiva@103160@0
 salIla@parihAsa@salIlaparihAsa@103162@1
@@ -42566,7 +42566,7 @@ sasya@sasyAnte@sasyAnte@103534@1
 sasvana@am@sasvanam@103536@2
 sasvara@am@sasvaram@103538@2
 sah@sahate@sahate@103542@4
-sah@ti@sahti@103542@0
+sah@ti@ti@103542@99
 sah@sAhati@sahsAhati@103542@0
 sah@sehuH@sahsehuH@103542@0
 sah@(sehire@sah(sehire@103542@0
@@ -42794,7 +42794,7 @@ sahasra@kara@sahasrakara@103882@1
 sahasra@sahasrAha@sahasrAha@103884@1
 sahasra@sahasrorvaNGribAhvakza@sahasrorvaNGribAhvakza@103886@1
 sahasraDA@s@sahasraDAs@103891@0
-sahasraDA@kf@sahasraDAkf@103891@0
+sahasraDA@kf@sahasraDIkf@103891@3
 sahasraDA@s@sahasraDAs@103892@0
 sahasraDA@BU@sahasraDABU@103892@0
 sahasraDA@yA@sahasraDAyA@103892@0
@@ -42825,7 +42825,7 @@ sahya@karman@sahyakarman@103957@1
 sahya@sahya@sahya@103957@1
 sahya@mahIBft@sahyamahIBft@103959@1
 sA@syati@syati@103961@4
-sA@te@sAte@103961@0
+sA@te@te@103961@99
 sA@sinAti@sinAti@103961@4
 sA@ava@sAava@103963@0
 sA@aDyava@sAaDyava@103963@0
@@ -42984,12 +42984,12 @@ sADAraRa@tva@sADAraRatva@104331@1
 sADAraRa@Ikf@sADAraRIkf@104332@2
 sADAraRa@saha@sADAraRasaha@104333@0
 sADAraRa@IBU@sADAraRIBU@104333@2
-sADAraRa@ya@sADAraRaya@104334@0
+sADAraRa@ya@sADAraRya@104334@2
 sADAraRa@tva@sADAraRatva@104334@1
 sADizWa@sADu@sADu@104354@2
 sADIyAMs@sADu@sADu@104357@2
 sADIyAMs@Iyas@sADIyAMsIyas@104358@0
-sADu@(v)I@sADu(v)I@104360@0
+sADu@(v)I@sADvI@104360@2
 sADu@u@sADuu@104364@0
 sADu@s@sADus@104365@0
 sADu@man@sADuman@104365@0
@@ -43083,7 +43083,7 @@ sAMniDya@jan@sAMniDyajan@104557@0
 sAMnipAtika@karman@sAMnipAtikakarman@104560@1
 sApatna@BrAtf@sApatnaBrAtf@104568@0
 sApatna@ka@sApatnaka@104569@1
-sApatna@ya@sApatnaya@104570@0
+sApatna@ya@sApatnya@104570@2
 sApatna@sApatna@sApatna@104570@1
 sApatna@yaka@sApatnayaka@104572@0
 sApavAda@am@sApavAdam@104588@2
@@ -43160,7 +43160,7 @@ sAMparAya@I@sAMparAyI@104768@3
 sAMparAya@Pala,@sAMparAyaPala@104769@3
 sAMparAya@aM@sAMparAyaM@104770@3
 sAMparAya@kf@sAMparAyIkf@104770@3
-sAMparAya@samaya,@sAMparAyasamaya@104772@3
+sAMparAya@samaya,@sAMparAyasamya@104772@3
 sAMparAya@sAMparAyikakalpena@sAMparAyikakalpena@104775@4
 sAMprata@am@sAMpratam@104779@3
 sAMprata@ika@sAMpratika@104779@2
@@ -43250,9 +43250,9 @@ sArasa@I@sArasI@104938@2
 sArasa@ka@sArasaka@104940@1
 sArasa@ikA@sArasikA@104940@2
 sArasa@gfDra@sArasagfDra@104942@1
-sArasa@ya@sArasaya@104944@0
+sArasa@ya@sArasya@104944@2
 sArasvata@I@sArasvatI@104950@2
-sArasvata@ya@sArasvataya@104951@0
+sArasvata@ya@sArasvatya@104951@2
 sArika@A@sArikA@104957@2
 sArin@R@sArinR@104960@0
 sArin@I@sArinI@104960@0
@@ -43292,7 +43292,7 @@ sAla@vfkza@sAlavfkza@105070@0
 sAla@sAla@sAla@105070@1
 sAlaktaka@pada@sAlaktakapada@105074@1
 sAlaNkawaNkawa@SAl@sAlaNkawaNkawaSAl@105076@0
-sAlasa@ya@sAlasaya@105082@0
+sAlasa@ya@sAlasya@105082@2
 sAlAvfka@SAlA@sAlAvfkaSAlA@105084@0
 sAlAvfka@I@sAlAvfkI@105085@3
 sAlAvfka@eya@sAlAvfkaeya@105085@0
@@ -43418,7 +43418,7 @@ sikatA@ila@sikatAila@105346@0
 sikatA@ina@sikatAina@105347@0
 sikatA@setu@sikatAsetu@105349@1
 sic@siYcati@siYcati@105353@4
-sic@te@sicte@105353@0
+sic@te@te@105353@99
 sic@sizeca@sizeca@105353@1
 sic@sizice@sizice@105353@4
 sic@asicat@sicasicat@105353@0
@@ -43483,7 +43483,7 @@ sidDi@sidDyasidDi@sidDyasidDi@105473@1
 siD@siDyati@siDyati@105479@4
 siD@sEtsIt@siDsEtsIt@105479@0
 siD@setsyati@siDsetsyati@105479@0
-siD@te@siDte@105479@0
+siD@te@te@105479@99
 siD@@siD@105479@1
 siD@sidDa@sidDa@105479@1
 siD@sidDatva@sidDatva@105491@1
@@ -43591,7 +43591,7 @@ sukalila@kalita@sukalita@105730@2
 sukalpa@kalya@sukalya@105732@2
 sukalpa@ita@sukalpita@105732@2
 sukavi@tA@sukavitA@105737@1
-sukuwwa@ya@sukuwwaya@105745@0
+sukuwwa@ya@sukuwwya@105745@3
 sukumAra@I@sukumArI@105747@2
 sukumAra@tara@sukumAratara@105749@1
 sukumAra@tA@sukumAratA@105750@1
@@ -43630,7 +43630,7 @@ suKa@A@suKA@105810@2
 suKa@vat@suKavat@105811@1
 suKa@vant@suKavant@105811@1
 suKa@vattA@suKavattA@105812@1
-suKa@Akf@suKaAkf@105812@0
+suKa@Akf@suKaIkf@105812@3
 suKa@kara@suKakara@105814@1
 suKa@I@suKI@105814@2
 suKa@kft@suKakft@105816@1
@@ -43823,7 +43823,7 @@ sudi@Sudi@Sudi@106284@1
 sudina@tA@sudinatA@106286@1
 suduHKa@am@suduHKam@106295@2
 suduHKa@ita@suduHKita@106295@2
-sudurgama@ya@sudurgamaya@106308@0
+sudurgama@ya@sudurgamya@106308@2
 sudurvida@durveda@sudurveda@106347@2
 suduzwara@dustara@sudustara@106369@2
 suduzwara@dustAra@sudustAra@106369@2
@@ -43897,7 +43897,7 @@ sundara@Ikf@sundarIkf@106594@3
 sundara@kARqa@sundarakARqa@106596@1
 sundara@pura@sundarapura@106598@1
 sundara@sena@sundarasena@106600@1
-sundara@aMmanya@sundaraaMmaya@106602@3
+sundara@aMmanya@sundaraaMmya@106602@3
 sundara@Imandira@sundaraImadira@106604@3
 supattra@ita@supattrita@106618@2
 supattra@in@supattrin@106618@2
@@ -43933,10 +43933,10 @@ supraBa@A@supraBA@106791@2
 supraBAta@A@supraBAtA@106794@2
 supraSna@suKa@suKa@106806@2
 suprasAda@ka@suprasAdaka@106810@1
-suprApa@ya@suprApaya@106824@0
+suprApa@ya@suprApya@106824@2
 suprIta@i@suprIti@106828@2
 subanDurAMSa@ka@subanDurAMSaka@106839@0
-subahu@(v)I@subahu(v)I@106846@0
+subahu@(v)I@subahvI@106846@3
 subahu@u@subahuu@106846@0
 subahu@Sas@subahuSas@106847@1
 subAla@iSa@subAlaiSa@106849@0
@@ -44167,7 +44167,7 @@ sulakzaRa@lakzita@sulakzita@107332@2
 sulaBa@A@sulaBA@107338@2
 sulaBa@IBAva@sulaBaIBAva@107339@0
 sulaBa@tva@sulaBatva@107339@1
-sulaBa@ya@sulaBaya@107339@0
+sulaBa@ya@sulaBya@107339@2
 sulaBa@sulaBAvakASa@sulaBAvakASa@107342@1
 sulaBa@sulaBetara@sulaBetara@107344@1
 sulalita@am@sulalitam@107348@2
@@ -44235,11 +44235,11 @@ suviDa@inA@suviDainA@107507@0
 suvistara@am@suvistaram@107556@2
 suvismaya@vismita@suvismita@107561@2
 suvIra@ka@suvIraka@107571@1
-suvIra@ya@suvIraya@107571@0
+suvIra@ya@suvIrya@107571@2
 suvftta@A@suvfttA@107577@2
 suvftta@i@suvftti@107578@2
 suvftta@tA@suvfttatA@107578@1
-suvegA@in@suvegAin@107585@0
+suvegA@in@suvegin@107585@2
 suveza@veSa@suveSa@107595@2
 suveza@tA@suvezatA@107595@1
 suvyakta@am@suvyaktam@107598@2
@@ -44254,7 +44254,7 @@ suSIla@vant@suSIlavant@107642@1
 suSruta@suSrutasaMhitA@suSrutasaMhitA@107658@1
 suSroRi@I@suSroRI@107660@2
 suSlizwa@Sleza@suSleza@107665@2
-suSloka@ya@suSlokaya@107668@0
+suSloka@ya@suSlokya@107668@2
 suzaMDi@saMDi@suzaMDisaMDi@107670@0
 suzira@vivara@suziravivara@107680@1
 suzupta@i@suzupti@107682@2
@@ -44316,7 +44316,7 @@ sUkara@muKa@sUkaramuKa@107952@1
 sUkta@i@sUkti@107955@2
 sUkta@cArin@sUktacArin@107957@1
 sUkta@vAka@sUktavAka@107959@1
-sUkta@ya@sUktaya@107959@0
+sUkta@ya@sUktya@107959@3
 sUkzma@tama@sUkzmatama@107962@1
 sUkzma@tara@sUkzmatara@107963@1
 sUkzma@tA@sUkzmatA@107963@1
@@ -44430,7 +44430,7 @@ sUrya@raSmi@sUryaraSmi@108194@1
 sUrya@ruc@sUryaruc@108196@1
 sUrya@rc@sUryarc@108198@1
 sUrya@vaMSa@sUryavaMSa@108200@1
-sUrya@ya@sUrya@108201@2
+sUrya@ya@sUryya@108201@2
 sUrya@varcas@sUryavarcas@108203@1
 sUrya@vAra@sUryavAra@108205@1
 sUrya@sidDAnta@sUryasidDAnta@108207@1
@@ -44452,7 +44452,7 @@ sfgAla@I@sfgAlI@108236@2
 sfgAla@ikA@sfgAlikA@108237@2
 sfgAla@inI@sfgAlainI@108237@0
 sfj@sfiati@sfiati@108241@4
-sfj@te@sfjte@108241@0
+sfj@te@te@108241@99
 sfj@sarjati@sfjsarjati@108241@0
 sfj@sasarja@sfjsasarja@108241@0
 sfj@sasfje@sfjsasfje@108241@0
@@ -44495,7 +44495,7 @@ senA@senAgra@senAgra@108347@1
 senA@gAmin@senAgAmin@108347@0
 senA@senANga@senANga@108349@1
 senA@senAjIva@senAjIva@108352@1
-senA@in@senAin@108352@0
+senA@in@senin@108352@3
 senA@senADyakza@senADyakza@108354@1
 senA@senajit@senajit@108356@1
 sendra@gaRa@sendragaRa@108360@1
@@ -44504,7 +44504,7 @@ serzya@am@serzyam@108366@2
 sevana@A@sevanA@108384@2
 sevana@Iya@sevanIya@108385@2
 sevA@AM@sevAAM@108388@0
-sevA@kf@sevAkf@108388@0
+sevA@kf@sevIkf@108388@3
 sevA@kAku@sevAkAku@108391@1
 sevA@dakza@sevAdakza@108393@1
 sevA@Darma@sevADarma@108395@1
@@ -44551,7 +44551,7 @@ sotseDa@am@sotseDam@108517@2
 sodara@I@sodarI@108523@2
 sodara@BrAtf@sodaraBrAtf@108524@0
 sodara@Iya@sodarIya@108525@2
-sodara@ya@sodaraya@108525@0
+sodara@ya@sodarya@108525@2
 sodara@sodara@sodara@108526@1
 sodara@yavant@sodarayavant@108526@5
 sodara@sodaryasneha@sodaryasneha@108528@1
@@ -44595,7 +44595,7 @@ soma@rAta@somarAta@108633@1
 soma@loka@somaloka@108635@1
 soma@vaMSa@somavaMSa@108637@1
 soma@Iya@somIya@108638@2
-soma@ya@somaya@108638@0
+soma@ya@somya@108638@2
 soma@vAra@somavAra@108641@1
 soma@vikrayin@somavikrayin@108643@1
 soma@vITI@somavITI@108645@1
@@ -44630,7 +44630,7 @@ sollAsa@am@sollAsam@108707@2
 sozman@sozmatA@sozmatA@108714@1
 sOkara@I@sOkarI@108722@3
 sOkara@ika@sOkarika@108722@2
-sOkara@ya@sOkaraya@108723@0
+sOkara@ya@sOkarya@108723@2
 sOkara@AyaRa@sOkaraAyaRa@108724@0
 sOkarya@eRa@sOkaryeRa@108726@3
 sOkzmya@tva@sOkzmyatva@108731@1
@@ -44677,7 +44677,7 @@ sOBAYjana@SoBAYjana@sOBAYjanaSoBAYjana@108836@0
 sOmana@A@sOmanA@108844@2
 sOmanasa@I@sOmanasI@108846@2
 sOmanasa@A@sOmanasA@108848@2
-sOmanasa@ya@sOmanasaya@108848@0
+sOmanasa@ya@sOmanasya@108848@2
 sOmanasa@yavant@sOmanasayavant@108850@5
 sOmika@I@sOmikI@108854@2
 sOmerava@I@sOmeravI@108864@3
@@ -44696,7 +44696,7 @@ sOra@sEnDava@sOrasEnDava@108888@1
 sOraBa@I@sOraBI@108892@2
 sOraBa@eya@sOraBaeya@108893@0
 sOraBa@eyI@sOraBaeyI@108893@0
-sOraBa@ya@sOraBaya@108894@0
+sOraBa@ya@sOraBya@108894@2
 sOrAzwra@eya@sOrAzwraeya@108898@0
 sOrAzwra@deSa@sOrAzwradeSa@108901@1
 sOrya@AyaRi@sOryaAyaRi@108905@0
@@ -44883,7 +44883,7 @@ strI@stryaDyakza@stryaDyakza@109334@1
 strI@AjIva@strIAjIva@109336@0
 strERa@I@strERI@109340@3
 sTa@as@sTas@109346@3
-sTaRqila@ya@sTaRqilaya@109358@0
+sTaRqila@ya@sTaRqilya@109358@2
 sTaRqila@eyu@sTaRqilaeyu@109358@0
 sTaRqila@SayyA@sTaRqilaSayyA@109360@1
 sTaRqila@SAyin@sTaRqilaSAyin@109361@1
@@ -44977,7 +44977,7 @@ sTAnaka@Iya@sTAnakIya@109507@3
 sTAnika@sTAnin@sTAnin@109509@2
 sTApatya@veda@sTApatyaveda@109516@1
 sTApanA@a@sTApanAa@109519@0
-sTApanA@ika@sTApanAika@109520@0
+sTApanA@ika@sTApanika@109520@2
 sTApanA@Iya@sTApanAIya@109520@0
 sTApayitf@sTApitf@sTApitf@109525@7
 sTAyin@sTAyIBU@sTAyIBU@109538@2
@@ -44992,7 +44992,7 @@ sTAvara@ka@sTAvaraka@109551@1
 sTAvara@jaNgama@sTAvarajaNgama@109553@1
 sTAvara@rAjakanyA@sTAvararAjakanyA@109555@1
 sTAvara@sTAvarAkfti@sTAvarAkfti@109557@1
-sTAvira@ya@sTAviraya@109559@0
+sTAvira@ya@sTAvirya@109559@2
 sTita@evaM@sTitaevaM@109569@0
 sTita@e@sTite@109569@3
 sTita@tA@sTitatA@109574@1
@@ -45002,7 +45002,7 @@ sTita@prajYa@sTitaprajYa@109579@1
 sTita@liNga@sTitaliNga@109581@1
 sTita@saMvid@sTitasaMvid@109583@1
 sTita@saMketa@sTitasaMketa@109583@1
-sTiti@laya@sTitilaya@109587@0
+sTiti@laya@sTitilya@109587@3
 sTiti@utpatti@sTitiutpatti@109587@0
 sTiti@mant@sTitimant@109593@1
 sTiti@jYa@sTitijYa@109596@1
@@ -45069,7 +45069,7 @@ sTUla@mant@sTUlamat@109695@3
 sTUla@Buja@sTUlaBuja@109697@1
 sTUla@maDya@sTUlamaDya@109699@1
 sTUla@lakza@sTUlalakza@109701@1
-sTUla@ya@sTUlaya@109701@0
+sTUla@ya@sTUlya@109701@3
 sTUla@yatva@sTUlayatva@109701@5
 sTUla@vizaya@sTUlavizaya@109704@1
 sTUla@SarIra@sTUlaSarIra@109706@1
@@ -45143,9 +45143,9 @@ snehala@tA@snehalatA@109871@1
 spanda@na@spandana@109879@1
 sparDA@saha,@sparDAsaha@109893@3
 sparDA@AM@sparDAAM@109893@0
-sparDA@kf@sparDAkf@109893@0
+sparDA@kf@sparDIkf@109893@3
 sparDA@ayA@sparDAayA@109894@0
-sparDA@in@sparDAin@109894@0
+sparDA@in@sparDin@109894@2
 sparSa@spaSa@spaSa@109902@2
 sparSa@tA@sparSatA@109902@1
 sparSa@tva@sparSatva@109903@1
@@ -45178,7 +45178,7 @@ spfhaRa@IyatA@spfhaRaIyatA@109982@5
 spfhaRa@tva@spfhaRatva@109982@5
 spfhayAlu@tA@spfhayAlutA@109985@1
 spfhA@AM@spfhAAM@109988@0
-spfhA@kf@spfhAkf@109988@0
+spfhA@kf@spfhIkf@109988@3
 spfhA@banD@spfhAbanD@109988@0
 spfhA@vant@spfhAvant@109989@1
 sPawika@maya@sPawikamaya@109995@1
@@ -45299,7 +45299,7 @@ srasta@srasta@srasta@110297@1
 srasta@gAtra@srastagAtra@110297@1
 srasta@SarIrasaMDi@srastaSarIrasaMDi@110299@1
 srasta@srastAMsa@srastAMsa@110301@1
-srAma@ya@srAmaya@110305@0
+srAma@ya@srAmya@110305@2
 srAva@in@srAvin@110307@2
 sruc@srukka@srukka@110320@1
 sruc@srukpAtra@srukpAtra@110323@1
@@ -45321,7 +45321,7 @@ sva@kIrtimaya@svakIrtimaya@110362@1
 sva@I@svI@110362@2
 sva@kuwumba@svakuwumba@110364@1
 sva@kula@svakula@110366@1
-sva@ya@svaya@110366@0
+sva@ya@svya@110366@3
 sva@kuSalamaya@svakuSalamaya@110368@1
 sva@I@svI@110368@2
 sva@kft@svakft@110370@1
@@ -45401,10 +45401,10 @@ sva@yoni@svayoni@110480@1
 sva@i@svi@110481@3
 sva@I@svI@110481@2
 sva@rasa@svarasa@110484@1
-sva@maya@svamaya@110486@0
+sva@maya@svamya@110486@3
 sva@I@svI@110486@2
 sva@rAj@svarAj@110488@1
-sva@ya@svaya@110489@0
+sva@ya@svya@110489@3
 sva@rAzwra@svarAzwra@110490@1
 sva@rucyA@svarucyA@110492@1
 sva@rUpa@svarUpa@110494@1
@@ -45420,7 +45420,7 @@ sva@vaMSya@svavaMSya@110505@1
 sva@vargIya@svavargIya@110507@1
 sva@vaSa@svavaSa@110509@1
 sva@tA@svatA@110509@1
-sva@ya@svaya@110510@0
+sva@ya@svya@110510@3
 sva@vaSaMkfta@svavaSaMkfta@110510@1
 sva@vAYCayA@svavAYCayA@110513@0
 sva@vAra@svavAra@110515@1
@@ -45489,7 +45489,7 @@ sva@am@svam@110605@3
 sva@A@svA@110605@2
 sva@ayA@svaayA@110606@0
 sva@tas@svatas@110606@1
-sva@Amaya@svaAmaya@110607@0
+sva@Amaya@svaAmya@110607@3
 sva@I@svI@110607@2
 sva@svezwa@svezwa@110609@1
 sva@devatA@svadevatA@110609@5
@@ -45513,7 +45513,7 @@ svatA@svatva@svatva@110645@1
 svadita@svadita@svadita@110654@1
 svaDA@A@svaDAA@110660@0
 svaDA@A@svaDAA@110661@0
-svaDA@kf@svaDAkf@110661@0
+svaDA@kf@svaDIkf@110661@3
 svaDA@kara@svaDAkara@110663@1
 svaDA@kAra@svaDAkAra@110665@1
 svaDA@ninayana@svaDAninayana@110667@1
@@ -45737,7 +45737,7 @@ svAgata@te@svAgatate@111074@0
 svAgata@Ikf@svAgatIkf@111074@2
 svAcCandya@At@svAcCandyAt@111083@3
 svAcCandya@ena@svAcCandyena@111084@3
-svAjIva@ya@svAjIvaya@111086@0
+svAjIva@ya@svAjIvya@111086@2
 svAtantrya@cCandya@svAtantryacCandya@111088@0
 svAtantrya@eRa@svAtantryeRa@111088@3
 svAtantrya@At@svAtantryaAt@111088@0
@@ -45775,7 +45775,7 @@ svAhA@A@svAhAA@111190@0
 svAhA@kAra@svAhAkAra@111193@1
 svid@svedate@svedate@111197@7
 svid@svidyati@svidyati@111197@4
-svid@te@svidte@111197@0
+svid@te@te@111197@99
 svid@sizvide@svidsizvide@111197@0
 svid@svedayati@svedayati@111197@7
 svid@svinna@svinna@111197@1
@@ -45820,7 +45820,7 @@ haMsa@I@haMsI@111277@2
 haMsa@tA@haMsatA@111278@1
 haMsa@tva@haMsatva@111278@1
 haMsa@vatI@haMsavatI@111278@1
-haMsa@AvatI@haMsaAvatI@111279@0
+haMsa@AvatI@haMsAvatI@111279@2
 haMsa@kAkIya@haMsakAkIya@111281@1
 haMsa@gati@haMsagati@111284@1
 haMsa@gAminI@haMsagAminI@111284@1
@@ -45898,7 +45898,7 @@ han@haMsyati@haMsyati@111416@4
 han@hanyate@hanyate@111416@4
 han@ti@hanti@111416@1
 han@GAtayati@hanGAtayati@111417@0
-han@te@hante@111417@0
+han@te@te@111417@99
 han@hata@hata@111417@1
 han@hantum@hantum@111417@4
 han@hanitum@hanitum@111417@4
@@ -46178,7 +46178,7 @@ hA@jahAti@hAjahAti@111975@0
 hA@jahati@hAjahati@111975@0
 hA@jahIhi@hAjahIhi@111975@0
 hA@jahyAt@hAjahyAt@111976@0
-hA@ti@hAti@111977@0
+hA@ti@ti@111977@99
 hA@SarIram@hASarIram@111979@0
 hA@prARAn,@hAprARAn@111979@3
 hA@prAREH@hAprAREH@111981@0
@@ -46245,7 +46245,7 @@ hiMsra@A@hiMsrA@112145@2
 hiMsra@jantu@hiMsrajantu@112147@1
 hiMsra@paSu@hiMsrapaSu@112147@1
 hiMsra@hiMsrAhiMsra@hiMsrAhiMsra@112149@1
-hikkA@ikA@hikkAikA@112151@0
+hikkA@ikA@hikkikA@112151@2
 hiN@kf@hiNkf@112153@1
 hiN@hiN@hiN@112153@1
 hiN@hkAra@hiNhkAra@112154@0
@@ -46497,12 +46497,12 @@ hetu@SAstra@hetuSAstra@112680@1
 hetuka@I@hetukI@112682@3
 hema@heman@heman@112684@1
 heman@a@hemana@112688@1
-heman@maya@hemamaya@112688@2
+heman@maya@hemamya@112688@3
 heman@I@hemanI@112688@0
 heman@a@hemana@112689@1
 heman@vant@hemavant@112689@2
 heman@hemakakza@hemakakza@112691@1
-heman@ya@hemaya@112692@3
+heman@ya@hemya@112692@2
 heman@kamala@hemakamala@112694@2
 heman@kara@hemakara@112696@2
 heman@kartf@hemakartf@112698@2
@@ -46524,7 +46524,7 @@ heman@BastrA@hemaBastrA@112728@2
 heman@marIcimant@hemamarIcimat@112730@2
 heman@mAlin@hemamAlin@112732@2
 heman@mfga@hemamfga@112734@2
-heman@ratnamaya@hemaratnamaya@112737@2
+heman@ratnamaya@hemaratnamya@112737@3
 heman@I@hemanI@112737@0
 heman@ratnavant@hemaratnavant@112737@2
 heman@latA@hemalatA@112739@2
@@ -46598,6 +46598,6 @@ hrI@pada@hrIpada@112928@1
 hrI@mUQa@hrImUQa@112930@1
 hrI@yantraRA@hrIyantraRA@112932@1
 hrIm@hrUm@hrUm@112936@2
-hrezA@in@hrezAin@112947@0
+hrezA@in@hrezin@112947@2
 hlAdana@Iya@hlAdanIya@112956@2
 hlAdin@I@hlAdinI@112958@1

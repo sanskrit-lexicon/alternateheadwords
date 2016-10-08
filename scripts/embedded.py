@@ -74,9 +74,9 @@ if __name__=="__main__":
 	dictname = sys.argv[1]
 	reHeadword = r'^<P>\(?\[?\{@(.*?)@}'
 	reEmbedded = r'\{\%([^%]*)\%\}'
-	knownsolutionlist = [('[aA]Ikf$','Ikf'),('antat$','at'),('[aAi]it([aA])$','it\g<1>'),('a([Aei])$','\g<1>'),('[ai]in$','in'),('[ai]I$','I'),('aI([yn])a$','I\g<1>a'),('aik([aA])$','ik\g<1>'),("[.,|']",''),('aa([mMs])$','a\g<1>'),('aIBU$','IBU'),('aAs$','As'),('aAt$','At'),('aiya$','iya'),('aAvant$','Avant'),('ae([Rn])a$','e\g<1>a'),('aAya$','Aya'),('^a([hl])am','a\g<1>am'),('man([^aAiIuUfFxXeEoO])','ma\g<1>'),('tite$','te'),('s\(z\)ka$','zka'),('aAlu$','Alu'),('^agniA','agnyA'),('^asant([KPCWTcwtkpSzs])','asat\g<1>'),('^asant([^KPCWTcwtkpSzs])','asad\g<1>'),('^aDas([KPWTwtkps])','aDaH\g<1>'),('^aDas([JBGQDjbgqd])','aDo\g<1>'),('^aDasS','aDaSS'),('^aDas([cC])','aDaS\g<1>'),('^tria','trya'),('^dvia','dvya'),('^vyoman([^v])','vyoma\g<1>'),('akf$','Ikf'),('vanvarI$','varI'),('a[(]n[)]([^aAiIuUfFxXeEoO])','a\g<1>'),('a[(]n[)]([aAiIuUfFxXeEoO])','\g<1>')]
-	nochangelist = [('tva$'),('tA$'),('avant$')]
-	upasarga = ['pra','prati','praty','api','parA','apa','pari','pary','anu','anv','ava','vi','vyati','vyA','vy','saM','sam','su','sv','ati','nir','ni','ud','ut','aDi','aDy','dur','duH','aBi','aBy','vyati']
+	knownsolutionlist = [('[aA]Ikf$','Ikf'),('antat$','at'),('[aAi]it([aA])$','it\g<1>'),('a([Aei])$','\g<1>'),('[aiA]in$','in'),('[ai]I$','I'),('aI([yn])a$','I\g<1>a'),('[aAI]ik([aA])$','ik\g<1>'),("[.,|']",''),('aa([mMs])$','a\g<1>'),('aIBU$','IBU'),('aAs$','As'),('aAt$','At'),('aiya$','iya'),('aAvant$','Avant'),('ae([Rn])a$','e\g<1>a'),('aAya$','Aya'),('^a([hl])am','a\g<1>am'),('man([^aAiIuUfFxXeEoO])','ma\g<1>'),('tite$','te'),('s\(z\)ka$','zka'),('aAlu$','Alu'),('^agniA','agnyA'),('^asant([KPCWTcwtkpSzs])','asat\g<1>'),('^asant([^KPCWTcwtkpSzs])','asad\g<1>'),('^aDas([KPWTwtkps])','aDaH\g<1>'),('^aDas([JBGQDjbgqd])','aDo\g<1>'),('^aDasS','aDaSS'),('^aDas([cC])','aDaS\g<1>'),('^tria','trya'),('^dvia','dvya'),('^vyoman([^v])','vyoma\g<1>'),('[aAIi]kf$','Ikf'),('vanvarI$','varI'),('a[(]n[)]([^aAiIuUfFxXeEoO])','a\g<1>'),('a[(]n[)]([aAiIuUfFxXeEoO])','\g<1>'),('^ap([JBGQDjbgqd])','ab\g<1>'),('janjAta$','jAta'),('aAvatI$','AvatI'),('u\(v\)I$','vI'),('vantvat$','vat'),('aya$','ya')]
+	nochangelist = [('tva$'),('tA$'),('avant$'),('vat$')]
+	upasarga = ['pra','prati','praty','api','parA','apa','pari','pary','anu','anv','ava','vi','vyati','vyA','vy','saM','sam','su','sv','ati','nir','ni','ud','ut','aDi','aDy','dur','duH','aBi','aBy','vyati','aprati',]
 
 	"""
 	print "#Step 1. Writing embedded headwords with their corresponding line in ehw0.txt"
@@ -190,6 +190,9 @@ if __name__=="__main__":
 				elif l.levenshtein(head,sub) < 2: # banDya@vanDya
 					hwmatch += 1
 					fout2.write(head+'@'+sub+'@'+sub+'@'+linenum+'@6\n')
+				elif len(re.findall('([aAiIuUfFxXeEoO])',head)) <= 1 and sub in ['ti','te']: # tan@tenuH - Ignoring verbs (only one vowel identifies verbs mostly)
+					hwmatch += 1
+					fout2.write(head+'@'+sub+'@'+sub+'@'+linenum+'@99\n')
 				else:
 					fout2.write(head+'@'+sub+'@'+head+sub+'@'+linenum+'@0\n')
 			
