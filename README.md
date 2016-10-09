@@ -74,4 +74,8 @@ Codes are as below
 
 `8` - Match is found by lcs (longest common substring method). See commsubstring and longest_common_substring functions for details. e.g. asyavAmIya@vAm@asyavAm@14200@8
 
+`9` - PWG has strong prediliction towards sub being prefixes. If sub is in known list of upasarga combinations, it is given code 9. e.g. kuc@vi@vikuc@36787@9
+
+`10` - PWG has strong prediliction towards sub being the first part of compound. Whatever is left by `9` is resolved as sub+head in case of PWG rather than generic head+sub. e.g. gam@acCa@acCagam@46236@10
+
 `99` - Dump. No need to match these entries. They are mostly verb related entries. Ignore them. That is why '99' - far away from regular numbering. e.g. iz@te@te@17785@99

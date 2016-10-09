@@ -1,9 +1,11 @@
 #Step 4. Analysing ehw2.txt for correction codes.
-Total 8090 entries with code 0
-Total 26578 entries with code 1
-Total 8484 entries with code 2
-Total 1835 entries with code 3
-Total 753 entries with code 4
-Total 415 entries with code 5
-Total 331 entries with code 8
-Total 117 entries with code 99
+Total 0 entries with code 0
+Total 37 entries with code 1
+Total 27 entries with code 2
+Total 3 entries with code 3
+Total 50 entries with code 4
+Total 6 entries with code 5
+Total 69 entries with code 8
+Total 6963 entries with code 9
+Total 340 entries with code 10
+Total 1 entries with code 99
