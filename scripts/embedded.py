@@ -11,9 +11,9 @@ Output:
 	data/STC/STCehw1.txt (STC headwords in SLP1)
 	data/STC/STCehw2.txt (STC headwords in SLP1, with suggestions)
 Usage:
-	python ahw.py dictname
+	python embedded.py dictname
 	e.g.
-	e.g. python ahw.py STC
+	e.g. python embedded.py STC
 """
 import sys, re
 import codecs
@@ -99,35 +99,55 @@ class dataholder:
 	'Class to hold the data from ehw2.txt file'
 	def __init__(self, singleline):
 		[self.head,self.sub,self.solution,self.line,self.code] = re.split('[@]',singleline)
-		
+
+def headwordembedwordregex(dict):
+	if dict in ['STC']:
+		reHeadword = r'^<P>\(?\[?\{@(.*?)@}'
+		reEmbedded = r'\{\%([^%]*)\%\}'
+	elif dict in ['PWG']:
+		reHeadword = r'^<H1>000{([^}]*)}1'
+		reEmbedded = r'^[-]<P>[-] \{#([^#]*)#}'
+	return [reHeadword,reEmbedded]
+	
+def dictstartendreturn(dict):
+	if dict in ['STC']:
+		startstring = '[Page1-1]'
+		endstring = 'ADDITIONS ET CORRECTIONS'
+	elif dict in ['PWG']:
+		startstring = '<H>{#a#}'
+		endstring = '<H1>000{hArikeyI}1{hArikeyI}'
+	return [startstring,endstring]
 	
 if __name__=="__main__":
 	dictname = sys.argv[1]
 	startpoint = '1'
+	colognedir = '../../Cologne_localcopy/'+dictname
 	if len(sys.argv) > 2:
 		startpoint = sys.argv[2]
-	reHeadword = r'^<P>\(?\[?\{@(.*?)@}'
-	reEmbedded = r'\{\%([^%]*)\%\}'
+	[reHeadword, reEmbedded] = headwordembedwordregex(dictname)
+
+	upasargacombinations = ['ati','atinis','atipra','ativi','ativyA','atisam','atyati','atyaBi','atyA','atyud','atyupa','aDi','aDini','aDinis','aDivi','aDyava','aDyA','aDyupa','anu','anuni','anunis','anuparA','anupari','anuparyA','anupra','anuprati','anuvi','anuvyava','anuvyA','anusam','anusampra','anUd','anvapa','anvava','anvA','apa','apani','apanis','apaparA','apaparyA','apapra','apavyA','apA','apAti','api','apipari','apod','apyati','aBi','aBini','aBinis','aBiparA','aBipari','aBiparyA','aBipra','aBivi','aBivyA','aBisamA','aBisam','aByati','aByaDi','aByanu','aByapa','aByava','aByA','aByudA','aByud','aByupa','aByupA','aByupAva','ava','avani','avA','A','utpra','udava','udA','ud','udvi','unni','upa','upani','upanis','upanyA','upapari','upaparyA','upapra','upavi','upavyA','upasaṁni','upasamA','upasam','upA','upAti','upAva','upodA','upod','upopa','duHsam','duranu','durava','durA','durud','durupa','durni','duzpari','duzpra','dus','ni','nipra','nirati','niraDi','niranu','nirapa','niraBi','niraBi','nirava','nirupA','nirvi','nivyA','nizpra','nisu','nis','nyA','parA','pari','parini','parinis','paripra','parivi','parivyA','parisam','paryaDi','paryanu','paryava','paryA','paryud','paryupa','pra','praNi','prati','pratini','pratinis','pratiparA','pratipari','pratipra','prativi','prativyA','pratisam','pratyaDi','pratyanu','pratyapa','pratyapi','pratyaBi','pratyava','pratyA','pratyudA','pratyud','pratyupa','pratyupA','pravi','pravyA','prasam','prA','prADi','prod','vi','vini','vinis','viparA','vipari','viparyA','vipra','viprati','visam','vyati','vyanu','vyanvA','vyapa','vyapA','vyaBi','vyava','vyA','vyud','vyupa','saṁvi','saṁvyava','saṁvyA','sanni','samati','samaDi','samanu','samanuvi','samanvA','samapa','samapi','samaBi','samaBivyA','samaBisam','samaBisampra','samaByava','samaByA','samaByud','samava','samava','samavA','samA','samudA','samud','samupa','samupA','sam','samparA','sampari','sampra','samprati','samprA','samprod','sampari','su','supari','suvi','susamA','svanu','svaBi','svaByA','saMpra','samupani','saṁvi','saṁvyava','saṁvyA','sanni','samati','samaDi','samanu','samanuvi','samanvA','samapa','samapi','samaBi','samaBivyA','samaBisaM','samaBisaMpra','samaByava','samaByA','samaByud','samava','samava','samavA','samA','samudA','samud','samupa','samupA','saM','saMparA','saMpari','saMpra','saMprati','saMprA','saMprod','saMpari','saMni','nirA','prani','pratyAsam','sapra','praRyA','pariRi','saMpratyA','saMnis','aBiprati','avasam','nyava','anusamA','anuvyud','Ani','praRi','saMvi','avanis','pratyaByanu','Avi','anUpa','vyatisam','pratisamA','prAva','aBisaMpra','aBiprati','upaparA','samaByati','paryupA','pratinyA','saMpravi','upaprati']
 	knownsolutionlist = [('[aA]Ikf$','Ikf'),('antat$','at'),('[aAi]it([aA])$','it\g<1>'),('a([Aei])$','\g<1>'),('[aiA]in$','in'),('[ai]I$','I'),('aI([yn])a$','I\g<1>a'),('[aAI]ik([aA])$','ik\g<1>'),("[.,|']",''),('aa([mMs])$','a\g<1>'),('aIBU$','IBU'),('aAs$','As'),('aAt$','At'),('aiya$','iya'),('aAvant$','Avant'),('ae([Rn])a$','e\g<1>a'),('aAya$','Aya'),('^a([hl])am','a\g<1>am'),('man([^aAiIuUfFxXeEoO])','ma\g<1>'),('tite$','te'),('s\(z\)ka$','zka'),('aAlu$','Alu'),('^agniA','agnyA'),('^asant([KPCWTcwtkpSzs])','asat\g<1>'),('^asant([^KPCWTcwtkpSzs])','asad\g<1>'),('^aDas([KPWTwtkps])','aDaH\g<1>'),('^aDas([JBGQDjbgqd])','aDo\g<1>'),('^aDasS','aDaSS'),('^aDas([cC])','aDaS\g<1>'),('^tria','trya'),('^dvia','dvya'),('^vyoman([^v])','vyoma\g<1>'),('[aAIi]kf$','Ikf'),('vanvarI$','varI'),('a[(]n[)]([^aAiIuUfFxXeEoO])','a\g<1>'),('a[(]n[)]([aAiIuUfFxXeEoO])','\g<1>'),('^ap([JBGQDjbgqd])','ab\g<1>'),('janjAta$','jAta'),('aAvatI$','AvatI'),('u\(v\)I$','vI'),('vantvat$','vat'),('aIkf','Ikf'),('tl','ll'),('DAhita$','hita'),('aant$','at'),('iI$','I')]
 	nochangelist = [('tva$'),('tA$'),('avant$'),('vat$')]
 	upasarga = ['pra','prati','praty','api','parA','apa','pari','pary','anu','anv','ava','vi','vyati','vyA','vy','saM','sam','su','sv','ati','nir','ni','ud','ut','aDi','aDy','dur','duH','aBi','aBy','vyati','aprati','vipra']
 
 	if not startpoint in ['2','3','4','5']:
 		print "#Step 1. Writing embedded headwords with their corresponding line in ehw0.txt"
-		fin = codecs.open('../data/'+dictname+'/'+dictname+'.txt','r','utf-8')
+		fin = codecs.open(colognedir+'/'+dictname+'txt/'+dictname+'.txt','r','utf-8')
 		fout = codecs.open('../data/'+dictname+'/'+dictname+'ehw0.txt','w','utf-8')
 		headword = ''
 		embeddedtag = ''
 		dictstart = False
 		dictend = False
+		[startstring,endstring] = dictstartendreturn(dictname)
 		counter = 0
 		
 		for line in fin:
 			counter += 1
 			line = line.strip()
-			if '[Page1-1]' in line:
+			if startstring in line:
 				dictstart = True
-			if 'ADDITIONS ET CORRECTIONS' in line:
+			if endstring in line:
 				dictend = True
 			if dictstart and not dictend:
 				matchheadword = re.match(reHeadword,line)
@@ -154,8 +174,9 @@ if __name__=="__main__":
 				fout1.write(line)
 			else:
 				line = line.strip()
-				line = line.lower()
-				line = t.transcoder_processString(line,'as','slp1')
+				if dictname in ['STC']:
+					line = line.lower()
+					line = t.transcoder_processString(line,'as','slp1')
 				[head,sub,linenum] = line.split('@')
 				line = head+'@'+sub
 				line = line.strip('1234567890')
@@ -184,7 +205,10 @@ if __name__=="__main__":
 				line = line.strip()
 				[head,sub,linenum] = line.split('@')
 				head = re.split(' \(',head)[0]
-				if head+sub in hw:
+				if str(sub) in upasargacombinations and str(dictname) in ['PWG']: # PWG has mostly upasarga+verb kind of stuff.
+					hwmatch += 1
+					fout2.write(head+'@'+sub+'@'+sub+head+'@'+linenum+'@9\n')
+				elif head+sub in hw:
 					hwmatch += 1
 					fout2.write(head+'@'+sub+'@'+head+sub+'@'+linenum+'@1\n')
 				elif len(sub) >= len(head) and sub.startswith(head[:-1]) and sub in hw: #asuKa@asuKAvaha
@@ -241,7 +265,7 @@ if __name__=="__main__":
 		print '#Step 4. Analysing ehw2.txt for correction codes.'
 		fin3 = codecs.open('../data/'+dictname+'/'+dictname+'ehw2.txt','r','utf-8')
 		fout3 = codecs.open('../data/'+dictname+'/'+dictname+'ehw3.txt','w','utf-8')
-		codelist = ['0','1','2','3','4','5','8','99']
+		codelist = ['0','1','2','3','4','5','8','9','99']
 		data = fin3.readlines()
 		fin3.close()
 		for member in codelist:
@@ -253,5 +277,3 @@ if __name__=="__main__":
 					counter += 1
 			print 'Total', counter, 'entries with code', member
 
-			
-		
