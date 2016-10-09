@@ -54,3 +54,24 @@ The following explanation gives a somewhat nearby explanation to this issue.
 
 `12` - Edit distance is the same, but left opening has consonant matching. e.g. 12:ma(mi)hira:mihira:mamira
 
+# Embedded Headwords
+
+See https://github.com/sanskrit-lexicon/alternateheadwords/issues/5 for details.
+
+Codes are as below
+
+`0` - No resolution found by mechanical means. Need manual inspection. e.g. afRin@an@afRinan@328@0
+
+`1` - Resolution found in sanhw1.txt directly (Known headwords) e.g. aMSa@kalpanA@aMSakalpanA@333@1
+
+`2` - Resolution found in sanhw1.txt after a bit of code work (Semi-known headwords) e.g. aMSa@Ikf@aMSIkf@331@2. Here aMSIkf is in sanhw1.txt.
+
+`3` - Known regular expression solutions, not found in sanhw1. e.g. akleSa@At@akleSAt. Here, akleSAt is not in sanhw1.txt.
+
+`4` - subheadword is longer than headword and starts with headword string. These are suggestive that subheadword should replace headword in toto. e.g. alpa@alpIyAMs@alpIyAMs@11353@4
+
+`5` - These are known cases which require no change in joining. e.g. aSakta@tva@aSaktatva@12958@5
+
+`8` - Match is found by lcs (longest common substring method). See commsubstring and longest_common_substring functions for details. e.g. asyavAmIya@vAm@asyavAm@14200@8
+
+`99` - Dump. No need to match these entries. They are mostly verb related entries. Ignore them. That is why '99' - far away from regular numbering. e.g. iz@te@te@17785@99

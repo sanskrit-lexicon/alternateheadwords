@@ -95,7 +95,12 @@ def commsubstring(head,sub):
 			return headparts[0]+lcs+subparts[1]
 		else:
 			return headparts[0]+lcs+subparts[1]
+class dataholder:
+	'Class to hold the data from ehw2.txt file'
+	def __init__(self, singleline):
+		[self.head,self.sub,self.solution,self.line,self.code] = re.split('[@]',singleline)
 		
+	
 if __name__=="__main__":
 	dictname = sys.argv[1]
 	startpoint = '1'
@@ -107,7 +112,7 @@ if __name__=="__main__":
 	nochangelist = [('tva$'),('tA$'),('avant$'),('vat$')]
 	upasarga = ['pra','prati','praty','api','parA','apa','pari','pary','anu','anv','ava','vi','vyati','vyA','vy','saM','sam','su','sv','ati','nir','ni','ud','ut','aDi','aDy','dur','duH','aBi','aBy','vyati','aprati','vipra']
 
-	if not startpoint in ['2','3']:
+	if not startpoint in ['2','3','4','5']:
 		print "#Step 1. Writing embedded headwords with their corresponding line in ehw0.txt"
 		fin = codecs.open('../data/'+dictname+'/'+dictname+'.txt','r','utf-8')
 		fout = codecs.open('../data/'+dictname+'/'+dictname+'ehw0.txt','w','utf-8')
@@ -140,7 +145,7 @@ if __name__=="__main__":
 		fin.close()
 		fout.close()
 
-	if not startpoint in ['3']:
+	if not startpoint in ['3','4','5']:
 		print "#Step 2. Writing embedded headwords in SLP1 in ehw1.txt"
 		fin1 = codecs.open('../data/'+dictname+'/'+dictname+'ehw0.txt','r','utf-8')
 		fout1 = codecs.open('../data/'+dictname+'/'+dictname+'ehw1.txt','w','utf-8')
@@ -166,7 +171,7 @@ if __name__=="__main__":
 		fin1.close()
 		fout1.close()
 	
-	if not startpoint in ['4']:
+	if not startpoint in ['4','5']:
 		print '#Step 3. Writing suggestions for bracket resolutions in ehw2.txt'
 		hw = set(h.hw1())
 		fin2 = codecs.open('../data/'+dictname+'/'+dictname+'ehw1.txt','r','utf-8')
@@ -207,6 +212,9 @@ if __name__=="__main__":
 								break
 						else:
 							fout2.write(head+'@'+sub+'@'+head+sub+'@'+linenum+'@0\n')
+					elif len(lcs) > 2 and commsubstring(head,sub) in hw:
+						hwmatch += 1
+						fout2.write(head+'@'+sub+'@'+commsubstring(head,sub)+'@'+linenum+'@2\n')
 					elif len(lcs) > 2:
 						hwmatch += 1
 						fout2.write(head+'@'+sub+'@'+commsubstring(head,sub)+'@'+linenum+'@8\n')
@@ -216,15 +224,9 @@ if __name__=="__main__":
 					elif nochange(head+sub): #aSakta@tva@aSaktatva
 						hwmatch += 1
 						fout2.write(head+'@'+sub+'@'+head+sub+'@'+linenum+'@5\n')
-					elif not overlapsolution == head+sub:
-						hwmatch += 1
-						fout2.write(head+'@'+sub+'@'+overlapsolution+'@'+linenum+'@7\n')
 					elif l.levenshtein(head,sub) < 2 and sub in hw: # banDya@vanDya
 						hwmatch += 1
 						fout2.write(head+'@'+sub+'@'+sub+'@'+linenum+'@1\n')
-					elif l.levenshtein(head,sub) < 2: # banDya@vanDya
-						hwmatch += 1
-						fout2.write(head+'@'+sub+'@'+sub+'@'+linenum+'@6\n')
 					elif len(re.findall('([aAiIuUfFxXeEoO])',head)) <= 1 and sub in ['ti','te']: # tan@tenuH - Ignoring verbs (only one vowel identifies verbs mostly)
 						hwmatch += 1
 						fout2.write(head+'@'+sub+'@'+sub+'@'+linenum+'@99\n')
@@ -234,3 +236,22 @@ if __name__=="__main__":
 		print hwmatch, 'subheadwords matched.'
 		fin2.close()
 		fout2.close()
+
+	if not startpoint in ['5']:
+		print '#Step 4. Analysing ehw2.txt for correction codes.'
+		fin3 = codecs.open('../data/'+dictname+'/'+dictname+'ehw2.txt','r','utf-8')
+		fout3 = codecs.open('../data/'+dictname+'/'+dictname+'ehw3.txt','w','utf-8')
+		codelist = ['0','1','2','3','4','5','8','99']
+		data = fin3.readlines()
+		fin3.close()
+		for member in codelist:
+			counter = 0
+			for line in data:
+				line = line.strip()
+				dat = dataholder(line)
+				if dat.code == member:
+					counter += 1
+			print 'Total', counter, 'entries with code', member
+
+			
+		
