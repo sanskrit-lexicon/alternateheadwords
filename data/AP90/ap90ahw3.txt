@@ -37,7 +37,7 @@
 3:Atire(rE)kyaM:AtirEkyaM:AtirerEaM:40523:40524
 1:AnuSra(SrA) vika:AnuSrAvika:AnuSraSrAa:42118:42122
 3:AMtari(rI)kza:AMtarIkza:AMtarirIa:42194:42199
-4:ABAsu(sva) ra:ABAsusva:ABsvara:42939:42942
+99:ABAsu(sva) ra:ABAsvara:ABsvara:42939:42942
 3:Ama(mA) nasyaM:AmAnasyaM:AmamAsyaM:43159:43160
 1:Amli(mlI)kA:AmlIkA:AmlimlI:43479:43480
 3:Arakza(kzi)kaH:ArakzikaH:Arakzakzi:43895:43897
@@ -114,15 +114,15 @@
 1:koSi(zi) n:kozin:koSizi:72700:72700
 1:kosa(Sa) laH:koSalaH:kosaSaH:72735:72738
 1:kosa(Sa) lA:koSalA:kosaSa:72739:72739
-0:kOtUhalaM(lyaM):kOtUhlyaM:kOtUhalaMlyaM
+99:kOtUhalaM(lyaM):kOtUhalyaM:kOtUhalaMlyaM
 1:kOve(be) ra:kObera:kOvebe:73017:73024
-0:kOSalaM(lyaM):kOSlyaM:kOSalaMlyaM
+99:kOSalaM(lyaM):kOSalyaM:kOSalaMlyaM
 1:kOSe(ze) ya:kOzeya:kOSeze:73078:73084
 3:krAya(yi) kaH:krAyikaH:krAyayiH:73470:73471
 1:klIba(va):klIva:klIbava:73805:73816
 3:klEbyaM(vyaM):klEvyaM:klEbyaMvyaM:73817:73821
 1:kzaR(n):kzan:kzaRn:73896:73901
-0:kzipatiH(stiH):kzipstiH:kzipatiHstiH
+99:kzipatiH(stiH):kzipastiH:kzipatiHstiH
 1:Kawa(qa) kkikA:KaqakkikA:KawaqaikA:75138:75139
 1:Karva(rba):Karba:Karvarba:75462:75468
 3:Karvu(rbu) jaM:KarbujaM:Karvurbu:75472:75472
@@ -137,7 +137,7 @@
 1:gili(ri) ta:girita:giliri:78102:78102
 3:gi(ge)zRuH:gezRuH:gigeuH:78103:78106
 1:guqu(qU) cI:guqUcI:guquqU:78254:78256
-3:guMdA(drA)laH:gudrAlaH:guMdAdrA:78605:78605
+99:guMdA(drA)laH:guMdrAlaH:guMdAdrA:78605:78605
 3:gu(guM) Pita:guMPita:guguMa:78723:78724
 3:gu(gU) rjaraH:gUrjaraH:gugUaraH:78869:78873
 1:gu(gU) vAkaH:gUvAkaH:gugUkaH:78913:78913
@@ -153,11 +153,11 @@
 1:co(cO) raH:cOraH:cocOH:84339:84345
 1:co(cO) rikA:cOrikA:cocOkA:84346:84347
 1:cewaH(qaH):ceqaH:cewaHqaH:84513:84514
-3:cEtraraTaM(TyaM):cEtrarTyaM:cEtraraTaMTyaM:84629:84631
+99:cEtraraTaM(TyaM):cEtraraTyaM:cEtraraTaMTyaM:84629:84631
 0:colaM(loM) qukaH:coloMqukaH:colaMloMaH
-0:jaganuH(nnuH):jagnnuH:jaganuHnnuH
+99:jaganuH(nnuH):jagannuH:jaganuHnnuH
 9:ja(jaM)jaH:jajaM:jaMjaH:85438:85438
-0:jawiH(wI):jawwI:jawiHwI:85504:85506
+99:jawiH(wI):jawI:jawiHwI:85504:85506
 3:jawu(qu)laH:jaqulaH:jawuquH:85532:85533
 7:janu(mU):jamU:janumU:85798:85798
 3:jaMbu(bU)kaH:jaMbUkaH:jaMbubUH:85992:85994
@@ -168,7 +168,7 @@
 1:JAwi(wI)kA:JAwIkA:JAwiwI:88368:88368
 3:JURiH(liH):JUliH:JURiHliH:88409:88411
 3:waMkaRaM(naM):waMkanaM:waMkaRaMnaM:88448:88451
-0:wiwi(wwi)BaH:wwwiBaH:wiwiwwi
+99:wiwi(wwi)BaH:wiwwiBaH:wiwiwwi
 1:wippaRI(nI):wippanI:wippaRInI:88487:88492
 3:qiMqI(qi) raH:qiMqiraH:qiMqIqiH:88595:88598
 2:tA(wa)qakA:tAwakA:waqakA:90257:90268
@@ -181,7 +181,7 @@
 1:damu(mU)nas:damUnas:damumUs:94201:94201
 1:dardruH (rdrUH):dardrUH:dardruHrdrUH:94342:94342
 1:dardru(rdrU)Ra:dardrURa:dardrurdrU:94343:94343
-3:darvI(rviH):drviH:darvIrviH:94370:94374
+99:darvI(rviH):darviH:darvIrviH:94370:94374
 3:daSe(se)rakaH:daserakaH:daSesekaH:94612:94612
 3:dASe(se)yaH:dAseyaH:dASeseH:95258:95260
 3:diDi(DI)zUH:diDIzUH:diDiDIH:95352:95363
@@ -212,15 +212,15 @@
 1:nu(nU)ta:nUta:nunU:109181:109182
 1:nutta(nna):nunna:nuttanna:109206:109208
 1:nEca(ci)kI:nEcikI:nEcaci:109520:109522
-0:nEpuRaM(RyaM):nEpRyaM:nEpuRaMRyaM
+99:nEpuRaM(RyaM):nEpuRyaM:nEpuRaMRyaM
 3:nEvi(bi) qyaM:nEbiqyaM:nEvibiaM:109634:109636
 3:kadaMbakoraka(golaka)nyAyaH:kadaMbagolakanyAyaH:kadaMbakorakagolaka:109975:109980
-0:vfdDakumArIvAkya(vara)nyAyaH:vfdDakumArIvvaranyAyaH:vfdDakumArIvAkyavaraaH
+99:vfdDakumArIvAkya(vara)nyAyaH:vfdDakumArIvaranyAyaH:vfdDakumArIvAkyavaraaH
 0:nyuM(nyUM)Ka:nyUMKa:nyuMnyUM
 3:pawwi(wwI)SaH(saH):pawwISaH:pawwiwwI:111278:111281
 3:panuH (nUH):panUH:panuHnUH:112250:112250
 1:paraSva(sva)DaH:parasvaDaH:paraSvasva:112839:112841
-3:parA(rAM)c:prAMc:parArAM:112943:112969
+99:parA(rAM)c:parAMc:parArAM:112943:112969
 3:parAna(Ra)sA:parARasA:parAnaRa:113017:113018
 3:pari(rI)RAmaH:parIRAmaH:parirImaH:113848:113880
 3:pari(rI)RAhaH:parIRAhaH:parirIhaH:113891:113899
@@ -262,7 +262,7 @@
 3:paSni(zRi):pazRi:paSnizRi:121313:121324
 1:pOrvade(dE)hika:pOrvadEhika:pOrvadedEka:121902:121905
 1:praca(cA)ya:pracAya:pracacA:122859:122859
-3:pracalita(pracalat):ppracalat:pracalitapracalat:122917:122923
+99:pracalita(pracalat):pracalat:pracalitapracalat:122917:122923
 3:praca(cA)yaH:pracAyaH:pracacAH:122946:122953
 1:prati(tI)kASaH:pratIkASaH:pratitISaH:124074:124078
 1:prati(tI)kAraH:pratIkAraH:pratitIraH:124104:124119
@@ -306,7 +306,7 @@
 1:BasmA(smI)kf:BasmIkf:BasmAsmI:136752:136753
 3:BiMda(di)pAlaH:BiMdipAlaH:BiMdadilaH:137771:137774
 1:BIru(lu)ka:BIluka:BIrulu:137981:137986
-0:BIlu(lUM)kaH:BlUMkaH:BIlulUM
+99:BIlu(lUM)kaH:BIlUMkaH:BIlulUM
 3:BIrU(lU):BIlU:BIrUlU:137989:137990
 1:BfkuMSaH(saH):BfkuMsaH:BfkuMSaHsaH:138979:138980
 3:BfMgiri(rI)wiH:BfMgirIwiH:BfMgirirIH:139081:139081
@@ -334,12 +334,12 @@
 3:rakzaRA(RI)rakaH:rakzaRIrakaH:rakzaRARIkaH:151690:151691
 1:raSmima(va)t:raSmivat:raSmimava:152619:152619
 1:riSyaH(zyaH):rizyaH:riSyaHzyaH:153930:153931
-0:ruciH(cI):ruccI:ruciHcI:154082:154107
-0:reb(va):rva:rebva:154608:154609
+99:ruciH(cI):rucI:ruciHcI:154082:154107
+99:reb(va):rev:rebva:154608:154609
 1:rOw(q):rOq:rOwq:154914:154915
 3:lAbuH(bUH):lAbUH:lAbuHbUH:156323:156323
 1:vaDU(Du)wI:vaDuwI:vaDUDu:158712:158716
-0:varivasi(syi) ta:varivsyita:varivasisyi
+99:varivasi(syi) ta:varivasyita:varivasisyi
 3:varI(lI) vardaH:valIvardaH:varIlIrdaH:159500:159500
 3:vartI(rti)raH:vartiraH:vartIrti:159905:159905
 3:varvU(rvu)raH:varvuraH:varvUrvu:160040:160040
@@ -351,13 +351,13 @@
 1:vikazA(sA):vikasA:vikazAsA:162680:162680
 1:vikasva(Sva) ra:vikaSvara:vikasvaSva:162697:162702
 1:vikASi(si) n:vikAsin:vikASisi:162729:162732
-0:viwWa(wWa)laH:viwWalaH:viwWawWa:163855:163858
+99:viwWa(WWa)laH:viWWalaH:viwWawWa:163855:163858
 1:viqo(qO)jas:viqOjas:viqoqOs:163904:163904
 1:vinAsa(si) ka:vinAsika:vinAsasi:164892:164892
 1:viprati(tI)sAraH:vipratIsAraH:vipratitIraH:165568:165570
-0:vima(maM)T:vmaMT:vimamaM
+99:vima(maM)T:vimaMT:vimamaM
 10:viropa(ha)RaM:virohaRaM:viropahaM:166719:166721
-0:vizvadya(dyaM) c:vizvdyaMc:vizvadyadyaM
+99:vizvadya(dyaM) c:vizvadryaMc:vizvadyadyaM
 3:vetaM(daM) qaH:vedaMqaH:vetaMdaM:170153:170154
 1:vesa(Sa) vAraH:veSavAraH:vesaSaraH:170570:170573
 1:vora(la) kaH:volakaH:voralaH:171206:171206
@@ -393,16 +393,16 @@
 1:sarasi(sI) kaH:sarasIkaH:sarasisIH:186536:186537
 1:sari(rI) man:sarIman:sarirIn:186584:186585
 7:sArasa(Sa)naM:sAraSanaM:sArasaSaM:188447:188449
-0:sArpaH(rpyaH):srpyaH:sArpaHrpyaH
+99:sArpaH(rpyaH):sArpyaH:sArpaHrpyaH
 1:sASra(sra):sAsra:sASrasra:188831:188833
 3:sunAsI(SI) raH:sunASIraH:sunAsISIH:190501:190502
 1:suzi(zI)ma:suzIma:suzizI:190741:190744
-0:sUrkz(rkzy):srkzy:sUrkzrkzy
-0:sUrkza(rkzya) RaM:srkzyaRaM:sUrkzarkzya
+99:sUrkz(rkzy):sUrkzy:sUrkzrkzy
+99:sUrkza(rkzya) RaM:sUrkzyaRaM:sUrkzarkzya
 1:sfRi(RI)kA:sfRIkA:sfRiRI:191428:191428
 1:stari(rI) man:starIman:starirIn:192767:192767
 1:syami(mI) kaH:syamIkaH:syamimIH:194823:194825
-0:svaM(k)g:svakg:svaMk
+99:svaM(k)g:svaMk:svaMk
 1:hanu(nU)mat:hanUmat:hanunUt:196177:196189
 3:haMbA(BA):haMBA:haMbABA:196211:196212
 1:hallISaM(zaM):hallIzaM:hallISaMzaM:196605:196612
