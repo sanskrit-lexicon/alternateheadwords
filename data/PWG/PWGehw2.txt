@@ -4,7 +4,6 @@ akz@sam@samakz@351@9
 aGAy@aBi@aBiaGAy@1243@9
 aNKay@pari@pariaNKay@1371@9
 aNg@pali@paliaNg@1375@10
-aNg@(pari)@(pari)aNg@1375@10
 aNg@vipali@vipaliaNg@1377@10
 ac@apa@apaac@1635@9
 ac@A@Aac@1637@9
@@ -875,7 +874,6 @@ kzA@ava@avakzA@42723@9
 kzA@pra@prakzA@42725@9
 kzA@saMpra@saMprakzA@42727@9
 kzAray@A@AkzAray@42809@9
-kzAray@kzAray@kzAray@42809@1
 kzi@aDi@aDikzi@42849@9
 kzi@anu@anukzi@42851@9
 kzi@A@Akzi@42853@9
@@ -1030,7 +1028,6 @@ gar@pra@pragar@46441@9
 gar@saMpra@saMpragar@46443@9
 gar@prati@pratigar@46445@9
 gar@aBiprati@aBipratigar@46447@9
-gar@prati@pratigar@46447@9
 gar@sam@samgar@46449@9
 gar@aBisam@aBisamgar@46451@9
 gar@ava@avagar@46455@9
@@ -2444,7 +2441,6 @@ pac@aBisam@aBisampac@89314@9
 pac@pra@prapac@89320@9
 paw@ava@avapaw@89957@9
 paw@A@Apaw@89959@9
-paw@(pAwayati)@(pAwayati)paw@89959@10
 paw@ud@udpaw@89961@9
 paw@samud@samudpaw@89963@9
 paw@vini@vinipaw@89965@9
@@ -2865,7 +2861,6 @@ bAD@vi@vibAD@112497@9
 bAD@sam@sambAD@112499@9
 buD@anu@anubuD@113580@9
 buD@ava@avabuD@113582@9
-buD@(buDyate)@(buDyate)@113582@8
 buD@samava@samavabuD@113584@9
 buD@A@AbuD@113586@9
 buD@ud@udbuD@113588@9
@@ -2878,12 +2873,10 @@ buD@pra@prabuD@113600@9
 buD@anupra@anuprabuD@113602@9
 buD@vipra@viprabuD@113604@9
 buD@saMpra@saMprabuD@113606@9
-buD@(buDyate)@(buDyate)@113606@8
 buD@prati@pratibuD@113608@9
 buD@saMprati@saMpratibuD@113610@9
 buD@vi@vibuD@113612@9
 buD@aBivi@aBivibuD@113614@9
-buD@(buDyate)@(buDyate)@113614@8
 buD@sam@sambuD@113616@9
 buD@aBisam@aBisambuD@113618@9
 buD@pratisam@pratisambuD@113620@9
@@ -3462,7 +3455,6 @@ i@saMpra@saMprai@143994@9
 i@prati@pratii@143996@9
 i@saMprati@saMpratii@143998@9
 i@pla@pla@144000@1
-i@pra)@pra)@144000@4
 i@vi@vii@144002@9
 i@anuvi@anuvii@144004@9
 i@parivi@parivii@144006@9
@@ -4138,7 +4130,6 @@ pA@nis@nispA@168281@9
 pA@pra@prapA@168283@9
 pA@anUd@anUdpA@168289@9
 pA@pratyud@pratyudpA@168291@9
-pA@ud@udpA@168291@9
 pAlay@pra@prapAlay@168649@9
 pAlay@prati@pratipAlay@168651@9
 pI@ud@udpI@168855@9
@@ -4419,7 +4410,6 @@ yuj@ud@udyuj@176617@9
 yuj@samud@samudyuj@176619@9
 yuj@upa@upayuj@176621@9
 yuj@vyupa@vyupayuj@176623@9
-yuj@upa@upayuj@176623@9
 yuj@samupa@samupayuj@176625@9
 yuj@ni@niyuj@176627@9
 yuj@anuni@anuniyuj@176629@9
@@ -5671,7 +5661,6 @@ vyA@ud@udvyA@208042@9
 vyA@upa@upavyA@208044@9
 vyA@ni@nivyA@208046@9
 vyA@pari@parivyA@208048@9
-vyA@(vyAya@(vyAya@208048@8
 vyA@sam@samvyA@208050@9
 vyA@anusam@anusamvyA@208052@9
 vyA@upasam@upasamvyA@208054@9

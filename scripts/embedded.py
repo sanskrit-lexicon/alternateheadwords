@@ -106,7 +106,7 @@ def headwordembedwordregex(dict):
 		reEmbedded = r'\{\%([^%]*)\%\}'
 	elif dict in ['PWG']:
 		reHeadword = r'^<H1>000{([^}]*)}1'
-		reEmbedded = r'^[-]<P>[-] \{#([^#,]*)[,#]'
+		reEmbedded = r'^[-]<P>[-] \{#([^#, ]*)[ ,#]'
 	return [reHeadword,reEmbedded]
 	
 def dictstartendreturn(dict):
