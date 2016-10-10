@@ -106,7 +106,7 @@ def headwordembedwordregex(dict):
 		reEmbedded = r'\{\%([^%]*)\%\}'
 	elif dict in ['PWG']:
 		reHeadword = r'^<H1>000{([^}]*)}1'
-		reEmbedded = r'^[-]<P>[-] \{#([^#]*)#}'
+		reEmbedded = r'^[-]<P>[-] \{#([^#,]*)[,#]'
 	return [reHeadword,reEmbedded]
 	
 def dictstartendreturn(dict):
@@ -159,7 +159,7 @@ if __name__=="__main__":
 				matchembed = re.findall(reEmbedded,line)
 				if len(matchembed) > 0 and not re.match('^[A-Z]',headword):
 					for embeddedtag in matchembed:
-						emb = re.split(r'[ ;]',embeddedtag)
+						emb = re.split(r'[ ;,]',embeddedtag)
 						for memb in emb:
 							if not re.search(r'^[^a-zA-Z0-9]*$',memb):
 								print headword.encode('utf-8'), memb.encode('utf-8')
