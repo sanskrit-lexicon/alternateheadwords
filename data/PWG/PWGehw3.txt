@@ -238,7 +238,7 @@ i@pratyaDi@pratyaDI@20563@1
 i@samaDi@samaDI@20565@1
 i@anu@anvi@20567@1
 i@samanu@samanvi@20569@1
-i@antar@antar@20571@1
+i@antar@antari@20571@1
 i@apa@ape@20573@1
 i@vyapa@vyape@20575@1
 i@api@apI@20577@1
@@ -977,7 +977,7 @@ gam@aDi@aDigam@46244@1
 gam@samaDi@samaDigam@46246@1
 gam@anu@anugam@46248@1
 gam@samanu@samanugam@46250@1
-gam@antar@gamatar@46252@3
+gam@antar@antargam@46252@1
 gam@apa@apagam@46254@1
 gam@vyapa@vyapagam@46256@1
 gam@api@apigam@46258@1
@@ -1022,7 +1022,7 @@ gam@vinis@vinirgam@46332@1
 gam@saMnis@saMnirgam@46334@1
 gam@parA@parAgam@46336@1
 gam@pari@parigam@46338@1
-gam@punar@punargam@46340@10
+gam@punar@punargam@46340@9
 gam@pra@pragam@46342@1
 gam@vipra@vipragam@46344@1
 gam@prati@pratigam@46346@1
@@ -1282,7 +1282,7 @@ car@ati@aticar@53194@1
 car@vyati@vyaticar@53196@1
 car@aDi@aDicar@53198@1
 car@anu@anucar@53200@1
-car@antar@antarcar@53202@10
+car@antar@antaHcar@53202@9
 car@apa@apacar@53204@1
 car@aBi@aBicar@53206@1
 car@pratyaBi@pratyaBicar@53210@1
@@ -2502,7 +2502,7 @@ paR@vi@vipaR@90188@1
 pat@acCA@acCApat@90328@1
 pat@ati@atipat@90330@1
 pat@anu@anupat@90332@1
-pat@antar@antarpat@90334@10
+pat@antar@antaHpat@90334@9
 pat@aBi@aBipat@90336@1
 pat@samaBi@samaBipat@90338@1
 pat@ava@avapat@90340@1
@@ -2629,7 +2629,7 @@ palAy@pra@prapalAy@94393@1
 paS@ati@atipaS@94629@1
 paS@anu@anupaS@94631@1
 paS@samanu@samanupaS@94633@1
-paS@antar@antarpaS@94635@10
+paS@antar@antaHpaS@94635@1
 paS@aBi@aBipaS@94637@1
 paS@ava@avapaS@94639@1
 paS@A@ApaS@94641@1
@@ -2646,7 +2646,7 @@ paS@aBivi@aBivipaS@94661@1
 paS@sam@saMpaS@94663@1
 pA@ati@atipA@94912@1
 pA@anu@anupA@94914@1
-pA@antar@antarpA@94916@10
+pA@antar@antaHpA@94916@1
 pA@aBi@aBipA@94918@1
 pA@ava@avapA@94920@9
 pA@anvava@anvavapA@94922@1
@@ -4582,7 +4582,7 @@ yaB@pra@prayaB@174932@1
 yaB@prati@pratiyaB@174934@1
 yam@aDi@aDiyam@174946@1
 yam@anu@anuyam@174948@1
-yam@antar@yamatar@174950@3
+yam@antar@antaryam@174950@1
 yam@A@Ayam@174952@1
 yam@aByA@aByAyam@174954@1
 yam@udA@udAyam@174956@1
@@ -6634,7 +6634,7 @@ sTA@aDi@aDizTA@245223@9
 sTA@samaDi@samaDizTA@245225@9
 sTA@anu@anuzTA@245227@9
 sTA@samanu@samanuzTA@245229@9
-sTA@antar@antarsTA@245231@10
+sTA@antar@antaHsTA@245231@1
 sTA@apa@apasTA@245233@9
 sTA@api@apizTA@245235@9
 sTA@aBi@aBizTA@245237@9
@@ -6922,7 +6922,7 @@ had@upa@upahad@250016@9
 han@ati@atihan@250030@1
 han@vyati@vyatihan@250032@1
 han@anu@anuhan@250034@1
-han@antar@hantar@250036@1
+han@antar@antarhan@250036@1
 han@apa@apahan@250038@1
 han@vyapa@vyapahan@250040@1
 han@api@apihan@250042@1
@@ -7490,7 +7490,7 @@ sTA@samava@samavasTA@264714@1
 sTA@pratyud@pratyutsTA@264716@9
 sparh@ni@nizparh@264740@9
 han@anu@anuhan@264802@1
-han@antar@hantar@264804@1
+han@antar@antarhan@264804@1
 han@A@Ahan@264806@1
 han@upod@upodhan@264808@9
 har@vyud@vyudhar@264812@9
