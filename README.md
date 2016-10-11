@@ -79,3 +79,8 @@ Codes are as below
 `10` - PWG has strong prediliction towards sub being the first part of compound. Whatever is left by `9` is resolved as sub+head in case of PWG rather than generic head+sub. e.g. gam@acCa@acCagam@46236@10
 
 `99` - Dump. No need to match these entries. They are mostly verb related entries. Ignore them. That is why '99' - far away from regular numbering. e.g. iz@te@te@17785@99
+
+## PWGpreverb
+This is a separate analysis of preverb records in PWG.
+See the the [readme](https://github.com/sanskrit-lexicon/alternateheadwords/tree/master/data/PWGpreverb) for construction details.
+]

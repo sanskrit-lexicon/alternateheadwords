@@ -1,1 +1,3 @@
 scripts/transcoder.pyc
+*.pyc
+*~
