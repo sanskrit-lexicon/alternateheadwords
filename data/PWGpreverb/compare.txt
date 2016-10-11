@@ -171,13 +171,13 @@
 7256:as:anu:anvas:14972 ##EQ as@anu@anvas@14972@1
 7256:as:api:apyas:14974 ##EQ as@api@apyas@14974@1
 7256:as:aBi:aByas:14976 ##EQ as@aBi@aByas@14976@1
-7256:as:Avis:Aviras:14978 ##NEQ as@Avis@Avisas@14978@10
+7256:as:Avis:Aviras:14978 ##EQ as@Avis@Aviras@14978@10
 7256:as:upa:upAs:14980 ##EQ as@upa@upAs@14980@1
 7256:as:ni:nyas:14982 ##EQ as@ni@nyas@14982@1
 7256:as:pari:paryas:14984 ##EQ as@pari@paryas@14984@1
 7256:as:pra:prAs:14986 ##EQ as@pra@prAs@14986@1
 7256:as:prati:pratyas:14988 ##EQ as@prati@pratyas@14988@1
-7256:as:prAdus:prAduras:14990 ##NEQ as@prAdus@prAdusas@14990@10
+7256:as:prAdus:prAduras:14990 ##EQ as@prAdus@prAduras@14990@1
 7256:as:vi:vyas:14992 ##EQ as@vi@vyas@14992@1
 7257:as:ati:atyas:14996 ##EQ as@ati@atyas@14996@1
 7257:as:vyati:vyatyas:14998 ##EQ as@vyati@vyatyas@14998@1
@@ -223,49 +223,49 @@
 7607:ah:pra:prAh:15778 ##EQ ah@pra@prAh@15778@1
 7607:ah:prati:pratyah:15780 ##EQ ah@prati@pratyah@15780@1
 7607:ah:vi:vyah:15782 ##EQ ah@vi@vyah@15782@1
-7777:AkarRay:sam:samAkarRay:16129 ##NA 
-8712:Ap:aBi:aByAp:18004 ##NA 
-8712:Ap:ava:avAp:18006 ##NA 
-8712:Ap:pratyava:pratyavAp:18008 ##NA 
-8712:Ap:samava:samavAp:18010 ##NA 
-8712:Ap:ud:udAp:18012 ##NA 
-8712:Ap:upa:upAp:18014 ##NA 
-8712:Ap:pari:paryAp:18016 ##NA 
-8712:Ap:saMpari:saMparyAp:18018 ##NA 
-8712:Ap:pra:prAp:18020 ##NA 
-8712:Ap:anupra:anuprAp:18022 ##NA 
-8712:Ap:samanupra:samanuprAp:18024 ##NA 
-8712:Ap:aBipra:aBiprAp:18026 ##NA 
-8712:Ap:upapra:upaprAp:18028 ##NA 
-8712:Ap:saMpra:saMprAp:18030 ##NA 
-8712:Ap:anusaMpra:anusaMprAp:18032 ##NA 
-8712:Ap:aBisaMpra:aBisaMprAp:18034 ##NA 
-8712:Ap:upasaMpra:upasaMprAp:18036 ##NA 
-8712:Ap:vi:vyAp:18038 ##NA 
-8712:Ap:aBivi:aBivyAp:18040 ##NA 
-8712:Ap:sam:samAp:18042 ##NA 
-8712:Ap:anusam:anusamAp:18044 ##NA 
-8712:Ap:parisam:parisamAp:18046 ##NA 
-9394:AliNg:prati:pratyAliNg:19417 ##NA 
-9394:AliNg:sam:samAliNg:19419 ##NA 
-9721:As:aDi:aDyAs:20077 ##NA 
-9721:As:samaDi:samaDyAs:20079 ##NA 
-9721:As:anu:anvAs:20081 ##NA 
-9721:As:A:As:20083 ##NA 
-9721:As:ud:udAs:20085 ##NA 
-9721:As:upa:upAs:20087 ##NA 
-9721:As:paryupa:paryupAs:20089 ##NA 
-9721:As:samupa:samupAs:20091 ##NA 
-9721:As:pari:paryAs:20093 ##NA 
-9721:As:prati:pratyAs:20095 ##NA 
-9721:As:sam:samAs:20097 ##NA 
-9721:As:pratisam:pratisamAs:20099 ##NA 
-9940:i:acCa:acCe:20543 ##NEQ i@acCa@acCa@20543@1
+7777:AkarRay:sam:samAkarRay:16129 ##EQ AkarRay@sam@samAkarRay@16129@9
+8712:Ap:aBi:aByAp:18004 ##EQ Ap@aBi@aByAp@18004@1
+8712:Ap:ava:avAp:18006 ##EQ Ap@ava@avAp@18006@1
+8712:Ap:pratyava:pratyavAp:18008 ##EQ Ap@pratyava@pratyavAp@18008@1
+8712:Ap:samava:samavAp:18010 ##EQ Ap@samava@samavAp@18010@1
+8712:Ap:ud:udAp:18012 ##EQ Ap@ud@udAp@18012@1
+8712:Ap:upa:upAp:18014 ##EQ Ap@upa@upAp@18014@1
+8712:Ap:pari:paryAp:18016 ##EQ Ap@pari@paryAp@18016@1
+8712:Ap:saMpari:saMparyAp:18018 ##EQ Ap@saMpari@saMparyAp@18018@9
+8712:Ap:pra:prAp:18020 ##EQ Ap@pra@prAp@18020@1
+8712:Ap:anupra:anuprAp:18022 ##EQ Ap@anupra@anuprAp@18022@1
+8712:Ap:samanupra:samanuprAp:18024 ##EQ Ap@samanupra@samanuprAp@18024@1
+8712:Ap:aBipra:aBiprAp:18026 ##EQ Ap@aBipra@aBiprAp@18026@1
+8712:Ap:upapra:upaprAp:18028 ##EQ Ap@upapra@upaprAp@18028@1
+8712:Ap:saMpra:saMprAp:18030 ##EQ Ap@saMpra@saMprAp@18030@1
+8712:Ap:anusaMpra:anusaMprAp:18032 ##EQ Ap@anusaMpra@anusaMprAp@18032@1
+8712:Ap:aBisaMpra:aBisaMprAp:18034 ##EQ Ap@aBisaMpra@aBisaMprAp@18034@1
+8712:Ap:upasaMpra:upasaMprAp:18036 ##EQ Ap@upasaMpra@upasaMprAp@18036@1
+8712:Ap:vi:vyAp:18038 ##EQ Ap@vi@vyAp@18038@1
+8712:Ap:aBivi:aBivyAp:18040 ##EQ Ap@aBivi@aBivyAp@18040@1
+8712:Ap:sam:samAp:18042 ##EQ Ap@sam@samAp@18042@1
+8712:Ap:anusam:anusamAp:18044 ##EQ Ap@anusam@anusamAp@18044@1
+8712:Ap:parisam:parisamAp:18046 ##EQ Ap@parisam@parisamAp@18046@1
+9394:AliNg:prati:pratyAliNg:19417 ##EQ AliNg@prati@pratyAliNg@19417@1
+9394:AliNg:sam:samAliNg:19419 ##EQ AliNg@sam@samAliNg@19419@1
+9721:As:aDi:aDyAs:20077 ##EQ As@aDi@aDyAs@20077@1
+9721:As:samaDi:samaDyAs:20079 ##EQ As@samaDi@samaDyAs@20079@1
+9721:As:anu:anvAs:20081 ##EQ As@anu@anvAs@20081@1
+9721:As:A:As:20083 ##EQ As@A@As@20083@1
+9721:As:ud:udAs:20085 ##EQ As@ud@udAs@20085@1
+9721:As:upa:upAs:20087 ##EQ As@upa@upAs@20087@1
+9721:As:paryupa:paryupAs:20089 ##EQ As@paryupa@paryupAs@20089@1
+9721:As:samupa:samupAs:20091 ##EQ As@samupa@samupAs@20091@1
+9721:As:pari:paryAs:20093 ##EQ As@pari@paryAs@20093@1
+9721:As:prati:pratyAs:20095 ##EQ As@prati@pratyAs@20095@1
+9721:As:sam:samAs:20097 ##EQ As@sam@samAs@20097@1
+9721:As:pratisam:pratisamAs:20099 ##EQ As@pratisam@pratisamAs@20099@1
+9940:i:acCa:acCe:20543 ##EQ i@acCa@acCe@20543@1
 9940:i:ati:atI:20545 ##EQ i@ati@atI@20545@1
-9940:i:anvati:anvatI:20547 ##NEQ i@anvati@anvati@20547@4
+9940:i:anvati:anvatI:20547 ##EQ i@anvati@anvatI@20547@1
 9940:i:aByati:aByatI:20549 ##EQ i@aByati@aByatI@20549@1
 9940:i:upAti:upAtI:20551 ##EQ i@upAti@upAtI@20551@1
-9940:i:antarupAti:antarupAtI:20553 ##NEQ i@antarupAti@antarupAti@20553@4
+9940:i:antarupAti:antarupAtI:20553 ##EQ i@antarupAti@antarupAtI@20553@1
 9940:i:vyati:vyatI:20555 ##EQ i@vyati@vyatI@20555@1
 9940:i:samati:samatI:20557 ##EQ i@samati@samatI@20557@1
 9940:i:aDi:aDI:20559 ##EQ i@aDi@aDI@20559@1
@@ -287,20 +287,20 @@
 9940:i:upAva:upAve:20591 ##EQ i@upAva@upAve@20591@1
 9940:i:paryava:paryave:20593 ##EQ i@paryava@paryave@20593@1
 9940:i:pratyava:pratyave:20595 ##EQ i@pratyava@pratyave@20595@1
-9940:i:aBipratyava:aBipratyave:20597 ##NEQ i@aBipratyava@aBipratyava@20597@4
+9940:i:aBipratyava:aBipratyave:20597 ##EQ i@aBipratyava@aBipratyave@20597@1
 9940:i:vyava:vyave:20599 ##EQ i@vyava@vyave@20599@1
 9940:i:anuvyava:anuvyave:20601 ##EQ i@anuvyava@anuvyave@20601@1
 9940:i:samava:samave:20603 ##EQ i@samava@samave@20603@1
-9940:i:astam:astami:20605 ##NEQ i@astam@astam@20605@1
-9940:i:aByastam:aByastami:20607 ##NEQ i@aByastam@aByastam@20607@1
+9940:i:astam:astami:20605 ##EQ i@astam@astami@20605@9
+9940:i:aByastam:aByastami:20607 ##EQ i@aByastam@aByastami@20607@1
 9940:i:A:e:20609 ##EQ i@A@e@20609@1
-9940:i:acCA:acCe:20611 ##NEQ i@acCA@acCA@20611@1
+9940:i:acCA:acCe:20611 ##EQ i@acCA@acCe@20611@1
 9940:i:atyA:atye:20613 ##EQ i@atyA@atye@20613@1
 9940:i:anvA:anve:20615 ##EQ i@anvA@anve@20615@1
 9940:i:aByA:aBye:20617 ##EQ i@aByA@aBye@20617@1
 9940:i:samaByA:samaBye:20619 ##EQ i@samaByA@samaBye@20619@1
 9940:i:udA:ude:20621 ##EQ i@udA@ude@20621@1
-9940:i:anUdA:anUde:20623 ##NEQ i@anUdA@anUdA@20623@4
+9940:i:anUdA:anUde:20623 ##EQ i@anUdA@anUde@20623@1
 9940:i:aByudA:aByude:20625 ##EQ i@aByudA@aByude@20625@1
 9940:i:upodA:upode:20627 ##EQ i@upodA@upode@20627@1
 9940:i:upA:upe:20629 ##EQ i@upA@upe@20629@1
@@ -311,7 +311,7 @@
 9940:i:anuparyA:anuparye:20639 ##EQ i@anuparyA@anuparye@20639@1
 9940:i:aBiparyA:aBiparye:20641 ##EQ i@aBiparyA@aBiparye@20641@1
 9940:i:pratyA:pratye:20643 ##EQ i@pratyA@pratye@20643@1
-9940:i:aBipratyA:aBipratye:20645 ##NEQ i@aBipratyA@aBipratyA@20645@4
+9940:i:aBipratyA:aBipratye:20645 ##EQ i@aBipratyA@aBipratye@20645@1
 9940:i:samA:same:20647 ##EQ i@samA@same@20647@1
 9940:i:aBisamA:aBisame:20649 ##EQ i@aBisamA@aBisame@20649@1
 9940:i:upasamA:upasame:20651 ##EQ i@upasamA@upasame@20651@1
@@ -326,11 +326,11 @@
 9940:i:upa:upe:20669 ##EQ i@upa@upe@20669@1
 9940:i:aDyupa:aDyupe:20671 ##EQ i@aDyupa@aDyupe@20671@9
 9940:i:aByupa:aByupe:20673 ##EQ i@aByupa@aByupe@20673@1
-9940:i:samaByupa:samaByupe:20675 ##NEQ i@samaByupa@samaByupa@20675@4
-9940:i:samopa:samope:20677 ##NEQ i@samopa@samopa@20677@4
+9940:i:samaByupa:samaByupe:20675 ##EQ i@samaByupa@samaByupe@20675@1
+9940:i:samopa:samope:20677 ##EQ i@samopa@samope@20677@1
 9940:i:pratyupa:pratyupe:20679 ##EQ i@pratyupa@pratyupe@20679@1
 9940:i:samupa:samupe:20681 ##EQ i@samupa@samupe@20681@1
-9940:i:dus:duri:20683 ##NEQ i@dus@dusi@20683@9
+9940:i:dus:duri:20683 ##EQ i@dus@duri@20683@1
 9940:i:ni:nI:20685 ##EQ i@ni@nI@20685@1
 9940:i:aBini:aBinI:20687 ##EQ i@aBini@aBinI@20687@1
 9940:i:upani:upanI:20689 ##EQ i@upani@upanI@20689@1
@@ -346,15 +346,15 @@
 9940:i:aBipari:aBiparI:20709 ##EQ i@aBipari@aBiparI@20709@9
 9940:i:pratipari:pratiparI:20711 ##EQ i@pratipari@pratiparI@20711@1
 9940:i:vipari:viparI:20713 ##EQ i@vipari@viparI@20713@1
-9940:i:prativipari:prativiparI:20715 ##NEQ i@prativipari@prativipari@20715@4
+9940:i:prativipari:prativiparI:20715 ##EQ i@prativipari@prativiparI@20715@1
 9940:i:saMpari:saMparI:20717 ##EQ i@saMpari@saMparI@20717@1
 9940:i:palA:pale:20719 ##NEQ i@palA@palA@20719@1
-9940:i:prapalA:prapale:20721 ##NEQ i@prapalA@prapalA@20721@4
-9940:i:vipalA:vipale:20723 ##NEQ i@vipalA@vipalA@20723@4
-9940:i:saMpalA:saMpale:20725 ##NEQ i@saMpalA@saMpalA@20725@4
-9940:i:pali:palI:20727 ##NEQ i@pali@pali@20727@4
-9940:i:upapali:upapalI:20729 ##NEQ i@upapali@upapali@20729@4
-9940:i:vipali:vipalI:20731 ##NEQ i@vipali@vipali@20731@4
+9940:i:prapalA:prapale:20721 ##EQ i@prapalA@prapale@20721@9
+9940:i:vipalA:vipale:20723 ##EQ i@vipalA@vipale@20723@9
+9940:i:saMpalA:saMpale:20725 ##EQ i@saMpalA@saMpale@20725@9
+9940:i:pali:palI:20727 ##EQ i@pali@palI@20727@9
+9940:i:upapali:upapalI:20729 ##EQ i@upapali@upapalI@20729@1
+9940:i:vipali:vipalI:20731 ##EQ i@vipali@vipalI@20731@9
 9940:i:pra:pre:20733 ##EQ i@pra@pre@20733@1
 9940:i:anupra:anupre:20735 ##EQ i@anupra@anupre@20735@1
 9940:i:apapra:apapre:20737 ##EQ i@apapra@apapre@20737@1
@@ -365,7 +365,7 @@
 9940:i:saMpra:saMpre:20747 ##EQ i@saMpra@saMpre@20747@9
 9940:i:prati:pratI:20749 ##EQ i@prati@pratI@20749@1
 9940:i:saMprati:saMpratI:20751 ##EQ i@saMprati@saMpratI@20751@1
-9940:i:pla:ple:20753 ##NEQ i@pla@pla@20753@1
+9940:i:pla:ple:20753 ##EQ i@pla@ple@20753@1
 9940:i:vi:vI:20755 ##EQ i@vi@vI@20755@1
 9940:i:anuvi:anuvI:20757 ##EQ i@anuvi@anuvI@20757@1
 9940:i:aBivi:aBivI:20759 ##EQ i@aBivi@aBivI@20759@1
@@ -415,86 +415,86 @@
 10373:iz:saMprati:saMpratIz:21721 ##EQ iz@saMprati@saMpratIz@21721@9
 10374:iz:anu:anviz:21725 ##EQ iz@anu@anviz@21725@1
 10381:izaRy:sam:samizaRy:21741 ##EQ izaRy@sam@samizaRy@21741@9
-10470:Ikz:aDi:aDIkz:21924 ##NA 
-10470:Ikz:anu:anvIkz:21926 ##NA 
-10470:Ikz:samanu:samanvIkz:21928 ##NA 
-10470:Ikz:apa:apekz:21930 ##NA 
-10470:Ikz:vyapa:vyapekz:21932 ##NA 
-10470:Ikz:aBi:aBIkz:21934 ##NA 
-10470:Ikz:ava:avekz:21936 ##NA 
-10470:Ikz:anvava:anvavekz:21938 ##NA 
-10470:Ikz:aByava:aByavekz:21940 ##NA 
-10470:Ikz:upAva:upAvekz:21942 ##NA 
-10470:Ikz:nirava:niravekz:21944 ##NA 
-10470:Ikz:paryava:paryavekz:21946 ##NA 
-10470:Ikz:pratyava:pratyavekz:21948 ##NA 
-10470:Ikz:samava:samavekz:21950 ##NA 
-10470:Ikz:A:ekz:21952 ##NA 
-10470:Ikz:ud:udIkz:21954 ##NA 
-10470:Ikz:aByud:aByudIkz:21956 ##NA 
-10470:Ikz:pratyud:pratyudIkz:21958 ##NA 
-10470:Ikz:samud:samudIkz:21960 ##NA 
-10470:Ikz:upa:upekz:21962 ##NA 
-10470:Ikz:aByupa:aByupekz:21964 ##NA 
-10470:Ikz:samupa:samupekz:21966 ##NA 
-10470:Ikz:nis:nirIkz:21968 ##NA 
-10470:Ikz:saMnis:saMnirIkz:21970 ##NA 
-10470:Ikz:parA:parekz:21972 ##NA 
-10470:Ikz:pari:parIkz:21974 ##NA 
-10470:Ikz:pra:prekz:21976 ##NA 
-10470:Ikz:anupra:anuprekz:21978 ##NA 
-10470:Ikz:aBipra:aBiprekz:21980 ##NA 
-10470:Ikz:samaBipra:samaBiprekz:21982 ##NA 
-10470:Ikz:Apra:Aprekz:21984 ##NA 
-10470:Ikz:utpra:utprekz:21986 ##NA 
-10470:Ikz:upapra:upaprekz:21988 ##NA 
-10470:Ikz:vipra:viprekz:21990 ##NA 
-10470:Ikz:saMpra:saMprekz:21992 ##NA 
-10470:Ikz:aBisaMpra:aBisaMprekz:21994 ##NA 
-10470:Ikz:prati:pratIkz:21996 ##NA 
-10470:Ikz:saMprati:saMpratIkz:21998 ##NA 
-10470:Ikz:vi:vIkz:22000 ##NA 
-10470:Ikz:anuvi:anuvIkz:22002 ##NA 
-10470:Ikz:aBivi:aBivIkz:22004 ##NA 
-10470:Ikz:samaBivi:samaBivIkz:22006 ##NA 
-10470:Ikz:udvi:udvIkz:22008 ##NA 
-10470:Ikz:samudvi:samudvIkz:22010 ##NA 
-10470:Ikz:upavi:upavIkz:22012 ##NA 
-10470:Ikz:prativi:prativIkz:22014 ##NA 
-10470:Ikz:saMvi:saMvIkz:22016 ##NA 
-10470:Ikz:sam:samIkz:22018 ##NA 
-10470:Ikz:anusam:anusamIkz:22020 ##NA 
-10470:Ikz:aBisam:aBisamIkz:22022 ##NA 
-10470:Ikz:prasam:prasamIkz:22024 ##NA 
-10478:INK:pari:parINK:22042 ##NA 
-10478:INK:pra:preNK:22044 ##NA 
-10478:INK:sam:samINK:22046 ##NA 
-10484:Iq:pra:preq:22060 ##NA 
-10484:Iq:upapra:upapreq:22062 ##NA 
-10484:Iq:prati:pratIq:22064 ##NA 
-10503:Ir:A:er:22104 ##NA 
-10503:Ir:nyA:nyer:22106 ##NA 
-10503:Ir:ud:udIr:22108 ##NA 
-10503:Ir:aByud:aByudIr:22110 ##NA 
-10503:Ir:samud:samudIr:22112 ##NA 
-10503:Ir:ni:nIr:22114 ##NA 
-10503:Ir:pra:prer:22116 ##NA 
-10503:Ir:aBipra:aBiprer:22118 ##NA 
-10503:Ir:saMpra:saMprer:22120 ##NA 
-10503:Ir:prati:pratIr:22122 ##NA 
-10503:Ir:vi:vIr:22124 ##NA 
-10503:Ir:sam:samIr:22126 ##NA 
-10503:Ir:aBisam:aBisamIr:22128 ##NA 
-10559:Iz:apa:apez:22242 ##NA 
-10559:Iz:A:ez:22244 ##NA 
-10559:Iz:upA:upez:22246 ##NA 
-10559:Iz:ud:udIz:22248 ##NA 
-10559:Iz:samud:samudIz:22250 ##NA 
-10559:Iz:upa:upez:22252 ##NA 
-10559:Iz:prati:pratIz:22254 ##NA 
-10559:Iz:vi:vIz:22256 ##NA 
-10559:Iz:sam:samIz:22258 ##NA 
-10571:Ih:sam:samIh:22284 ##NA 
+10470:Ikz:aDi:aDIkz:21924 ##EQ Ikz@aDi@aDIkz@21924@1
+10470:Ikz:anu:anvIkz:21926 ##EQ Ikz@anu@anvIkz@21926@1
+10470:Ikz:samanu:samanvIkz:21928 ##EQ Ikz@samanu@samanvIkz@21928@1
+10470:Ikz:apa:apekz:21930 ##EQ Ikz@apa@apekz@21930@1
+10470:Ikz:vyapa:vyapekz:21932 ##EQ Ikz@vyapa@vyapekz@21932@1
+10470:Ikz:aBi:aBIkz:21934 ##EQ Ikz@aBi@aBIkz@21934@1
+10470:Ikz:ava:avekz:21936 ##EQ Ikz@ava@avekz@21936@1
+10470:Ikz:anvava:anvavekz:21938 ##EQ Ikz@anvava@anvavekz@21938@1
+10470:Ikz:aByava:aByavekz:21940 ##EQ Ikz@aByava@aByavekz@21940@1
+10470:Ikz:upAva:upAvekz:21942 ##EQ Ikz@upAva@upAvekz@21942@1
+10470:Ikz:nirava:niravekz:21944 ##EQ Ikz@nirava@niravekz@21944@1
+10470:Ikz:paryava:paryavekz:21946 ##EQ Ikz@paryava@paryavekz@21946@1
+10470:Ikz:pratyava:pratyavekz:21948 ##EQ Ikz@pratyava@pratyavekz@21948@1
+10470:Ikz:samava:samavekz:21950 ##EQ Ikz@samava@samavekz@21950@1
+10470:Ikz:A:ekz:21952 ##EQ Ikz@A@ekz@21952@1
+10470:Ikz:ud:udIkz:21954 ##EQ Ikz@ud@udIkz@21954@1
+10470:Ikz:aByud:aByudIkz:21956 ##EQ Ikz@aByud@aByudIkz@21956@1
+10470:Ikz:pratyud:pratyudIkz:21958 ##EQ Ikz@pratyud@pratyudIkz@21958@1
+10470:Ikz:samud:samudIkz:21960 ##EQ Ikz@samud@samudIkz@21960@1
+10470:Ikz:upa:upekz:21962 ##EQ Ikz@upa@upekz@21962@1
+10470:Ikz:aByupa:aByupekz:21964 ##EQ Ikz@aByupa@aByupekz@21964@1
+10470:Ikz:samupa:samupekz:21966 ##EQ Ikz@samupa@samupekz@21966@1
+10470:Ikz:nis:nirIkz:21968 ##EQ Ikz@nis@nirIkz@21968@1
+10470:Ikz:saMnis:saMnirIkz:21970 ##NEQ Ikz@saMnis@saMnisIkz@21970@9
+10470:Ikz:parA:parekz:21972 ##EQ Ikz@parA@parekz@21972@1
+10470:Ikz:pari:parIkz:21974 ##EQ Ikz@pari@parIkz@21974@1
+10470:Ikz:pra:prekz:21976 ##EQ Ikz@pra@prekz@21976@1
+10470:Ikz:anupra:anuprekz:21978 ##EQ Ikz@anupra@anuprekz@21978@1
+10470:Ikz:aBipra:aBiprekz:21980 ##EQ Ikz@aBipra@aBiprekz@21980@1
+10470:Ikz:samaBipra:samaBiprekz:21982 ##EQ Ikz@samaBipra@samaBiprekz@21982@1
+10470:Ikz:Apra:Aprekz:21984 ##EQ Ikz@Apra@Aprekz@21984@10
+10470:Ikz:utpra:utprekz:21986 ##EQ Ikz@utpra@utprekz@21986@1
+10470:Ikz:upapra:upaprekz:21988 ##EQ Ikz@upapra@upaprekz@21988@1
+10470:Ikz:vipra:viprekz:21990 ##EQ Ikz@vipra@viprekz@21990@1
+10470:Ikz:saMpra:saMprekz:21992 ##EQ Ikz@saMpra@saMprekz@21992@1
+10470:Ikz:aBisaMpra:aBisaMprekz:21994 ##EQ Ikz@aBisaMpra@aBisaMprekz@21994@1
+10470:Ikz:prati:pratIkz:21996 ##EQ Ikz@prati@pratIkz@21996@1
+10470:Ikz:saMprati:saMpratIkz:21998 ##EQ Ikz@saMprati@saMpratIkz@21998@1
+10470:Ikz:vi:vIkz:22000 ##EQ Ikz@vi@vIkz@22000@1
+10470:Ikz:anuvi:anuvIkz:22002 ##EQ Ikz@anuvi@anuvIkz@22002@1
+10470:Ikz:aBivi:aBivIkz:22004 ##EQ Ikz@aBivi@aBivIkz@22004@1
+10470:Ikz:samaBivi:samaBivIkz:22006 ##EQ Ikz@samaBivi@samaBivIkz@22006@1
+10470:Ikz:udvi:udvIkz:22008 ##EQ Ikz@udvi@udvIkz@22008@1
+10470:Ikz:samudvi:samudvIkz:22010 ##EQ Ikz@samudvi@samudvIkz@22010@1
+10470:Ikz:upavi:upavIkz:22012 ##EQ Ikz@upavi@upavIkz@22012@1
+10470:Ikz:prativi:prativIkz:22014 ##EQ Ikz@prativi@prativIkz@22014@1
+10470:Ikz:saMvi:saMvIkz:22016 ##EQ Ikz@saMvi@saMvIkz@22016@1
+10470:Ikz:sam:samIkz:22018 ##EQ Ikz@sam@samIkz@22018@1
+10470:Ikz:anusam:anusamIkz:22020 ##EQ Ikz@anusam@anusamIkz@22020@1
+10470:Ikz:aBisam:aBisamIkz:22022 ##EQ Ikz@aBisam@aBisamIkz@22022@1
+10470:Ikz:prasam:prasamIkz:22024 ##EQ Ikz@prasam@prasamIkz@22024@1
+10478:INK:pari:parINK:22042 ##EQ INK@pari@parINK@22042@9
+10478:INK:pra:preNK:22044 ##EQ INK@pra@preNK@22044@1
+10478:INK:sam:samINK:22046 ##EQ INK@sam@samINK@22046@9
+10484:Iq:pra:preq:22060 ##EQ Iq@pra@preq@22060@1
+10484:Iq:upapra:upapreq:22062 ##EQ Iq@upapra@upapreq@22062@9
+10484:Iq:prati:pratIq:22064 ##EQ Iq@prati@pratIq@22064@1
+10503:Ir:A:er:22104 ##EQ Ir@A@er@22104@1
+10503:Ir:nyA:nyer:22106 ##EQ Ir@nyA@nyer@22106@1
+10503:Ir:ud:udIr:22108 ##EQ Ir@ud@udIr@22108@1
+10503:Ir:aByud:aByudIr:22110 ##EQ Ir@aByud@aByudIr@22110@1
+10503:Ir:samud:samudIr:22112 ##EQ Ir@samud@samudIr@22112@1
+10503:Ir:ni:nIr:22114 ##EQ Ir@ni@nIr@22114@1
+10503:Ir:pra:prer:22116 ##EQ Ir@pra@prer@22116@1
+10503:Ir:aBipra:aBiprer:22118 ##EQ Ir@aBipra@aBiprer@22118@1
+10503:Ir:saMpra:saMprer:22120 ##EQ Ir@saMpra@saMprer@22120@1
+10503:Ir:prati:pratIr:22122 ##EQ Ir@prati@pratIr@22122@1
+10503:Ir:vi:vIr:22124 ##EQ Ir@vi@vIr@22124@1
+10503:Ir:sam:samIr:22126 ##EQ Ir@sam@samIr@22126@1
+10503:Ir:aBisam:aBisamIr:22128 ##EQ Ir@aBisam@aBisamIr@22128@1
+10559:Iz:apa:apez:22242 ##EQ Iz@apa@apez@22242@1
+10559:Iz:A:ez:22244 ##EQ Iz@A@ez@22244@1
+10559:Iz:upA:upez:22246 ##EQ Iz@upA@upez@22246@1
+10559:Iz:ud:udIz:22248 ##EQ Iz@ud@udIz@22248@1
+10559:Iz:samud:samudIz:22250 ##EQ Iz@samud@samudIz@22250@1
+10559:Iz:upa:upez:22252 ##EQ Iz@upa@upez@22252@1
+10559:Iz:prati:pratIz:22254 ##EQ Iz@prati@pratIz@22254@1
+10559:Iz:vi:vIz:22256 ##EQ Iz@vi@vIz@22256@1
+10559:Iz:sam:samIz:22258 ##EQ Iz@sam@samIz@22258@1
+10571:Ih:sam:samIh:22284 ##EQ Ih@sam@samIh@22284@1
 10579:u:A:o:22304 ##EQ u@A@o@22304@1
 10579:u:vi:vyu:22306 ##EQ u@vi@vyu@22306@1
 10605:ukz:anu:anUkz:22360 ##EQ ukz@anu@anUkz@22360@1
@@ -544,43 +544,43 @@
 12602:uz:ni:nyuz:26447 ##EQ uz@ni@nyuz@26447@1
 12602:uz:prati:pratyuz:26449 ##EQ uz@prati@pratyuz@26449@1
 12602:uz:sam:samuz:26451 ##EQ uz@sam@samuz@26451@1
-12775:UrRu:apa:aporRu:26805 ##NA 
-12775:UrRu:aBi:aByUrRu:26807 ##NA 
-12775:UrRu:A:orRu:26809 ##NA 
-12775:UrRu:pra:prorRu:26811 ##NA 
-12775:UrRu:saMpra:saMprorRu:26813 ##NA 
-12775:UrRu:vi:vyUrRu:26815 ##NA 
-12883:Uh:ati:atyUh:27034 ##NA 
-12883:Uh:aDi:aDyUh:27036 ##NA 
-12883:Uh:apa:apoh:27038 ##NA 
-12883:Uh:avApa:avApoh:27040 ##NA 
-12883:Uh:vyapa:vyapoh:27042 ##NA 
-12883:Uh:aBi:aByUh:27044 ##NA 
-12883:Uh:ava:avoh:27046 ##NA 
-12883:Uh:ud:udUh:27048 ##NA 
-12883:Uh:aByud:aByudUh:27050 ##NA 
-12883:Uh:pratyud:pratyudUh:27052 ##NA 
-12883:Uh:vyud:vyudUh:27054 ##NA 
-12883:Uh:upa:upoh:27056 ##NA 
-12883:Uh:samupa:samupoh:27058 ##NA 
-12883:Uh:nis:nirUh:27060 ##NA 
-12883:Uh:pari:paryUh:27062 ##NA 
-12883:Uh:vipari:viparyUh:27064 ##NA 
-12883:Uh:pra:proh:27066 ##NA 
-12883:Uh:prati:pratyUh:27068 ##NA 
-12883:Uh:vi:vyUh:27070 ##NA 
-12883:Uh:anuvi:anuvyUh:27072 ##NA 
-12883:Uh:nirvi:nirvyUh:27074 ##NA 
-12883:Uh:prativi:prativyUh:27076 ##NA 
-12883:Uh:sam:samUh:27078 ##NA 
-12883:Uh:aBisam:aBisamUh:27080 ##NA 
-12883:Uh:upasam:upasamUh:27082 ##NA 
-12883:Uh:parisam:parisamUh:27084 ##NA 
-12884:Uh:ati:atyUh:27088 ##NA 
-12884:Uh:apa:apoh:27090 ##NA 
-12884:Uh:api:apyUh:27092 ##NA 
-12884:Uh:aBi:aByUh:27094 ##NA 
-12884:Uh:ni:nyUh:27096 ##NA 
+12775:UrRu:apa:aporRu:26805 ##EQ UrRu@apa@aporRu@26805@1
+12775:UrRu:aBi:aByUrRu:26807 ##EQ UrRu@aBi@aByUrRu@26807@1
+12775:UrRu:A:orRu:26809 ##EQ UrRu@A@orRu@26809@1
+12775:UrRu:pra:prorRu:26811 ##EQ UrRu@pra@prorRu@26811@1
+12775:UrRu:saMpra:saMprorRu:26813 ##EQ UrRu@saMpra@saMprorRu@26813@9
+12775:UrRu:vi:vyUrRu:26815 ##EQ UrRu@vi@vyUrRu@26815@1
+12883:Uh:ati:atyUh:27034 ##EQ Uh@ati@atyUh@27034@1
+12883:Uh:aDi:aDyUh:27036 ##EQ Uh@aDi@aDyUh@27036@1
+12883:Uh:apa:apoh:27038 ##EQ Uh@apa@apoh@27038@1
+12883:Uh:avApa:avApoh:27040 ##EQ Uh@avApa@avApoh@27040@1
+12883:Uh:vyapa:vyapoh:27042 ##EQ Uh@vyapa@vyapoh@27042@1
+12883:Uh:aBi:aByUh:27044 ##EQ Uh@aBi@aByUh@27044@1
+12883:Uh:ava:avoh:27046 ##EQ Uh@ava@avoh@27046@1
+12883:Uh:ud:udUh:27048 ##EQ Uh@ud@udUh@27048@1
+12883:Uh:aByud:aByudUh:27050 ##EQ Uh@aByud@aByudUh@27050@1
+12883:Uh:pratyud:pratyudUh:27052 ##EQ Uh@pratyud@pratyudUh@27052@9
+12883:Uh:vyud:vyudUh:27054 ##EQ Uh@vyud@vyudUh@27054@1
+12883:Uh:upa:upoh:27056 ##EQ Uh@upa@upoh@27056@1
+12883:Uh:samupa:samupoh:27058 ##EQ Uh@samupa@samupoh@27058@1
+12883:Uh:nis:nirUh:27060 ##EQ Uh@nis@nirUh@27060@1
+12883:Uh:pari:paryUh:27062 ##EQ Uh@pari@paryUh@27062@1
+12883:Uh:vipari:viparyUh:27064 ##EQ Uh@vipari@viparyUh@27064@1
+12883:Uh:pra:proh:27066 ##EQ Uh@pra@proh@27066@1
+12883:Uh:prati:pratyUh:27068 ##EQ Uh@prati@pratyUh@27068@1
+12883:Uh:vi:vyUh:27070 ##EQ Uh@vi@vyUh@27070@1
+12883:Uh:anuvi:anuvyUh:27072 ##EQ Uh@anuvi@anuvyUh@27072@1
+12883:Uh:nirvi:nirvyUh:27074 ##EQ Uh@nirvi@nirvyUh@27074@1
+12883:Uh:prativi:prativyUh:27076 ##EQ Uh@prativi@prativyUh@27076@1
+12883:Uh:sam:samUh:27078 ##EQ Uh@sam@samUh@27078@1
+12883:Uh:aBisam:aBisamUh:27080 ##EQ Uh@aBisam@aBisamUh@27080@1
+12883:Uh:upasam:upasamUh:27082 ##EQ Uh@upasam@upasamUh@27082@1
+12883:Uh:parisam:parisamUh:27084 ##EQ Uh@parisam@parisamUh@27084@1
+12884:Uh:ati:atyUh:27088 ##EQ Uh@ati@atyUh@27088@1
+12884:Uh:apa:apoh:27090 ##EQ Uh@apa@apoh@27090@1
+12884:Uh:api:apyUh:27092 ##EQ Uh@api@apyUh@27092@1
+12884:Uh:aBi:aByUh:27094 ##EQ Uh@aBi@aByUh@27094@1
+12884:Uh:ni:nyUh:27096 ##EQ Uh@ni@nyUh@27096@1
 13470:ej:apa:apEj:28282 ##EQ ej@apa@apEj@28282@1
 13470:ej:ud:udej:28284 ##EQ ej@ud@udej@28284@1
 13470:ej:pra:prEj:28286 ##NEQ ej@pra@prej@28286@9
@@ -1092,63 +1092,63 @@
 20739:kzviq:A:Akzviq:43909 ##EQ kzviq@A@Akzviq@43909@9
 20739:kzviq:pra:prakzviq:43911 ##EQ kzviq@pra@prakzviq@43911@9
 20741:kzvid:pra:prakzvid:43917 ##EQ kzvid@pra@prakzvid@43917@9
-20782:Kac:ud:utKac:44003 ##NA 
-20894:KaRqay:ava:avaKaRqay:44230 ##NA 
-20894:KaRqay:A:AKaRqay:44232 ##NA 
-20894:KaRqay:ud:utKaRqay:44234 ##NA 
-20894:KaRqay:pari:pariKaRqay:44236 ##NA 
-20894:KaRqay:vi:viKaRqay:44238 ##NA 
-20919:Kad:prani:praniKad:44290 ##NA 
-20941:Kan:aBi:aBiKan:44337 ##NA 
-20941:Kan:A:AKan:44339 ##NA 
-20941:Kan:ud:utKan:44341 ##NA 
-20941:Kan:prod:protKan:44343 ##NA 
-20941:Kan:samud:samutKan:44345 ##NA 
-20941:Kan:ni:niKan:44347 ##NA 
-20941:Kan:nis:nizKan:44349 ##NA 
-20941:Kan:pari:pariKan:44351 ##NA 
-20941:Kan:vi:viKan:44353 ##NA 
-21155:KAd:A:AKAd:44785 ##NA 
-21155:KAd:prani:praniKAd:44787 ##NA 
-21155:KAd:sam:saNKAd:44789 ##NA 
-21215:Kid:A:AKid:44914 ##NA 
-21215:Kid:ud:utKid:44916 ##NA 
-21215:Kid:ni:niKid:44918 ##NA 
-21215:Kid:pari:pariKid:44920 ##NA 
-21215:Kid:pra:praKid:44922 ##NA 
-21215:Kid:sam:saNKid:44924 ##NA 
-21236:Kud:pra:praKud:44968 ##NA 
-21311:KyA:ati:atiKyA:45120 ##NA 
-21311:KyA:anu:anuKyA:45122 ##NA 
-21311:KyA:antar:antaHKyA:45124 ##NA 
-21311:KyA:aBi:aBiKyA:45126 ##NA 
-21311:KyA:ava:avaKyA:45128 ##NA 
-21311:KyA:A:AKyA:45130 ##NA 
-21311:KyA:anvA:anvAKyA:45132 ##NA 
-21311:KyA:aByA:aByAKyA:45134 ##NA 
-21311:KyA:udA:udAKyA:45136 ##NA 
-21311:KyA:upA:upAKyA:45138 ##NA 
-21311:KyA:pratyA:pratyAKyA:45140 ##NA 
-21311:KyA:vyA:vyAKyA:45142 ##NA 
-21311:KyA:anuvyA:anuvyAKyA:45144 ##NA 
-21311:KyA:upavyA:upavyAKyA:45146 ##NA 
-21311:KyA:samA:samAKyA:45148 ##NA 
-21311:KyA:upa:upaKyA:45150 ##NA 
-21311:KyA:parA:parAKyA:45152 ##NA 
-21311:KyA:pari:pariKyA:45154 ##NA 
-21311:KyA:saMpari:saMpariKyA:45156 ##NA 
-21311:KyA:pra:praKyA:45158 ##NA 
-21311:KyA:prati:pratiKyA:45160 ##NA 
-21311:KyA:vi:viKyA:45162 ##NA 
-21311:KyA:aBivi:aBiviKyA:45164 ##NA 
-21311:KyA:pravi:praviKyA:45166 ##NA 
-21311:KyA:sam:saNKyA:45168 ##NA 
-21311:KyA:anusam:anusaNKyA:45170 ##NA 
-21311:KyA:aBisam:aBisaNKyA:45172 ##NA 
-21311:KyA:upasam:upasaNKyA:45174 ##NA 
-21311:KyA:parisam:parisaNKyA:45176 ##NA 
-21311:KyA:prasam:prasaNKyA:45178 ##NA 
-21311:KyA:pratisam:pratisaNKyA:45180 ##NA 
+20782:Kac:ud:utKac:44003 ##EQ Kac@ud@utKac@44003@1
+20894:KaRqay:ava:avaKaRqay:44230 ##EQ KaRqay@ava@avaKaRqay@44230@9
+20894:KaRqay:A:AKaRqay:44232 ##EQ KaRqay@A@AKaRqay@44232@9
+20894:KaRqay:ud:utKaRqay:44234 ##EQ KaRqay@ud@utKaRqay@44234@9
+20894:KaRqay:pari:pariKaRqay:44236 ##EQ KaRqay@pari@pariKaRqay@44236@9
+20894:KaRqay:vi:viKaRqay:44238 ##EQ KaRqay@vi@viKaRqay@44238@9
+20919:Kad:prani:praniKad:44290 ##NEQ Kad@prani@praRiKad@44290@9
+20941:Kan:aBi:aBiKan:44337 ##EQ Kan@aBi@aBiKan@44337@1
+20941:Kan:A:AKan:44339 ##EQ Kan@A@AKan@44339@1
+20941:Kan:ud:utKan:44341 ##EQ Kan@ud@utKan@44341@1
+20941:Kan:prod:protKan:44343 ##NEQ Kan@prod@prodKan@44343@9
+20941:Kan:samud:samutKan:44345 ##EQ Kan@samud@samutKan@44345@1
+20941:Kan:ni:niKan:44347 ##EQ Kan@ni@niKan@44347@1
+20941:Kan:nis:nizKan:44349 ##EQ Kan@nis@nizKan@44349@1
+20941:Kan:pari:pariKan:44351 ##EQ Kan@pari@pariKan@44351@1
+20941:Kan:vi:viKan:44353 ##EQ Kan@vi@viKan@44353@1
+21155:KAd:A:AKAd:44785 ##EQ KAd@A@AKAd@44785@1
+21155:KAd:prani:praniKAd:44787 ##NEQ KAd@prani@praRiKAd@44787@9
+21155:KAd:sam:saNKAd:44789 ##NEQ KAd@sam@saMKAd@44789@1
+21215:Kid:A:AKid:44914 ##EQ Kid@A@AKid@44914@1
+21215:Kid:ud:utKid:44916 ##EQ Kid@ud@utKid@44916@1
+21215:Kid:ni:niKid:44918 ##EQ Kid@ni@niKid@44918@1
+21215:Kid:pari:pariKid:44920 ##EQ Kid@pari@pariKid@44920@1
+21215:Kid:pra:praKid:44922 ##EQ Kid@pra@praKid@44922@1
+21215:Kid:sam:saNKid:44924 ##NEQ Kid@sam@saMKid@44924@1
+21236:Kud:pra:praKud:44968 ##EQ Kud@pra@praKud@44968@1
+21311:KyA:ati:atiKyA:45120 ##EQ KyA@ati@atiKyA@45120@1
+21311:KyA:anu:anuKyA:45122 ##EQ KyA@anu@anuKyA@45122@1
+21311:KyA:antar:antaHKyA:45124 ##EQ KyA@antar@antaHKyA@45124@1
+21311:KyA:aBi:aBiKyA:45126 ##EQ KyA@aBi@aBiKyA@45126@1
+21311:KyA:ava:avaKyA:45128 ##EQ KyA@ava@avaKyA@45128@1
+21311:KyA:A:AKyA:45130 ##EQ KyA@A@AKyA@45130@1
+21311:KyA:anvA:anvAKyA:45132 ##EQ KyA@anvA@anvAKyA@45132@1
+21311:KyA:aByA:aByAKyA:45134 ##EQ KyA@aByA@aByAKyA@45134@1
+21311:KyA:udA:udAKyA:45136 ##EQ KyA@udA@udAKyA@45136@1
+21311:KyA:upA:upAKyA:45138 ##EQ KyA@upA@upAKyA@45138@1
+21311:KyA:pratyA:pratyAKyA:45140 ##EQ KyA@pratyA@pratyAKyA@45140@1
+21311:KyA:vyA:vyAKyA:45142 ##EQ KyA@vyA@vyAKyA@45142@1
+21311:KyA:anuvyA:anuvyAKyA:45144 ##EQ KyA@anuvyA@anuvyAKyA@45144@1
+21311:KyA:upavyA:upavyAKyA:45146 ##EQ KyA@upavyA@upavyAKyA@45146@9
+21311:KyA:samA:samAKyA:45148 ##EQ KyA@samA@samAKyA@45148@1
+21311:KyA:upa:upaKyA:45150 ##EQ KyA@upa@upaKyA@45150@1
+21311:KyA:parA:parAKyA:45152 ##EQ KyA@parA@parAKyA@45152@1
+21311:KyA:pari:pariKyA:45154 ##EQ KyA@pari@pariKyA@45154@1
+21311:KyA:saMpari:saMpariKyA:45156 ##EQ KyA@saMpari@saMpariKyA@45156@1
+21311:KyA:pra:praKyA:45158 ##EQ KyA@pra@praKyA@45158@1
+21311:KyA:prati:pratiKyA:45160 ##EQ KyA@prati@pratiKyA@45160@1
+21311:KyA:vi:viKyA:45162 ##EQ KyA@vi@viKyA@45162@1
+21311:KyA:aBivi:aBiviKyA:45164 ##EQ KyA@aBivi@aBiviKyA@45164@1
+21311:KyA:pravi:praviKyA:45166 ##EQ KyA@pravi@praviKyA@45166@9
+21311:KyA:sam:saNKyA:45168 ##NEQ KyA@sam@saMKyA@45168@1
+21311:KyA:anusam:anusaNKyA:45170 ##NEQ KyA@anusam@anusaMKyA@45170@1
+21311:KyA:aBisam:aBisaNKyA:45172 ##NEQ KyA@aBisam@aBisaMKyA@45172@1
+21311:KyA:upasam:upasaNKyA:45174 ##NEQ KyA@upasam@upasaMKyA@45174@9
+21311:KyA:parisam:parisaNKyA:45176 ##NEQ KyA@parisam@parisaMKyA@45176@1
+21311:KyA:prasam:prasaNKyA:45178 ##NEQ KyA@prasam@prasaMKyA@45178@1
+21311:KyA:pratisam:pratisaNKyA:45180 ##NEQ KyA@pratisam@pratisaMKyA@45180@1
 21498:gaRay:aDi:aDigaRay:45561 ##EQ gaRay@aDi@aDigaRay@45561@9
 21498:gaRay:anu:anugaRay:45563 ##EQ gaRay@anu@anugaRay@45563@9
 21498:gaRay:ava:avagaRay:45565 ##EQ gaRay@ava@avagaRay@45565@9
@@ -1180,11 +1180,11 @@
 21814:gam:api:apigam:46258 ##EQ gam@api@apigam@46258@1
 21814:gam:aBi:aBigam:46260 ##EQ gam@aBi@aBigam@46260@1
 21814:gam:samaBi:samaBigam:46262 ##EQ gam@samaBi@samaBigam@46262@1
-21814:gam:aram:araNgam:46264 ##NEQ gam@aram@aramgam@46264@10
+21814:gam:aram:araNgam:46264 ##NEQ gam@aram@aramgam@46264@9
 21814:gam:ava:avagam:46266 ##EQ gam@ava@avagam@46266@1
 21814:gam:pratyava:pratyavagam:46268 ##EQ gam@pratyava@pratyavagam@46268@1
 21814:gam:samava:samavagam:46270 ##EQ gam@samava@samavagam@46270@1
-21814:gam:astam:astaNgam:46272 ##NEQ gam@astam@astamgam@46272@10
+21814:gam:astam:astaNgam:46272 ##NEQ gam@astam@astamgam@46272@9
 21814:gam:A:Agam:46274 ##EQ gam@A@Agam@46274@1
 21814:gam:aDyA:aDyAgam:46276 ##EQ gam@aDyA@aDyAgam@46276@1
 21814:gam:anvA:anvAgam:46278 ##EQ gam@anvA@anvAgam@46278@1
@@ -1227,7 +1227,7 @@
 21814:gam:sam:saNgam:46352 ##NEQ gam@sam@saMgam@46352@1
 21814:gam:aBisam:aBisaNgam:46354 ##NEQ gam@aBisam@aBisaMgam@46354@1
 21814:gam:upasam:upasaNgam:46356 ##NEQ gam@upasam@upasaMgam@46356@1
-21814:gam:saha:sahagam:46358 ##EQ gam@saha@sahagam@46358@10
+21814:gam:saha:sahagam:46358 ##EQ gam@saha@sahagam@46358@9
 21847:gar:anu:anugar:46427 ##EQ gar@anu@anugar@46427@9
 21847:gar:apa:apagar:46429 ##EQ gar@apa@apagar@46429@9
 21847:gar:api:apigar:46431 ##EQ gar@api@apigar@46431@9
@@ -1271,13 +1271,13 @@
 22048:gal:paryA:paryAgal:46909 ##EQ gal@paryA@paryAgal@46909@1
 22048:gal:samA:samAgal:46911 ##EQ gal@samA@samAgal@46911@1
 22048:gal:ud:udgal:46913 ##EQ gal@ud@udgal@46913@1
-22048:gal:ni:nigal:46915 ##NEQ gal@ni(?)@ni(?)gal@46915@10
+22048:gal:ni:nigal:46915 ##EQ gal@ni(?)@nigal@46915@1
 22048:gal:nis:nirgal:46917 ##EQ gal@nis@nirgal@46917@1
 22048:gal:pari:parigal:46919 ##EQ gal@pari@parigal@46919@1
 22048:gal:vi:vigal:46921 ##EQ gal@vi@vigal@46921@1
 22088:galB:ava:avagalB:47003 ##EQ galB@ava@avagalB@47003@1
 22088:galB:pra:pragalB:47005 ##EQ galB@pra@pragalB@47005@1
-22170:gA:acCa:acCagA:47171 ##EQ gA@acCa@acCagA@47171@10
+22170:gA:acCa:acCagA:47171 ##EQ gA@acCa@acCagA@47171@9
 22170:gA:ati:atigA:47173 ##EQ gA@ati@atigA@47173@1
 22170:gA:vyati:vyatigA:47175 ##EQ gA@vyati@vyatigA@47175@1
 22170:gA:aDi:aDigA:47177 ##EQ gA@aDi@aDigA@47177@1
@@ -1290,7 +1290,7 @@
 22170:gA:ava:avagA:47191 ##EQ gA@ava@avagA@47191@1
 22170:gA:anvava:anvavagA:47193 ##EQ gA@anvava@anvavagA@47193@1
 22170:gA:anuvyava:anuvyavagA:47195 ##EQ gA@anuvyava@anuvyavagA@47195@1
-22170:gA:aByastam:aByastaNgA:47197 ##NEQ gA@aByastam@aByastamgA@47197@10
+22170:gA:aByastam:aByastaNgA:47197 ##NEQ gA@aByastam@aByastamgA@47197@9
 22170:gA:A:AgA:47199 ##EQ gA@A@AgA@47199@1
 22170:gA:anvA:anvAgA:47201 ##EQ gA@anvA@anvAgA@47201@1
 22170:gA:aByA:aByAgA:47203 ##EQ gA@aByA@aByAgA@47203@1
@@ -1313,7 +1313,7 @@
 22170:gA:prati:pratigA:47237 ##EQ gA@prati@pratigA@47237@1
 22170:gA:vi:vigA:47239 ##EQ gA@vi@vigA@47239@1
 22170:gA:sam:saNgA:47241 ##NEQ gA@sam@saMgA@47241@1
-22171:gA:acCa:acCagA:47245 ##EQ gA@acCa@acCagA@47245@10
+22171:gA:acCa:acCagA:47245 ##EQ gA@acCa@acCagA@47245@9
 22171:gA:anu:anugA:47247 ##EQ gA@anu@anugA@47247@1
 22171:gA:aBi:aBigA:47249 ##EQ gA@aBi@aBigA@47249@1
 22171:gA:ava:avagA:47251 ##EQ gA@ava@avagA@47251@1
@@ -1422,7 +1422,7 @@
 23656:graB:aBisam:aBisaNgraB:50440 ##NEQ graB@aBisam@aBisaMgraB@50440@9
 23656:graB:upasam:upasaNgraB:50442 ##NEQ graB@upasam@upasaMgraB@50442@9
 23656:graB:pratisam:pratisaNgraB:50444 ##NEQ graB@pratisam@pratisaMgraB@50444@9
-23656:graB:saha:sahagraB:50446 ##EQ graB@saha@sahagraB@50446@10
+23656:graB:saha:sahagraB:50446 ##EQ graB@saha@sahagraB@50446@9
 23661:gras:aBi:aBigras:50458 ##EQ gras@aBi@aBigras@50458@1
 23661:gras:A:Agras:50460 ##EQ gras@A@Agras@50460@1
 23661:gras:upa:upagras:50462 ##EQ gras@upa@upagras@50462@1
@@ -1433,73 +1433,73 @@
 23861:glA:aBipari:aBipariglA:50876 ##EQ glA@aBipari@aBipariglA@50876@9
 23861:glA:pra:praglA:50878 ##EQ glA@pra@praglA@50878@9
 23861:glA:vi:viglA:50880 ##EQ glA@vi@viglA@50880@1
-23883:Gaw:A:AGaw:50930 ##NA 
-23883:Gaw:vyA:vyAGaw:50932 ##NA 
-23883:Gaw:ud:udGaw:50934 ##NA 
-23883:Gaw:pari:pariGaw:50936 ##NA 
-23883:Gaw:pra:praGaw:50938 ##NA 
-23883:Gaw:vi:viGaw:50940 ##NA 
-23883:Gaw:sam:saNGaw:50942 ##NA 
-23918:Gaww:anu:anuGaww:51014 ##NA 
-23918:Gaww:ava:avaGaww:51016 ##NA 
-23918:Gaww:A:AGaww:51018 ##NA 
-23918:Gaww:ud:udGaww:51020 ##NA 
-23918:Gaww:pari:pariGaww:51022 ##NA 
-23918:Gaww:vi:viGaww:51024 ##NA 
-23918:Gaww:sam:saNGaww:51026 ##NA 
-24000:Gar:aBi:aBiGar:51192 ##NA 
-24000:Gar:pratyaBi:pratyaBiGar:51194 ##NA 
-24000:Gar:A:AGar:51196 ##NA 
-24000:Gar:vyA:vyAGar:51198 ##NA 
-24037:Garz:ava:avaGarz:51282 ##NA 
-24037:Garz:A:AGarz:51284 ##NA 
-24037:Garz:ud:udGarz:51286 ##NA 
-24037:Garz:ni:niGarz:51288 ##NA 
-24037:Garz:saMni:saMniGarz:51290 ##NA 
-24037:Garz:nis:nirGarz:51292 ##NA 
-24037:Garz:pari:pariGarz:51294 ##NA 
-24037:Garz:pra:praGarz:51296 ##NA 
-24037:Garz:saMpra:saMpraGarz:51298 ##NA 
-24037:Garz:vi:viGarz:51300 ##NA 
-24037:Garz:sam:saNGarz:51302 ##NA 
-24043:Gas:api:apiGas:51316 ##NA 
-24043:Gas:ud:udGas:51318 ##NA 
-24043:Gas:pra:praGas:51320 ##NA 
-24043:Gas:vi:viGas:51322 ##NA 
-24080:Guw:ava:avaGuw:51398 ##NA 
-24080:Guw:vyA:vyAGuw:51400 ##NA 
-24100:Guz:anu:anuGuz:51442 ##NA 
-24100:Guz:ava:avaGuz:51444 ##NA 
-24100:Guz:A:AGuz:51446 ##NA 
-24100:Guz:vyA:vyAGuz:51448 ##NA 
-24100:Guz:ud:udGuz:51450 ##NA 
-24100:Guz:prod:prodGuz:51452 ##NA 
-24100:Guz:upa:upaGuz:51454 ##NA 
-24100:Guz:nis:nirGuz:51456 ##NA 
-24100:Guz:pra:praGuz:51458 ##NA 
-24100:Guz:vi:viGuz:51460 ##NA 
-24100:Guz:udvi:udviGuz:51462 ##NA 
-24100:Guz:sam:saNGuz:51464 ##NA 
-24100:Guz:parisam:parisaNGuz:51466 ##NA 
-24101:Guz:ni:niGuz:51470 ##NA 
-24110:GUrR:ava:avaGUrR:51490 ##NA 
-24110:GUrR:A:AGUrR:51492 ##NA 
-24110:GUrR:vyA:vyAGUrR:51494 ##NA 
-24110:GUrR:pari:pariGUrR:51496 ##NA 
-24110:GUrR:vi:viGUrR:51498 ##NA 
-24247:GrA:anu:anuGrA:51774 ##NA 
-24247:GrA:aBi:aBiGrA:51776 ##NA 
-24247:GrA:ava:avaGrA:51778 ##NA 
-24247:GrA:A:AGrA:51780 ##NA 
-24247:GrA:upA:upAGrA:51782 ##NA 
-24247:GrA:samupA:samupAGrA:51784 ##NA 
-24247:GrA:samA:samAGrA:51786 ##NA 
-24247:GrA:ud:udGrA:51788 ##NA 
-24247:GrA:upa:upaGrA:51790 ##NA 
-24247:GrA:samupa:samupaGrA:51792 ##NA 
-24247:GrA:pari:pariGrA:51794 ##NA 
-24247:GrA:vi:viGrA:51796 ##NA 
-24247:GrA:sam:saNGrA:51798 ##NA 
+23883:Gaw:A:AGaw:50930 ##EQ Gaw@A@AGaw@50930@9
+23883:Gaw:vyA:vyAGaw:50932 ##EQ Gaw@vyA@vyAGaw@50932@9
+23883:Gaw:ud:udGaw:50934 ##EQ Gaw@ud@udGaw@50934@1
+23883:Gaw:pari:pariGaw:50936 ##EQ Gaw@pari@pariGaw@50936@1
+23883:Gaw:pra:praGaw:50938 ##EQ Gaw@pra@praGaw@50938@1
+23883:Gaw:vi:viGaw:50940 ##EQ Gaw@vi@viGaw@50940@1
+23883:Gaw:sam:saNGaw:50942 ##NEQ Gaw@sam@saMGaw@50942@1
+23918:Gaww:anu:anuGaww:51014 ##EQ Gaww@anu@anuGaww@51014@1
+23918:Gaww:ava:avaGaww:51016 ##EQ Gaww@ava@avaGaww@51016@1
+23918:Gaww:A:AGaww:51018 ##EQ Gaww@A@AGaww@51018@1
+23918:Gaww:ud:udGaww:51020 ##EQ Gaww@ud@udGaww@51020@1
+23918:Gaww:pari:pariGaww:51022 ##EQ Gaww@pari@pariGaww@51022@1
+23918:Gaww:vi:viGaww:51024 ##EQ Gaww@vi@viGaww@51024@1
+23918:Gaww:sam:saNGaww:51026 ##NEQ Gaww@sam@saMGaww@51026@1
+24000:Gar:aBi:aBiGar:51192 ##EQ Gar@aBi@aBiGar@51192@9
+24000:Gar:pratyaBi:pratyaBiGar:51194 ##EQ Gar@pratyaBi@pratyaBiGar@51194@9
+24000:Gar:A:AGar:51196 ##EQ Gar@A@AGar@51196@9
+24000:Gar:vyA:vyAGar:51198 ##EQ Gar@vyA@vyAGar@51198@9
+24037:Garz:ava:avaGarz:51282 ##EQ Garz@ava@avaGarz@51282@9
+24037:Garz:A:AGarz:51284 ##EQ Garz@A@AGarz@51284@9
+24037:Garz:ud:udGarz:51286 ##EQ Garz@ud@udGarz@51286@9
+24037:Garz:ni:niGarz:51288 ##EQ Garz@ni@niGarz@51288@9
+24037:Garz:saMni:saMniGarz:51290 ##EQ Garz@saMni@saMniGarz@51290@9
+24037:Garz:nis:nirGarz:51292 ##EQ Garz@nis@nirGarz@51292@9
+24037:Garz:pari:pariGarz:51294 ##EQ Garz@pari@pariGarz@51294@9
+24037:Garz:pra:praGarz:51296 ##EQ Garz@pra@praGarz@51296@9
+24037:Garz:saMpra:saMpraGarz:51298 ##EQ Garz@saMpra@saMpraGarz@51298@9
+24037:Garz:vi:viGarz:51300 ##EQ Garz@vi@viGarz@51300@9
+24037:Garz:sam:saNGarz:51302 ##NEQ Garz@sam@saMGarz@51302@9
+24043:Gas:api:apiGas:51316 ##EQ Gas@api@apiGas@51316@1
+24043:Gas:ud:udGas:51318 ##EQ Gas@ud@udGas@51318@9
+24043:Gas:pra:praGas:51320 ##EQ Gas@pra@praGas@51320@9
+24043:Gas:vi:viGas:51322 ##EQ Gas@vi@viGas@51322@9
+24080:Guw:ava:avaGuw:51398 ##EQ Guw@ava@avaGuw@51398@9
+24080:Guw:vyA:vyAGuw:51400 ##EQ Guw@vyA@vyAGuw@51400@1
+24100:Guz:anu:anuGuz:51442 ##EQ Guz@anu@anuGuz@51442@1
+24100:Guz:ava:avaGuz:51444 ##EQ Guz@ava@avaGuz@51444@1
+24100:Guz:A:AGuz:51446 ##EQ Guz@A@AGuz@51446@1
+24100:Guz:vyA:vyAGuz:51448 ##EQ Guz@vyA@vyAGuz@51448@1
+24100:Guz:ud:udGuz:51450 ##EQ Guz@ud@udGuz@51450@1
+24100:Guz:prod:prodGuz:51452 ##EQ Guz@prod@prodGuz@51452@1
+24100:Guz:upa:upaGuz:51454 ##EQ Guz@upa@upaGuz@51454@1
+24100:Guz:nis:nirGuz:51456 ##EQ Guz@nis@nirGuz@51456@9
+24100:Guz:pra:praGuz:51458 ##EQ Guz@pra@praGuz@51458@1
+24100:Guz:vi:viGuz:51460 ##EQ Guz@vi@viGuz@51460@1
+24100:Guz:udvi:udviGuz:51462 ##EQ Guz@udvi@udviGuz@51462@1
+24100:Guz:sam:saNGuz:51464 ##NEQ Guz@sam@saMGuz@51464@1
+24100:Guz:parisam:parisaNGuz:51466 ##NEQ Guz@parisam@parisaMGuz@51466@9
+24101:Guz:ni:niGuz:51470 ##EQ Guz@ni@niGuz@51470@1
+24110:GUrR:ava:avaGUrR:51490 ##EQ GUrR@ava@avaGUrR@51490@1
+24110:GUrR:A:AGUrR:51492 ##EQ GUrR@A@AGUrR@51492@1
+24110:GUrR:vyA:vyAGUrR:51494 ##EQ GUrR@vyA@vyAGUrR@51494@1
+24110:GUrR:pari:pariGUrR:51496 ##EQ GUrR@pari@pariGUrR@51496@1
+24110:GUrR:vi:viGUrR:51498 ##EQ GUrR@vi@viGUrR@51498@1
+24247:GrA:anu:anuGrA:51774 ##EQ GrA@anu@anuGrA@51774@1
+24247:GrA:aBi:aBiGrA:51776 ##EQ GrA@aBi@aBiGrA@51776@1
+24247:GrA:ava:avaGrA:51778 ##EQ GrA@ava@avaGrA@51778@1
+24247:GrA:A:AGrA:51780 ##EQ GrA@A@AGrA@51780@1
+24247:GrA:upA:upAGrA:51782 ##EQ GrA@upA@upAGrA@51782@1
+24247:GrA:samupA:samupAGrA:51784 ##EQ GrA@samupA@samupAGrA@51784@1
+24247:GrA:samA:samAGrA:51786 ##EQ GrA@samA@samAGrA@51786@1
+24247:GrA:ud:udGrA:51788 ##EQ GrA@ud@udGrA@51788@9
+24247:GrA:upa:upaGrA:51790 ##EQ GrA@upa@upaGrA@51790@1
+24247:GrA:samupa:samupaGrA:51792 ##EQ GrA@samupa@samupaGrA@51792@1
+24247:GrA:pari:pariGrA:51794 ##EQ GrA@pari@pariGrA@51794@1
+24247:GrA:vi:viGrA:51796 ##EQ GrA@vi@viGrA@51796@1
+24247:GrA:sam:saNGrA:51798 ##NEQ GrA@sam@saMGrA@51798@1
 24261:cak:ud:uccak:51833 ##EQ cak@ud@uccak@51833@1
 24261:cak:pra:pracak:51835 ##EQ cak@pra@pracak@51835@9
 24382:cakz:anu:anucakz:52079 ##EQ cakz@anu@anucakz@52079@1
@@ -1683,7 +1683,7 @@
 25746:cud:saMpra:saMpracud:55188 ##EQ cud@saMpra@saMpracud@55188@9
 25746:cud:prati:praticud:55190 ##EQ cud@prati@praticud@55190@1
 25746:cud:sam:saYcud:55192 ##NEQ cud@sam@saMcud@55192@1
-25746:cud:sama:samacud:55194 ##EQ cud@sama@samacud@55194@10
+25746:cud:sama:samacud:55194 ##EQ cud@sama@samacud@55194@9
 25750:cup:pra:pracup:55205 ##EQ cup@pra@pracup@55205@9
 25758:cumb:pari:paricumb:55223 ##EQ cumb@pari@paricumb@55223@1
 25758:cumb:vi:vicumb:55225 ##EQ cumb@vi@vicumb@55225@1
@@ -1712,56 +1712,56 @@
 26032:cyu:saMpra:saMpracyu:55820 ##EQ cyu@saMpra@saMpracyu@55820@9
 26032:cyu:vi:vicyu:55822 ##EQ cyu@vi@vicyu@55822@1
 26032:cyu:sam:saYcyu:55824 ##NEQ cyu@sam@saMcyu@55824@1
-26080:Cad:anu:anucCad:55924 ##NA 
-26080:Cad:aBi:aBicCad:55926 ##NA 
-26080:Cad:samaBi:samaBicCad:55928 ##NA 
-26080:Cad:ava:avacCad:55930 ##NA 
-26080:Cad:samava:samavacCad:55932 ##NA 
-26080:Cad:A:AcCad:55934 ##NA 
-26080:Cad:samA:samAcCad:55936 ##NA 
-26080:Cad:ud:ucCad:55938 ##NA 
-26080:Cad:apod:apocCad:55940 ##NA 
-26080:Cad:samud:samucCad:55942 ##NA 
-26080:Cad:upa:upacCad:55944 ##NA 
-26080:Cad:samupa:samupacCad:55946 ##NA 
-26080:Cad:pari:paricCad:55948 ##NA 
-26080:Cad:pra:pracCad:55950 ##NA 
-26080:Cad:prati:praticCad:55952 ##NA 
-26080:Cad:vi:vicCad:55954 ##NA 
-26080:Cad:sam:saYCad:55956 ##NA 
-26081:Cad:ava:avacCad:55960 ##NA 
-26081:Cad:upa:upacCad:55962 ##NA 
-26081:Cad:vi:vicCad:55964 ##NA 
-26081:Cad:sam:saYCad:55966 ##NA 
-26132:Card:A:AcCard:56070 ##NA 
-26132:Card:pra:pracCard:56072 ##NA 
-26160:CA:anu:anucCA:56130 ##NA 
-26160:CA:ava:avacCA:56132 ##NA 
-26160:CA:A:AcCA:56134 ##NA 
-26160:CA:pra:pracCA:56136 ##NA 
-26237:Cid:anu:anucCid:56299 ##NA 
-26237:Cid:antar:antaSCid:56301 ##NA 
-26237:Cid:apa:apacCid:56303 ##NA 
-26237:Cid:ava:avacCid:56305 ##NA 
-26237:Cid:paryava:paryavacCid:56307 ##NA 
-26237:Cid:vyava:vyavacCid:56309 ##NA 
-26237:Cid:A:AcCid:56311 ##NA 
-26237:Cid:avA:avAcCid:56313 ##NA 
-26237:Cid:upA:upAcCid:56315 ##NA 
-26237:Cid:samA:samAcCid:56317 ##NA 
-26237:Cid:ud:ucCid:56319 ##NA 
-26237:Cid:vyud:vyucCid:56321 ##NA 
-26237:Cid:samud:samucCid:56323 ##NA 
-26237:Cid:pari:paricCid:56325 ##NA 
-26237:Cid:vipari:viparicCid:56327 ##NA 
-26237:Cid:pra:pracCid:56329 ##NA 
-26237:Cid:saMpra:saMpracCid:56331 ##NA 
-26237:Cid:prati:praticCid:56333 ##NA 
-26237:Cid:vi:vicCid:56335 ##NA 
-26237:Cid:sam:saYCid:56337 ##NA 
-26278:Cur:ava:avacCur:56421 ##NA 
-26278:Cur:A:AcCur:56423 ##NA 
-26278:Cur:vi:vicCur:56425 ##NA 
+26080:Cad:anu:anucCad:55924 ##NEQ Cad@anu@anuCad@55924@9
+26080:Cad:aBi:aBicCad:55926 ##NEQ Cad@aBi@aBiCad@55926@9
+26080:Cad:samaBi:samaBicCad:55928 ##NEQ Cad@samaBi@samaBiCad@55928@9
+26080:Cad:ava:avacCad:55930 ##NEQ Cad@ava@avaCad@55930@9
+26080:Cad:samava:samavacCad:55932 ##NEQ Cad@samava@samavaCad@55932@9
+26080:Cad:A:AcCad:55934 ##NEQ Cad@A@ACad@55934@1
+26080:Cad:samA:samAcCad:55936 ##NEQ Cad@samA@samACad@55936@9
+26080:Cad:ud:ucCad:55938 ##EQ Cad@ud@ucCad@55938@1
+26080:Cad:apod:apocCad:55940 ##NEQ Cad@apod@apodCad@55940@9
+26080:Cad:samud:samucCad:55942 ##EQ Cad@samud@samucCad@55942@1
+26080:Cad:upa:upacCad:55944 ##NEQ Cad@upa@upaCad@55944@9
+26080:Cad:samupa:samupacCad:55946 ##NEQ Cad@samupa@samupaCad@55946@9
+26080:Cad:pari:paricCad:55948 ##NEQ Cad@pari@pariCad@55948@9
+26080:Cad:pra:pracCad:55950 ##NEQ Cad@pra@praCad@55950@9
+26080:Cad:prati:praticCad:55952 ##NEQ Cad@prati@pratiCad@55952@9
+26080:Cad:vi:vicCad:55954 ##NEQ Cad@vi@viCad@55954@9
+26080:Cad:sam:saYCad:55956 ##NEQ Cad@sam@saMCad@55956@1
+26081:Cad:ava:avacCad:55960 ##NEQ Cad@ava@avaCad@55960@9
+26081:Cad:upa:upacCad:55962 ##NEQ Cad@upa@upaCad@55962@9
+26081:Cad:vi:vicCad:55964 ##NEQ Cad@vi@viCad@55964@9
+26081:Cad:sam:saYCad:55966 ##NEQ Cad@sam@saMCad@55966@1
+26132:Card:A:AcCard:56070 ##NEQ Card@A@ACard@56070@9
+26132:Card:pra:pracCard:56072 ##NEQ Card@pra@praCard@56072@9
+26160:CA:anu:anucCA:56130 ##NEQ CA@anu@anuCA@56130@9
+26160:CA:ava:avacCA:56132 ##NEQ CA@ava@avaCA@56132@9
+26160:CA:A:AcCA:56134 ##NEQ CA@A@ACA@56134@9
+26160:CA:pra:pracCA:56136 ##NEQ CA@pra@praCA@56136@9
+26237:Cid:anu:anucCid:56299 ##NEQ Cid@anu@anuCid@56299@9
+26237:Cid:antar:antaSCid:56301 ##NEQ Cid@antar@antaHCid@56301@9
+26237:Cid:apa:apacCid:56303 ##NEQ Cid@apa@apaCid@56303@9
+26237:Cid:ava:avacCid:56305 ##NEQ Cid@ava@avaCid@56305@9
+26237:Cid:paryava:paryavacCid:56307 ##NEQ Cid@paryava@paryavaCid@56307@9
+26237:Cid:vyava:vyavacCid:56309 ##NEQ Cid@vyava@vyavaCid@56309@9
+26237:Cid:A:AcCid:56311 ##NEQ Cid@A@ACid@56311@9
+26237:Cid:avA:avAcCid:56313 ##NEQ Cid@avA@avACid@56313@1
+26237:Cid:upA:upAcCid:56315 ##NEQ Cid@upA@upACid@56315@9
+26237:Cid:samA:samAcCid:56317 ##NEQ Cid@samA@samACid@56317@9
+26237:Cid:ud:ucCid:56319 ##EQ Cid@ud@ucCid@56319@1
+26237:Cid:vyud:vyucCid:56321 ##EQ Cid@vyud@vyucCid@56321@1
+26237:Cid:samud:samucCid:56323 ##EQ Cid@samud@samucCid@56323@1
+26237:Cid:pari:paricCid:56325 ##NEQ Cid@pari@pariCid@56325@9
+26237:Cid:vipari:viparicCid:56327 ##NEQ Cid@vipari@vipariCid@56327@9
+26237:Cid:pra:pracCid:56329 ##NEQ Cid@pra@praCid@56329@9
+26237:Cid:saMpra:saMpracCid:56331 ##NEQ Cid@saMpra@saMpraCid@56331@9
+26237:Cid:prati:praticCid:56333 ##NEQ Cid@prati@pratiCid@56333@9
+26237:Cid:vi:vicCid:56335 ##NEQ Cid@vi@viCid@56335@9
+26237:Cid:sam:saYCid:56337 ##NEQ Cid@sam@saMCid@56337@1
+26278:Cur:ava:avacCur:56421 ##NEQ Cur@ava@avaCur@56421@9
+26278:Cur:A:AcCur:56423 ##NEQ Cur@A@ACur@56423@9
+26278:Cur:vi:vicCur:56425 ##NEQ Cur@vi@viCur@56425@9
 26309:jaMh:aBivi:aBivijaMh:56491 ##EQ jaMh@aBivi@aBivijaMh@56491@1
 26313:jakz:apa:apajakz:56501 ##EQ jakz@apa@apajakz@56501@9
 26313:jakz:pra:prajakz:56503 ##EQ jakz@pra@prajakz@56503@9
@@ -1929,7 +1929,7 @@
 28063:jval:prati:pratijval:60368 ##EQ jval@prati@pratijval@60368@1
 28063:jval:aBivi:aBivijval:60370 ##EQ jval@aBivi@aBivijval@60370@1
 28063:jval:sam:saYjval:60372 ##NEQ jval@sam@saMjval@60372@1
-28087:Jaw:ud:ujJaw:60424 ##NA 
+28087:Jaw:ud:ujJaw:60424 ##NEQ Jaw@ud@udJaw@60424@9
 28174:waNk:vi:viwaNk:60604 ##EQ waNk@vi@viwaNk@60604@9
 28216:wIk:A:AwIk:60691 ##EQ wIk@A@AwIk@60691@9
 28253:qamb:vi:viqamb:60771 ##EQ qamb@vi@viqamb@60771@1
@@ -1945,7 +1945,7 @@
 28292:qI:vi:viqI:60869 ##EQ qI@vi@viqI@60869@1
 28292:qI:sam:saRqI:60871 ##NEQ qI@sam@saMqI@60871@9
 28292:qI:avasam:avasaRqI:60873 ##NEQ qI@avasam@avasaMqI@60873@9
-28326:QOk:upa:upaQOk:60945 ##NA 
+28326:QOk:upa:upaQOk:60945 ##EQ QOk@upa@upaQOk@60945@1
 28332:taMs:aBi:aBitaMs:60963 ##EQ taMs@aBi@aBitaMs@60963@1
 28332:taMs:A:AtaMs:60965 ##EQ taMs@A@AtaMs@60965@1
 28332:taMs:upa:upataMs:60967 ##EQ taMs@upa@upataMs@60967@9
@@ -2019,7 +2019,7 @@
 28717:tap:vinis:vinistap:61877 ##NEQ tap@vinis@viniztap@61877@1
 28717:tap:pari:paritap:61879 ##EQ tap@pari@paritap@61879@1
 28717:tap:vipari:viparitap:61881 ##EQ tap@vipari@viparitap@61881@1
-28717:tap:paScAt:paScAttap:61883 ##EQ tap@paScAt@paScAttap@61883@10
+28717:tap:paScAt:paScAttap:61883 ##EQ tap@paScAt@paScAttap@61883@9
 28717:tap:pra:pratap:61885 ##EQ tap@pra@pratap@61885@1
 28717:tap:aBipra:aBipratap:61887 ##EQ tap@aBipra@aBipratap@61887@9
 28717:tap:saMpra:saMpratap:61889 ##EQ tap@saMpra@saMpratap@61889@9
@@ -2503,264 +2503,264 @@
 35846:dviz:pra:pradviz:77229 ##EQ dviz@pra@pradviz@77229@1
 35846:dviz:vi:vidviz:77231 ##EQ dviz@vi@vidviz@77231@1
 35846:dviz:sam:sandviz:77233 ##NEQ dviz@sam@saMdviz@77233@9
-36005:Dan:pra:praDan:77555 ##NA 
-36142:Danv:aBi:aBiDanv:77833 ##NA 
-36142:Danv:pra:praDanv:77835 ##NA 
-36142:Danv:paripra:paripraDanv:77837 ##NA 
-36142:Danv:sam:sanDanv:77839 ##NA 
-36169:Dam:anu:anuDam:77899 ##NA 
-36169:Dam:apa:apaDam:77901 ##NA 
-36169:Dam:api:apiDam:77903 ##NA 
-36169:Dam:aBi:aBiDam:77905 ##NA 
-36169:Dam:A:ADam:77907 ##NA 
-36169:Dam:atyA:atyADam:77909 ##NA 
-36169:Dam:upA:upADam:77911 ##NA 
-36169:Dam:samA:samADam:77913 ##NA 
-36169:Dam:ud:udDam:77915 ##NA 
-36169:Dam:upa:upaDam:77917 ##NA 
-36169:Dam:nis:nirDam:77919 ##NA 
-36169:Dam:parA:parADam:77921 ##NA 
-36169:Dam:pra:praDam:77923 ##NA 
-36169:Dam:vi:viDam:77925 ##NA 
-36169:Dam:sam:sanDam:77927 ##NA 
-36169:Dam:aBisam:aBisanDam:77929 ##NA 
-36186:Dar:aDi:aDiDar:77969 ##NA 
-36186:Dar:aBi:aBiDar:77971 ##NA 
-36186:Dar:ava:avaDar:77973 ##NA 
-36186:Dar:A:ADar:77975 ##NA 
-36186:Dar:nyA:nyADar:77977 ##NA 
-36186:Dar:ud:udDar:77979 ##NA 
-36186:Dar:upa:upaDar:77981 ##NA 
-36186:Dar:anUpa:anUpaDar:77983 ##NA 
-36186:Dar:ni:niDar:77985 ##NA 
-36186:Dar:nis:nirDar:77987 ##NA 
-36186:Dar:pari:pariDar:77989 ##NA 
-36186:Dar:pra:praDar:77991 ##NA 
-36186:Dar:saMpra:saMpraDar:77993 ##NA 
-36186:Dar:prati:pratiDar:77995 ##NA 
-36186:Dar:vi:viDar:77997 ##NA 
-36186:Dar:sam:sanDar:77999 ##NA 
-36454:Darz:apa:apaDarz:78539 ##NA 
-36454:Darz:aBi:aBiDarz:78541 ##NA 
-36454:Darz:ava:avaDarz:78543 ##NA 
-36454:Darz:A:ADarz:78545 ##NA 
-36454:Darz:ud:udDarz:78547 ##NA 
-36454:Darz:upa:upaDarz:78549 ##NA 
-36454:Darz:pari:pariDarz:78551 ##NA 
-36454:Darz:pra:praDarz:78553 ##NA 
-36454:Darz:saMpra:saMpraDarz:78555 ##NA 
-36454:Darz:prati:pratiDarz:78557 ##NA 
-36454:Darz:vi:viDarz:78559 ##NA 
-36454:Darz:sam:sanDarz:78561 ##NA 
-36464:Dav:ava:avaDav:78583 ##NA 
-36484:DA:ati:atiDA:78631 ##NA 
-36484:DA:aDi:aDiDA:78633 ##NA 
-36484:DA:anu:anuDA:78635 ##NA 
-36484:DA:vyanu:vyanuDA:78637 ##NA 
-36484:DA:antar:antarDA:78639 ##NA 
-36484:DA:apa:apaDA:78641 ##NA 
-36484:DA:api:apiDA:78643 ##NA 
-36484:DA:anvapi:anvapiDA:78645 ##NA 
-36484:DA:samapi:samapiDA:78647 ##NA 
-36484:DA:aBi:aBiDA:78649 ##NA 
-36484:DA:pratyaBi:pratyaBiDA:78651 ##NA 
-36484:DA:samaBi:samaBiDA:78653 ##NA 
-36484:DA:ava:avaDA:78655 ##NA 
-36484:DA:aByava:aByavaDA:78657 ##NA 
-36484:DA:pratyava:pratyavaDA:78659 ##NA 
-36484:DA:vyava:vyavaDA:78661 ##NA 
-36484:DA:saMvyava:saMvyavaDA:78663 ##NA 
-36484:DA:samava:samavaDA:78665 ##NA 
-36484:DA:A:ADA:78667 ##NA 
-36484:DA:atyA:atyADA:78669 ##NA 
-36484:DA:aDyA:aDyADA:78671 ##NA 
-36484:DA:antarA:antarADA:78673 ##NA 
-36484:DA:anvA:anvADA:78675 ##NA 
-36484:DA:apA:apADA:78677 ##NA 
-36484:DA:aByA:aByADA:78679 ##NA 
-36484:DA:udA:udADA:78681 ##NA 
-36484:DA:upA:upADA:78683 ##NA 
-36484:DA:pratyupA:pratyupADA:78685 ##NA 
-36484:DA:nyA:nyADA:78687 ##NA 
-36484:DA:nirA:nirADA:78689 ##NA 
-36484:DA:paryA:paryADA:78691 ##NA 
-36484:DA:anuparyA:anuparyADA:78693 ##NA 
-36484:DA:aBiparyA:aBiparyADA:78695 ##NA 
-36484:DA:vyA:vyADA:78697 ##NA 
-36484:DA:samA:samADA:78699 ##NA 
-36484:DA:anusamA:anusamADA:78701 ##NA 
-36484:DA:aBisamA:aBisamADA:78703 ##NA 
-36484:DA:upasamA:upasamADA:78705 ##NA 
-36484:DA:pratisamA:pratisamADA:78707 ##NA 
-36484:DA:Avis:AvirDA:78709 ##NA 
-36484:DA:ud:udDA:78711 ##NA 
-36484:DA:upa:upaDA:78713 ##NA 
-36484:DA:anUpa:anUpaDA:78715 ##NA 
-36484:DA:aByupa:aByupaDA:78717 ##NA 
-36484:DA:pratyupa:pratyupaDA:78719 ##NA 
-36484:DA:tiras:tiroDA:78721 ##NA 
-36484:DA:ni:niDA:78723 ##NA 
-36484:DA:aDini:aDiniDA:78725 ##NA 
-36484:DA:apani:apaniDA:78727 ##NA 
-36484:DA:aBini:aBiniDA:78729 ##NA 
-36484:DA:upani:upaniDA:78731 ##NA 
-36484:DA:pariRi:pariRiDA:78733 ##NA 
-36484:DA:praRi:praRiDA:78735 ##NA 
-36484:DA:saMpraRi:saMpraRiDA:78737 ##NA 
-36484:DA:pratini:pratiniDA:78739 ##NA 
-36484:DA:vini:viniDA:78741 ##NA 
-36484:DA:saMni:saMniDA:78743 ##NA 
-36484:DA:nis:nirDA:78745 ##NA 
-36484:DA:pari:pariDA:78747 ##NA 
-36484:DA:vipari:vipariDA:78749 ##NA 
-36484:DA:puras:puroDA:78751 ##NA 
-36484:DA:pra:praDA:78753 ##NA 
-36484:DA:prati:pratiDA:78755 ##NA 
-36484:DA:anuprati:anupratiDA:78757 ##NA 
-36484:DA:vi:viDA:78759 ##NA 
-36484:DA:ativi:ativiDA:78761 ##NA 
-36484:DA:aDivi:aDiviDA:78763 ##NA 
-36484:DA:anuvi:anuviDA:78765 ##NA 
-36484:DA:aBivi:aBiviDA:78767 ##NA 
-36484:DA:pravi:praviDA:78769 ##NA 
-36484:DA:prativi:prativiDA:78771 ##NA 
-36484:DA:saMvi:saMviDA:78773 ##NA 
-36484:DA:Srat:SradDA:78775 ##NA 
-36484:DA:sam:sanDA:78777 ##NA 
-36484:DA:atisam:atisanDA:78779 ##NA 
-36484:DA:aDisam:aDisanDA:78781 ##NA 
-36484:DA:anusam:anusanDA:78783 ##NA 
-36484:DA:aBisam:aBisanDA:78785 ##NA 
-36484:DA:samaBisam:samaBisanDA:78787 ##NA 
-36484:DA:upasam:upasanDA:78789 ##NA 
-36484:DA:prasam:prasanDA:78791 ##NA 
-36484:DA:pratisam:pratisanDA:78793 ##NA 
-36486:DA:anu:anuDA:78799 ##NA 
-36486:DA:ud:udDA:78801 ##NA 
-36486:DA:upa:upaDA:78803 ##NA 
-36486:DA:pariRi:pariRiDA:78805 ##NA 
-36486:DA:nis:nirDA:78807 ##NA 
-36704:DAv:ati:atiDAv:79249 ##NA 
-36704:DAv:anu:anuDAv:79251 ##NA 
-36704:DAv:samanu:samanuDAv:79253 ##NA 
-36704:DAv:apa:apaDAv:79255 ##NA 
-36704:DAv:aBi:aBiDAv:79257 ##NA 
-36704:DAv:pratyaBi:pratyaBiDAv:79259 ##NA 
-36704:DAv:samaBi:samaBiDAv:79261 ##NA 
-36704:DAv:ava:avaDAv:79263 ##NA 
-36704:DAv:vyava:vyavaDAv:79265 ##NA 
-36704:DAv:A:ADAv:79267 ##NA 
-36704:DAv:anvA:anvADAv:79269 ##NA 
-36704:DAv:upA:upADAv:79271 ##NA 
-36704:DAv:samA:samADAv:79273 ##NA 
-36704:DAv:upa:upaDAv:79275 ##NA 
-36704:DAv:samupa:samupaDAv:79277 ##NA 
-36704:DAv:nis:nirDAv:79279 ##NA 
-36704:DAv:parA:parADAv:79281 ##NA 
-36704:DAv:pari:pariDAv:79283 ##NA 
-36704:DAv:vipari:vipariDAv:79285 ##NA 
-36704:DAv:pra:praDAv:79287 ##NA 
-36704:DAv:aDipra:aDipraDAv:79289 ##NA 
-36704:DAv:anupra:anupraDAv:79291 ##NA 
-36704:DAv:vipra:vipraDAv:79293 ##NA 
-36704:DAv:saMpra:saMpraDAv:79295 ##NA 
-36704:DAv:prati:pratiDAv:79297 ##NA 
-36704:DAv:vi:viDAv:79299 ##NA 
-36704:DAv:anuvi:anuviDAv:79301 ##NA 
-36704:DAv:aBivi:aBiviDAv:79303 ##NA 
-36704:DAv:parivi:pariviDAv:79305 ##NA 
-36704:DAv:sam:sanDAv:79307 ##NA 
-36705:DAv:anu:anuDAv:79313 ##NA 
-36705:DAv:A:ADAv:79315 ##NA 
-36705:DAv:vyud:vyudDAv:79317 ##NA 
-36705:DAv:ni:niDAv:79319 ##NA 
-36705:DAv:nis:nirDAv:79321 ##NA 
-36705:DAv:pra:praDAv:79323 ##NA 
-36705:DAv:vi:viDAv:79325 ##NA 
-36705:DAv:sam:sanDAv:79327 ##NA 
-36722:Di:aBi:aBiDi:79363 ##NA 
-36757:DI:anu:anuDI:79436 ##NA 
-36757:DI:aBi:aBiDI:79438 ##NA 
-36757:DI:ava:avaDI:79440 ##NA 
-36757:DI:A:ADI:79442 ##NA 
-36757:DI:anvA:anvADI:79444 ##NA 
-36757:DI:upA:upADI:79446 ##NA 
-36757:DI:ud:udDI:79448 ##NA 
-36757:DI:ni:niDI:79450 ##NA 
-36757:DI:pra:praDI:79452 ##NA 
-36757:DI:prati:pratiDI:79454 ##NA 
-36757:DI:vi:viDI:79456 ##NA 
-36802:Dukz:sam:sanDukz:79548 ##NA 
-36804:Dunay:A:ADunay:79554 ##NA 
-36831:DU:apa:apaDU:79616 ##NA 
-36831:DU:aBi:aBiDU:79618 ##NA 
-36831:DU:ava:avaDU:79620 ##NA 
-36831:DU:vyava:vyavaDU:79622 ##NA 
-36831:DU:A:ADU:79624 ##NA 
-36831:DU:vyA:vyADU:79626 ##NA 
-36831:DU:samA:samADU:79628 ##NA 
-36831:DU:ud:udDU:79630 ##NA 
-36831:DU:samud:samudDU:79632 ##NA 
-36831:DU:upa:upaDU:79634 ##NA 
-36831:DU:ni:niDU:79636 ##NA 
-36831:DU:nis:nirDU:79638 ##NA 
-36831:DU:vinis:vinirDU:79640 ##NA 
-36831:DU:pravinis:pravinirDU:79642 ##NA 
-36831:DU:pari:pariDU:79644 ##NA 
-36831:DU:pra:praDU:79646 ##NA 
-36831:DU:vi:viDU:79648 ##NA 
-36831:DU:pravi:praviDU:79650 ##NA 
-36831:DU:sam:sanDU:79652 ##NA 
-36842:DUnay:ava:avaDUnay:79676 ##NA 
-36842:DUnay:vi:viDUnay:79678 ##NA 
-36849:DUpay:anu:anuDUpay:79694 ##NA 
-36849:DUpay:ava:avaDUpay:79696 ##NA 
-36849:DUpay:A:ADUpay:79698 ##NA 
-36849:DUpay:ud:udDUpay:79700 ##NA 
-36849:DUpay:upa:upaDUpay:79702 ##NA 
-36849:DUpay:pra:praDUpay:79704 ##NA 
-36849:DUpay:vi:viDUpay:79706 ##NA 
-36853:DUpAy:vi:viDUpAy:79716 ##NA 
-36876:DUmay:A:ADUmay:79764 ##NA 
-36876:DUmay:pra:praDUmay:79766 ##NA 
-37095:DyA:ati:atiDyA:80207 ##NA 
-37095:DyA:anu:anuDyA:80209 ##NA 
-37095:DyA:samanu:samanuDyA:80211 ##NA 
-37095:DyA:apa:apaDyA:80213 ##NA 
-37095:DyA:samapa:samapaDyA:80215 ##NA 
-37095:DyA:aBi:aBiDyA:80217 ##NA 
-37095:DyA:samaBi:samaBiDyA:80219 ##NA 
-37095:DyA:ava:avaDyA:80221 ##NA 
-37095:DyA:A:ADyA:80223 ##NA 
-37095:DyA:samA:samADyA:80225 ##NA 
-37095:DyA:upa:upaDyA:80227 ##NA 
-37095:DyA:ni:niDyA:80229 ##NA 
-37095:DyA:aBini:aBiniDyA:80231 ##NA 
-37095:DyA:praRi:praRiDyA:80233 ##NA 
-37095:DyA:nis:nirDyA:80235 ##NA 
-37095:DyA:pari:pariDyA:80237 ##NA 
-37095:DyA:pra:praDyA:80239 ##NA 
-37095:DyA:saMpra:saMpraDyA:80241 ##NA 
-37095:DyA:prati:pratiDyA:80243 ##NA 
-37095:DyA:sam:sanDyA:80245 ##NA 
-37174:DvaMs:ati:atiDvaMs:80409 ##NA 
-37174:DvaMs:apa:apaDvaMs:80411 ##NA 
-37174:DvaMs:aBi:aBiDvaMs:80413 ##NA 
-37174:DvaMs:ava:avaDvaMs:80415 ##NA 
-37174:DvaMs:A:ADvaMs:80417 ##NA 
-37174:DvaMs:ud:udDvaMs:80419 ##NA 
-37174:DvaMs:samud:samudDvaMs:80421 ##NA 
-37174:DvaMs:upa:upaDvaMs:80423 ##NA 
-37174:DvaMs:ni:niDvaMs:80425 ##NA 
-37174:DvaMs:vini:viniDvaMs:80427 ##NA 
-37174:DvaMs:pari:pariDvaMs:80429 ##NA 
-37174:DvaMs:pra:praDvaMs:80431 ##NA 
-37174:DvaMs:prati:pratiDvaMs:80433 ##NA 
-37174:DvaMs:vi:viDvaMs:80435 ##NA 
-37174:DvaMs:pravi:praviDvaMs:80437 ##NA 
-37209:Dvan:apa:apaDvan:80509 ##NA 
-37209:Dvan:aBi:aBiDvan:80511 ##NA 
-37209:Dvan:pra:praDvan:80513 ##NA 
+36005:Dan:pra:praDan:77555 ##EQ Dan@pra@praDan@77555@9
+36142:Danv:aBi:aBiDanv:77833 ##EQ Danv@aBi@aBiDanv@77833@1
+36142:Danv:pra:praDanv:77835 ##EQ Danv@pra@praDanv@77835@9
+36142:Danv:paripra:paripraDanv:77837 ##EQ Danv@paripra@paripraDanv@77837@1
+36142:Danv:sam:sanDanv:77839 ##NEQ Danv@sam@saMDanv@77839@1
+36169:Dam:anu:anuDam:77899 ##EQ Dam@anu@anuDam@77899@1
+36169:Dam:apa:apaDam:77901 ##EQ Dam@apa@apaDam@77901@1
+36169:Dam:api:apiDam:77903 ##EQ Dam@api@apiDam@77903@1
+36169:Dam:aBi:aBiDam:77905 ##EQ Dam@aBi@aBiDam@77905@1
+36169:Dam:A:ADam:77907 ##EQ Dam@A@ADam@77907@1
+36169:Dam:atyA:atyADam:77909 ##EQ Dam@atyA@atyADam@77909@1
+36169:Dam:upA:upADam:77911 ##EQ Dam@upA@upADam@77911@1
+36169:Dam:samA:samADam:77913 ##EQ Dam@samA@samADam@77913@9
+36169:Dam:ud:udDam:77915 ##EQ Dam@ud@udDam@77915@9
+36169:Dam:upa:upaDam:77917 ##EQ Dam@upa@upaDam@77917@1
+36169:Dam:nis:nirDam:77919 ##EQ Dam@nis@nirDam@77919@1
+36169:Dam:parA:parADam:77921 ##EQ Dam@parA@parADam@77921@9
+36169:Dam:pra:praDam:77923 ##EQ Dam@pra@praDam@77923@1
+36169:Dam:vi:viDam:77925 ##EQ Dam@vi@viDam@77925@1
+36169:Dam:sam:sanDam:77927 ##NEQ Dam@sam@saMDam@77927@1
+36169:Dam:aBisam:aBisanDam:77929 ##NEQ Dam@aBisam@aBisaMDam@77929@1
+36186:Dar:aDi:aDiDar:77969 ##EQ Dar@aDi@aDiDar@77969@9
+36186:Dar:aBi:aBiDar:77971 ##EQ Dar@aBi@aBiDar@77971@9
+36186:Dar:ava:avaDar:77973 ##EQ Dar@ava@avaDar@77973@9
+36186:Dar:A:ADar:77975 ##EQ Dar@A@ADar@77975@9
+36186:Dar:nyA:nyADar:77977 ##EQ Dar@nyA@nyADar@77977@9
+36186:Dar:ud:udDar:77979 ##EQ Dar@ud@udDar@77979@9
+36186:Dar:upa:upaDar:77981 ##EQ Dar@upa@upaDar@77981@9
+36186:Dar:anUpa:anUpaDar:77983 ##EQ Dar@anUpa@anUpaDar@77983@9
+36186:Dar:ni:niDar:77985 ##EQ Dar@ni@niDar@77985@9
+36186:Dar:nis:nirDar:77987 ##EQ Dar@nis@nirDar@77987@9
+36186:Dar:pari:pariDar:77989 ##EQ Dar@pari@pariDar@77989@9
+36186:Dar:pra:praDar:77991 ##EQ Dar@pra@praDar@77991@9
+36186:Dar:saMpra:saMpraDar:77993 ##EQ Dar@saMpra@saMpraDar@77993@9
+36186:Dar:prati:pratiDar:77995 ##EQ Dar@prati@pratiDar@77995@9
+36186:Dar:vi:viDar:77997 ##EQ Dar@vi@viDar@77997@9
+36186:Dar:sam:sanDar:77999 ##NEQ Dar@sam@saMDar@77999@9
+36454:Darz:apa:apaDarz:78539 ##EQ Darz@apa@apaDarz@78539@9
+36454:Darz:aBi:aBiDarz:78541 ##EQ Darz@aBi@aBiDarz@78541@9
+36454:Darz:ava:avaDarz:78543 ##EQ Darz@ava@avaDarz@78543@9
+36454:Darz:A:ADarz:78545 ##EQ Darz@A@ADarz@78545@9
+36454:Darz:ud:udDarz:78547 ##EQ Darz@ud@udDarz@78547@9
+36454:Darz:upa:upaDarz:78549 ##EQ Darz@upa@upaDarz@78549@9
+36454:Darz:pari:pariDarz:78551 ##EQ Darz@pari@pariDarz@78551@9
+36454:Darz:pra:praDarz:78553 ##EQ Darz@pra@praDarz@78553@9
+36454:Darz:saMpra:saMpraDarz:78555 ##EQ Darz@saMpra@saMpraDarz@78555@9
+36454:Darz:prati:pratiDarz:78557 ##EQ Darz@prati@pratiDarz@78557@9
+36454:Darz:vi:viDarz:78559 ##EQ Darz@vi@viDarz@78559@9
+36454:Darz:sam:sanDarz:78561 ##NEQ Darz@sam@saMDarz@78561@9
+36464:Dav:ava:avaDav:78583 ##EQ Dav@ava@avaDav@78583@9
+36484:DA:ati:atiDA:78631 ##EQ DA@ati@atiDA@78631@1
+36484:DA:aDi:aDiDA:78633 ##EQ DA@aDi@aDiDA@78633@1
+36484:DA:anu:anuDA:78635 ##EQ DA@anu@anuDA@78635@1
+36484:DA:vyanu:vyanuDA:78637 ##EQ DA@vyanu@vyanuDA@78637@1
+36484:DA:antar:antarDA:78639 ##EQ DA@antar@antarDA@78639@1
+36484:DA:apa:apaDA:78641 ##EQ DA@apa@apaDA@78641@1
+36484:DA:api:apiDA:78643 ##EQ DA@api@apiDA@78643@1
+36484:DA:anvapi:anvapiDA:78645 ##EQ DA@anvapi@anvapiDA@78645@1
+36484:DA:samapi:samapiDA:78647 ##EQ DA@samapi@samapiDA@78647@1
+36484:DA:aBi:aBiDA:78649 ##EQ DA@aBi@aBiDA@78649@1
+36484:DA:pratyaBi:pratyaBiDA:78651 ##EQ DA@pratyaBi@pratyaBiDA@78651@1
+36484:DA:samaBi:samaBiDA:78653 ##EQ DA@samaBi@samaBiDA@78653@1
+36484:DA:ava:avaDA:78655 ##EQ DA@ava@avaDA@78655@1
+36484:DA:aByava:aByavaDA:78657 ##EQ DA@aByava@aByavaDA@78657@1
+36484:DA:pratyava:pratyavaDA:78659 ##EQ DA@pratyava@pratyavaDA@78659@1
+36484:DA:vyava:vyavaDA:78661 ##EQ DA@vyava@vyavaDA@78661@1
+36484:DA:saMvyava:saMvyavaDA:78663 ##EQ DA@saMvyava@saMvyavaDA@78663@9
+36484:DA:samava:samavaDA:78665 ##EQ DA@samava@samavaDA@78665@1
+36484:DA:A:ADA:78667 ##EQ DA@A@ADA@78667@1
+36484:DA:atyA:atyADA:78669 ##EQ DA@atyA@atyADA@78669@1
+36484:DA:aDyA:aDyADA:78671 ##EQ DA@aDyA@aDyADA@78671@1
+36484:DA:antarA:antarADA:78673 ##EQ DA@antarA@antarADA@78673@1
+36484:DA:anvA:anvADA:78675 ##EQ DA@anvA@anvADA@78675@1
+36484:DA:apA:apADA:78677 ##EQ DA@apA@apADA@78677@1
+36484:DA:aByA:aByADA:78679 ##EQ DA@aByA@aByADA@78679@1
+36484:DA:udA:udADA:78681 ##EQ DA@udA@udADA@78681@9
+36484:DA:upA:upADA:78683 ##EQ DA@upA@upADA@78683@1
+36484:DA:pratyupA:pratyupADA:78685 ##EQ DA@pratyupA@pratyupADA@78685@1
+36484:DA:nyA:nyADA:78687 ##EQ DA@nyA@nyADA@78687@1
+36484:DA:nirA:nirADA:78689 ##EQ DA@nirA@nirADA@78689@1
+36484:DA:paryA:paryADA:78691 ##EQ DA@paryA@paryADA@78691@1
+36484:DA:anuparyA:anuparyADA:78693 ##EQ DA@anuparyA@anuparyADA@78693@1
+36484:DA:aBiparyA:aBiparyADA:78695 ##EQ DA@aBiparyA@aBiparyADA@78695@1
+36484:DA:vyA:vyADA:78697 ##EQ DA@vyA@vyADA@78697@1
+36484:DA:samA:samADA:78699 ##EQ DA@samA@samADA@78699@1
+36484:DA:anusamA:anusamADA:78701 ##EQ DA@anusamA@anusamADA@78701@1
+36484:DA:aBisamA:aBisamADA:78703 ##EQ DA@aBisamA@aBisamADA@78703@9
+36484:DA:upasamA:upasamADA:78705 ##EQ DA@upasamA@upasamADA@78705@1
+36484:DA:pratisamA:pratisamADA:78707 ##EQ DA@pratisamA@pratisamADA@78707@1
+36484:DA:Avis:AvirDA:78709 ##EQ DA@Avis@AvirDA@78709@10
+36484:DA:ud:udDA:78711 ##EQ DA@ud@udDA@78711@1
+36484:DA:upa:upaDA:78713 ##EQ DA@upa@upaDA@78713@1
+36484:DA:anUpa:anUpaDA:78715 ##EQ DA@anUpa@anUpaDA@78715@1
+36484:DA:aByupa:aByupaDA:78717 ##EQ DA@aByupa@aByupaDA@78717@1
+36484:DA:pratyupa:pratyupaDA:78719 ##EQ DA@pratyupa@pratyupaDA@78719@1
+36484:DA:tiras:tiroDA:78721 ##NEQ DA@tiras@tirasDA@78721@10
+36484:DA:ni:niDA:78723 ##EQ DA@ni@niDA@78723@1
+36484:DA:aDini:aDiniDA:78725 ##EQ DA@aDini@aDiniDA@78725@1
+36484:DA:apani:apaniDA:78727 ##EQ DA@apani@apaniDA@78727@1
+36484:DA:aBini:aBiniDA:78729 ##EQ DA@aBini@aBiniDA@78729@1
+36484:DA:upani:upaniDA:78731 ##EQ DA@upani@upaniDA@78731@1
+36484:DA:pariRi:pariRiDA:78733 ##EQ DA@pariRi@pariRiDA@78733@1
+36484:DA:praRi:praRiDA:78735 ##EQ DA@praRi@praRiDA@78735@1
+36484:DA:saMpraRi:saMpraRiDA:78737 ##EQ DA@saMpraRi@saMpraRiDA@78737@1
+36484:DA:pratini:pratiniDA:78739 ##EQ DA@pratini@pratiniDA@78739@1
+36484:DA:vini:viniDA:78741 ##EQ DA@vini@viniDA@78741@1
+36484:DA:saMni:saMniDA:78743 ##EQ DA@saMni@saMniDA@78743@1
+36484:DA:nis:nirDA:78745 ##EQ DA@nis@nirDA@78745@1
+36484:DA:pari:pariDA:78747 ##EQ DA@pari@pariDA@78747@1
+36484:DA:vipari:vipariDA:78749 ##EQ DA@vipari@vipariDA@78749@1
+36484:DA:puras:puroDA:78751 ##NEQ DA@puras@purasDA@78751@10
+36484:DA:pra:praDA:78753 ##EQ DA@pra@praDA@78753@1
+36484:DA:prati:pratiDA:78755 ##EQ DA@prati@pratiDA@78755@1
+36484:DA:anuprati:anupratiDA:78757 ##EQ DA@anuprati@anupratiDA@78757@1
+36484:DA:vi:viDA:78759 ##EQ DA@vi@viDA@78759@1
+36484:DA:ativi:ativiDA:78761 ##EQ DA@ativi@ativiDA@78761@1
+36484:DA:aDivi:aDiviDA:78763 ##EQ DA@aDivi@aDiviDA@78763@1
+36484:DA:anuvi:anuviDA:78765 ##EQ DA@anuvi@anuviDA@78765@1
+36484:DA:aBivi:aBiviDA:78767 ##EQ DA@aBivi@aBiviDA@78767@1
+36484:DA:pravi:praviDA:78769 ##EQ DA@pravi@praviDA@78769@1
+36484:DA:prativi:prativiDA:78771 ##EQ DA@prativi@prativiDA@78771@1
+36484:DA:saMvi:saMviDA:78773 ##EQ DA@saMvi@saMviDA@78773@1
+36484:DA:Srat:SradDA:78775 ##NEQ DA@Srat@SratDA@78775@10
+36484:DA:sam:sanDA:78777 ##NEQ DA@sam@saMDA@78777@1
+36484:DA:atisam:atisanDA:78779 ##NEQ DA@atisam@atisaMDA@78779@1
+36484:DA:aDisam:aDisanDA:78781 ##NEQ DA@aDisam@aDisaMDA@78781@1
+36484:DA:anusam:anusanDA:78783 ##NEQ DA@anusam@anusaMDA@78783@1
+36484:DA:aBisam:aBisanDA:78785 ##NEQ DA@aBisam@aBisaMDA@78785@1
+36484:DA:samaBisam:samaBisanDA:78787 ##NEQ DA@samaBisam@samaBisaMDA@78787@1
+36484:DA:upasam:upasanDA:78789 ##NEQ DA@upasam@upasaMDA@78789@1
+36484:DA:prasam:prasanDA:78791 ##NEQ DA@prasam@prasaMDA@78791@1
+36484:DA:pratisam:pratisanDA:78793 ##NEQ DA@pratisam@pratisaMDA@78793@1
+36486:DA:anu:anuDA:78799 ##EQ DA@anu@anuDA@78799@1
+36486:DA:ud:udDA:78801 ##EQ DA@ud@udDA@78801@1
+36486:DA:upa:upaDA:78803 ##EQ DA@upa@upaDA@78803@1
+36486:DA:pariRi:pariRiDA:78805 ##EQ DA@pariRi@pariRiDA@78805@1
+36486:DA:nis:nirDA:78807 ##EQ DA@nis@nirDA@78807@1
+36704:DAv:ati:atiDAv:79249 ##EQ DAv@ati@atiDAv@79249@1
+36704:DAv:anu:anuDAv:79251 ##EQ DAv@anu@anuDAv@79251@1
+36704:DAv:samanu:samanuDAv:79253 ##EQ DAv@samanu@samanuDAv@79253@1
+36704:DAv:apa:apaDAv:79255 ##EQ DAv@apa@apaDAv@79255@1
+36704:DAv:aBi:aBiDAv:79257 ##EQ DAv@aBi@aBiDAv@79257@1
+36704:DAv:pratyaBi:pratyaBiDAv:79259 ##EQ DAv@pratyaBi@pratyaBiDAv@79259@1
+36704:DAv:samaBi:samaBiDAv:79261 ##EQ DAv@samaBi@samaBiDAv@79261@1
+36704:DAv:ava:avaDAv:79263 ##EQ DAv@ava@avaDAv@79263@1
+36704:DAv:vyava:vyavaDAv:79265 ##EQ DAv@vyava@vyavaDAv@79265@1
+36704:DAv:A:ADAv:79267 ##EQ DAv@A@ADAv@79267@1
+36704:DAv:anvA:anvADAv:79269 ##EQ DAv@anvA@anvADAv@79269@1
+36704:DAv:upA:upADAv:79271 ##EQ DAv@upA@upADAv@79271@1
+36704:DAv:samA:samADAv:79273 ##EQ DAv@samA@samADAv@79273@1
+36704:DAv:upa:upaDAv:79275 ##EQ DAv@upa@upaDAv@79275@1
+36704:DAv:samupa:samupaDAv:79277 ##EQ DAv@samupa@samupaDAv@79277@1
+36704:DAv:nis:nirDAv:79279 ##EQ DAv@nis@nirDAv@79279@1
+36704:DAv:parA:parADAv:79281 ##EQ DAv@parA@parADAv@79281@1
+36704:DAv:pari:pariDAv:79283 ##EQ DAv@pari@pariDAv@79283@1
+36704:DAv:vipari:vipariDAv:79285 ##EQ DAv@vipari@vipariDAv@79285@1
+36704:DAv:pra:praDAv:79287 ##EQ DAv@pra@praDAv@79287@1
+36704:DAv:aDipra:aDipraDAv:79289 ##EQ DAv@aDipra@aDipraDAv@79289@1
+36704:DAv:anupra:anupraDAv:79291 ##EQ DAv@anupra@anupraDAv@79291@1
+36704:DAv:vipra:vipraDAv:79293 ##EQ DAv@vipra@vipraDAv@79293@1
+36704:DAv:saMpra:saMpraDAv:79295 ##EQ DAv@saMpra@saMpraDAv@79295@1
+36704:DAv:prati:pratiDAv:79297 ##EQ DAv@prati@pratiDAv@79297@1
+36704:DAv:vi:viDAv:79299 ##EQ DAv@vi@viDAv@79299@1
+36704:DAv:anuvi:anuviDAv:79301 ##EQ DAv@anuvi@anuviDAv@79301@1
+36704:DAv:aBivi:aBiviDAv:79303 ##EQ DAv@aBivi@aBiviDAv@79303@1
+36704:DAv:parivi:pariviDAv:79305 ##EQ DAv@parivi@pariviDAv@79305@1
+36704:DAv:sam:sanDAv:79307 ##NEQ DAv@sam@saMDAv@79307@1
+36705:DAv:anu:anuDAv:79313 ##EQ DAv@anu@anuDAv@79313@1
+36705:DAv:A:ADAv:79315 ##EQ DAv@A@ADAv@79315@1
+36705:DAv:vyud:vyudDAv:79317 ##EQ DAv@vyud@vyudDAv@79317@1
+36705:DAv:ni:niDAv:79319 ##EQ DAv@ni@niDAv@79319@1
+36705:DAv:nis:nirDAv:79321 ##EQ DAv@nis@nirDAv@79321@1
+36705:DAv:pra:praDAv:79323 ##EQ DAv@pra@praDAv@79323@1
+36705:DAv:vi:viDAv:79325 ##EQ DAv@vi@viDAv@79325@1
+36705:DAv:sam:sanDAv:79327 ##NEQ DAv@sam@saMDAv@79327@1
+36722:Di:aBi:aBiDi:79363 ##EQ Di@aBi@aBiDi@79363@1
+36757:DI:anu:anuDI:79436 ##EQ DI@anu@anuDI@79436@1
+36757:DI:aBi:aBiDI:79438 ##EQ DI@aBi@aBiDI@79438@1
+36757:DI:ava:avaDI:79440 ##EQ DI@ava@avaDI@79440@1
+36757:DI:A:ADI:79442 ##EQ DI@A@ADI@79442@1
+36757:DI:anvA:anvADI:79444 ##EQ DI@anvA@anvADI@79444@1
+36757:DI:upA:upADI:79446 ##EQ DI@upA@upADI@79446@9
+36757:DI:ud:udDI:79448 ##EQ DI@ud@udDI@79448@1
+36757:DI:ni:niDI:79450 ##EQ DI@ni@niDI@79450@9
+36757:DI:pra:praDI:79452 ##EQ DI@pra@praDI@79452@1
+36757:DI:prati:pratiDI:79454 ##EQ DI@prati@pratiDI@79454@1
+36757:DI:vi:viDI:79456 ##EQ DI@vi@viDI@79456@1
+36802:Dukz:sam:sanDukz:79548 ##NEQ Dukz@sam@saMDukz@79548@1
+36804:Dunay:A:ADunay:79554 ##EQ Dunay@A@ADunay@79554@9
+36831:DU:apa:apaDU:79616 ##EQ DU@apa@apaDU@79616@1
+36831:DU:aBi:aBiDU:79618 ##EQ DU@aBi@aBiDU@79618@1
+36831:DU:ava:avaDU:79620 ##EQ DU@ava@avaDU@79620@1
+36831:DU:vyava:vyavaDU:79622 ##EQ DU@vyava@vyavaDU@79622@1
+36831:DU:A:ADU:79624 ##EQ DU@A@ADU@79624@1
+36831:DU:vyA:vyADU:79626 ##EQ DU@vyA@vyADU@79626@1
+36831:DU:samA:samADU:79628 ##EQ DU@samA@samADU@79628@1
+36831:DU:ud:udDU:79630 ##EQ DU@ud@udDU@79630@1
+36831:DU:samud:samudDU:79632 ##EQ DU@samud@samudDU@79632@1
+36831:DU:upa:upaDU:79634 ##EQ DU@upa@upaDU@79634@9
+36831:DU:ni:niDU:79636 ##EQ DU@ni@niDU@79636@1
+36831:DU:nis:nirDU:79638 ##EQ DU@nis@nirDU@79638@1
+36831:DU:vinis:vinirDU:79640 ##EQ DU@vinis@vinirDU@79640@1
+36831:DU:pravinis:pravinirDU:79642 ##NEQ DU@pravinis@praviRirDU@79642@10
+36831:DU:pari:pariDU:79644 ##EQ DU@pari@pariDU@79644@1
+36831:DU:pra:praDU:79646 ##EQ DU@pra@praDU@79646@1
+36831:DU:vi:viDU:79648 ##EQ DU@vi@viDU@79648@1
+36831:DU:pravi:praviDU:79650 ##EQ DU@pravi@praviDU@79650@9
+36831:DU:sam:sanDU:79652 ##NEQ DU@sam@saMDU@79652@1
+36842:DUnay:ava:avaDUnay:79676 ##EQ DUnay@ava@avaDUnay@79676@9
+36842:DUnay:vi:viDUnay:79678 ##EQ DUnay@vi@viDUnay@79678@9
+36849:DUpay:anu:anuDUpay:79694 ##EQ DUpay@anu@anuDUpay@79694@9
+36849:DUpay:ava:avaDUpay:79696 ##EQ DUpay@ava@avaDUpay@79696@9
+36849:DUpay:A:ADUpay:79698 ##EQ DUpay@A@ADUpay@79698@9
+36849:DUpay:ud:udDUpay:79700 ##EQ DUpay@ud@udDUpay@79700@9
+36849:DUpay:upa:upaDUpay:79702 ##EQ DUpay@upa@upaDUpay@79702@9
+36849:DUpay:pra:praDUpay:79704 ##EQ DUpay@pra@praDUpay@79704@9
+36849:DUpay:vi:viDUpay:79706 ##EQ DUpay@vi@viDUpay@79706@9
+36853:DUpAy:vi:viDUpAy:79716 ##EQ DUpAy@vi@viDUpAy@79716@9
+36876:DUmay:A:ADUmay:79764 ##EQ DUmay@A@ADUmay@79764@9
+36876:DUmay:pra:praDUmay:79766 ##EQ DUmay@pra@praDUmay@79766@9
+37095:DyA:ati:atiDyA:80207 ##EQ DyA@ati@atiDyA@80207@9
+37095:DyA:anu:anuDyA:80209 ##EQ DyA@anu@anuDyA@80209@1
+37095:DyA:samanu:samanuDyA:80211 ##EQ DyA@samanu@samanuDyA@80211@1
+37095:DyA:apa:apaDyA:80213 ##EQ DyA@apa@apaDyA@80213@1
+37095:DyA:samapa:samapaDyA:80215 ##EQ DyA@samapa@samapaDyA@80215@1
+37095:DyA:aBi:aBiDyA:80217 ##EQ DyA@aBi@aBiDyA@80217@1
+37095:DyA:samaBi:samaBiDyA:80219 ##EQ DyA@samaBi@samaBiDyA@80219@1
+37095:DyA:ava:avaDyA:80221 ##EQ DyA@ava@avaDyA@80221@1
+37095:DyA:A:ADyA:80223 ##EQ DyA@A@ADyA@80223@1
+37095:DyA:samA:samADyA:80225 ##EQ DyA@samA@samADyA@80225@1
+37095:DyA:upa:upaDyA:80227 ##EQ DyA@upa@upaDyA@80227@9
+37095:DyA:ni:niDyA:80229 ##EQ DyA@ni@niDyA@80229@1
+37095:DyA:aBini:aBiniDyA:80231 ##EQ DyA@aBini@aBiniDyA@80231@1
+37095:DyA:praRi:praRiDyA:80233 ##EQ DyA@praRi@praRiDyA@80233@1
+37095:DyA:nis:nirDyA:80235 ##EQ DyA@nis@nirDyA@80235@1
+37095:DyA:pari:pariDyA:80237 ##EQ DyA@pari@pariDyA@80237@9
+37095:DyA:pra:praDyA:80239 ##EQ DyA@pra@praDyA@80239@1
+37095:DyA:saMpra:saMpraDyA:80241 ##EQ DyA@saMpra@saMpraDyA@80241@9
+37095:DyA:prati:pratiDyA:80243 ##EQ DyA@prati@pratiDyA@80243@9
+37095:DyA:sam:sanDyA:80245 ##NEQ DyA@sam@saMDyA@80245@1
+37174:DvaMs:ati:atiDvaMs:80409 ##EQ DvaMs@ati@atiDvaMs@80409@1
+37174:DvaMs:apa:apaDvaMs:80411 ##EQ DvaMs@apa@apaDvaMs@80411@1
+37174:DvaMs:aBi:aBiDvaMs:80413 ##EQ DvaMs@aBi@aBiDvaMs@80413@1
+37174:DvaMs:ava:avaDvaMs:80415 ##EQ DvaMs@ava@avaDvaMs@80415@1
+37174:DvaMs:A:ADvaMs:80417 ##EQ DvaMs@A@ADvaMs@80417@1
+37174:DvaMs:ud:udDvaMs:80419 ##EQ DvaMs@ud@udDvaMs@80419@1
+37174:DvaMs:samud:samudDvaMs:80421 ##EQ DvaMs@samud@samudDvaMs@80421@1
+37174:DvaMs:upa:upaDvaMs:80423 ##EQ DvaMs@upa@upaDvaMs@80423@1
+37174:DvaMs:ni:niDvaMs:80425 ##EQ DvaMs@ni@niDvaMs@80425@1
+37174:DvaMs:vini:viniDvaMs:80427 ##EQ DvaMs@vini@viniDvaMs@80427@1
+37174:DvaMs:pari:pariDvaMs:80429 ##EQ DvaMs@pari@pariDvaMs@80429@1
+37174:DvaMs:pra:praDvaMs:80431 ##EQ DvaMs@pra@praDvaMs@80431@1
+37174:DvaMs:prati:pratiDvaMs:80433 ##EQ DvaMs@prati@pratiDvaMs@80433@9
+37174:DvaMs:vi:viDvaMs:80435 ##EQ DvaMs@vi@viDvaMs@80435@1
+37174:DvaMs:pravi:praviDvaMs:80437 ##EQ DvaMs@pravi@praviDvaMs@80437@9
+37209:Dvan:apa:apaDvan:80509 ##EQ Dvan@apa@apaDvan@80509@9
+37209:Dvan:aBi:aBiDvan:80511 ##EQ Dvan@aBi@aBiDvan@80511@1
+37209:Dvan:pra:praDvan:80513 ##EQ Dvan@pra@praDvan@80513@1
 37307:nakz:acCa:acCanakz:80716 ##EQ nakz@acCa@acCanakz@80716@1
 37307:nakz:aBi:aBinakz:80718 ##EQ nakz@aBi@aBinakz@80718@1
 37307:nakz:ava:avanakz:80720 ##EQ nakz@ava@avanakz@80720@1
@@ -2955,7 +2955,7 @@
 40379:nI:vinis:vinirnI:87280 ##NEQ nI@vinis@vinisnI@87280@9
 40379:nI:parA:parAnI:87282 ##EQ nI@parA@parAnI@87282@9
 40379:nI:pratiparA:pratiparAnI:87284 ##EQ nI@pratiparA@pratiparAnI@87284@9
-40379:nI:upasaMparA:upasaMparAnI:87286 ##EQ nI@upasaMparA@upasaMparAnI@87286@10
+40379:nI:upasaMparA:upasaMparAnI:87286 ##EQ nI@upasaMparA@upasaMparAnI@87286@9
 40379:nI:pari:parinI:87288 ##EQ nI@pari@parinI@87288@9
 40379:nI:anupari:anuparinI:87290 ##EQ nI@anupari@anuparinI@87290@9
 40379:nI:vipari:viparinI:87292 ##EQ nI@vipari@viparinI@87292@9
@@ -3388,16 +3388,16 @@
 51370:pluz:vi:vipluz:110276 ##EQ pluz@vi@vipluz@110276@1
 51381:psA:pariRi:pariRipsA:110300 ##EQ psA@pariRi@pariRipsA@110300@9
 51381:psA:sam:sampsA:110302 ##NEQ psA@sam@saMpsA@110302@1
-51399:PaR:A:APaR:110346 ##NA 
-51399:PaR:vi:viPaR:110348 ##NA 
-51453:Pal:ud:utPal:110461 ##NA 
-51453:Pal:prod:protPal:110463 ##NA 
-51453:Pal:ni:niPal:110465 ##NA 
-51453:Pal:pra:praPal:110467 ##NA 
-51453:Pal:prati:pratiPal:110469 ##NA 
-51453:Pal:vi:viPal:110471 ##NA 
-51453:Pal:sam:samPal:110473 ##NA 
-51454:Pal:vi:viPal:110477 ##NA 
+51399:PaR:A:APaR:110346 ##EQ PaR@A@APaR@110346@1
+51399:PaR:vi:viPaR:110348 ##EQ PaR@vi@viPaR@110348@9
+51453:Pal:ud:utPal:110461 ##EQ Pal@ud@utPal@110461@1
+51453:Pal:prod:protPal:110463 ##NEQ Pal@prod@prodPal@110463@9
+51453:Pal:ni:niPal:110465 ##EQ Pal@ni@niPal@110465@9
+51453:Pal:pra:praPal:110467 ##EQ Pal@pra@praPal@110467@9
+51453:Pal:prati:pratiPal:110469 ##EQ Pal@prati@pratiPal@110469@1
+51453:Pal:vi:viPal:110471 ##EQ Pal@vi@viPal@110471@1
+51453:Pal:sam:samPal:110473 ##NEQ Pal@sam@saMPal@110473@9
+51454:Pal:vi:viPal:110477 ##EQ Pal@vi@viPal@110477@1
 51686:baMh:ava:avabaMh:110949 ##EQ baMh@ava@avabaMh@110949@9
 51686:baMh:ni:nibaMh:110951 ##EQ baMh@ni@nibaMh@110951@9
 51686:baMh:sam:sambaMh:110953 ##NEQ baMh@sam@saMbaMh@110953@1
@@ -3496,263 +3496,263 @@
 53686:brU:prati:pratibrU:115176 ##EQ brU@prati@pratibrU@115176@1
 53686:brU:vi:vibrU:115178 ##EQ brU@vi@vibrU@115178@1
 53686:brU:sam:sambrU:115180 ##NEQ brU@sam@saMbrU@115180@1
-53742:Bakz:vyava:vyavaBakz:115300 ##NA 
-53742:Bakz:upa:upaBakz:115302 ##NA 
-53742:Bakz:pari:pariBakz:115304 ##NA 
-53742:Bakz:prati:pratiBakz:115306 ##NA 
-53742:Bakz:sam:samBakz:115308 ##NA 
-53862:Baj:anu:anuBaj:115554 ##NA 
-53862:Baj:apa:apaBaj:115556 ##NA 
-53862:Baj:aBi:aBiBaj:115558 ##NA 
-53862:Baj:A:ABaj:115560 ##NA 
-53862:Baj:anvA:anvABaj:115562 ##NA 
-53862:Baj:upa:upaBaj:115564 ##NA 
-53862:Baj:nis:nirBaj:115566 ##NA 
-53862:Baj:pari:pariBaj:115568 ##NA 
-53862:Baj:pra:praBaj:115570 ##NA 
-53862:Baj:prati:pratiBaj:115572 ##NA 
-53862:Baj:vi:viBaj:115574 ##NA 
-53862:Baj:aBivi:aBiviBaj:115576 ##NA 
-53862:Baj:pravi:praviBaj:115578 ##NA 
-53862:Baj:prativi:prativiBaj:115580 ##NA 
-53862:Baj:saMvi:saMviBaj:115582 ##NA 
-53862:Baj:sam:samBaj:115584 ##NA 
-53875:BaYj:aBi:aBiBaYj:115614 ##NA 
-53875:BaYj:ava:avaBaYj:115616 ##NA 
-53875:BaYj:vyA:vyABaYj:115618 ##NA 
-53875:BaYj:ud:udBaYj:115620 ##NA 
-53875:BaYj:upa:upaBaYj:115622 ##NA 
-53875:BaYj:ni:niBaYj:115624 ##NA 
-53875:BaYj:nis:nirBaYj:115626 ##NA 
-53875:BaYj:vinis:vinirBaYj:115628 ##NA 
-53875:BaYj:pari:pariBaYj:115630 ##NA 
-53875:BaYj:pra:praBaYj:115632 ##NA 
-53875:BaYj:aBipra:aBipraBaYj:115634 ##NA 
-53875:BaYj:saMpra:saMpraBaYj:115636 ##NA 
-53875:BaYj:prati:pratiBaYj:115638 ##NA 
-53875:BaYj:vi:viBaYj:115640 ##NA 
-53875:BaYj:sam:samBaYj:115642 ##NA 
-53875:BaYj:aBisam:aBisamBaYj:115644 ##NA 
-53935:BaR:prati:pratiBaR:115768 ##NA 
-54099:Ban:A:ABan:116100 ##NA 
-54144:Bar:ati:atiBar:116198 ##NA 
-54144:Bar:anu:anuBar:116200 ##NA 
-54144:Bar:apa:apaBar:116202 ##NA 
-54144:Bar:aBi:aBiBar:116204 ##NA 
-54144:Bar:ava:avaBar:116206 ##NA 
-54144:Bar:A:ABar:116208 ##NA 
-54144:Bar:aDyA:aDyABar:116210 ##NA 
-54144:Bar:upA:upABar:116212 ##NA 
-54144:Bar:paryA:paryABar:116214 ##NA 
-54144:Bar:samA:samABar:116216 ##NA 
-54144:Bar:ud:udBar:116218 ##NA 
-54144:Bar:aDyud:aDyudBar:116220 ##NA 
-54144:Bar:paryud:paryudBar:116222 ##NA 
-54144:Bar:upa:upaBar:116224 ##NA 
-54144:Bar:ni:niBar:116226 ##NA 
-54144:Bar:saMni:saMniBar:116228 ##NA 
-54144:Bar:nis:nirBar:116230 ##NA 
-54144:Bar:parA:parABar:116232 ##NA 
-54144:Bar:pari:pariBar:116234 ##NA 
-54144:Bar:pra:praBar:116236 ##NA 
-54144:Bar:aBipra:aBipraBar:116238 ##NA 
-54144:Bar:prati:pratiBar:116240 ##NA 
-54144:Bar:vi:viBar:116242 ##NA 
-54144:Bar:sam:samBar:116244 ##NA 
-54144:Bar:aBisam:aBisamBar:116246 ##NA 
-54144:Bar:upasam:upasamBar:116248 ##NA 
-54228:Barts:aBi:aBiBarts:116425 ##NA 
-54228:Barts:ava:avaBarts:116427 ##NA 
-54228:Barts:ud:udBarts:116429 ##NA 
-54228:Barts:nis:nirBarts:116431 ##NA 
-54228:Barts:aBinis:aBinirBarts:116433 ##NA 
-54228:Barts:pari:pariBarts:116435 ##NA 
-54228:Barts:sam:samBarts:116437 ##NA 
-54241:Bal:ni:niBal:116465 ##NA 
-54241:Bal:sam:samBal:116467 ##NA 
-54350:Bas:nis:nirBas:116687 ##NA 
-54350:Bas:pra:praBas:116689 ##NA 
-54387:BA:ati:atiBA:116765 ##NA 
-54387:BA:vyati:vyatiBA:116767 ##NA 
-54387:BA:anu:anuBA:116769 ##NA 
-54387:BA:aBi:aBiBA:116771 ##NA 
-54387:BA:ava:avaBA:116773 ##NA 
-54387:BA:A:ABA:116775 ##NA 
-54387:BA:samA:samABA:116777 ##NA 
-54387:BA:ud:udBA:116779 ##NA 
-54387:BA:ni:niBA:116781 ##NA 
-54387:BA:nis:nirBA:116783 ##NA 
-54387:BA:pra:praBA:116785 ##NA 
-54387:BA:anupra:anupraBA:116787 ##NA 
-54387:BA:saMpra:saMpraBA:116789 ##NA 
-54387:BA:prati:pratiBA:116791 ##NA 
-54387:BA:viprati:vipratiBA:116794 ##NA 
-54387:BA:saMprati:saMpratiBA:116796 ##NA 
-54387:BA:vi:viBA:116798 ##NA 
-54387:BA:aBivi:aBiviBA:116800 ##NA 
-54387:BA:Avi:AviBA:116802 ##NA 
-54387:BA:saMvi:saMviBA:116804 ##NA 
-54387:BA:sam:samBA:116806 ##NA 
-54756:BAz:anu:anuBAz:117551 ##NA 
-54756:BAz:apa:apaBAz:117553 ##NA 
-54756:BAz:aBi:aBiBAz:117555 ##NA 
-54756:BAz:pratyaBi:pratyaBiBAz:117557 ##NA 
-54756:BAz:samaBi:samaBiBAz:117559 ##NA 
-54756:BAz:ava:avaBAz:117561 ##NA 
-54756:BAz:A:ABAz:117563 ##NA 
-54756:BAz:vyA:vyABAz:117565 ##NA 
-54756:BAz:samA:samABAz:117567 ##NA 
-54756:BAz:ud:udBAz:117569 ##NA 
-54756:BAz:pari:pariBAz:117571 ##NA 
-54756:BAz:pra:praBAz:117573 ##NA 
-54756:BAz:saMpra:saMpraBAz:117575 ##NA 
-54756:BAz:prati:pratiBAz:117577 ##NA 
-54756:BAz:saMprati:saMpratiBAz:117579 ##NA 
-54756:BAz:vi:viBAz:117581 ##NA 
-54756:BAz:saMvi:saMviBAz:117583 ##NA 
-54756:BAz:sam:samBAz:117585 ##NA 
-54756:BAz:upasam:upasamBAz:117587 ##NA 
-54756:BAz:prasam:prasamBAz:117589 ##NA 
-54780:BAs:ava:avaBAs:117641 ##NA 
-54780:BAs:A:ABAs:117643 ##NA 
-54780:BAs:ud:udBAs:117645 ##NA 
-54780:BAs:nis:nirBAs:117647 ##NA 
-54780:BAs:pari:pariBAs:117649 ##NA 
-54780:BAs:pra:praBAs:117651 ##NA 
-54780:BAs:prati:pratiBAs:117653 ##NA 
-54780:BAs:vi:viBAs:117655 ##NA 
-54780:BAs:nirvi:nirviBAs:117657 ##NA 
-54863:Bid:anu:anuBid:117835 ##NA 
-54863:Bid:apa:apaBid:117837 ##NA 
-54863:Bid:ava:avaBid:117839 ##NA 
-54863:Bid:A:ABid:117841 ##NA 
-54863:Bid:ud:udBid:117843 ##NA 
-54863:Bid:prod:prodBid:117845 ##NA 
-54863:Bid:ni:niBid:117847 ##NA 
-54863:Bid:prani:praniBid:117849 ##NA 
-54863:Bid:nis:nirBid:117851 ##NA 
-54863:Bid:vinis:vinirBid:117853 ##NA 
-54863:Bid:parA:parABid:117855 ##NA 
-54863:Bid:pari:pariBid:117857 ##NA 
-54863:Bid:pra:praBid:117859 ##NA 
-54863:Bid:upapra:upapraBid:117861 ##NA 
-54863:Bid:saMpra:saMpraBid:117863 ##NA 
-54863:Bid:prati:pratiBid:117865 ##NA 
-54863:Bid:vi:viBid:117867 ##NA 
-54863:Bid:pravi:praviBid:117869 ##NA 
-54863:Bid:sam:samBid:117871 ##NA 
-54863:Bid:anusam:anusamBid:117873 ##NA 
-54863:Bid:upasam:upasamBid:117875 ##NA 
-54938:BI:A:ABI:118031 ##NA 
-54938:BI:ni:niBI:118033 ##NA 
-54938:BI:pari:pariBI:118035 ##NA 
-54938:BI:pra:praBI:118037 ##NA 
-54938:BI:vi:viBI:118039 ##NA 
-54938:BI:sam:samBI:118041 ##NA 
-55048:Buj:ava:avaBuj:118265 ##NA 
-55048:Buj:pratyava:pratyavaBuj:118267 ##NA 
-55048:Buj:A:ABuj:118269 ##NA 
-55048:Buj:vyA:vyABuj:118271 ##NA 
-55048:Buj:nis:nirBuj:118273 ##NA 
-55048:Buj:vinis:vinirBuj:118275 ##NA 
-55048:Buj:pari:pariBuj:118277 ##NA 
-55048:Buj:pra:praBuj:118279 ##NA 
-55048:Buj:vi:viBuj:118281 ##NA 
-55048:Buj:pravi:praviBuj:118283 ##NA 
-55048:Buj:sam:samBuj:118285 ##NA 
-55050:Buj:aDi:aDiBuj:118297 ##NA 
-55050:Buj:anu:anuBuj:118299 ##NA 
-55050:Buj:aBi:aBiBuj:118301 ##NA 
-55050:Buj:A:ABuj:118303 ##NA 
-55050:Buj:upa:upaBuj:118305 ##NA 
-55050:Buj:pratyupa:pratyupaBuj:118307 ##NA 
-55050:Buj:samupa:samupaBuj:118309 ##NA 
-55050:Buj:pari:pariBuj:118311 ##NA 
-55050:Buj:pra:praBuj:118313 ##NA 
-55050:Buj:prati:pratiBuj:118315 ##NA 
-55050:Buj:vi:viBuj:118317 ##NA 
-55050:Buj:sam:samBuj:118319 ##NA 
-55118:Bur:pari:pariBur:118458 ##NA 
-55118:Bur:sam:samBur:118460 ##NA 
-55166:BU:ati:atiBU:118566 ##NA 
-55166:BU:vyati:vyatiBU:118568 ##NA 
-55166:BU:anu:anuBU:118570 ##NA 
-55166:BU:pratyanu:pratyanuBU:118572 ##NA 
-55166:BU:samanu:samanuBU:118574 ##NA 
-55166:BU:antar:antarBU:118576 ##NA 
-55166:BU:apa:apaBU:118578 ##NA 
-55166:BU:api:apiBU:118580 ##NA 
-55166:BU:aBi:aBiBU:118582 ##NA 
-55166:BU:atyaBi:atyaBiBU:118584 ##NA 
-55166:BU:pratyaBi:pratyaBiBU:118586 ##NA 
-55166:BU:A:ABU:118588 ##NA 
-55166:BU:anvA:anvABU:118590 ##NA 
-55166:BU:aByA:aByABU:118592 ##NA 
-55166:BU:paryA:paryABU:118594 ##NA 
-55166:BU:pratyA:pratyABU:118596 ##NA 
-55166:BU:Avis:AvirBU:118598 ##NA 
-55166:BU:ud:udBU:118600 ##NA 
-55166:BU:prod:prodBU:118602 ##NA 
-55166:BU:samud:samudBU:118604 ##NA 
-55166:BU:upa:upaBU:118606 ##NA 
-55166:BU:ni:niBU:118608 ##NA 
-55166:BU:prani:praniBU:118610 ##NA 
-55166:BU:nis:nirBU:118612 ##NA 
-55166:BU:parA:parABU:118614 ##NA 
-55166:BU:anuparA:anuparABU:118616 ##NA 
-55166:BU:pari:pariBU:118618 ##NA 
-55166:BU:saMpari:saMpariBU:118620 ##NA 
-55166:BU:pra:praBU:118622 ##NA 
-55166:BU:anupra:anupraBU:118624 ##NA 
-55166:BU:aBipra:aBipraBU:118626 ##NA 
-55166:BU:upapra:upapraBU:118628 ##NA 
-55166:BU:prati:pratiBU:118630 ##NA 
-55166:BU:vi:viBU:118632 ##NA 
-55166:BU:anuvi:anuviBU:118634 ##NA 
-55166:BU:sam:samBU:118636 ##NA 
-55166:BU:anusam:anusamBU:118638 ##NA 
-55166:BU:aBisam:aBisamBU:118640 ##NA 
-55166:BU:parisam:parisamBU:118642 ##NA 
-55166:BU:pratisam:pratisamBU:118644 ##NA 
-55588:BUz:A:ABUz:119492 ##NA 
-55588:BUz:upA:upABUz:119494 ##NA 
-55588:BUz:upa:upaBUz:119496 ##NA 
-55588:BUz:pari:pariBUz:119498 ##NA 
-55588:BUz:vi:viBUz:119500 ##NA 
-55589:BUz:ati:atiBUz:119506 ##NA 
-55589:BUz:A:ABUz:119508 ##NA 
-55589:BUz:upa:upaBUz:119510 ##NA 
-55589:BUz:pari:pariBUz:119512 ##NA 
-55589:BUz:pra:praBUz:119514 ##NA 
-55589:BUz:anupra:anupraBUz:119516 ##NA 
-55589:BUz:aBipra:aBipraBUz:119518 ##NA 
-55589:BUz:upapra:upapraBUz:119520 ##NA 
-55589:BUz:prati:pratiBUz:119522 ##NA 
-55589:BUz:vi:viBUz:119524 ##NA 
-55589:BUz:sam:samBUz:119526 ##NA 
-55938:Byas:ud:udByas:120226 ##NA 
-55940:BraMS:apa:apaBraMS:120236 ##NA 
-55940:BraMS:A:ABraMS:120238 ##NA 
-55940:BraMS:ni:niBraMS:120240 ##NA 
-55940:BraMS:pari:pariBraMS:120242 ##NA 
-55940:BraMS:saMpari:saMpariBraMS:120244 ##NA 
-55940:BraMS:pra:praBraMS:120246 ##NA 
-55940:BraMS:vi:viBraMS:120248 ##NA 
-55940:BraMS:sam:samBraMS:120250 ##NA 
-55954:Brajj:ava:avaBrajj:120286 ##NA 
-55954:Brajj:pari:pariBrajj:120288 ##NA 
-55954:Brajj:sam:samBrajj:120290 ##NA 
-55960:Bram:ud:udBram:120308 ##NA 
-55960:Bram:samud:samudBram:120310 ##NA 
-55960:Bram:upa:upaBram:120312 ##NA 
-55960:Bram:pari:pariBram:120314 ##NA 
-55960:Bram:pra:praBram:120316 ##NA 
-55960:Bram:vi:viBram:120318 ##NA 
-55960:Bram:sam:samBram:120320 ##NA 
-55960:Bram:upasam:upasamBram:120322 ##NA 
-55999:BrAj:pari:pariBrAj:120404 ##NA 
-55999:BrAj:pra:praBrAj:120406 ##NA 
-55999:BrAj:vi:viBrAj:120408 ##NA 
+53742:Bakz:vyava:vyavaBakz:115300 ##EQ Bakz@vyava@vyavaBakz@115300@1
+53742:Bakz:upa:upaBakz:115302 ##EQ Bakz@upa@upaBakz@115302@1
+53742:Bakz:pari:pariBakz:115304 ##EQ Bakz@pari@pariBakz@115304@1
+53742:Bakz:prati:pratiBakz:115306 ##EQ Bakz@prati@pratiBakz@115306@1
+53742:Bakz:sam:samBakz:115308 ##NEQ Bakz@sam@saMBakz@115308@1
+53862:Baj:anu:anuBaj:115554 ##EQ Baj@anu@anuBaj@115554@1
+53862:Baj:apa:apaBaj:115556 ##EQ Baj@apa@apaBaj@115556@1
+53862:Baj:aBi:aBiBaj:115558 ##EQ Baj@aBi@aBiBaj@115558@1
+53862:Baj:A:ABaj:115560 ##EQ Baj@A@ABaj@115560@1
+53862:Baj:anvA:anvABaj:115562 ##EQ Baj@anvA@anvABaj@115562@1
+53862:Baj:upa:upaBaj:115564 ##EQ Baj@upa@upaBaj@115564@1
+53862:Baj:nis:nirBaj:115566 ##EQ Baj@nis@nirBaj@115566@1
+53862:Baj:pari:pariBaj:115568 ##EQ Baj@pari@pariBaj@115568@1
+53862:Baj:pra:praBaj:115570 ##EQ Baj@pra@praBaj@115570@1
+53862:Baj:prati:pratiBaj:115572 ##EQ Baj@prati@pratiBaj@115572@1
+53862:Baj:vi:viBaj:115574 ##EQ Baj@vi@viBaj@115574@1
+53862:Baj:aBivi:aBiviBaj:115576 ##EQ Baj@aBivi@aBiviBaj@115576@1
+53862:Baj:pravi:praviBaj:115578 ##EQ Baj@pravi@praviBaj@115578@1
+53862:Baj:prativi:prativiBaj:115580 ##EQ Baj@prativi@prativiBaj@115580@1
+53862:Baj:saMvi:saMviBaj:115582 ##EQ Baj@saMvi@saMviBaj@115582@1
+53862:Baj:sam:samBaj:115584 ##NEQ Baj@sam@saMBaj@115584@1
+53875:BaYj:aBi:aBiBaYj:115614 ##EQ BaYj@aBi@aBiBaYj@115614@1
+53875:BaYj:ava:avaBaYj:115616 ##EQ BaYj@ava@avaBaYj@115616@1
+53875:BaYj:vyA:vyABaYj:115618 ##EQ BaYj@vyA@vyABaYj@115618@1
+53875:BaYj:ud:udBaYj:115620 ##EQ BaYj@ud@udBaYj@115620@1
+53875:BaYj:upa:upaBaYj:115622 ##EQ BaYj@upa@upaBaYj@115622@9
+53875:BaYj:ni:niBaYj:115624 ##EQ BaYj@ni@niBaYj@115624@1
+53875:BaYj:nis:nirBaYj:115626 ##EQ BaYj@nis@nirBaYj@115626@1
+53875:BaYj:vinis:vinirBaYj:115628 ##EQ BaYj@vinis@vinirBaYj@115628@1
+53875:BaYj:pari:pariBaYj:115630 ##EQ BaYj@pari@pariBaYj@115630@9
+53875:BaYj:pra:praBaYj:115632 ##EQ BaYj@pra@praBaYj@115632@1
+53875:BaYj:aBipra:aBipraBaYj:115634 ##EQ BaYj@aBipra@aBipraBaYj@115634@9
+53875:BaYj:saMpra:saMpraBaYj:115636 ##EQ BaYj@saMpra@saMpraBaYj@115636@9
+53875:BaYj:prati:pratiBaYj:115638 ##EQ BaYj@prati@pratiBaYj@115638@1
+53875:BaYj:vi:viBaYj:115640 ##EQ BaYj@vi@viBaYj@115640@1
+53875:BaYj:sam:samBaYj:115642 ##NEQ BaYj@sam@saMBaYj@115642@1
+53875:BaYj:aBisam:aBisamBaYj:115644 ##NEQ BaYj@aBisam@aBisaMBaYj@115644@9
+53935:BaR:prati:pratiBaR:115768 ##EQ BaR@prati@pratiBaR@115768@1
+54099:Ban:A:ABan:116100 ##EQ Ban@A@ABan@116100@9
+54144:Bar:ati:atiBar:116198 ##EQ Bar@ati@atiBar@116198@9
+54144:Bar:anu:anuBar:116200 ##EQ Bar@anu@anuBar@116200@9
+54144:Bar:apa:apaBar:116202 ##EQ Bar@apa@apaBar@116202@9
+54144:Bar:aBi:aBiBar:116204 ##EQ Bar@aBi@aBiBar@116204@9
+54144:Bar:ava:avaBar:116206 ##EQ Bar@ava@avaBar@116206@9
+54144:Bar:A:ABar:116208 ##EQ Bar@A@ABar@116208@9
+54144:Bar:aDyA:aDyABar:116210 ##EQ Bar@aDyA@aDyABar@116210@9
+54144:Bar:upA:upABar:116212 ##EQ Bar@upA@upABar@116212@9
+54144:Bar:paryA:paryABar:116214 ##EQ Bar@paryA@paryABar@116214@9
+54144:Bar:samA:samABar:116216 ##EQ Bar@samA@samABar@116216@9
+54144:Bar:ud:udBar:116218 ##EQ Bar@ud@udBar@116218@9
+54144:Bar:aDyud:aDyudBar:116220 ##EQ Bar@aDyud@aDyudBar@116220@9
+54144:Bar:paryud:paryudBar:116222 ##EQ Bar@paryud@paryudBar@116222@9
+54144:Bar:upa:upaBar:116224 ##EQ Bar@upa@upaBar@116224@9
+54144:Bar:ni:niBar:116226 ##EQ Bar@ni@niBar@116226@9
+54144:Bar:saMni:saMniBar:116228 ##EQ Bar@saMni@saMniBar@116228@9
+54144:Bar:nis:nirBar:116230 ##EQ Bar@nis@nirBar@116230@9
+54144:Bar:parA:parABar:116232 ##EQ Bar@parA@parABar@116232@9
+54144:Bar:pari:pariBar:116234 ##EQ Bar@pari@pariBar@116234@9
+54144:Bar:pra:praBar:116236 ##EQ Bar@pra@praBar@116236@9
+54144:Bar:aBipra:aBipraBar:116238 ##EQ Bar@aBipra@aBipraBar@116238@9
+54144:Bar:prati:pratiBar:116240 ##EQ Bar@prati@pratiBar@116240@9
+54144:Bar:vi:viBar:116242 ##EQ Bar@vi@viBar@116242@9
+54144:Bar:sam:samBar:116244 ##NEQ Bar@sam@saMBar@116244@9
+54144:Bar:aBisam:aBisamBar:116246 ##NEQ Bar@aBisam@aBisaMBar@116246@9
+54144:Bar:upasam:upasamBar:116248 ##NEQ Bar@upasam@upasaMBar@116248@9
+54228:Barts:aBi:aBiBarts:116425 ##EQ Barts@aBi@aBiBarts@116425@1
+54228:Barts:ava:avaBarts:116427 ##EQ Barts@ava@avaBarts@116427@1
+54228:Barts:ud:udBarts:116429 ##EQ Barts@ud@udBarts@116429@1
+54228:Barts:nis:nirBarts:116431 ##EQ Barts@nis@nirBarts@116431@1
+54228:Barts:aBinis:aBinirBarts:116433 ##EQ Barts@aBinis@aBinirBarts@116433@1
+54228:Barts:pari:pariBarts:116435 ##EQ Barts@pari@pariBarts@116435@1
+54228:Barts:sam:samBarts:116437 ##NEQ Barts@sam@saMBarts@116437@1
+54241:Bal:ni:niBal:116465 ##EQ Bal@ni@niBal@116465@1
+54241:Bal:sam:samBal:116467 ##NEQ Bal@sam@saMBal@116467@1
+54350:Bas:nis:nirBas:116687 ##EQ Bas@nis@nirBas@116687@1
+54350:Bas:pra:praBas:116689 ##EQ Bas@pra@praBas@116689@9
+54387:BA:ati:atiBA:116765 ##EQ BA@ati@atiBA@116765@1
+54387:BA:vyati:vyatiBA:116767 ##EQ BA@vyati@vyatiBA@116767@1
+54387:BA:anu:anuBA:116769 ##EQ BA@anu@anuBA@116769@1
+54387:BA:aBi:aBiBA:116771 ##EQ BA@aBi@aBiBA@116771@1
+54387:BA:ava:avaBA:116773 ##EQ BA@ava@avaBA@116773@1
+54387:BA:A:ABA:116775 ##EQ BA@A@ABA@116775@1
+54387:BA:samA:samABA:116777 ##EQ BA@samA@samABA@116777@1
+54387:BA:ud:udBA:116779 ##EQ BA@ud@udBA@116779@1
+54387:BA:ni:niBA:116781 ##EQ BA@ni@niBA@116781@1
+54387:BA:nis:nirBA:116783 ##EQ BA@nis@nirBA@116783@1
+54387:BA:pra:praBA:116785 ##EQ BA@pra@praBA@116785@1
+54387:BA:anupra:anupraBA:116787 ##EQ BA@anupra@anupraBA@116787@1
+54387:BA:saMpra:saMpraBA:116789 ##EQ BA@saMpra@saMpraBA@116789@1
+54387:BA:prati:pratiBA:116791 ##EQ BA@prati@pratiBA@116791@1
+54387:BA:viprati:vipratiBA:116794 ##EQ BA@viprati@vipratiBA@116794@1
+54387:BA:saMprati:saMpratiBA:116796 ##EQ BA@saMprati@saMpratiBA@116796@1
+54387:BA:vi:viBA:116798 ##EQ BA@vi@viBA@116798@1
+54387:BA:aBivi:aBiviBA:116800 ##EQ BA@aBivi@aBiviBA@116800@1
+54387:BA:Avi:AviBA:116802 ##EQ BA@Avi@AviBA@116802@1
+54387:BA:saMvi:saMviBA:116804 ##EQ BA@saMvi@saMviBA@116804@1
+54387:BA:sam:samBA:116806 ##NEQ BA@sam@saMBA@116806@1
+54756:BAz:anu:anuBAz:117551 ##EQ BAz@anu@anuBAz@117551@1
+54756:BAz:apa:apaBAz:117553 ##EQ BAz@apa@apaBAz@117553@1
+54756:BAz:aBi:aBiBAz:117555 ##EQ BAz@aBi@aBiBAz@117555@1
+54756:BAz:pratyaBi:pratyaBiBAz:117557 ##EQ BAz@pratyaBi@pratyaBiBAz@117557@9
+54756:BAz:samaBi:samaBiBAz:117559 ##EQ BAz@samaBi@samaBiBAz@117559@1
+54756:BAz:ava:avaBAz:117561 ##EQ BAz@ava@avaBAz@117561@9
+54756:BAz:A:ABAz:117563 ##EQ BAz@A@ABAz@117563@1
+54756:BAz:vyA:vyABAz:117565 ##EQ BAz@vyA@vyABAz@117565@1
+54756:BAz:samA:samABAz:117567 ##EQ BAz@samA@samABAz@117567@1
+54756:BAz:ud:udBAz:117569 ##EQ BAz@ud@udBAz@117569@9
+54756:BAz:pari:pariBAz:117571 ##EQ BAz@pari@pariBAz@117571@1
+54756:BAz:pra:praBAz:117573 ##EQ BAz@pra@praBAz@117573@1
+54756:BAz:saMpra:saMpraBAz:117575 ##EQ BAz@saMpra@saMpraBAz@117575@1
+54756:BAz:prati:pratiBAz:117577 ##EQ BAz@prati@pratiBAz@117577@1
+54756:BAz:saMprati:saMpratiBAz:117579 ##EQ BAz@saMprati@saMpratiBAz@117579@1
+54756:BAz:vi:viBAz:117581 ##EQ BAz@vi@viBAz@117581@1
+54756:BAz:saMvi:saMviBAz:117583 ##EQ BAz@saMvi@saMviBAz@117583@1
+54756:BAz:sam:samBAz:117585 ##NEQ BAz@sam@saMBAz@117585@1
+54756:BAz:upasam:upasamBAz:117587 ##NEQ BAz@upasam@upasaMBAz@117587@9
+54756:BAz:prasam:prasamBAz:117589 ##NEQ BAz@prasam@prasaMBAz@117589@9
+54780:BAs:ava:avaBAs:117641 ##EQ BAs@ava@avaBAs@117641@1
+54780:BAs:A:ABAs:117643 ##EQ BAs@A@ABAs@117643@1
+54780:BAs:ud:udBAs:117645 ##EQ BAs@ud@udBAs@117645@1
+54780:BAs:nis:nirBAs:117647 ##EQ BAs@nis@nirBAs@117647@1
+54780:BAs:pari:pariBAs:117649 ##EQ BAs@pari@pariBAs@117649@1
+54780:BAs:pra:praBAs:117651 ##EQ BAs@pra@praBAs@117651@1
+54780:BAs:prati:pratiBAs:117653 ##EQ BAs@prati@pratiBAs@117653@1
+54780:BAs:vi:viBAs:117655 ##EQ BAs@vi@viBAs@117655@1
+54780:BAs:nirvi:nirviBAs:117657 ##EQ BAs@nirvi@nirviBAs@117657@1
+54863:Bid:anu:anuBid:117835 ##EQ Bid@anu@anuBid@117835@1
+54863:Bid:apa:apaBid:117837 ##EQ Bid@apa@apaBid@117837@1
+54863:Bid:ava:avaBid:117839 ##EQ Bid@ava@avaBid@117839@1
+54863:Bid:A:ABid:117841 ##EQ Bid@A@ABid@117841@1
+54863:Bid:ud:udBid:117843 ##EQ Bid@ud@udBid@117843@1
+54863:Bid:prod:prodBid:117845 ##EQ Bid@prod@prodBid@117845@1
+54863:Bid:ni:niBid:117847 ##EQ Bid@ni@niBid@117847@1
+54863:Bid:prani:praniBid:117849 ##NEQ Bid@prani@praRiBid@117849@1
+54863:Bid:nis:nirBid:117851 ##EQ Bid@nis@nirBid@117851@1
+54863:Bid:vinis:vinirBid:117853 ##EQ Bid@vinis@vinirBid@117853@1
+54863:Bid:parA:parABid:117855 ##EQ Bid@parA@parABid@117855@1
+54863:Bid:pari:pariBid:117857 ##EQ Bid@pari@pariBid@117857@1
+54863:Bid:pra:praBid:117859 ##EQ Bid@pra@praBid@117859@1
+54863:Bid:upapra:upapraBid:117861 ##EQ Bid@upapra@upapraBid@117861@1
+54863:Bid:saMpra:saMpraBid:117863 ##EQ Bid@saMpra@saMpraBid@117863@9
+54863:Bid:prati:pratiBid:117865 ##EQ Bid@prati@pratiBid@117865@1
+54863:Bid:vi:viBid:117867 ##EQ Bid@vi@viBid@117867@1
+54863:Bid:pravi:praviBid:117869 ##EQ Bid@pravi@praviBid@117869@9
+54863:Bid:sam:samBid:117871 ##NEQ Bid@sam@saMBid@117871@1
+54863:Bid:anusam:anusamBid:117873 ##NEQ Bid@anusam@anusaMBid@117873@1
+54863:Bid:upasam:upasamBid:117875 ##NEQ Bid@upasam@upasaMBid@117875@1
+54938:BI:A:ABI:118031 ##EQ BI@A@ABI@118031@9
+54938:BI:ni:niBI:118033 ##EQ BI@ni@niBI@118033@9
+54938:BI:pari:pariBI:118035 ##EQ BI@pari@pariBI@118035@9
+54938:BI:pra:praBI:118037 ##EQ BI@pra@praBI@118037@1
+54938:BI:vi:viBI:118039 ##EQ BI@vi@viBI@118039@1
+54938:BI:sam:samBI:118041 ##NEQ BI@sam@saMBI@118041@9
+55048:Buj:ava:avaBuj:118265 ##EQ Buj@ava@avaBuj@118265@1
+55048:Buj:pratyava:pratyavaBuj:118267 ##EQ Buj@pratyava@pratyavaBuj@118267@1
+55048:Buj:A:ABuj:118269 ##EQ Buj@A@ABuj@118269@1
+55048:Buj:vyA:vyABuj:118271 ##EQ Buj@vyA@vyABuj@118271@1
+55048:Buj:nis:nirBuj:118273 ##EQ Buj@nis@nirBuj@118273@1
+55048:Buj:vinis:vinirBuj:118275 ##EQ Buj@vinis@vinirBuj@118275@1
+55048:Buj:pari:pariBuj:118277 ##EQ Buj@pari@pariBuj@118277@1
+55048:Buj:pra:praBuj:118279 ##EQ Buj@pra@praBuj@118279@1
+55048:Buj:vi:viBuj:118281 ##EQ Buj@vi@viBuj@118281@1
+55048:Buj:pravi:praviBuj:118283 ##EQ Buj@pravi@praviBuj@118283@1
+55048:Buj:sam:samBuj:118285 ##NEQ Buj@sam@saMBuj@118285@1
+55050:Buj:aDi:aDiBuj:118297 ##EQ Buj@aDi@aDiBuj@118297@1
+55050:Buj:anu:anuBuj:118299 ##EQ Buj@anu@anuBuj@118299@1
+55050:Buj:aBi:aBiBuj:118301 ##EQ Buj@aBi@aBiBuj@118301@1
+55050:Buj:A:ABuj:118303 ##EQ Buj@A@ABuj@118303@1
+55050:Buj:upa:upaBuj:118305 ##EQ Buj@upa@upaBuj@118305@1
+55050:Buj:pratyupa:pratyupaBuj:118307 ##EQ Buj@pratyupa@pratyupaBuj@118307@1
+55050:Buj:samupa:samupaBuj:118309 ##EQ Buj@samupa@samupaBuj@118309@1
+55050:Buj:pari:pariBuj:118311 ##EQ Buj@pari@pariBuj@118311@1
+55050:Buj:pra:praBuj:118313 ##EQ Buj@pra@praBuj@118313@1
+55050:Buj:prati:pratiBuj:118315 ##EQ Buj@prati@pratiBuj@118315@1
+55050:Buj:vi:viBuj:118317 ##EQ Buj@vi@viBuj@118317@1
+55050:Buj:sam:samBuj:118319 ##NEQ Buj@sam@saMBuj@118319@1
+55118:Bur:pari:pariBur:118458 ##EQ Bur@pari@pariBur@118458@9
+55118:Bur:sam:samBur:118460 ##NEQ Bur@sam@saMBur@118460@1
+55166:BU:ati:atiBU:118566 ##EQ BU@ati@atiBU@118566@1
+55166:BU:vyati:vyatiBU:118568 ##EQ BU@vyati@vyatiBU@118568@1
+55166:BU:anu:anuBU:118570 ##EQ BU@anu@anuBU@118570@1
+55166:BU:pratyanu:pratyanuBU:118572 ##EQ BU@pratyanu@pratyanuBU@118572@1
+55166:BU:samanu:samanuBU:118574 ##EQ BU@samanu@samanuBU@118574@1
+55166:BU:antar:antarBU:118576 ##EQ BU@antar@antarBU@118576@1
+55166:BU:apa:apaBU:118578 ##EQ BU@apa@apaBU@118578@1
+55166:BU:api:apiBU:118580 ##EQ BU@api@apiBU@118580@1
+55166:BU:aBi:aBiBU:118582 ##EQ BU@aBi@aBiBU@118582@1
+55166:BU:atyaBi:atyaBiBU:118584 ##EQ BU@atyaBi@atyaBiBU@118584@9
+55166:BU:pratyaBi:pratyaBiBU:118586 ##EQ BU@pratyaBi@pratyaBiBU@118586@9
+55166:BU:A:ABU:118588 ##EQ BU@A@ABU@118588@1
+55166:BU:anvA:anvABU:118590 ##EQ BU@anvA@anvABU@118590@1
+55166:BU:aByA:aByABU:118592 ##EQ BU@aByA@aByABU@118592@1
+55166:BU:paryA:paryABU:118594 ##EQ BU@paryA@paryABU@118594@1
+55166:BU:pratyA:pratyABU:118596 ##EQ BU@pratyA@pratyABU@118596@1
+55166:BU:Avis:AvirBU:118598 ##EQ BU@Avis@AvirBU@118598@1
+55166:BU:ud:udBU:118600 ##EQ BU@ud@udBU@118600@1
+55166:BU:prod:prodBU:118602 ##EQ BU@prod@prodBU@118602@9
+55166:BU:samud:samudBU:118604 ##EQ BU@samud@samudBU@118604@1
+55166:BU:upa:upaBU:118606 ##EQ BU@upa@upaBU@118606@1
+55166:BU:ni:niBU:118608 ##EQ BU@ni@niBU@118608@9
+55166:BU:prani:praniBU:118610 ##NEQ BU@prani@praRiBU@118610@9
+55166:BU:nis:nirBU:118612 ##EQ BU@nis@nirBU@118612@1
+55166:BU:parA:parABU:118614 ##EQ BU@parA@parABU@118614@1
+55166:BU:anuparA:anuparABU:118616 ##EQ BU@anuparA@anuparABU@118616@1
+55166:BU:pari:pariBU:118618 ##EQ BU@pari@pariBU@118618@1
+55166:BU:saMpari:saMpariBU:118620 ##EQ BU@saMpari@saMpariBU@118620@1
+55166:BU:pra:praBU:118622 ##EQ BU@pra@praBU@118622@1
+55166:BU:anupra:anupraBU:118624 ##EQ BU@anupra@anupraBU@118624@9
+55166:BU:aBipra:aBipraBU:118626 ##EQ BU@aBipra@aBipraBU@118626@1
+55166:BU:upapra:upapraBU:118628 ##EQ BU@upapra@upapraBU@118628@1
+55166:BU:prati:pratiBU:118630 ##EQ BU@prati@pratiBU@118630@1
+55166:BU:vi:viBU:118632 ##EQ BU@vi@viBU@118632@1
+55166:BU:anuvi:anuviBU:118634 ##EQ BU@anuvi@anuviBU@118634@1
+55166:BU:sam:samBU:118636 ##NEQ BU@sam@saMBU@118636@1
+55166:BU:anusam:anusamBU:118638 ##NEQ BU@anusam@anusaMBU@118638@1
+55166:BU:aBisam:aBisamBU:118640 ##NEQ BU@aBisam@aBisaMBU@118640@1
+55166:BU:parisam:parisamBU:118642 ##NEQ BU@parisam@parisaMBU@118642@1
+55166:BU:pratisam:pratisamBU:118644 ##NEQ BU@pratisam@pratisaMBU@118644@1
+55588:BUz:A:ABUz:119492 ##EQ BUz@A@ABUz@119492@1
+55588:BUz:upA:upABUz:119494 ##EQ BUz@upA@upABUz@119494@1
+55588:BUz:upa:upaBUz:119496 ##EQ BUz@upa@upaBUz@119496@1
+55588:BUz:pari:pariBUz:119498 ##EQ BUz@pari@pariBUz@119498@1
+55588:BUz:vi:viBUz:119500 ##EQ BUz@vi@viBUz@119500@1
+55589:BUz:ati:atiBUz:119506 ##EQ BUz@ati@atiBUz@119506@1
+55589:BUz:A:ABUz:119508 ##EQ BUz@A@ABUz@119508@1
+55589:BUz:upa:upaBUz:119510 ##EQ BUz@upa@upaBUz@119510@1
+55589:BUz:pari:pariBUz:119512 ##EQ BUz@pari@pariBUz@119512@1
+55589:BUz:pra:praBUz:119514 ##EQ BUz@pra@praBUz@119514@1
+55589:BUz:anupra:anupraBUz:119516 ##EQ BUz@anupra@anupraBUz@119516@1
+55589:BUz:aBipra:aBipraBUz:119518 ##EQ BUz@aBipra@aBipraBUz@119518@9
+55589:BUz:upapra:upapraBUz:119520 ##EQ BUz@upapra@upapraBUz@119520@1
+55589:BUz:prati:pratiBUz:119522 ##EQ BUz@prati@pratiBUz@119522@1
+55589:BUz:vi:viBUz:119524 ##EQ BUz@vi@viBUz@119524@1
+55589:BUz:sam:samBUz:119526 ##NEQ BUz@sam@saMBUz@119526@1
+55938:Byas:ud:udByas:120226 ##EQ Byas@ud@udByas@120226@9
+55940:BraMS:apa:apaBraMS:120236 ##EQ BraMS@apa@apaBraMS@120236@1
+55940:BraMS:A:ABraMS:120238 ##EQ BraMS@A@ABraMS@120238@9
+55940:BraMS:ni:niBraMS:120240 ##EQ BraMS@ni@niBraMS@120240@1
+55940:BraMS:pari:pariBraMS:120242 ##EQ BraMS@pari@pariBraMS@120242@1
+55940:BraMS:saMpari:saMpariBraMS:120244 ##EQ BraMS@saMpari@saMpariBraMS@120244@9
+55940:BraMS:pra:praBraMS:120246 ##EQ BraMS@pra@praBraMS@120246@1
+55940:BraMS:vi:viBraMS:120248 ##EQ BraMS@vi@viBraMS@120248@1
+55940:BraMS:sam:samBraMS:120250 ##NEQ BraMS@sam@saMBraMS@120250@1
+55954:Brajj:ava:avaBrajj:120286 ##EQ Brajj@ava@avaBrajj@120286@9
+55954:Brajj:pari:pariBrajj:120288 ##EQ Brajj@pari@pariBrajj@120288@1
+55954:Brajj:sam:samBrajj:120290 ##NEQ Brajj@sam@saMBrajj@120290@1
+55960:Bram:ud:udBram:120308 ##EQ Bram@ud@udBram@120308@1
+55960:Bram:samud:samudBram:120310 ##EQ Bram@samud@samudBram@120310@1
+55960:Bram:upa:upaBram:120312 ##EQ Bram@upa@upaBram@120312@1
+55960:Bram:pari:pariBram:120314 ##EQ Bram@pari@pariBram@120314@1
+55960:Bram:pra:praBram:120316 ##EQ Bram@pra@praBram@120316@1
+55960:Bram:vi:viBram:120318 ##EQ Bram@vi@viBram@120318@1
+55960:Bram:sam:samBram:120320 ##NEQ Bram@sam@saMBram@120320@1
+55960:Bram:upasam:upasamBram:120322 ##NEQ Bram@upasam@upasaMBram@120322@9
+55999:BrAj:pari:pariBrAj:120404 ##EQ BrAj@pari@pariBrAj@120404@1
+55999:BrAj:pra:praBrAj:120406 ##EQ BrAj@pra@praBrAj@120406@1
+55999:BrAj:vi:viBrAj:120408 ##EQ BrAj@vi@viBrAj@120408@1
 56104:maMh:vi:vimaMh:120624 ##EQ maMh@vi@vimaMh@120624@1
 56233:maNg:pra:pramaNg:120884 ##EQ maNg@pra@pramaNg@120884@9
 56300:majj:ava:avamajj:121024 ##EQ majj@ava@avamajj@121024@1
@@ -4237,11 +4237,11 @@
 65827:as:ud:udas:141176 ##EQ as@ud@udas@141176@1
 65827:as:paryud:paryudas:141178 ##EQ as@paryud@paryudas@141178@1
 65827:as:vyud:vyudas:141180 ##EQ as@vyud@vyudas@141180@1
-65827:as:aBivyud:aBivyudas:141182 ##NEQ as@aBivyud@aBivyud@141182@4
+65827:as:aBivyud:aBivyudas:141182 ##EQ as@aBivyud@aBivyudas@141182@1
 65827:as:ni:nyas:141184 ##EQ as@ni@nyas@141184@1
 65827:as:upani:upanyas:141186 ##EQ as@upani@upanyas@141186@1
 65827:as:vini:vinyas:141188 ##EQ as@vini@vinyas@141188@1
-65827:as:upasaMni:upasaMnyas:141190 ##EQ as@upasaMni@upasaMnyas@141190@10
+65827:as:upasaMni:upasaMnyas:141190 ##EQ as@upasaMni@upasaMnyas@141190@9
 65827:as:nis:niras:141192 ##EQ as@nis@niras@141192@1
 65827:as:aBinis:aBiniras:141194 ##NEQ as@aBinis@aBinisas@141194@9
 65827:as:parA:parAs:141196 ##EQ as@parA@parAs@141196@1
@@ -4258,25 +4258,25 @@
 65977:ah:parA:parAh:141518 ##EQ ah@parA@parAh@141518@9
 65977:ah:pari:paryah:141520 ##EQ ah@pari@paryah@141520@9
 65977:ah:vi:vyah:141522 ##EQ ah@vi@vyah@141522@1
-66546:Ap:ava:avAp:142668 ##NA 
-66546:Ap:upa:upAp:142670 ##NA 
-66546:Ap:samupa:samupAp:142672 ##NA 
-66546:Ap:pari:paryAp:142674 ##NA 
-66546:Ap:pra:prAp:142676 ##NA 
-66546:Ap:anupra:anuprAp:142678 ##NA 
-66546:Ap:aBipra:aBiprAp:142680 ##NA 
-66546:Ap:paripra:pariprAp:142682 ##NA 
-66546:Ap:prati:pratyAp:142684 ##NA 
-66546:Ap:vi:vyAp:142686 ##NA 
-66546:Ap:sam:samAp:142688 ##NA 
-66546:Ap:parisam:parisamAp:142690 ##NA 
-66889:AliNg:sam:samAliNg:143378 ##NA 
-67042:As:aDi:aDyAs:143688 ##NA 
-67042:As:anu:anvAs:143690 ##NA 
-67042:As:ud:udAs:143692 ##NA 
-67042:As:upa:upAs:143694 ##NA 
-67042:As:paryupa:paryupAs:143696 ##NA 
-67042:As:sam:samAs:143698 ##NA 
+66546:Ap:ava:avAp:142668 ##EQ Ap@ava@avAp@142668@1
+66546:Ap:upa:upAp:142670 ##EQ Ap@upa@upAp@142670@1
+66546:Ap:samupa:samupAp:142672 ##EQ Ap@samupa@samupAp@142672@9
+66546:Ap:pari:paryAp:142674 ##EQ Ap@pari@paryAp@142674@1
+66546:Ap:pra:prAp:142676 ##EQ Ap@pra@prAp@142676@1
+66546:Ap:anupra:anuprAp:142678 ##EQ Ap@anupra@anuprAp@142678@1
+66546:Ap:aBipra:aBiprAp:142680 ##EQ Ap@aBipra@aBiprAp@142680@1
+66546:Ap:paripra:pariprAp:142682 ##EQ Ap@paripra@pariprAp@142682@1
+66546:Ap:prati:pratyAp:142684 ##EQ Ap@prati@pratyAp@142684@1
+66546:Ap:vi:vyAp:142686 ##EQ Ap@vi@vyAp@142686@1
+66546:Ap:sam:samAp:142688 ##EQ Ap@sam@samAp@142688@1
+66546:Ap:parisam:parisamAp:142690 ##EQ Ap@parisam@parisamAp@142690@1
+66889:AliNg:sam:samAliNg:143378 ##EQ AliNg@sam@samAliNg@143378@1
+67042:As:aDi:aDyAs:143688 ##EQ As@aDi@aDyAs@143688@1
+67042:As:anu:anvAs:143690 ##EQ As@anu@anvAs@143690@1
+67042:As:ud:udAs:143692 ##EQ As@ud@udAs@143692@1
+67042:As:upa:upAs:143694 ##EQ As@upa@upAs@143694@1
+67042:As:paryupa:paryupAs:143696 ##EQ As@paryupa@paryupAs@143696@1
+67042:As:sam:samAs:143698 ##EQ As@sam@samAs@143698@1
 67140:i:ati:atI:143898 ##EQ i@ati@atI@143898@1
 67140:i:aByati:aByatI:143900 ##EQ i@aByati@aByatI@143900@1
 67140:i:upAti:upAtI:143902 ##EQ i@upAti@upAtI@143902@1
@@ -4302,7 +4302,7 @@
 67140:i:udA:ude:143942 ##EQ i@udA@ude@143942@1
 67140:i:pratyA:pratye:143944 ##EQ i@pratyA@pratye@143944@1
 67140:i:samA:same:143946 ##EQ i@samA@same@143946@1
-67140:i:parisamA:parisame:143948 ##NEQ i@parisamA@parisamA@143948@4
+67140:i:parisamA:parisame:143948 ##EQ i@parisamA@parisame@143948@1
 67140:i:ud:udi:143950 ##EQ i@ud@udi@143950@1
 67140:i:aByud:aByudi:143952 ##EQ i@aByud@aByudi@143952@1
 67140:i:prod:prodi:143954 ##EQ i@prod@prodi@143954@1
@@ -4310,7 +4310,7 @@
 67140:i:upa:upe:143958 ##EQ i@upa@upe@143958@1
 67140:i:aDyupa:aDyupe:143960 ##EQ i@aDyupa@aDyupe@143960@9
 67140:i:aByupa:aByupe:143962 ##EQ i@aByupa@aByupe@143962@1
-67140:i:samopa:samope:143964 ##NEQ i@samopa@samopa@143964@4
+67140:i:samopa:samope:143964 ##EQ i@samopa@samope@143964@1
 67140:i:pratyupa:pratyupe:143966 ##EQ i@pratyupa@pratyupe@143966@1
 67140:i:vyupa:vyupe:143968 ##EQ i@vyupa@vyupe@143968@1
 67140:i:samupa:samupe:143970 ##EQ i@samupa@samupe@143970@1
@@ -4328,7 +4328,7 @@
 67140:i:saMpra:saMpre:143994 ##EQ i@saMpra@saMpre@143994@9
 67140:i:prati:pratI:143996 ##EQ i@prati@pratI@143996@1
 67140:i:saMprati:saMpratI:143998 ##EQ i@saMprati@saMpratI@143998@1
-67140:i:pla:ple:144000 ##NEQ i@pla@pla@144000@1
+67140:i:pla:ple:144000 ##EQ i@pla@ple@144000@1
 67140:i:vi:vI:144002 ##EQ i@vi@vI@144002@1
 67140:i:anuvi:anuvI:144004 ##EQ i@anuvi@anuvI@144004@1
 67140:i:parivi:parivI:144006 ##EQ i@parivi@parivI@144006@1
@@ -4347,46 +4347,46 @@
 67331:iz:aBi:aBIz:144414 ##EQ iz@aBi@aBIz@144414@1
 67331:iz:prati:pratIz:144416 ##EQ iz@prati@pratIz@144416@1
 67331:iz:vi:vIz:144418 ##EQ iz@vi@vIz@144418@1
-67369:Ikz:aDi:aDIkz:144498 ##NA 
-67369:Ikz:apa:apekz:144500 ##NA 
-67369:Ikz:ava:avekz:144502 ##NA 
-67369:Ikz:nyava:nyavekz:144504 ##NA 
-67369:Ikz:pratyava:pratyavekz:144506 ##NA 
-67369:Ikz:samava:samavekz:144508 ##NA 
-67369:Ikz:ud:udIkz:144510 ##NA 
-67369:Ikz:upa:upekz:144512 ##NA 
-67369:Ikz:nis:nirIkz:144514 ##NA 
-67369:Ikz:saMnis:saMnirIkz:144516 ##NA 
-67369:Ikz:pari:parIkz:144518 ##NA 
-67369:Ikz:pra:prekz:144520 ##NA 
-67369:Ikz:utpra:utprekz:144522 ##NA 
-67369:Ikz:vipra:viprekz:144524 ##NA 
-67369:Ikz:saMpra:saMprekz:144526 ##NA 
-67369:Ikz:prati:pratIkz:144528 ##NA 
-67369:Ikz:vi:vIkz:144530 ##NA 
-67369:Ikz:aBivi:aBivIkz:144532 ##NA 
-67369:Ikz:sam:samIkz:144534 ##NA 
-67369:Ikz:aBisam:aBisamIkz:144536 ##NA 
-67369:Ikz:prasam:prasamIkz:144538 ##NA 
-67369:Ikz:pratisam:pratisamIkz:144540 ##NA 
-67377:INK:vi:vINK:144558 ##NA 
-67379:Ij:apa:apej:144564 ##NA 
-67379:Ij:sam:samIj:144566 ##NA 
-67380:Iq:sam:samIq:144570 ##NA 
-67380:Iq:prasam:prasamIq:144572 ##NA 
-67391:Ir:aBi:aBIr:144597 ##NA 
-67391:Ir:vyava:vyaver:144599 ##NA 
-67391:Ir:A:er:144601 ##NA 
-67391:Ir:ud:udIr:144603 ##NA 
-67391:Ir:aByud:aByudIr:144605 ##NA 
-67391:Ir:pratyud:pratyudIr:144607 ##NA 
-67391:Ir:samud:samudIr:144609 ##NA 
-67391:Ir:pra:prer:144611 ##NA 
-67391:Ir:aBipra:aBiprer:144613 ##NA 
-67412:IS:pari:parIS:144657 ##NA 
-67441:Iz:A:ez:144717 ##NA 
-67452:Ih:prati:pratIh:144741 ##NA 
-67452:Ih:sam:samIh:144743 ##NA 
+67369:Ikz:aDi:aDIkz:144498 ##EQ Ikz@aDi@aDIkz@144498@1
+67369:Ikz:apa:apekz:144500 ##EQ Ikz@apa@apekz@144500@1
+67369:Ikz:ava:avekz:144502 ##EQ Ikz@ava@avekz@144502@1
+67369:Ikz:nyava:nyavekz:144504 ##EQ Ikz@nyava@nyavekz@144504@1
+67369:Ikz:pratyava:pratyavekz:144506 ##EQ Ikz@pratyava@pratyavekz@144506@1
+67369:Ikz:samava:samavekz:144508 ##EQ Ikz@samava@samavekz@144508@1
+67369:Ikz:ud:udIkz:144510 ##EQ Ikz@ud@udIkz@144510@1
+67369:Ikz:upa:upekz:144512 ##EQ Ikz@upa@upekz@144512@1
+67369:Ikz:nis:nirIkz:144514 ##EQ Ikz@nis@nirIkz@144514@1
+67369:Ikz:saMnis:saMnirIkz:144516 ##NEQ Ikz@saMnis@saMnisIkz@144516@9
+67369:Ikz:pari:parIkz:144518 ##EQ Ikz@pari@parIkz@144518@1
+67369:Ikz:pra:prekz:144520 ##EQ Ikz@pra@prekz@144520@1
+67369:Ikz:utpra:utprekz:144522 ##EQ Ikz@utpra@utprekz@144522@1
+67369:Ikz:vipra:viprekz:144524 ##EQ Ikz@vipra@viprekz@144524@1
+67369:Ikz:saMpra:saMprekz:144526 ##EQ Ikz@saMpra@saMprekz@144526@1
+67369:Ikz:prati:pratIkz:144528 ##EQ Ikz@prati@pratIkz@144528@1
+67369:Ikz:vi:vIkz:144530 ##EQ Ikz@vi@vIkz@144530@1
+67369:Ikz:aBivi:aBivIkz:144532 ##EQ Ikz@aBivi@aBivIkz@144532@1
+67369:Ikz:sam:samIkz:144534 ##EQ Ikz@sam@samIkz@144534@1
+67369:Ikz:aBisam:aBisamIkz:144536 ##EQ Ikz@aBisam@aBisamIkz@144536@1
+67369:Ikz:prasam:prasamIkz:144538 ##EQ Ikz@prasam@prasamIkz@144538@1
+67369:Ikz:pratisam:pratisamIkz:144540 ##EQ Ikz@pratisam@pratisamIkz@144540@1
+67377:INK:vi:vINK:144558 ##EQ INK@vi@vINK@144558@1
+67379:Ij:apa:apej:144564 ##EQ Ij@apa@apej@144564@1
+67379:Ij:sam:samIj:144566 ##EQ Ij@sam@samIj@144566@1
+67380:Iq:sam:samIq:144570 ##EQ Iq@sam@samIq@144570@1
+67380:Iq:prasam:prasamIq:144572 ##EQ Iq@prasam@prasamIq@144572@1
+67391:Ir:aBi:aBIr:144597 ##EQ Ir@aBi@aBIr@144597@1
+67391:Ir:vyava:vyaver:144599 ##EQ Ir@vyava@vyaver@144599@9
+67391:Ir:A:er:144601 ##EQ Ir@A@er@144601@1
+67391:Ir:ud:udIr:144603 ##EQ Ir@ud@udIr@144603@1
+67391:Ir:aByud:aByudIr:144605 ##EQ Ir@aByud@aByudIr@144605@1
+67391:Ir:pratyud:pratyudIr:144607 ##EQ Ir@pratyud@pratyudIr@144607@1
+67391:Ir:samud:samudIr:144609 ##EQ Ir@samud@samudIr@144609@1
+67391:Ir:pra:prer:144611 ##EQ Ir@pra@prer@144611@1
+67391:Ir:aBipra:aBiprer:144613 ##EQ Ir@aBipra@aBiprer@144613@1
+67412:IS:pari:parIS:144657 ##EQ IS@pari@parIS@144657@1
+67441:Iz:A:ez:144717 ##EQ Iz@A@ez@144717@1
+67452:Ih:prati:pratIh:144741 ##EQ Ih@prati@pratIh@144741@9
+67452:Ih:sam:samIh:144743 ##EQ Ih@sam@samIh@144743@1
 67467:ukz:aBi:aByukz:144777 ##EQ ukz@aBi@aByukz@144777@1
 67467:ukz:ava:avokz:144779 ##EQ ukz@ava@avokz@144779@1
 67467:ukz:nis:nirukz:144781 ##EQ ukz@nis@nirukz@144781@1
@@ -4405,25 +4405,25 @@
 68622:uz:aBi:aByuz:147119 ##EQ uz@aBi@aByuz@147119@1
 68622:uz:upa:upoz:147121 ##EQ uz@upa@upoz@147121@1
 68622:uz:prati:pratyuz:147123 ##EQ uz@prati@pratyuz@147123@1
-68699:UrRu:pra:prorRu:147281 ##NA 
-68742:Uh:vyati:vyatyUh:147370 ##NA 
-68742:Uh:aDi:aDyUh:147372 ##NA 
-68742:Uh:apa:apoh:147374 ##NA 
-68742:Uh:samapa:samapoh:147376 ##NA 
-68742:Uh:ud:udUh:147378 ##NA 
-68742:Uh:apod:apodUh:147380 ##NA 
-68742:Uh:upa:upoh:147382 ##NA 
-68742:Uh:samupa:samupoh:147384 ##NA 
-68742:Uh:nis:nirUh:147386 ##NA 
-68742:Uh:pari:paryUh:147388 ##NA 
-68742:Uh:prati:pratyUh:147390 ##NA 
-68742:Uh:vi:vyUh:147392 ##NA 
-68742:Uh:nirvi:nirvyUh:147394 ##NA 
-68742:Uh:prativi:prativyUh:147396 ##NA 
-68742:Uh:sam:samUh:147398 ##NA 
-68742:Uh:parisam:parisamUh:147400 ##NA 
-68743:Uh:ni:nyUh:147404 ##NA 
-68743:Uh:sam:samUh:147406 ##NA 
+68699:UrRu:pra:prorRu:147281 ##EQ UrRu@pra@prorRu@147281@1
+68742:Uh:vyati:vyatyUh:147370 ##EQ Uh@vyati@vyatyUh@147370@1
+68742:Uh:aDi:aDyUh:147372 ##EQ Uh@aDi@aDyUh@147372@1
+68742:Uh:apa:apoh:147374 ##EQ Uh@apa@apoh@147374@1
+68742:Uh:samapa:samapoh:147376 ##EQ Uh@samapa@samapoh@147376@1
+68742:Uh:ud:udUh:147378 ##EQ Uh@ud@udUh@147378@1
+68742:Uh:apod:apodUh:147380 ##EQ Uh@apod@apodUh@147380@1
+68742:Uh:upa:upoh:147382 ##EQ Uh@upa@upoh@147382@1
+68742:Uh:samupa:samupoh:147384 ##EQ Uh@samupa@samupoh@147384@1
+68742:Uh:nis:nirUh:147386 ##EQ Uh@nis@nirUh@147386@1
+68742:Uh:pari:paryUh:147388 ##EQ Uh@pari@paryUh@147388@1
+68742:Uh:prati:pratyUh:147390 ##EQ Uh@prati@pratyUh@147390@1
+68742:Uh:vi:vyUh:147392 ##EQ Uh@vi@vyUh@147392@1
+68742:Uh:nirvi:nirvyUh:147394 ##EQ Uh@nirvi@nirvyUh@147394@1
+68742:Uh:prativi:prativyUh:147396 ##EQ Uh@prativi@prativyUh@147396@1
+68742:Uh:sam:samUh:147398 ##EQ Uh@sam@samUh@147398@1
+68742:Uh:parisam:parisamUh:147400 ##EQ Uh@parisam@parisamUh@147400@1
+68743:Uh:ni:nyUh:147404 ##EQ Uh@ni@nyUh@147404@1
+68743:Uh:sam:samUh:147406 ##EQ Uh@sam@samUh@147406@1
 68974:ej:apa:apEj:147874 ##EQ ej@apa@apEj@147874@1
 69488:kaTay:ni:nikaTay:148913 ##EQ kaTay@ni@nikaTay@148913@9
 69488:kaTay:pari:parikaTay:148915 ##EQ kaTay@pari@parikaTay@148915@9
@@ -4625,30 +4625,30 @@
 72074:kzip:sam:saNkzip:154486 ##NEQ kzip@sam@saMkzip@154486@1
 72102:kzu:pari:parikzu:154544 ##EQ kzu@pari@parikzu@154544@9
 72124:kzuB:ni:nikzuB:154590 ##EQ kzuB@ni@nikzuB@154590@9
-72261:KaRqay:ava:avaKaRqay:154870 ##NA 
-72261:KaRqay:pari:pariKaRqay:154872 ##NA 
-72261:KaRqay:vi:viKaRqay:154874 ##NA 
-72270:Kan:ud:utKan:154894 ##NA 
-72270:Kan:prod:protKan:154896 ##NA 
-72270:Kan:samud:samutKan:154898 ##NA 
-72270:Kan:ni:niKan:154900 ##NA 
-72270:Kan:pra:praKan:154902 ##NA 
-72334:KAd:A:AKAd:155034 ##NA 
-72334:KAd:pra:praKAd:155036 ##NA 
-72351:Kid:nis:nizKid:155072 ##NA 
-72351:Kid:vi:viKid:155074 ##NA 
-72384:KyA:anvA:anvAKyA:155142 ##NA 
-72384:KyA:pratyA:pratyAKyA:155144 ##NA 
-72384:KyA:vyA:vyAKyA:155146 ##NA 
-72384:KyA:anuvyA:anuvyAKyA:155148 ##NA 
-72384:KyA:samA:samAKyA:155150 ##NA 
-72384:KyA:pari:pariKyA:155152 ##NA 
-72384:KyA:pra:praKyA:155154 ##NA 
-72384:KyA:prati:pratiKyA:155156 ##NA 
-72384:KyA:vi:viKyA:155158 ##NA 
-72384:KyA:pravi:praviKyA:155160 ##NA 
-72384:KyA:sam:saNKyA:155162 ##NA 
-72384:KyA:parisam:parisaNKyA:155164 ##NA 
+72261:KaRqay:ava:avaKaRqay:154870 ##EQ KaRqay@ava@avaKaRqay@154870@9
+72261:KaRqay:pari:pariKaRqay:154872 ##EQ KaRqay@pari@pariKaRqay@154872@9
+72261:KaRqay:vi:viKaRqay:154874 ##EQ KaRqay@vi@viKaRqay@154874@9
+72270:Kan:ud:utKan:154894 ##EQ Kan@ud@utKan@154894@1
+72270:Kan:prod:protKan:154896 ##NEQ Kan@prod@prodKan@154896@9
+72270:Kan:samud:samutKan:154898 ##EQ Kan@samud@samutKan@154898@1
+72270:Kan:ni:niKan:154900 ##EQ Kan@ni@niKan@154900@1
+72270:Kan:pra:praKan:154902 ##NEQ Kan@pra@praKaR@154902@1
+72334:KAd:A:AKAd:155034 ##EQ KAd@A@AKAd@155034@1
+72334:KAd:pra:praKAd:155036 ##EQ KAd@pra@praKAd@155036@1
+72351:Kid:nis:nizKid:155072 ##EQ Kid@nis@nizKid@155072@1
+72351:Kid:vi:viKid:155074 ##EQ Kid@vi@viKid@155074@1
+72384:KyA:anvA:anvAKyA:155142 ##EQ KyA@anvA@anvAKyA@155142@1
+72384:KyA:pratyA:pratyAKyA:155144 ##EQ KyA@pratyA@pratyAKyA@155144@1
+72384:KyA:vyA:vyAKyA:155146 ##EQ KyA@vyA@vyAKyA@155146@1
+72384:KyA:anuvyA:anuvyAKyA:155148 ##EQ KyA@anuvyA@anuvyAKyA@155148@1
+72384:KyA:samA:samAKyA:155150 ##EQ KyA@samA@samAKyA@155150@1
+72384:KyA:pari:pariKyA:155152 ##EQ KyA@pari@pariKyA@155152@1
+72384:KyA:pra:praKyA:155154 ##EQ KyA@pra@praKyA@155154@1
+72384:KyA:prati:pratiKyA:155156 ##EQ KyA@prati@pratiKyA@155156@1
+72384:KyA:vi:viKyA:155158 ##EQ KyA@vi@viKyA@155158@1
+72384:KyA:pravi:praviKyA:155160 ##EQ KyA@pravi@praviKyA@155160@9
+72384:KyA:sam:saNKyA:155162 ##NEQ KyA@sam@saMKyA@155162@1
+72384:KyA:parisam:parisaNKyA:155164 ##NEQ KyA@parisam@parisaMKyA@155164@1
 72486:gaRay:A:AgaRay:155372 ##EQ gaRay@A@AgaRay@155372@9
 72486:gaRay:pari:parigaRay:155374 ##EQ gaRay@pari@parigaRay@155374@9
 72486:gaRay:vi:vigaRay:155376 ##EQ gaRay@vi@vigaRay@155376@9
@@ -4691,7 +4691,7 @@
 72578:gam:anusam:anusaNgam:155638 ##NEQ gam@anusam@anusaMgam@155638@1
 72578:gam:aBisam:aBisaNgam:155640 ##NEQ gam@aBisam@aBisaMgam@155640@1
 72578:gam:upasam:upasaNgam:155642 ##NEQ gam@upasam@upasaMgam@155642@1
-72578:gam:sama:samagam:155644 ##EQ gam@sama@samagam@155644@10
+72578:gam:sama:samagam:155644 ##EQ gam@sama@samagam@155644@9
 72589:gar:aBi:aBigar:155668 ##EQ gar@aBi@aBigar@155668@9
 72589:gar:aByA:aByAgar:155670 ##EQ gar@aByA@aByAgar@155670@9
 72589:gar:prati:pratigar:155672 ##EQ gar@prati@pratigar@155672@9
@@ -4755,28 +4755,28 @@
 73181:graB:sam:saNgraB:156977 ##NEQ graB@sam@saMgraB@156977@1
 73182:gras:A:Agras:156981 ##EQ gras@A@Agras@156981@1
 73182:gras:pari:parigras:156983 ##EQ gras@pari@parigras@156983@1
-73248:Gaw:vyA:vyAGaw:157121 ##NA 
-73248:Gaw:ud:udGaw:157123 ##NA 
-73248:Gaw:vi:viGaw:157125 ##NA 
-73248:Gaw:sam:saNGaw:157127 ##NA 
-73268:Gaww:ava:avaGaww:157169 ##NA 
-73268:Gaww:A:AGaww:157171 ##NA 
-73268:Gaww:samud:samudGaww:157173 ##NA 
-73268:Gaww:pari:pariGaww:157175 ##NA 
-73268:Gaww:sam:saNGaww:157177 ##NA 
-73285:Gar:prA:prAGar:157213 ##NA 
-73288:Garz:ava:avaGarz:157221 ##NA 
-73288:Garz:ni:niGarz:157223 ##NA 
-73304:Guw:vyA:vyAGuw:157257 ##NA 
-73311:Guz:ud:udGuz:157273 ##NA 
-73311:Guz:prod:prodGuz:157275 ##NA 
-73311:Guz:pari:pariGuz:157277 ##NA 
-73313:GUrR:A:AGUrR:157283 ##NA 
-73313:GUrR:vyA:vyAGUrR:157285 ##NA 
-73313:GUrR:vi:viGUrR:157287 ##NA 
-73340:GrA:anu:anuGrA:157343 ##NA 
-73340:GrA:ava:avaGrA:157345 ##NA 
-73340:GrA:vyA:vyAGrA:157347 ##NA 
+73248:Gaw:vyA:vyAGaw:157121 ##EQ Gaw@vyA@vyAGaw@157121@9
+73248:Gaw:ud:udGaw:157123 ##EQ Gaw@ud@udGaw@157123@1
+73248:Gaw:vi:viGaw:157125 ##EQ Gaw@vi@viGaw@157125@1
+73248:Gaw:sam:saNGaw:157127 ##NEQ Gaw@sam@saMGaw@157127@1
+73268:Gaww:ava:avaGaww:157169 ##EQ Gaww@ava@avaGaww@157169@1
+73268:Gaww:A:AGaww:157171 ##EQ Gaww@A@AGaww@157171@1
+73268:Gaww:samud:samudGaww:157173 ##EQ Gaww@samud@samudGaww@157173@9
+73268:Gaww:pari:pariGaww:157175 ##EQ Gaww@pari@pariGaww@157175@1
+73268:Gaww:sam:saNGaww:157177 ##NEQ Gaww@sam@saMGaww@157177@1
+73285:Gar:prA:prAGar:157213 ##EQ Gar@prA@prAGar@157213@9
+73288:Garz:ava:avaGarz:157221 ##EQ Garz@ava@avaGarz@157221@9
+73288:Garz:ni:niGarz:157223 ##EQ Garz@ni@niGarz@157223@9
+73304:Guw:vyA:vyAGuw:157257 ##EQ Guw@vyA@vyAGuw@157257@1
+73311:Guz:ud:udGuz:157273 ##EQ Guz@ud@udGuz@157273@1
+73311:Guz:prod:prodGuz:157275 ##EQ Guz@prod@prodGuz@157275@1
+73311:Guz:pari:pariGuz:157277 ##EQ Guz@pari@pariGuz@157277@1
+73313:GUrR:A:AGUrR:157283 ##EQ GUrR@A@AGUrR@157283@1
+73313:GUrR:vyA:vyAGUrR:157285 ##EQ GUrR@vyA@vyAGUrR@157285@1
+73313:GUrR:vi:viGUrR:157287 ##EQ GUrR@vi@viGUrR@157287@1
+73340:GrA:anu:anuGrA:157343 ##EQ GrA@anu@anuGrA@157343@1
+73340:GrA:ava:avaGrA:157345 ##EQ GrA@ava@avaGrA@157345@1
+73340:GrA:vyA:vyAGrA:157347 ##EQ GrA@vyA@vyAGrA@157347@1
 73347:cakAs:sam:saYcakAs:157365 ##NEQ cakAs@sam@saMcakAs@157365@1
 73381:cakz:anu:anucakz:157435 ##EQ cakz@anu@anucakz@157435@1
 73381:cakz:A:Acakz:157437 ##EQ cakz@A@Acakz@157437@1
@@ -4836,7 +4836,7 @@
 73835:cint:pravi:pravicint:158461 ##EQ cint@pravi@pravicint@158461@1
 73835:cint:saMvi:saMvicint:158463 ##EQ cint@saMvi@saMvicint@158463@1
 73883:cud:pra:pracud:158561 ##EQ cud@pra@pracud@158561@1
-73883:cud:sama:samacud:158563 ##EQ cud@sama@samacud@158563@10
+73883:cud:sama:samacud:158563 ##EQ cud@sama@samacud@158563@9
 73887:cumb:pari:paricumb:158573 ##EQ cumb@pari@paricumb@158573@1
 73925:cezw:A:Acezw:158651 ##EQ cezw@A@Acezw@158651@1
 73925:cezw:vi:vicezw:158653 ##EQ cezw@vi@vicezw@158653@1
@@ -4844,25 +4844,25 @@
 73971:cyu:pra:pracyu:158749 ##EQ cyu@pra@pracyu@158749@1
 73971:cyu:prati:praticyu:158751 ##EQ cyu@prati@praticyu@158751@9
 73971:cyu:vi:vicyu:158753 ##EQ cyu@vi@vicyu@158753@1
-73996:Cad:ava:avacCad:158807 ##NA 
-73996:Cad:A:AcCad:158809 ##NA 
-73996:Cad:ud:ucCad:158811 ##NA 
-73996:Cad:apod:apocCad:158813 ##NA 
-73996:Cad:pra:pracCad:158815 ##NA 
-73996:Cad:vipra:vipracCad:158817 ##NA 
-73996:Cad:prati:praticCad:158819 ##NA 
-73997:Cad:upa:upacCad:158823 ##NA 
-74023:Card:A:AcCard:158877 ##NA 
-74032:CA:ava:avacCA:158897 ##NA 
-74032:CA:A:AcCA:158899 ##NA 
-74032:CA:vi:vicCA:158901 ##NA 
-74032:CA:nyAvi:nyAvicCA:158903 ##NA 
-74051:Cid:ava:avacCid:158943 ##NA 
-74051:Cid:A:AcCid:158945 ##NA 
-74051:Cid:samud:samucCid:158947 ##NA 
-74051:Cid:pari:paricCid:158949 ##NA 
-74051:Cid:vi:vicCid:158951 ##NA 
-74059:Cur:vi:vicCur:158969 ##NA 
+73996:Cad:ava:avacCad:158807 ##NEQ Cad@ava@avaCad@158807@9
+73996:Cad:A:AcCad:158809 ##NEQ Cad@A@ACad@158809@1
+73996:Cad:ud:ucCad:158811 ##EQ Cad@ud@ucCad@158811@1
+73996:Cad:apod:apocCad:158813 ##NEQ Cad@apod@apodCad@158813@9
+73996:Cad:pra:pracCad:158815 ##NEQ Cad@pra@praCad@158815@9
+73996:Cad:vipra:vipracCad:158817 ##NEQ Cad@vipra@vipraCad@158817@9
+73996:Cad:prati:praticCad:158819 ##NEQ Cad@prati@pratiCad@158819@9
+73997:Cad:upa:upacCad:158823 ##NEQ Cad@upa@upaCad@158823@9
+74023:Card:A:AcCard:158877 ##NEQ Card@A@ACard@158877@9
+74032:CA:ava:avacCA:158897 ##NEQ CA@ava@avaCA@158897@9
+74032:CA:A:AcCA:158899 ##NEQ CA@A@ACA@158899@9
+74032:CA:vi:vicCA:158901 ##NEQ CA@vi@viCA@158901@9
+74032:CA:nyAvi:nyAvicCA:158903 ##NEQ CA@nyAvi@nyAviCA@158903@10
+74051:Cid:ava:avacCid:158943 ##NEQ Cid@ava@avaCid@158943@9
+74051:Cid:A:AcCid:158945 ##NEQ Cid@A@ACid@158945@9
+74051:Cid:samud:samucCid:158947 ##EQ Cid@samud@samucCid@158947@1
+74051:Cid:pari:paricCid:158949 ##NEQ Cid@pari@pariCid@158949@9
+74051:Cid:vi:vicCid:158951 ##NEQ Cid@vi@viCid@158951@9
+74059:Cur:vi:vicCur:158969 ##NEQ Cur@vi@viCur@158969@9
 74139:jan:aBi:aBijan:159133 ##EQ jan@aBi@aBijan@159133@1
 74139:jan:upa:upajan:159135 ##EQ jan@upa@upajan@159135@1
 74225:jar:nis:nirjar:159309 ##EQ jar@nis@nirjar@159309@9
@@ -5013,69 +5013,69 @@
 76320:dru:saMpra:saMpradru:163810 ##EQ dru@saMpra@saMpradru@163810@1
 76320:dru:vi:vidru:163812 ##EQ dru@vi@vidru@163812@1
 76327:druh:pra:pradruh:163828 ##EQ druh@pra@pradruh@163828@1
-76472:Dam:aBi:aBiDam:164122 ##NA 
-76472:Dam:A:ADam:164124 ##NA 
-76472:Dam:pratyA:pratyADam:164126 ##NA 
-76478:Dar:ava:avaDar:164142 ##NA 
-76478:Dar:paryava:paryavaDar:164144 ##NA 
-76478:Dar:ud:udDar:164146 ##NA 
-76478:Dar:upa:upaDar:164148 ##NA 
-76478:Dar:ni:niDar:164150 ##NA 
-76478:Dar:nis:nirDar:164152 ##NA 
-76478:Dar:pari:pariDar:164154 ##NA 
-76478:Dar:vi:viDar:164156 ##NA 
-76478:Dar:sam:sanDar:164158 ##NA 
-76548:Darz:pari:pariDarz:164300 ##NA 
-76548:Darz:sam:sanDarz:164302 ##NA 
-76560:DA:antar:antarDA:164328 ##NA 
-76560:DA:api:apiDA:164330 ##NA 
-76560:DA:aBi:aBiDA:164332 ##NA 
-76560:DA:samaBi:samaBiDA:164334 ##NA 
-76560:DA:ava:avaDA:164336 ##NA 
-76560:DA:upAva:upAvaDA:164338 ##NA 
-76560:DA:vyava:vyavaDA:164340 ##NA 
-76560:DA:A:ADA:164342 ##NA 
-76560:DA:atyA:atyADA:164344 ##NA 
-76560:DA:anvA:anvADA:164346 ##NA 
-76560:DA:samA:samADA:164348 ##NA 
-76560:DA:upa:upaDA:164350 ##NA 
-76560:DA:ni:niDA:164352 ##NA 
-76560:DA:unni:unniDA:164354 ##NA 
-76560:DA:upani:upaniDA:164356 ##NA 
-76560:DA:praRi:praRiDA:164358 ##NA 
-76560:DA:saMni:saMniDA:164360 ##NA 
-76560:DA:pari:pariDA:164362 ##NA 
-76560:DA:prati:pratiDA:164364 ##NA 
-76560:DA:vi:viDA:164366 ##NA 
-76560:DA:prativi:prativiDA:164368 ##NA 
-76560:DA:sam:sanDA:164370 ##NA 
-76560:DA:anusam:anusanDA:164372 ##NA 
-76560:DA:aBisam:aBisanDA:164374 ##NA 
-76560:DA:prasam:prasanDA:164376 ##NA 
-76607:DAv:nis:nirDAv:164472 ##NA 
-76607:DAv:parA:parADAv:164474 ##NA 
-76607:DAv:pari:pariDAv:164476 ##NA 
-76607:DAv:pra:praDAv:164478 ##NA 
-76607:DAv:anupra:anupraDAv:164480 ##NA 
-76607:DAv:saMpra:saMpraDAv:164482 ##NA 
-76639:DU:ava:avaDU:164548 ##NA 
-76639:DU:vyava:vyavaDU:164550 ##NA 
-76639:DU:vyA:vyADU:164552 ##NA 
-76639:DU:ud:udDU:164554 ##NA 
-76639:DU:samud:samudDU:164556 ##NA 
-76639:DU:ni:niDU:164558 ##NA 
-76639:DU:pari:pariDU:164560 ##NA 
-76639:DU:vi:viDU:164562 ##NA 
-76639:DU:anuvi:anuviDU:164564 ##NA 
-76639:DU:pravi:praviDU:164566 ##NA 
-76687:DyA:aBi:aBiDyA:164664 ##NA 
-76687:DyA:upa:upaDyA:164666 ##NA 
-76687:DyA:praRi:praRiDyA:164668 ##NA 
-76709:DvaMs:anu:anuDvaMs:164714 ##NA 
-76709:DvaMs:apa:apaDvaMs:164716 ##NA 
-76709:DvaMs:vini:viniDvaMs:164718 ##NA 
-76709:DvaMs:prati:pratiDvaMs:164720 ##NA 
-76709:DvaMs:vi:viDvaMs:164722 ##NA 
+76472:Dam:aBi:aBiDam:164122 ##EQ Dam@aBi@aBiDam@164122@1
+76472:Dam:A:ADam:164124 ##EQ Dam@A@ADam@164124@1
+76472:Dam:pratyA:pratyADam:164126 ##EQ Dam@pratyA@pratyADam@164126@9
+76478:Dar:ava:avaDar:164142 ##EQ Dar@ava@avaDar@164142@9
+76478:Dar:paryava:paryavaDar:164144 ##EQ Dar@paryava@paryavaDar@164144@9
+76478:Dar:ud:udDar:164146 ##EQ Dar@ud@udDar@164146@9
+76478:Dar:upa:upaDar:164148 ##EQ Dar@upa@upaDar@164148@9
+76478:Dar:ni:niDar:164150 ##EQ Dar@ni@niDar@164150@9
+76478:Dar:nis:nirDar:164152 ##EQ Dar@nis@nirDar@164152@9
+76478:Dar:pari:pariDar:164154 ##EQ Dar@pari@pariDar@164154@9
+76478:Dar:vi:viDar:164156 ##EQ Dar@vi@viDar@164156@9
+76478:Dar:sam:sanDar:164158 ##NEQ Dar@sam@saMDar@164158@9
+76548:Darz:pari:pariDarz:164300 ##EQ Darz@pari@pariDarz@164300@9
+76548:Darz:sam:sanDarz:164302 ##NEQ Darz@sam@saMDarz@164302@9
+76560:DA:antar:antarDA:164328 ##EQ DA@antar@antarDA@164328@1
+76560:DA:api:apiDA:164330 ##EQ DA@api@apiDA@164330@1
+76560:DA:aBi:aBiDA:164332 ##EQ DA@aBi@aBiDA@164332@1
+76560:DA:samaBi:samaBiDA:164334 ##EQ DA@samaBi@samaBiDA@164334@1
+76560:DA:ava:avaDA:164336 ##EQ DA@ava@avaDA@164336@1
+76560:DA:upAva:upAvaDA:164338 ##EQ DA@upAva@upAvaDA@164338@1
+76560:DA:vyava:vyavaDA:164340 ##EQ DA@vyava@vyavaDA@164340@1
+76560:DA:A:ADA:164342 ##EQ DA@A@ADA@164342@1
+76560:DA:atyA:atyADA:164344 ##EQ DA@atyA@atyADA@164344@1
+76560:DA:anvA:anvADA:164346 ##EQ DA@anvA@anvADA@164346@1
+76560:DA:samA:samADA:164348 ##EQ DA@samA@samADA@164348@1
+76560:DA:upa:upaDA:164350 ##EQ DA@upa@upaDA@164350@1
+76560:DA:ni:niDA:164352 ##EQ DA@ni@niDA@164352@1
+76560:DA:unni:unniDA:164354 ##EQ DA@unni@unniDA@164354@1
+76560:DA:upani:upaniDA:164356 ##EQ DA@upani@upaniDA@164356@1
+76560:DA:praRi:praRiDA:164358 ##EQ DA@praRi@praRiDA@164358@1
+76560:DA:saMni:saMniDA:164360 ##EQ DA@saMni@saMniDA@164360@1
+76560:DA:pari:pariDA:164362 ##EQ DA@pari@pariDA@164362@1
+76560:DA:prati:pratiDA:164364 ##EQ DA@prati@pratiDA@164364@1
+76560:DA:vi:viDA:164366 ##EQ DA@vi@viDA@164366@1
+76560:DA:prativi:prativiDA:164368 ##EQ DA@prativi@prativiDA@164368@1
+76560:DA:sam:sanDA:164370 ##NEQ DA@sam@saMDA@164370@1
+76560:DA:anusam:anusanDA:164372 ##NEQ DA@anusam@anusaMDA@164372@1
+76560:DA:aBisam:aBisanDA:164374 ##NEQ DA@aBisam@aBisaMDA@164374@1
+76560:DA:prasam:prasanDA:164376 ##NEQ DA@prasam@prasaMDA@164376@1
+76607:DAv:nis:nirDAv:164472 ##EQ DAv@nis@nirDAv@164472@1
+76607:DAv:parA:parADAv:164474 ##EQ DAv@parA@parADAv@164474@1
+76607:DAv:pari:pariDAv:164476 ##EQ DAv@pari@pariDAv@164476@1
+76607:DAv:pra:praDAv:164478 ##EQ DAv@pra@praDAv@164478@1
+76607:DAv:anupra:anupraDAv:164480 ##EQ DAv@anupra@anupraDAv@164480@1
+76607:DAv:saMpra:saMpraDAv:164482 ##EQ DAv@saMpra@saMpraDAv@164482@1
+76639:DU:ava:avaDU:164548 ##EQ DU@ava@avaDU@164548@1
+76639:DU:vyava:vyavaDU:164550 ##EQ DU@vyava@vyavaDU@164550@1
+76639:DU:vyA:vyADU:164552 ##EQ DU@vyA@vyADU@164552@1
+76639:DU:ud:udDU:164554 ##EQ DU@ud@udDU@164554@1
+76639:DU:samud:samudDU:164556 ##EQ DU@samud@samudDU@164556@1
+76639:DU:ni:niDU:164558 ##EQ DU@ni@niDU@164558@1
+76639:DU:pari:pariDU:164560 ##EQ DU@pari@pariDU@164560@1
+76639:DU:vi:viDU:164562 ##EQ DU@vi@viDU@164562@1
+76639:DU:anuvi:anuviDU:164564 ##EQ DU@anuvi@anuviDU@164564@1
+76639:DU:pravi:praviDU:164566 ##EQ DU@pravi@praviDU@164566@9
+76687:DyA:aBi:aBiDyA:164664 ##EQ DyA@aBi@aBiDyA@164664@1
+76687:DyA:upa:upaDyA:164666 ##EQ DyA@upa@upaDyA@164666@9
+76687:DyA:praRi:praRiDyA:164668 ##EQ DyA@praRi@praRiDyA@164668@1
+76709:DvaMs:anu:anuDvaMs:164714 ##EQ DvaMs@anu@anuDvaMs@164714@1
+76709:DvaMs:apa:apaDvaMs:164716 ##EQ DvaMs@apa@apaDvaMs@164716@1
+76709:DvaMs:vini:viniDvaMs:164718 ##EQ DvaMs@vini@viniDvaMs@164718@1
+76709:DvaMs:prati:pratiDvaMs:164720 ##EQ DvaMs@prati@pratiDvaMs@164720@9
+76709:DvaMs:vi:viDvaMs:164722 ##EQ DvaMs@vi@viDvaMs@164722@1
 76776:nad:ud:unnad:164860 ##NEQ nad@ud@udnad@164860@9
 76776:nad:pari:parinad:164862 ##EQ nad@pari@parinad@164862@9
 76786:nand:pratyaBi:pratyaBinand:164884 ##EQ nand@pratyaBi@pratyaBinand@164884@1
@@ -5222,45 +5222,45 @@
 79965:buD:ava:avabuD:171547 ##EQ buD@ava@avabuD@171547@1
 79965:buD:ud:udbuD:171549 ##EQ buD@ud@udbuD@171549@1
 80043:brU:sam:sambrU:171707 ##NEQ brU@sam@saMbrU@171707@1
-80067:Baj:A:ABaj:171759 ##NA 
-80067:Baj:vi:viBaj:171761 ##NA 
-80071:BaYj:nis:nirBaYj:171771 ##NA 
-80102:Bar:ni:niBar:171835 ##NA 
-80102:Bar:pari:pariBar:171837 ##NA 
-80102:Bar:sam:samBar:171839 ##NA 
-80114:Barts:ni:niBarts:171866 ##NA 
-80114:Barts:vinis:vinirBarts:171868 ##NA 
-80136:BA:ava:avaBA:171914 ##NA 
-80136:BA:A:ABA:171916 ##NA 
-80136:BA:ud:udBA:171918 ##NA 
-80136:BA:nis:nirBA:171920 ##NA 
-80136:BA:vinis:vinirBA:171922 ##NA 
-80136:BA:vi:viBA:171924 ##NA 
-80183:BAz:samaBi:samaBiBAz:172022 ##NA 
-80183:BAz:A:ABAz:172024 ##NA 
-80183:BAz:pari:pariBAz:172026 ##NA 
-80190:BAs:vyava:vyavaBAs:172042 ##NA 
-80190:BAs:ud:udBAs:172044 ##NA 
-80190:BAs:prati:pratiBAs:172046 ##NA 
-80199:Bid:ud:udBid:172066 ##NA 
-80199:Bid:vi:viBid:172068 ##NA 
-80199:Bid:pravi:praviBid:172070 ##NA 
-80199:Bid:sam:samBid:172072 ##NA 
-80219:Buj:anu:anuBuj:172114 ##NA 
-80219:Buj:samA:samABuj:172116 ##NA 
-80219:Buj:samupa:samupaBuj:172118 ##NA 
-80219:Buj:sam:samBuj:172120 ##NA 
-80224:BU:anu:anuBU:172134 ##NA 
-80224:BU:ud:udBU:172136 ##NA 
-80224:BU:pari:pariBU:172138 ##NA 
-80224:BU:pra:praBU:172140 ##NA 
-80282:BraMS:vi:viBraMS:172258 ##NA 
-80284:Brajj:ava:avaBrajj:172264 ##NA 
-80285:Bram:ud:udBram:172268 ##NA 
-80285:Bram:pari:pariBram:172270 ##NA 
-80285:Bram:pra:praBram:172272 ##NA 
-80285:Bram:vi:viBram:172274 ##NA 
-80285:Bram:sam:samBram:172276 ##NA 
+80067:Baj:A:ABaj:171759 ##EQ Baj@A@ABaj@171759@1
+80067:Baj:vi:viBaj:171761 ##EQ Baj@vi@viBaj@171761@1
+80071:BaYj:nis:nirBaYj:171771 ##EQ BaYj@nis@nirBaYj@171771@1
+80102:Bar:ni:niBar:171835 ##EQ Bar@ni@niBar@171835@9
+80102:Bar:pari:pariBar:171837 ##EQ Bar@pari@pariBar@171837@9
+80102:Bar:sam:samBar:171839 ##NEQ Bar@sam@saMBar@171839@9
+80114:Barts:ni:niBarts:171866 ##EQ Barts@ni@niBarts@171866@9
+80114:Barts:vinis:vinirBarts:171868 ##EQ Barts@vinis@vinirBarts@171868@1
+80136:BA:ava:avaBA:171914 ##EQ BA@ava@avaBA@171914@1
+80136:BA:A:ABA:171916 ##EQ BA@A@ABA@171916@1
+80136:BA:ud:udBA:171918 ##EQ BA@ud@udBA@171918@1
+80136:BA:nis:nirBA:171920 ##EQ BA@nis@nirBA@171920@1
+80136:BA:vinis:vinirBA:171922 ##EQ BA@vinis@vinirBA@171922@9
+80136:BA:vi:viBA:171924 ##EQ BA@vi@viBA@171924@1
+80183:BAz:samaBi:samaBiBAz:172022 ##EQ BAz@samaBi@samaBiBAz@172022@1
+80183:BAz:A:ABAz:172024 ##EQ BAz@A@ABAz@172024@1
+80183:BAz:pari:pariBAz:172026 ##EQ BAz@pari@pariBAz@172026@1
+80190:BAs:vyava:vyavaBAs:172042 ##EQ BAs@vyava@vyavaBAs@172042@1
+80190:BAs:ud:udBAs:172044 ##EQ BAs@ud@udBAs@172044@1
+80190:BAs:prati:pratiBAs:172046 ##EQ BAs@prati@pratiBAs@172046@1
+80199:Bid:ud:udBid:172066 ##EQ Bid@ud@udBid@172066@1
+80199:Bid:vi:viBid:172068 ##EQ Bid@vi@viBid@172068@1
+80199:Bid:pravi:praviBid:172070 ##EQ Bid@pravi@praviBid@172070@9
+80199:Bid:sam:samBid:172072 ##NEQ Bid@sam@saMBid@172072@1
+80219:Buj:anu:anuBuj:172114 ##EQ Buj@anu@anuBuj@172114@1
+80219:Buj:samA:samABuj:172116 ##EQ Buj@samA@samABuj@172116@1
+80219:Buj:samupa:samupaBuj:172118 ##EQ Buj@samupa@samupaBuj@172118@1
+80219:Buj:sam:samBuj:172120 ##NEQ Buj@sam@saMBuj@172120@1
+80224:BU:anu:anuBU:172134 ##EQ BU@anu@anuBU@172134@1
+80224:BU:ud:udBU:172136 ##EQ BU@ud@udBU@172136@1
+80224:BU:pari:pariBU:172138 ##EQ BU@pari@pariBU@172138@1
+80224:BU:pra:praBU:172140 ##EQ BU@pra@praBU@172140@1
+80282:BraMS:vi:viBraMS:172258 ##EQ BraMS@vi@viBraMS@172258@1
+80284:Brajj:ava:avaBrajj:172264 ##EQ Brajj@ava@avaBrajj@172264@9
+80285:Bram:ud:udBram:172268 ##EQ Bram@ud@udBram@172268@1
+80285:Bram:pari:pariBram:172270 ##EQ Bram@pari@pariBram@172270@1
+80285:Bram:pra:praBram:172272 ##EQ Bram@pra@praBram@172272@1
+80285:Bram:vi:viBram:172274 ##EQ Bram@vi@viBram@172274@1
+80285:Bram:sam:samBram:172276 ##NEQ Bram@sam@saMBram@172276@1
 80310:majj:ud:unmajj:172330 ##EQ majj@ud@unmajj@172330@1
 80310:majj:ni:nimajj:172332 ##EQ majj@ni@nimajj@172332@1
 80347:maT:aDi:aDimaT:172408 ##EQ maT@aDi@aDimaT@172408@9
@@ -5401,7 +5401,7 @@
 81815:yA:aByapa:aByapayA:175638 ##EQ yA@aByapa@aByapayA@175638@9
 81815:yA:pratyapa:pratyapayA:175640 ##EQ yA@pratyapa@pratyapayA@175640@1
 81815:yA:vyapa:vyapayA:175642 ##EQ yA@vyapa@vyapayA@175642@1
-81815:yA:vyApa:vyApayA:175644 ##EQ yA@vyApa@vyApayA@175644@10
+81815:yA:vyApa:vyApayA:175644 ##EQ yA@vyApa@vyApayA@175644@9
 81815:yA:api:apiyA:175646 ##EQ yA@api@apiyA@175646@9
 81815:yA:aBi:aBiyA:175648 ##EQ yA@aBi@aBiyA@175648@1
 81815:yA:pratyaBi:pratyaBiyA:175650 ##EQ yA@pratyaBi@pratyaBiyA@175650@1
@@ -6073,7 +6073,7 @@
 86785:loc:samA:samAloc:187141 ##EQ loc@samA@samAloc@187141@1
 86785:loc:ud:ulloc:187143 ##EQ loc@ud@ulloc@187143@9
 86785:loc:nis:nirloc:187145 ##EQ loc@nis@nirloc@187145@1
-87302:vac:acCa:acCavac:188192 ##NEQ vac@acCa@vacCa@188192@1
+87302:vac:acCa:acCavac:188192 ##EQ vac@acCa@acCavac@188192@9
 87302:vac:ati:ativac:188194 ##EQ vac@ati@ativac@188194@1
 87302:vac:aDi:aDivac:188196 ##EQ vac@aDi@aDivac@188196@1
 87302:vac:anu:anuvac:188198 ##EQ vac@anu@anuvac@188198@1
@@ -6095,7 +6095,7 @@
 87302:vac:prati:prativac:188230 ##EQ vac@prati@prativac@188230@1
 87302:vac:vi:vivac:188232 ##EQ vac@vi@vivac@188232@1
 87302:vac:sam:saMvac:188234 ##EQ vac@sam@saMvac@188234@1
-87492:vaYc:acCa:acCavaYc:188621 ##EQ vaYc@acCa@acCavaYc@188621@10
+87492:vaYc:acCa:acCavaYc:188621 ##EQ vaYc@acCa@acCavaYc@188621@9
 87492:vaYc:anu:anuvaYc:188623 ##EQ vaYc@anu@anuvaYc@188623@9
 87492:vaYc:aBi:aBivaYc:188625 ##EQ vaYc@aBi@aBivaYc@188625@9
 87492:vaYc:A:AvaYc:188627 ##EQ vaYc@A@AvaYc@188627@1
@@ -6278,7 +6278,7 @@
 88455:varRay:vinis:vinirvarRay:190952 ##EQ varRay@vinis@vinirvarRay@190952@9
 88455:varRay:pra:pravarRay:190954 ##EQ varRay@pra@pravarRay@190954@9
 88455:varRay:sam:saMvarRay:190956 ##EQ varRay@sam@saMvarRay@190956@9
-88503:vart:acCa:acCavart:191060 ##EQ vart@acCa@acCavart@191060@10
+88503:vart:acCa:acCavart:191060 ##EQ vart@acCa@acCavart@191060@9
 88503:vart:ati:ativart:191062 ##EQ vart@ati@ativart@191062@9
 88503:vart:aByati:aByativart:191064 ##EQ vart@aByati@aByativart@191064@9
 88503:vart:vyati:vyativart:191066 ##EQ vart@vyati@vyativart@191066@9
@@ -6310,7 +6310,7 @@
 88503:vart:apaparyA:apaparyAvart:191118 ##EQ vart@apaparyA@apaparyAvart@191118@9
 88503:vart:aBiparyA:aBiparyAvart:191120 ##EQ vart@aBiparyA@aBiparyAvart@191120@9
 88503:vart:upaparyA:upaparyAvart:191122 ##EQ vart@upaparyA@upaparyAvart@191122@9
-88503:vart:pratiparyA:pratiparyAvart:191124 ##EQ vart@pratiparyA@pratiparyAvart@191124@10
+88503:vart:pratiparyA:pratiparyAvart:191124 ##EQ vart@pratiparyA@pratiparyAvart@191124@9
 88503:vart:viparyA:viparyAvart:191126 ##EQ vart@viparyA@viparyAvart@191126@9
 88503:vart:prA:prAvart:191128 ##EQ vart@prA@prAvart@191128@9
 88503:vart:pratyA:pratyAvart:191130 ##EQ vart@pratyA@pratyAvart@191130@9
@@ -6326,7 +6326,7 @@
 88503:vart:anuni:anunivart:191150 ##EQ vart@anuni@anunivart@191150@9
 88503:vart:aBini:aBinivart:191152 ##EQ vart@aBini@aBinivart@191152@9
 88503:vart:upani:upanivart:191154 ##EQ vart@upani@upanivart@191154@9
-88503:vart:aByupani:aByupanivart:191156 ##EQ vart@aByupani@aByupanivart@191156@10
+88503:vart:aByupani:aByupanivart:191156 ##EQ vart@aByupani@aByupanivart@191156@9
 88503:vart:parini:parinivart:191158 ##EQ vart@parini@parinivart@191158@9
 88503:vart:pratini:pratinivart:191160 ##EQ vart@pratini@pratinivart@191160@9
 88503:vart:vini:vinivart:191162 ##EQ vart@vini@vinivart@191162@9
@@ -6354,7 +6354,7 @@
 88503:vart:ativi:ativivart:191206 ##EQ vart@ativi@ativivart@191206@9
 88503:vart:anuvi:anuvivart:191208 ##EQ vart@anuvi@anuvivart@191208@9
 88503:vart:sam:saMvart:191210 ##EQ vart@sam@saMvart@191210@9
-88503:vart:aDisam:aDisaMvart:191212 ##EQ vart@aDisam@aDisaMvart@191212@10
+88503:vart:aDisam:aDisaMvart:191212 ##EQ vart@aDisam@aDisaMvart@191212@9
 88503:vart:aBisam:aBisaMvart:191214 ##EQ vart@aBisam@aBisaMvart@191214@9
 88549:varD:ati:ativarD:191315 ##EQ varD@ati@ativarD@191315@9
 88549:varD:aDi:aDivarD:191317 ##EQ varD@aDi@aDivarD@191317@9
@@ -6579,7 +6579,7 @@
 91581:vid:A:Avid:197868 ##EQ vid@A@Avid@197868@1
 91581:vid:samA:samAvid:197870 ##EQ vid@samA@samAvid@197870@1
 91581:vid:ni:nivid:197872 ##EQ vid@ni@nivid@197872@1
-91581:vid:atini:atinivid:197874 ##EQ vid@atini@atinivid@197874@10
+91581:vid:atini:atinivid:197874 ##EQ vid@atini@atinivid@197874@9
 91581:vid:vini:vinivid:197876 ##EQ vid@vini@vinivid@197876@1
 91581:vid:saMni:saMnivid:197878 ##EQ vid@saMni@saMnivid@197878@1
 91581:vid:nis:nirvid:197880 ##EQ vid@nis@nirvid@197880@1
@@ -6642,14 +6642,14 @@
 93196:viS:ni:niviS:201244 ##EQ viS@ni@niviS@201244@1
 93196:viS:aDini:aDiniviS:201246 ##EQ viS@aDini@aDiniviS@201246@9
 93196:viS:aBini:aBiniviS:201248 ##EQ viS@aBini@aBiniviS@201248@1
-93196:viS:pratyaBini:pratyaBiniviS:201250 ##EQ viS@pratyaBini@pratyaBiniviS@201250@10
+93196:viS:pratyaBini:pratyaBiniviS:201250 ##EQ viS@pratyaBini@pratyaBiniviS@201250@9
 93196:viS:upani:upaniviS:201252 ##EQ viS@upani@upaniviS@201252@1
 93196:viS:pariRi:pariRiviS:201254 ##EQ viS@pariRi@pariRiviS@201254@1
 93196:viS:praRi:praRiviS:201256 ##EQ viS@praRi@praRiviS@201256@9
 93196:viS:pratini:pratiniviS:201258 ##EQ viS@pratini@pratiniviS@201258@9
 93196:viS:vini:viniviS:201260 ##EQ viS@vini@viniviS@201260@1
 93196:viS:saMni:saMniviS:201262 ##EQ viS@saMni@saMniviS@201262@1
-93196:viS:aBisaMni:aBisaMniviS:201264 ##EQ viS@aBisaMni@aBisaMniviS@201264@10
+93196:viS:aBisaMni:aBisaMniviS:201264 ##EQ viS@aBisaMni@aBisaMniviS@201264@9
 93196:viS:nis:nirviS:201266 ##EQ viS@nis@nirviS@201266@1
 93196:viS:pari:pariviS:201268 ##EQ viS@pari@pariviS@201268@1
 93196:viS:pra:praviS:201270 ##EQ viS@pra@praviS@201270@1
@@ -6806,402 +6806,402 @@
 96986:vlI:nis:nirvlI:209198 ##EQ vlI@nis@nirvlI@209198@1
 96986:vlI:pra:pravlI:209200 ##EQ vlI@pra@pravlI@209200@1
 96986:vlI:sam:saMvlI:209202 ##EQ vlI@sam@saMvlI@209202@1
-97001:SaMs:ati:atiSaMs:209239 ##NA 
-97001:SaMs:aDi:aDiSaMs:209241 ##NA 
-97001:SaMs:anu:anuSaMs:209243 ##NA 
-97001:SaMs:aBi:aBiSaMs:209245 ##NA 
-97001:SaMs:ava:avaSaMs:209247 ##NA 
-97001:SaMs:A:ASaMs:209249 ##NA 
-97001:SaMs:udA:udASaMs:209251 ##NA 
-97001:SaMs:upA:upASaMs:209253 ##NA 
-97001:SaMs:pratyA:pratyASaMs:209255 ##NA 
-97001:SaMs:samA:samASaMs:209257 ##NA 
-97001:SaMs:ud:ucCaMs:209259 ##NA 
-97001:SaMs:nis:niSSaMs:209261 ##NA 
-97001:SaMs:parA:parASaMs:209263 ##NA 
-97001:SaMs:pra:praSaMs:209265 ##NA 
-97001:SaMs:atipra:atipraSaMs:209267 ##NA 
-97001:SaMs:samatipra:samatipraSaMs:209269 ##NA 
-97001:SaMs:aBipra:aBipraSaMs:209271 ##NA 
-97001:SaMs:prati:pratiSaMs:209273 ##NA 
-97001:SaMs:vi:viSaMs:209275 ##NA 
-97001:SaMs:aBivi:aBiviSaMs:209277 ##NA 
-97001:SaMs:sam:saMSaMs:209279 ##NA 
-97001:SaMs:upasam:upasaMSaMs:209281 ##NA 
-97013:Sak:anu:anuSak:209309 ##NA 
-97013:Sak:pari:pariSak:209311 ##NA 
-97013:Sak:pra:praSak:209313 ##NA 
-97013:Sak:prati:pratiSak:209315 ##NA 
-97013:Sak:sam:saMSak:209317 ##NA 
-97014:Sak:A:ASak:209323 ##NA 
-97014:Sak:upa:upaSak:209325 ##NA 
-97244:SaNk:ati:atiSaNk:209789 ##NA 
-97244:SaNk:vyati:vyatiSaNk:209791 ##NA 
-97244:SaNk:aBi:aBiSaNk:209793 ##NA 
-97244:SaNk:A:ASaNk:209795 ##NA 
-97244:SaNk:upA:upASaNk:209797 ##NA 
-97244:SaNk:upa:upaSaNk:209799 ##NA 
-97244:SaNk:pari:pariSaNk:209801 ##NA 
-97244:SaNk:prati:pratiSaNk:209803 ##NA 
-97244:SaNk:vi:viSaNk:209805 ##NA 
-97244:SaNk:aBivi:aBiviSaNk:209807 ##NA 
-97244:SaNk:sam:saMSaNk:209809 ##NA 
-97434:Sat:apa:apaSat:210198 ##NA 
-97434:Sat:ava:avaSat:210200 ##NA 
-97434:Sat:ni:niSat:210202 ##NA 
-97434:Sat:parA:parASat:210204 ##NA 
-97434:Sat:pra:praSat:210206 ##NA 
-97434:Sat:vi:viSat:210208 ##NA 
-97434:Sat:sam:saMSat:210210 ##NA 
-97732:Sad:vyava:vyavaSad:210813 ##NA 
-97732:Sad:A:ASad:210815 ##NA 
-97732:Sad:pari:pariSad:210817 ##NA 
-97732:Sad:pra:praSad:210819 ##NA 
-97760:Sap:anu:anuSap:210881 ##NA 
-97760:Sap:aBi:aBiSap:210883 ##NA 
-97760:Sap:ava:avaSap:210885 ##NA 
-97760:Sap:pari:pariSap:210887 ##NA 
-97760:Sap:prati:pratiSap:210889 ##NA 
-97760:Sap:sam:saMSap:210891 ##NA 
-97843:Sabday:anu:anuSabday:211060 ##NA 
-97843:Sabday:aBi:aBiSabday:211062 ##NA 
-97843:Sabday:pari:pariSabday:211064 ##NA 
-97843:Sabday:vi:viSabday:211066 ##NA 
-97843:Sabday:sam:saMSabday:211068 ##NA 
-97899:Sam:anu:anuSam:211187 ##NA 
-97899:Sam:aBi:aBiSam:211189 ##NA 
-97899:Sam:ava:avaSam:211191 ##NA 
-97899:Sam:samava:samavaSam:211193 ##NA 
-97899:Sam:upa:upaSam:211195 ##NA 
-97899:Sam:aByupa:aByupaSam:211197 ##NA 
-97899:Sam:vyupa:vyupaSam:211199 ##NA 
-97899:Sam:samupa:samupaSam:211201 ##NA 
-97899:Sam:ni:niSam:211203 ##NA 
-97899:Sam:praRi:praRiSam:211205 ##NA 
-97899:Sam:pari:pariSam:211207 ##NA 
-97899:Sam:pra:praSam:211209 ##NA 
-97899:Sam:anupra:anupraSam:211211 ##NA 
-97899:Sam:saMpra:saMpraSam:211213 ##NA 
-97899:Sam:prati:pratiSam:211215 ##NA 
-97899:Sam:sam:saMSam:211217 ##NA 
-97901:Sam:ni:niSam:211223 ##NA 
-97901:Sam:anuni:anuniSam:211225 ##NA 
-97901:Sam:samanuni:samanuniSam:211227 ##NA 
-97901:Sam:aBini:aBiniSam:211229 ##NA 
-97901:Sam:upani:upaniSam:211231 ##NA 
-97901:Sam:praRi:praRiSam:211233 ##NA 
-97901:Sam:vini:viniSam:211235 ##NA 
-97901:Sam:saMni:saMniSam:211237 ##NA 
-98029:Sar:vyati:vyatiSar:211496 ##NA 
-98029:Sar:anu:anuSar:211498 ##NA 
-98029:Sar:api:apiSar:211500 ##NA 
-98029:Sar:ava:avaSar:211502 ##NA 
-98029:Sar:A:ASar:211504 ##NA 
-98029:Sar:ni:niSar:211506 ##NA 
-98029:Sar:nis:niSSar:211508 ##NA 
-98029:Sar:parA:parASar:211510 ##NA 
-98029:Sar:pari:pariSar:211512 ##NA 
-98029:Sar:pra:praSar:211514 ##NA 
-98029:Sar:prati:pratiSar:211516 ##NA 
-98029:Sar:vi:viSar:211518 ##NA 
-98029:Sar:aBivi:aBiviSar:211520 ##NA 
-98029:Sar:nirvi:nirviSar:211522 ##NA 
-98029:Sar:pravi:praviSar:211524 ##NA 
-98029:Sar:sam:saMSar:211526 ##NA 
-98205:SarD:pra:praSarD:211881 ##NA 
-98205:SarD:atipra:atipraSarD:211883 ##NA 
-98206:SarD:ava:avaSarD:211891 ##NA 
-98206:SarD:vi:viSarD:211893 ##NA 
-98258:Sal:ud:ucCal:211999 ##NA 
-98258:Sal:prod:procCal:212001 ##NA 
-98258:Sal:samud:samucCal:212003 ##NA 
-98354:SaS:ud:ucCaS:212197 ##NA 
-98457:Sas:api:apiSas:212405 ##NA 
-98457:Sas:aBi:aBiSas:212407 ##NA 
-98457:Sas:A:ASas:212409 ##NA 
-98457:Sas:pari:pariSas:212411 ##NA 
-98457:Sas:pra:praSas:212413 ##NA 
-98457:Sas:vi:viSas:212415 ##NA 
-98509:SA:ava:avaSA:212521 ##NA 
-98509:SA:A:ASA:212523 ##NA 
-98509:SA:ni:niSA:212525 ##NA 
-98510:SA:ati:atiSA:212529 ##NA 
-98510:SA:ni:niSA:212531 ##NA 
-98510:SA:sam:saMSA:212533 ##NA 
-98510:SA:visam:visaMSA:212535 ##NA 
-99142:SAs:anu:anuSAs:213804 ##NA 
-99142:SAs:aByanu:aByanuSAs:213806 ##NA 
-99142:SAs:samanu:samanuSAs:213808 ##NA 
-99142:SAs:aBi:aBiSAs:213810 ##NA 
-99142:SAs:A:ASAs:213812 ##NA 
-99142:SAs:saMprA:saMprASAs:213814 ##NA 
-99142:SAs:ud:ucCAs:213816 ##NA 
-99142:SAs:ni:niSAs:213818 ##NA 
-99142:SAs:nis:niSSAs:213820 ##NA 
-99142:SAs:pra:praSAs:213822 ##NA 
-99142:SAs:saMpra:saMpraSAs:213824 ##NA 
-99142:SAs:prati:pratiSAs:213826 ##NA 
-99142:SAs:sam:saMSAs:213828 ##NA 
-99221:Sikz:anu:anuSikz:213993 ##NA 
-99221:Sikz:aBi:aBiSikz:213995 ##NA 
-99221:Sikz:A:ASikz:213997 ##NA 
-99221:Sikz:upa:upaSikz:213999 ##NA 
-99221:Sikz:sam:saMSikz:214001 ##NA 
-99222:Sikz:A:ASikz:214005 ##NA 
-99222:Sikz:upa:upaSikz:214007 ##NA 
-99222:Sikz:prati:pratiSikz:214009 ##NA 
-99222:Sikz:vi:viSikz:214011 ##NA 
-99302:SiNG:ud:ucCiNG:214173 ##NA 
-99302:SiNG:upa:upaSiNG:214175 ##NA 
-99308:SiYj:A:ASiYj:214189 ##NA 
-99308:SiYj:pari:pariSiYj:214191 ##NA 
-99308:SiYj:vi:viSiYj:214193 ##NA 
-99308:SiYj:sam:saMSiYj:214195 ##NA 
-99812:Siz:ati:atiSiz:215208 ##NA 
-99812:Siz:apa:apaSiz:215210 ##NA 
-99812:Siz:ava:avaSiz:215212 ##NA 
-99812:Siz:paryava:paryavaSiz:215214 ##NA 
-99812:Siz:samava:samavaSiz:215216 ##NA 
-99812:Siz:ud:ucCiz:215218 ##NA 
-99812:Siz:nis:niSSiz:215220 ##NA 
-99812:Siz:pari:pariSiz:215222 ##NA 
-99812:Siz:vi:viSiz:215224 ##NA 
-99812:Siz:pravi:praviSiz:215226 ##NA 
-99812:Siz:prativi:prativiSiz:215228 ##NA 
-99812:Siz:sam:saMSiz:215230 ##NA 
-99827:SI:ati:atiSI:215262 ##NA 
-99827:SI:aBi:aBiSI:215264 ##NA 
-99827:SI:ava:avaSI:215266 ##NA 
-99827:SI:nis:niSSI:215268 ##NA 
-99828:SI:ati:atiSI:215278 ##NA 
-99828:SI:vyati:vyatiSI:215280 ##NA 
-99828:SI:aDi:aDiSI:215282 ##NA 
-99828:SI:samaDi:samaDiSI:215284 ##NA 
-99828:SI:anu:anuSI:215286 ##NA 
-99828:SI:aBi:aBiSI:215288 ##NA 
-99828:SI:A:ASI:215290 ##NA 
-99828:SI:anvA:anvASI:215292 ##NA 
-99828:SI:pratyA:pratyASI:215294 ##NA 
-99828:SI:ud:ucCI:215296 ##NA 
-99828:SI:upa:upaSI:215298 ##NA 
-99828:SI:ni:niSI:215300 ##NA 
-99828:SI:nis:niSSI:215302 ##NA 
-99828:SI:pari:pariSI:215304 ##NA 
-99828:SI:pra:praSI:215306 ##NA 
-99828:SI:prati:pratiSI:215308 ##NA 
-99828:SI:vi:viSI:215310 ##NA 
-99828:SI:sam:saMSI:215312 ##NA 
-100050:SIlay:ati:atiSIlay:215758 ##NA 
-100050:SIlay:anu:anuSIlay:215760 ##NA 
-100050:SIlay:pari:pariSIlay:215762 ##NA 
-100050:SIlay:sam:saMSIlay:215764 ##NA 
-100213:Suc:anu:anuSuc:216098 ##NA 
-100213:Suc:samanu:samanuSuc:216100 ##NA 
-100213:Suc:apa:apaSuc:216102 ##NA 
-100213:Suc:aBi:aBiSuc:216104 ##NA 
-100213:Suc:A:ASuc:216106 ##NA 
-100213:Suc:ud:ucCuc:216108 ##NA 
-100213:Suc:ni:niSuc:216110 ##NA 
-100213:Suc:nis:niSSuc:216112 ##NA 
-100213:Suc:pari:pariSuc:216114 ##NA 
-100213:Suc:pra:praSuc:216116 ##NA 
-100213:Suc:anupra:anupraSuc:216118 ##NA 
-100213:Suc:sam:saMSuc:216120 ##NA 
-100350:SuD:pari:pariSuD:216400 ##NA 
-100350:SuD:pra:praSuD:216402 ##NA 
-100350:SuD:aBipra:aBipraSuD:216404 ##NA 
-100350:SuD:vi:viSuD:216406 ##NA 
-100350:SuD:pravi:praviSuD:216408 ##NA 
-100350:SuD:sam:saMSuD:216410 ##NA 
-100350:SuD:parisam:parisaMSuD:216412 ##NA 
-100384:SuB:pra:praSuB:216483 ##NA 
-100386:SuB:ati:atiSuB:216496 ##NA 
-100386:SuB:anu:anuSuB:216498 ##NA 
-100386:SuB:aBi:aBiSuB:216500 ##NA 
-100386:SuB:samaBi:samaBiSuB:216502 ##NA 
-100386:SuB:upa:upaSuB:216504 ##NA 
-100386:SuB:ni:niSuB:216506 ##NA 
-100386:SuB:pari:pariSuB:216508 ##NA 
-100386:SuB:pra:praSuB:216510 ##NA 
-100386:SuB:prati:pratiSuB:216512 ##NA 
-100386:SuB:vi:viSuB:216514 ##NA 
-100386:SuB:sam:saMSuB:216516 ##NA 
-100516:Suz:anu:anuSuz:216780 ##NA 
-100516:Suz:ava:avaSuz:216782 ##NA 
-100516:Suz:ud:ucCuz:216784 ##NA 
-100516:Suz:samud:samucCuz:216786 ##NA 
-100516:Suz:upa:upaSuz:216788 ##NA 
-100516:Suz:pari:pariSuz:216790 ##NA 
-100516:Suz:pra:praSuz:216792 ##NA 
-100516:Suz:prati:pratiSuz:216794 ##NA 
-100516:Suz:vi:viSuz:216796 ##NA 
-100516:Suz:sam:saMSuz:216798 ##NA 
-100518:Suz:A:ASuz:216804 ##NA 
-101272:Scut:aBi:aBiScut:218319 ##NA 
-101272:Scut:ava:avaScut:218321 ##NA 
-101272:Scut:vyava:vyavaScut:218323 ##NA 
-101272:Scut:A:AScut:218325 ##NA 
-101272:Scut:ni:niScut:218327 ##NA 
-101272:Scut:pra:praScut:218329 ##NA 
-101276:SnaT:apa:apaSnaT:218341 ##NA 
-101276:SnaT:aBi:aBiSnaT:218343 ##NA 
-101276:SnaT:ni:niSnaT:218345 ##NA 
-101276:SnaT:parini:pariniSnaT:218347 ##NA 
-101312:SyA:aBi:aBiSyA:218421 ##NA 
-101312:SyA:samaBi:samaBiSyA:218423 ##NA 
-101312:SyA:ava:avaSyA:218425 ##NA 
-101312:SyA:samava:samavaSyA:218427 ##NA 
-101312:SyA:A:ASyA:218429 ##NA 
-101312:SyA:pra:praSyA:218431 ##NA 
-101312:SyA:prati:pratiSyA:218433 ##NA 
-101312:SyA:sam:saMSyA:218435 ##NA 
-101312:SyA:aBisam:aBisaMSyA:218437 ##NA 
-101312:SyA:avasam:avasaMSyA:218439 ##NA 
-101414:SraR:vi:viSraR:218645 ##NA 
-101416:SraT:anu:anuSraT:218653 ##NA 
-101416:SraT:ana:anaSraT:218655 ##NA 
-101416:SraT:ud:ucCraT:218657 ##NA 
-101416:SraT:ni:niSraT:218659 ##NA 
-101416:SraT:pra:praSraT:218661 ##NA 
-101416:SraT:vi:viSraT:218663 ##NA 
-101446:Sram:A:ASram:218727 ##NA 
-101446:Sram:upa:upaSram:218729 ##NA 
-101446:Sram:ni:niSram:218731 ##NA 
-101446:Sram:pari:pariSram:218733 ##NA 
-101446:Sram:saMpari:saMpariSram:218735 ##NA 
-101446:Sram:vi:viSram:218737 ##NA 
-101446:Sram:parivi:pariviSram:218739 ##NA 
-101446:Sram:sam:saMSram:218741 ##NA 
-101467:SramB:ni:niSramB:218785 ##NA 
-101467:SramB:pra:praSramB:218787 ##NA 
-101467:SramB:vi:viSramB:218789 ##NA 
-101467:SramB:ativi:ativiSramB:218791 ##NA 
-101467:SramB:upavi:upaviSramB:218793 ##NA 
-101467:SramB:prativi:prativiSramB:218795 ##NA 
-101501:Sravasy:A:ASravasy:218867 ##NA 
-101517:SrA:aDi:aDiSrA:218903 ##NA 
-101517:SrA:A:ASrA:218905 ##NA 
-101517:SrA:ni:niSrA:218907 ##NA 
-101574:Sri:aDi:aDiSri:219029 ##NA 
-101574:Sri:pratyaDi:pratyaDiSri:219031 ##NA 
-101574:Sri:samaDi:samaDiSri:219033 ##NA 
-101574:Sri:anu:anuSri:219035 ##NA 
-101574:Sri:apa:apaSri:219037 ##NA 
-101574:Sri:aByapa:aByapaSri:219039 ##NA 
-101574:Sri:aBi:aBiSri:219041 ##NA 
-101574:Sri:ava:avaSri:219043 ##NA 
-101574:Sri:upAva:upAvaSri:219045 ##NA 
-101574:Sri:A:ASri:219047 ##NA 
-101574:Sri:anvA:anvASri:219049 ##NA 
-101574:Sri:apA:apASri:219051 ##NA 
-101574:Sri:vyapA:vyapASri:219053 ##NA 
-101574:Sri:saMvyapA:saMvyapASri:219055 ##NA 
-101574:Sri:upA:upASri:219057 ##NA 
-101574:Sri:samupA:samupASri:219059 ##NA 
-101574:Sri:pratyA:pratyASri:219061 ##NA 
-101574:Sri:vyA:vyASri:219063 ##NA 
-101574:Sri:samA:samASri:219065 ##NA 
-101574:Sri:pratisamA:pratisamASri:219067 ##NA 
-101574:Sri:ud:ucCri:219069 ##NA 
-101574:Sri:aByud:aByucCri:219071 ##NA 
-101574:Sri:prod:procCri:219073 ##NA 
-101574:Sri:pratyud:pratyucCri:219075 ##NA 
-101574:Sri:samud:samucCri:219077 ##NA 
-101574:Sri:upa:upaSri:219079 ##NA 
-101574:Sri:ni:niSri:219081 ##NA 
-101574:Sri:aBini:aBiniSri:219083 ##NA 
-101574:Sri:upani:upaniSri:219085 ##NA 
-101574:Sri:upanis:upaniSSri:219087 ##NA 
-101574:Sri:vinis:viniSSri:219089 ##NA 
-101574:Sri:parA:parASri:219091 ##NA 
-101574:Sri:pari:pariSri:219093 ##NA 
-101574:Sri:saMpari:saMpariSri:219095 ##NA 
-101574:Sri:pra:praSri:219097 ##NA 
-101574:Sri:upapra:upapraSri:219099 ##NA 
-101574:Sri:saMpra:saMpraSri:219101 ##NA 
-101574:Sri:prati:pratiSri:219103 ##NA 
-101574:Sri:vi:viSri:219105 ##NA 
-101574:Sri:sam:saMSri:219107 ##NA 
-101574:Sri:aBisam:aBisaMSri:219109 ##NA 
-101574:Sri:upasam:upasaMSri:219111 ##NA 
-101574:Sri:pratisam:pratisaMSri:219113 ##NA 
-101589:Sriz:aBi:aBiSriz:219145 ##NA 
-101589:Sriz:A:ASriz:219147 ##NA 
-101589:Sriz:sam:saMSriz:219149 ##NA 
-101592:SrI:aBi:aBiSrI:219158 ##NA 
-101592:SrI:A:ASrI:219160 ##NA 
-101592:SrI:sam:saMSrI:219162 ##NA 
-101797:Sru:anu:anuSru:219585 ##NA 
-101797:Sru:aBi:aBiSru:219587 ##NA 
-101797:Sru:A:ASru:219589 ##NA 
-101797:Sru:pratyA:pratyASru:219591 ##NA 
-101797:Sru:samA:samASru:219593 ##NA 
-101797:Sru:upa:upaSru:219595 ##NA 
-101797:Sru:samupa:samupaSru:219597 ##NA 
-101797:Sru:pari:pariSru:219599 ##NA 
-101797:Sru:pra:praSru:219601 ##NA 
-101797:Sru:atipra:atipraSru:219603 ##NA 
-101797:Sru:prati:pratiSru:219605 ##NA 
-101797:Sru:saMprati:saMpratiSru:219607 ##NA 
-101797:Sru:vi:viSru:219609 ##NA 
-101797:Sru:aBivi:aBiviSru:219611 ##NA 
-101797:Sru:sam:saMSru:219613 ##NA 
-101797:Sru:aBisam:aBisaMSru:219615 ##NA 
-101797:Sru:pratisam:pratisaMSru:219617 ##NA 
-101798:Sru:A:ASru:219621 ##NA 
-101798:Sru:pra:praSru:219623 ##NA 
-101798:Sru:vi:viSru:219625 ##NA 
-101798:Sru:sam:saMSru:219627 ##NA 
-102014:SlakzRay:sam:saMSlakzRay:220063 ##NA 
-102019:SlaT:A:ASlaT:220077 ##NA 
-102019:SlaT:vi:viSlaT:220079 ##NA 
-102029:SlAG:sam:saMSlAG:220103 ##NA 
-102040:Sliz:A:ASliz:220129 ##NA 
-102040:Sliz:upA:upASliz:220131 ##NA 
-102040:Sliz:samA:samASliz:220133 ##NA 
-102040:Sliz:upa:upaSliz:220135 ##NA 
-102040:Sliz:ni:niSliz:220137 ##NA 
-102040:Sliz:pra:praSliz:220139 ##NA 
-102040:Sliz:vi:viSliz:220141 ##NA 
-102040:Sliz:pravi:praviSliz:220143 ##NA 
-102040:Sliz:sam:saMSliz:220145 ##NA 
-102040:Sliz:aBisam:aBisaMSliz:220147 ##NA 
-102040:Sliz:upasam:upasaMSliz:220149 ##NA 
-102076:Slokay:upa:upaSlokay:220223 ##NA 
-102076:Slokay:sam:saMSlokay:220225 ##NA 
-102102:SvaYc:ud:ucCvaYc:220279 ##NA 
-102166:Svas:anu:anuSvas:220413 ##NA 
-102166:Svas:apa:apaSvas:220415 ##NA 
-102166:Svas:aBi:aBiSvas:220417 ##NA 
-102166:Svas:ava:avaSvas:220419 ##NA 
-102166:Svas:A:ASvas:220421 ##NA 
-102166:Svas:paryA:paryASvas:220423 ##NA 
-102166:Svas:prA:prASvas:220425 ##NA 
-102166:Svas:pratyA:pratyASvas:220427 ##NA 
-102166:Svas:samA:samASvas:220429 ##NA 
-102166:Svas:ud:ucCvas:220431 ##NA 
-102166:Svas:prod:procCvas:220433 ##NA 
-102166:Svas:samud:samucCvas:220435 ##NA 
-102166:Svas:upa:upaSvas:220437 ##NA 
-102166:Svas:ni:niSvas:220439 ##NA 
-102166:Svas:vini:viniSvas:220441 ##NA 
-102166:Svas:nis:niSSvas:220443 ##NA 
-102166:Svas:atinis:atiniSSvas:220445 ##NA 
-102166:Svas:vinis:viniSSvas:220447 ##NA 
-102166:Svas:parA:parASvas:220449 ##NA 
-102166:Svas:pra:praSvas:220451 ##NA 
-102166:Svas:aBipra:aBipraSvas:220453 ##NA 
-102166:Svas:prati:pratiSvas:220455 ##NA 
-102166:Svas:vi:viSvas:220457 ##NA 
-102166:Svas:ativi:ativiSvas:220459 ##NA 
-102166:Svas:aBivi:aBiviSvas:220461 ##NA 
-102166:Svas:parivi:pariviSvas:220463 ##NA 
-102183:SvA:ud:ucCvA:220505 ##NA 
-102183:SvA:pra:praSvA:220507 ##NA 
-102183:SvA:vi:viSvA:220509 ##NA 
-102183:SvA:sam:saMSvA:220511 ##NA 
-102224:Svit:ava:avaSvit:220595 ##NA 
-102224:Svit:vi:viSvit:220597 ##NA 
+97001:SaMs:ati:atiSaMs:209239 ##EQ SaMs@ati@atiSaMs@209239@1
+97001:SaMs:aDi:aDiSaMs:209241 ##EQ SaMs@aDi@aDiSaMs@209241@9
+97001:SaMs:anu:anuSaMs:209243 ##EQ SaMs@anu@anuSaMs@209243@1
+97001:SaMs:aBi:aBiSaMs:209245 ##EQ SaMs@aBi@aBiSaMs@209245@1
+97001:SaMs:ava:avaSaMs:209247 ##EQ SaMs@ava@avaSaMs@209247@9
+97001:SaMs:A:ASaMs:209249 ##EQ SaMs@A@ASaMs@209249@1
+97001:SaMs:udA:udASaMs:209251 ##EQ SaMs@udA@udASaMs@209251@1
+97001:SaMs:upA:upASaMs:209253 ##EQ SaMs@upA@upASaMs@209253@9
+97001:SaMs:pratyA:pratyASaMs:209255 ##EQ SaMs@pratyA@pratyASaMs@209255@1
+97001:SaMs:samA:samASaMs:209257 ##EQ SaMs@samA@samASaMs@209257@1
+97001:SaMs:ud:ucCaMs:209259 ##NEQ SaMs@ud@utSaMs@209259@9
+97001:SaMs:nis:niSSaMs:209261 ##NEQ SaMs@nis@nizSaMs@209261@9
+97001:SaMs:parA:parASaMs:209263 ##EQ SaMs@parA@parASaMs@209263@9
+97001:SaMs:pra:praSaMs:209265 ##EQ SaMs@pra@praSaMs@209265@1
+97001:SaMs:atipra:atipraSaMs:209267 ##EQ SaMs@atipra@atipraSaMs@209267@1
+97001:SaMs:samatipra:samatipraSaMs:209269 ##EQ SaMs@samatipra@samatipraSaMs@209269@1
+97001:SaMs:aBipra:aBipraSaMs:209271 ##EQ SaMs@aBipra@aBipraSaMs@209271@1
+97001:SaMs:prati:pratiSaMs:209273 ##EQ SaMs@prati@pratiSaMs@209273@1
+97001:SaMs:vi:viSaMs:209275 ##EQ SaMs@vi@viSaMs@209275@1
+97001:SaMs:aBivi:aBiviSaMs:209277 ##EQ SaMs@aBivi@aBiviSaMs@209277@1
+97001:SaMs:sam:saMSaMs:209279 ##EQ SaMs@sam@saMSaMs@209279@1
+97001:SaMs:upasam:upasaMSaMs:209281 ##EQ SaMs@upasam@upasaMSaMs@209281@1
+97013:Sak:anu:anuSak:209309 ##EQ Sak@anu@anuSak@209309@1
+97013:Sak:pari:pariSak:209311 ##EQ Sak@pari@pariSak@209311@9
+97013:Sak:pra:praSak:209313 ##EQ Sak@pra@praSak@209313@1
+97013:Sak:prati:pratiSak:209315 ##EQ Sak@prati@pratiSak@209315@1
+97013:Sak:sam:saMSak:209317 ##EQ Sak@sam@saMSak@209317@1
+97014:Sak:A:ASak:209323 ##EQ Sak@A@ASak@209323@1
+97014:Sak:upa:upaSak:209325 ##EQ Sak@upa@upaSak@209325@1
+97244:SaNk:ati:atiSaNk:209789 ##EQ SaNk@ati@atiSaNk@209789@1
+97244:SaNk:vyati:vyatiSaNk:209791 ##EQ SaNk@vyati@vyatiSaNk@209791@9
+97244:SaNk:aBi:aBiSaNk:209793 ##EQ SaNk@aBi@aBiSaNk@209793@1
+97244:SaNk:A:ASaNk:209795 ##EQ SaNk@A@ASaNk@209795@1
+97244:SaNk:upA:upASaNk:209797 ##EQ SaNk@upA@upASaNk@209797@1
+97244:SaNk:upa:upaSaNk:209799 ##EQ SaNk@upa@upaSaNk@209799@1
+97244:SaNk:pari:pariSaNk:209801 ##EQ SaNk@pari@pariSaNk@209801@1
+97244:SaNk:prati:pratiSaNk:209803 ##EQ SaNk@prati@pratiSaNk@209803@1
+97244:SaNk:vi:viSaNk:209805 ##EQ SaNk@vi@viSaNk@209805@1
+97244:SaNk:aBivi:aBiviSaNk:209807 ##EQ SaNk@aBivi@aBiviSaNk@209807@9
+97244:SaNk:sam:saMSaNk:209809 ##EQ SaNk@sam@saMSaNk@209809@1
+97434:Sat:apa:apaSat:210198 ##EQ Sat@apa@apaSat@210198@9
+97434:Sat:ava:avaSat:210200 ##EQ Sat@ava@avaSat@210200@9
+97434:Sat:ni:niSat:210202 ##EQ Sat@ni@niSat@210202@9
+97434:Sat:parA:parASat:210204 ##EQ Sat@parA@parASat@210204@9
+97434:Sat:pra:praSat:210206 ##EQ Sat@pra@praSat@210206@9
+97434:Sat:vi:viSat:210208 ##EQ Sat@vi@viSat@210208@1
+97434:Sat:sam:saMSat:210210 ##EQ Sat@sam@saMSat@210210@1
+97732:Sad:vyava:vyavaSad:210813 ##EQ Sad@vyava@vyavaSad@210813@1
+97732:Sad:A:ASad:210815 ##EQ Sad@A@ASad@210815@1
+97732:Sad:pari:pariSad:210817 ##EQ Sad@pari@pariSad@210817@9
+97732:Sad:pra:praSad:210819 ##EQ Sad@pra@praSad@210819@1
+97760:Sap:anu:anuSap:210881 ##EQ Sap@anu@anuSap@210881@1
+97760:Sap:aBi:aBiSap:210883 ##EQ Sap@aBi@aBiSap@210883@1
+97760:Sap:ava:avaSap:210885 ##EQ Sap@ava@avaSap@210885@9
+97760:Sap:pari:pariSap:210887 ##EQ Sap@pari@pariSap@210887@1
+97760:Sap:prati:pratiSap:210889 ##EQ Sap@prati@pratiSap@210889@1
+97760:Sap:sam:saMSap:210891 ##EQ Sap@sam@saMSap@210891@1
+97843:Sabday:anu:anuSabday:211060 ##EQ Sabday@anu@anuSabday@211060@9
+97843:Sabday:aBi:aBiSabday:211062 ##EQ Sabday@aBi@aBiSabday@211062@9
+97843:Sabday:pari:pariSabday:211064 ##EQ Sabday@pari@pariSabday@211064@9
+97843:Sabday:vi:viSabday:211066 ##EQ Sabday@vi@viSabday@211066@9
+97843:Sabday:sam:saMSabday:211068 ##EQ Sabday@sam@saMSabday@211068@9
+97899:Sam:anu:anuSam:211187 ##EQ Sam@anu@anuSam@211187@1
+97899:Sam:aBi:aBiSam:211189 ##EQ Sam@aBi@aBiSam@211189@1
+97899:Sam:ava:avaSam:211191 ##EQ Sam@ava@avaSam@211191@9
+97899:Sam:samava:samavaSam:211193 ##EQ Sam@samava@samavaSam@211193@9
+97899:Sam:upa:upaSam:211195 ##EQ Sam@upa@upaSam@211195@1
+97899:Sam:aByupa:aByupaSam:211197 ##EQ Sam@aByupa@aByupaSam@211197@9
+97899:Sam:vyupa:vyupaSam:211199 ##EQ Sam@vyupa@vyupaSam@211199@1
+97899:Sam:samupa:samupaSam:211201 ##EQ Sam@samupa@samupaSam@211201@1
+97899:Sam:ni:niSam:211203 ##EQ Sam@ni@niSam@211203@1
+97899:Sam:praRi:praRiSam:211205 ##EQ Sam@praRi@praRiSam@211205@1
+97899:Sam:pari:pariSam:211207 ##EQ Sam@pari@pariSam@211207@1
+97899:Sam:pra:praSam:211209 ##EQ Sam@pra@praSam@211209@1
+97899:Sam:anupra:anupraSam:211211 ##EQ Sam@anupra@anupraSam@211211@9
+97899:Sam:saMpra:saMpraSam:211213 ##EQ Sam@saMpra@saMpraSam@211213@9
+97899:Sam:prati:pratiSam:211215 ##EQ Sam@prati@pratiSam@211215@1
+97899:Sam:sam:saMSam:211217 ##EQ Sam@sam@saMSam@211217@1
+97901:Sam:ni:niSam:211223 ##EQ Sam@ni@niSam@211223@1
+97901:Sam:anuni:anuniSam:211225 ##EQ Sam@anuni@anuniSam@211225@1
+97901:Sam:samanuni:samanuniSam:211227 ##EQ Sam@samanuni@samanuniSam@211227@1
+97901:Sam:aBini:aBiniSam:211229 ##EQ Sam@aBini@aBiniSam@211229@1
+97901:Sam:upani:upaniSam:211231 ##EQ Sam@upani@upaniSam@211231@1
+97901:Sam:praRi:praRiSam:211233 ##EQ Sam@praRi@praRiSam@211233@1
+97901:Sam:vini:viniSam:211235 ##EQ Sam@vini@viniSam@211235@1
+97901:Sam:saMni:saMniSam:211237 ##EQ Sam@saMni@saMniSam@211237@1
+98029:Sar:vyati:vyatiSar:211496 ##EQ Sar@vyati@vyatiSar@211496@9
+98029:Sar:anu:anuSar:211498 ##EQ Sar@anu@anuSar@211498@9
+98029:Sar:api:apiSar:211500 ##EQ Sar@api@apiSar@211500@9
+98029:Sar:ava:avaSar:211502 ##EQ Sar@ava@avaSar@211502@9
+98029:Sar:A:ASar:211504 ##EQ Sar@A@ASar@211504@9
+98029:Sar:ni:niSar:211506 ##EQ Sar@ni@niSar@211506@9
+98029:Sar:nis:niSSar:211508 ##NEQ Sar@nis@nizSar@211508@9
+98029:Sar:parA:parASar:211510 ##EQ Sar@parA@parASar@211510@9
+98029:Sar:pari:pariSar:211512 ##EQ Sar@pari@pariSar@211512@9
+98029:Sar:pra:praSar:211514 ##EQ Sar@pra@praSar@211514@9
+98029:Sar:prati:pratiSar:211516 ##EQ Sar@prati@pratiSar@211516@9
+98029:Sar:vi:viSar:211518 ##EQ Sar@vi@viSar@211518@9
+98029:Sar:aBivi:aBiviSar:211520 ##EQ Sar@aBivi@aBiviSar@211520@9
+98029:Sar:nirvi:nirviSar:211522 ##EQ Sar@nirvi@nirviSar@211522@9
+98029:Sar:pravi:praviSar:211524 ##EQ Sar@pravi@praviSar@211524@9
+98029:Sar:sam:saMSar:211526 ##EQ Sar@sam@saMSar@211526@9
+98205:SarD:pra:praSarD:211881 ##EQ SarD@pra@praSarD@211881@9
+98205:SarD:atipra:atipraSarD:211883 ##EQ SarD@atipra@atipraSarD@211883@9
+98206:SarD:ava:avaSarD:211891 ##EQ SarD@ava@avaSarD@211891@9
+98206:SarD:vi:viSarD:211893 ##EQ SarD@vi@viSarD@211893@9
+98258:Sal:ud:ucCal:211999 ##NEQ Sal@ud@utSal@211999@9
+98258:Sal:prod:procCal:212001 ##NEQ Sal@prod@prodSal@212001@9
+98258:Sal:samud:samucCal:212003 ##NEQ Sal@samud@samutSal@212003@9
+98354:SaS:ud:ucCaS:212197 ##NEQ SaS@ud@utSaS@212197@9
+98457:Sas:api:apiSas:212405 ##EQ Sas@api@apiSas@212405@1
+98457:Sas:aBi:aBiSas:212407 ##EQ Sas@aBi@aBiSas@212407@1
+98457:Sas:A:ASas:212409 ##EQ Sas@A@ASas@212409@1
+98457:Sas:pari:pariSas:212411 ##EQ Sas@pari@pariSas@212411@9
+98457:Sas:pra:praSas:212413 ##EQ Sas@pra@praSas@212413@1
+98457:Sas:vi:viSas:212415 ##EQ Sas@vi@viSas@212415@1
+98509:SA:ava:avaSA:212521 ##EQ SA@ava@avaSA@212521@1
+98509:SA:A:ASA:212523 ##EQ SA@A@ASA@212523@1
+98509:SA:ni:niSA:212525 ##EQ SA@ni@niSA@212525@1
+98510:SA:ati:atiSA:212529 ##EQ SA@ati@atiSA@212529@9
+98510:SA:ni:niSA:212531 ##EQ SA@ni@niSA@212531@1
+98510:SA:sam:saMSA:212533 ##EQ SA@sam@saMSA@212533@9
+98510:SA:visam:visaMSA:212535 ##EQ SA@visam@visaMSA@212535@9
+99142:SAs:anu:anuSAs:213804 ##EQ SAs@anu@anuSAs@213804@1
+99142:SAs:aByanu:aByanuSAs:213806 ##EQ SAs@aByanu@aByanuSAs@213806@1
+99142:SAs:samanu:samanuSAs:213808 ##EQ SAs@samanu@samanuSAs@213808@1
+99142:SAs:aBi:aBiSAs:213810 ##EQ SAs@aBi@aBiSAs@213810@1
+99142:SAs:A:ASAs:213812 ##EQ SAs@A@ASAs@213812@1
+99142:SAs:saMprA:saMprASAs:213814 ##EQ SAs@saMprA@saMprASAs@213814@9
+99142:SAs:ud:ucCAs:213816 ##NEQ SAs@ud@utSAs@213816@9
+99142:SAs:ni:niSAs:213818 ##EQ SAs@ni@niSAs@213818@1
+99142:SAs:nis:niSSAs:213820 ##NEQ SAs@nis@nizSAs@213820@9
+99142:SAs:pra:praSAs:213822 ##EQ SAs@pra@praSAs@213822@1
+99142:SAs:saMpra:saMpraSAs:213824 ##EQ SAs@saMpra@saMpraSAs@213824@1
+99142:SAs:prati:pratiSAs:213826 ##EQ SAs@prati@pratiSAs@213826@9
+99142:SAs:sam:saMSAs:213828 ##EQ SAs@sam@saMSAs@213828@1
+99221:Sikz:anu:anuSikz:213993 ##EQ Sikz@anu@anuSikz@213993@1
+99221:Sikz:aBi:aBiSikz:213995 ##EQ Sikz@aBi@aBiSikz@213995@1
+99221:Sikz:A:ASikz:213997 ##EQ Sikz@A@ASikz@213997@9
+99221:Sikz:upa:upaSikz:213999 ##EQ Sikz@upa@upaSikz@213999@9
+99221:Sikz:sam:saMSikz:214001 ##EQ Sikz@sam@saMSikz@214001@1
+99222:Sikz:A:ASikz:214005 ##EQ Sikz@A@ASikz@214005@9
+99222:Sikz:upa:upaSikz:214007 ##EQ Sikz@upa@upaSikz@214007@9
+99222:Sikz:prati:pratiSikz:214009 ##EQ Sikz@prati@pratiSikz@214009@1
+99222:Sikz:vi:viSikz:214011 ##EQ Sikz@vi@viSikz@214011@1
+99302:SiNG:ud:ucCiNG:214173 ##NEQ SiNG@ud@utSiNG@214173@9
+99302:SiNG:upa:upaSiNG:214175 ##EQ SiNG@upa@upaSiNG@214175@1
+99308:SiYj:A:ASiYj:214189 ##EQ SiYj@A@ASiYj@214189@1
+99308:SiYj:pari:pariSiYj:214191 ##EQ SiYj@pari@pariSiYj@214191@9
+99308:SiYj:vi:viSiYj:214193 ##EQ SiYj@vi@viSiYj@214193@1
+99308:SiYj:sam:saMSiYj:214195 ##EQ SiYj@sam@saMSiYj@214195@1
+99812:Siz:ati:atiSiz:215208 ##EQ Siz@ati@atiSiz@215208@1
+99812:Siz:apa:apaSiz:215210 ##EQ Siz@apa@apaSiz@215210@1
+99812:Siz:ava:avaSiz:215212 ##EQ Siz@ava@avaSiz@215212@1
+99812:Siz:paryava:paryavaSiz:215214 ##EQ Siz@paryava@paryavaSiz@215214@1
+99812:Siz:samava:samavaSiz:215216 ##EQ Siz@samava@samavaSiz@215216@1
+99812:Siz:ud:ucCiz:215218 ##NEQ Siz@ud@utSiz@215218@9
+99812:Siz:nis:niSSiz:215220 ##NEQ Siz@nis@nizSiz@215220@9
+99812:Siz:pari:pariSiz:215222 ##EQ Siz@pari@pariSiz@215222@1
+99812:Siz:vi:viSiz:215224 ##EQ Siz@vi@viSiz@215224@1
+99812:Siz:pravi:praviSiz:215226 ##EQ Siz@pravi@praviSiz@215226@1
+99812:Siz:prativi:prativiSiz:215228 ##EQ Siz@prativi@prativiSiz@215228@9
+99812:Siz:sam:saMSiz:215230 ##EQ Siz@sam@saMSiz@215230@9
+99827:SI:ati:atiSI:215262 ##EQ SI@ati@atiSI@215262@1
+99827:SI:aBi:aBiSI:215264 ##EQ SI@aBi@aBiSI@215264@1
+99827:SI:ava:avaSI:215266 ##EQ SI@ava@avaSI@215266@1
+99827:SI:nis:niSSI:215268 ##NEQ SI@nis@nizSI@215268@9
+99828:SI:ati:atiSI:215278 ##EQ SI@ati@atiSI@215278@1
+99828:SI:vyati:vyatiSI:215280 ##EQ SI@vyati@vyatiSI@215280@1
+99828:SI:aDi:aDiSI:215282 ##EQ SI@aDi@aDiSI@215282@1
+99828:SI:samaDi:samaDiSI:215284 ##EQ SI@samaDi@samaDiSI@215284@1
+99828:SI:anu:anuSI:215286 ##EQ SI@anu@anuSI@215286@1
+99828:SI:aBi:aBiSI:215288 ##EQ SI@aBi@aBiSI@215288@1
+99828:SI:A:ASI:215290 ##EQ SI@A@ASI@215290@1
+99828:SI:anvA:anvASI:215292 ##EQ SI@anvA@anvASI@215292@1
+99828:SI:pratyA:pratyASI:215294 ##EQ SI@pratyA@pratyASI@215294@1
+99828:SI:ud:ucCI:215296 ##NEQ SI@ud@utSI@215296@9
+99828:SI:upa:upaSI:215298 ##EQ SI@upa@upaSI@215298@1
+99828:SI:ni:niSI:215300 ##EQ SI@ni@niSI@215300@9
+99828:SI:nis:niSSI:215302 ##NEQ SI@nis@nizSI@215302@9
+99828:SI:pari:pariSI:215304 ##EQ SI@pari@pariSI@215304@1
+99828:SI:pra:praSI:215306 ##EQ SI@pra@praSI@215306@1
+99828:SI:prati:pratiSI:215308 ##EQ SI@prati@pratiSI@215308@1
+99828:SI:vi:viSI:215310 ##EQ SI@vi@viSI@215310@1
+99828:SI:sam:saMSI:215312 ##EQ SI@sam@saMSI@215312@1
+100050:SIlay:ati:atiSIlay:215758 ##EQ SIlay@ati@atiSIlay@215758@9
+100050:SIlay:anu:anuSIlay:215760 ##EQ SIlay@anu@anuSIlay@215760@9
+100050:SIlay:pari:pariSIlay:215762 ##EQ SIlay@pari@pariSIlay@215762@9
+100050:SIlay:sam:saMSIlay:215764 ##EQ SIlay@sam@saMSIlay@215764@9
+100213:Suc:anu:anuSuc:216098 ##EQ Suc@anu@anuSuc@216098@1
+100213:Suc:samanu:samanuSuc:216100 ##EQ Suc@samanu@samanuSuc@216100@1
+100213:Suc:apa:apaSuc:216102 ##EQ Suc@apa@apaSuc@216102@1
+100213:Suc:aBi:aBiSuc:216104 ##EQ Suc@aBi@aBiSuc@216104@1
+100213:Suc:A:ASuc:216106 ##EQ Suc@A@ASuc@216106@1
+100213:Suc:ud:ucCuc:216108 ##NEQ Suc@ud@utSuc@216108@9
+100213:Suc:ni:niSuc:216110 ##EQ Suc@ni@niSuc@216110@1
+100213:Suc:nis:niSSuc:216112 ##NEQ Suc@nis@nizSuc@216112@9
+100213:Suc:pari:pariSuc:216114 ##EQ Suc@pari@pariSuc@216114@1
+100213:Suc:pra:praSuc:216116 ##EQ Suc@pra@praSuc@216116@1
+100213:Suc:anupra:anupraSuc:216118 ##EQ Suc@anupra@anupraSuc@216118@1
+100213:Suc:sam:saMSuc:216120 ##EQ Suc@sam@saMSuc@216120@1
+100350:SuD:pari:pariSuD:216400 ##EQ SuD@pari@pariSuD@216400@1
+100350:SuD:pra:praSuD:216402 ##EQ SuD@pra@praSuD@216402@9
+100350:SuD:aBipra:aBipraSuD:216404 ##EQ SuD@aBipra@aBipraSuD@216404@1
+100350:SuD:vi:viSuD:216406 ##EQ SuD@vi@viSuD@216406@1
+100350:SuD:pravi:praviSuD:216408 ##EQ SuD@pravi@praviSuD@216408@1
+100350:SuD:sam:saMSuD:216410 ##EQ SuD@sam@saMSuD@216410@1
+100350:SuD:parisam:parisaMSuD:216412 ##EQ SuD@parisam@parisaMSuD@216412@9
+100384:SuB:pra:praSuB:216483 ##EQ SuB@pra@praSuB@216483@1
+100386:SuB:ati:atiSuB:216496 ##EQ SuB@ati@atiSuB@216496@1
+100386:SuB:anu:anuSuB:216498 ##EQ SuB@anu@anuSuB@216498@9
+100386:SuB:aBi:aBiSuB:216500 ##EQ SuB@aBi@aBiSuB@216500@1
+100386:SuB:samaBi:samaBiSuB:216502 ##EQ SuB@samaBi@samaBiSuB@216502@1
+100386:SuB:upa:upaSuB:216504 ##EQ SuB@upa@upaSuB@216504@1
+100386:SuB:ni:niSuB:216506 ##EQ SuB@ni@niSuB@216506@1
+100386:SuB:pari:pariSuB:216508 ##EQ SuB@pari@pariSuB@216508@1
+100386:SuB:pra:praSuB:216510 ##EQ SuB@pra@praSuB@216510@1
+100386:SuB:prati:pratiSuB:216512 ##EQ SuB@prati@pratiSuB@216512@9
+100386:SuB:vi:viSuB:216514 ##EQ SuB@vi@viSuB@216514@1
+100386:SuB:sam:saMSuB:216516 ##EQ SuB@sam@saMSuB@216516@1
+100516:Suz:anu:anuSuz:216780 ##EQ Suz@anu@anuSuz@216780@1
+100516:Suz:ava:avaSuz:216782 ##EQ Suz@ava@avaSuz@216782@1
+100516:Suz:ud:ucCuz:216784 ##NEQ Suz@ud@utSuz@216784@9
+100516:Suz:samud:samucCuz:216786 ##NEQ Suz@samud@samutSuz@216786@9
+100516:Suz:upa:upaSuz:216788 ##EQ Suz@upa@upaSuz@216788@1
+100516:Suz:pari:pariSuz:216790 ##EQ Suz@pari@pariSuz@216790@1
+100516:Suz:pra:praSuz:216792 ##EQ Suz@pra@praSuz@216792@1
+100516:Suz:prati:pratiSuz:216794 ##EQ Suz@prati@pratiSuz@216794@1
+100516:Suz:vi:viSuz:216796 ##EQ Suz@vi@viSuz@216796@1
+100516:Suz:sam:saMSuz:216798 ##EQ Suz@sam@saMSuz@216798@1
+100518:Suz:A:ASuz:216804 ##EQ Suz@A@ASuz@216804@1
+101272:Scut:aBi:aBiScut:218319 ##EQ Scut@aBi@aBiScut@218319@1
+101272:Scut:ava:avaScut:218321 ##EQ Scut@ava@avaScut@218321@1
+101272:Scut:vyava:vyavaScut:218323 ##EQ Scut@vyava@vyavaScut@218323@1
+101272:Scut:A:AScut:218325 ##EQ Scut@A@AScut@218325@1
+101272:Scut:ni:niScut:218327 ##EQ Scut@ni@niScut@218327@1
+101272:Scut:pra:praScut:218329 ##EQ Scut@pra@praScut@218329@1
+101276:SnaT:apa:apaSnaT:218341 ##EQ SnaT@apa@apaSnaT@218341@1
+101276:SnaT:aBi:aBiSnaT:218343 ##EQ SnaT@aBi@aBiSnaT@218343@1
+101276:SnaT:ni:niSnaT:218345 ##EQ SnaT@ni@niSnaT@218345@1
+101276:SnaT:parini:pariniSnaT:218347 ##EQ SnaT@parini@pariniSnaT@218347@1
+101312:SyA:aBi:aBiSyA:218421 ##EQ SyA@aBi@aBiSyA@218421@9
+101312:SyA:samaBi:samaBiSyA:218423 ##EQ SyA@samaBi@samaBiSyA@218423@9
+101312:SyA:ava:avaSyA:218425 ##EQ SyA@ava@avaSyA@218425@1
+101312:SyA:samava:samavaSyA:218427 ##EQ SyA@samava@samavaSyA@218427@9
+101312:SyA:A:ASyA:218429 ##EQ SyA@A@ASyA@218429@1
+101312:SyA:pra:praSyA:218431 ##EQ SyA@pra@praSyA@218431@9
+101312:SyA:prati:pratiSyA:218433 ##EQ SyA@prati@pratiSyA@218433@1
+101312:SyA:sam:saMSyA:218435 ##EQ SyA@sam@saMSyA@218435@9
+101312:SyA:aBisam:aBisaMSyA:218437 ##EQ SyA@aBisam@aBisaMSyA@218437@9
+101312:SyA:avasam:avasaMSyA:218439 ##EQ SyA@avasam@avasaMSyA@218439@9
+101414:SraR:vi:viSraR:218645 ##EQ SraR@vi@viSraR@218645@1
+101416:SraT:anu:anuSraT:218653 ##EQ SraT@anu@anuSraT@218653@1
+101416:SraT:ana:anaSraT:218655 ##NEQ SraT@ana@SraTana@218655@1
+101416:SraT:ud:ucCraT:218657 ##NEQ SraT@ud@utSraT@218657@9
+101416:SraT:ni:niSraT:218659 ##EQ SraT@ni@niSraT@218659@1
+101416:SraT:pra:praSraT:218661 ##EQ SraT@pra@praSraT@218661@9
+101416:SraT:vi:viSraT:218663 ##EQ SraT@vi@viSraT@218663@1
+101446:Sram:A:ASram:218727 ##EQ Sram@A@ASram@218727@1
+101446:Sram:upa:upaSram:218729 ##EQ Sram@upa@upaSram@218729@1
+101446:Sram:ni:niSram:218731 ##EQ Sram@ni@niSram@218731@9
+101446:Sram:pari:pariSram:218733 ##EQ Sram@pari@pariSram@218733@1
+101446:Sram:saMpari:saMpariSram:218735 ##EQ Sram@saMpari@saMpariSram@218735@9
+101446:Sram:vi:viSram:218737 ##EQ Sram@vi@viSram@218737@1
+101446:Sram:parivi:pariviSram:218739 ##EQ Sram@parivi@pariviSram@218739@9
+101446:Sram:sam:saMSram:218741 ##EQ Sram@sam@saMSram@218741@9
+101467:SramB:ni:niSramB:218785 ##EQ SramB@ni@niSramB@218785@9
+101467:SramB:pra:praSramB:218787 ##EQ SramB@pra@praSramB@218787@9
+101467:SramB:vi:viSramB:218789 ##EQ SramB@vi@viSramB@218789@1
+101467:SramB:ativi:ativiSramB:218791 ##EQ SramB@ativi@ativiSramB@218791@1
+101467:SramB:upavi:upaviSramB:218793 ##EQ SramB@upavi@upaviSramB@218793@1
+101467:SramB:prativi:prativiSramB:218795 ##EQ SramB@prativi@prativiSramB@218795@9
+101501:Sravasy:A:ASravasy:218867 ##EQ Sravasy@A@ASravasy@218867@9
+101517:SrA:aDi:aDiSrA:218903 ##EQ SrA@aDi@aDiSrA@218903@1
+101517:SrA:A:ASrA:218905 ##EQ SrA@A@ASrA@218905@9
+101517:SrA:ni:niSrA:218907 ##EQ SrA@ni@niSrA@218907@1
+101574:Sri:aDi:aDiSri:219029 ##EQ Sri@aDi@aDiSri@219029@1
+101574:Sri:pratyaDi:pratyaDiSri:219031 ##EQ Sri@pratyaDi@pratyaDiSri@219031@1
+101574:Sri:samaDi:samaDiSri:219033 ##EQ Sri@samaDi@samaDiSri@219033@1
+101574:Sri:anu:anuSri:219035 ##EQ Sri@anu@anuSri@219035@1
+101574:Sri:apa:apaSri:219037 ##EQ Sri@apa@apaSri@219037@1
+101574:Sri:aByapa:aByapaSri:219039 ##EQ Sri@aByapa@aByapaSri@219039@1
+101574:Sri:aBi:aBiSri:219041 ##EQ Sri@aBi@aBiSri@219041@1
+101574:Sri:ava:avaSri:219043 ##EQ Sri@ava@avaSri@219043@9
+101574:Sri:upAva:upAvaSri:219045 ##EQ Sri@upAva@upAvaSri@219045@1
+101574:Sri:A:ASri:219047 ##EQ Sri@A@ASri@219047@1
+101574:Sri:anvA:anvASri:219049 ##EQ Sri@anvA@anvASri@219049@1
+101574:Sri:apA:apASri:219051 ##EQ Sri@apA@apASri@219051@1
+101574:Sri:vyapA:vyapASri:219053 ##EQ Sri@vyapA@vyapASri@219053@1
+101574:Sri:saMvyapA:saMvyapASri:219055 ##EQ Sri@saMvyapA@saMvyapASri@219055@10
+101574:Sri:upA:upASri:219057 ##EQ Sri@upA@upASri@219057@1
+101574:Sri:samupA:samupASri:219059 ##EQ Sri@samupA@samupASri@219059@1
+101574:Sri:pratyA:pratyASri:219061 ##EQ Sri@pratyA@pratyASri@219061@9
+101574:Sri:vyA:vyASri:219063 ##EQ Sri@vyA@vyASri@219063@9
+101574:Sri:samA:samASri:219065 ##EQ Sri@samA@samASri@219065@1
+101574:Sri:pratisamA:pratisamASri:219067 ##EQ Sri@pratisamA@pratisamASri@219067@9
+101574:Sri:ud:ucCri:219069 ##NEQ Sri@ud@utSri@219069@9
+101574:Sri:aByud:aByucCri:219071 ##NEQ Sri@aByud@aByutSri@219071@9
+101574:Sri:prod:procCri:219073 ##NEQ Sri@prod@prodSri@219073@9
+101574:Sri:pratyud:pratyucCri:219075 ##NEQ Sri@pratyud@pratyutSri@219075@9
+101574:Sri:samud:samucCri:219077 ##NEQ Sri@samud@samutSri@219077@9
+101574:Sri:upa:upaSri:219079 ##EQ Sri@upa@upaSri@219079@1
+101574:Sri:ni:niSri:219081 ##EQ Sri@ni@niSri@219081@1
+101574:Sri:aBini:aBiniSri:219083 ##EQ Sri@aBini@aBiniSri@219083@1
+101574:Sri:upani:upaniSri:219085 ##EQ Sri@upani@upaniSri@219085@1
+101574:Sri:upanis:upaniSSri:219087 ##NEQ Sri@upanis@upanizSri@219087@9
+101574:Sri:vinis:viniSSri:219089 ##NEQ Sri@vinis@vinizSri@219089@9
+101574:Sri:parA:parASri:219091 ##EQ Sri@parA@parASri@219091@9
+101574:Sri:pari:pariSri:219093 ##EQ Sri@pari@pariSri@219093@1
+101574:Sri:saMpari:saMpariSri:219095 ##EQ Sri@saMpari@saMpariSri@219095@9
+101574:Sri:pra:praSri:219097 ##EQ Sri@pra@praSri@219097@1
+101574:Sri:upapra:upapraSri:219099 ##EQ Sri@upapra@upapraSri@219099@1
+101574:Sri:saMpra:saMpraSri:219101 ##EQ Sri@saMpra@saMpraSri@219101@9
+101574:Sri:prati:pratiSri:219103 ##EQ Sri@prati@pratiSri@219103@9
+101574:Sri:vi:viSri:219105 ##EQ Sri@vi@viSri@219105@1
+101574:Sri:sam:saMSri:219107 ##EQ Sri@sam@saMSri@219107@1
+101574:Sri:aBisam:aBisaMSri:219109 ##EQ Sri@aBisam@aBisaMSri@219109@1
+101574:Sri:upasam:upasaMSri:219111 ##EQ Sri@upasam@upasaMSri@219111@1
+101574:Sri:pratisam:pratisaMSri:219113 ##EQ Sri@pratisam@pratisaMSri@219113@1
+101589:Sriz:aBi:aBiSriz:219145 ##EQ Sriz@aBi@aBiSriz@219145@1
+101589:Sriz:A:ASriz:219147 ##EQ Sriz@A@ASriz@219147@9
+101589:Sriz:sam:saMSriz:219149 ##EQ Sriz@sam@saMSriz@219149@9
+101592:SrI:aBi:aBiSrI:219158 ##EQ SrI@aBi@aBiSrI@219158@1
+101592:SrI:A:ASrI:219160 ##EQ SrI@A@ASrI@219160@1
+101592:SrI:sam:saMSrI:219162 ##EQ SrI@sam@saMSrI@219162@1
+101797:Sru:anu:anuSru:219585 ##EQ Sru@anu@anuSru@219585@1
+101797:Sru:aBi:aBiSru:219587 ##EQ Sru@aBi@aBiSru@219587@1
+101797:Sru:A:ASru:219589 ##EQ Sru@A@ASru@219589@1
+101797:Sru:pratyA:pratyASru:219591 ##EQ Sru@pratyA@pratyASru@219591@1
+101797:Sru:samA:samASru:219593 ##EQ Sru@samA@samASru@219593@1
+101797:Sru:upa:upaSru:219595 ##EQ Sru@upa@upaSru@219595@1
+101797:Sru:samupa:samupaSru:219597 ##EQ Sru@samupa@samupaSru@219597@1
+101797:Sru:pari:pariSru:219599 ##EQ Sru@pari@pariSru@219599@1
+101797:Sru:pra:praSru:219601 ##EQ Sru@pra@praSru@219601@1
+101797:Sru:atipra:atipraSru:219603 ##EQ Sru@atipra@atipraSru@219603@1
+101797:Sru:prati:pratiSru:219605 ##EQ Sru@prati@pratiSru@219605@1
+101797:Sru:saMprati:saMpratiSru:219607 ##EQ Sru@saMprati@saMpratiSru@219607@1
+101797:Sru:vi:viSru:219609 ##EQ Sru@vi@viSru@219609@1
+101797:Sru:aBivi:aBiviSru:219611 ##EQ Sru@aBivi@aBiviSru@219611@9
+101797:Sru:sam:saMSru:219613 ##EQ Sru@sam@saMSru@219613@1
+101797:Sru:aBisam:aBisaMSru:219615 ##EQ Sru@aBisam@aBisaMSru@219615@1
+101797:Sru:pratisam:pratisaMSru:219617 ##EQ Sru@pratisam@pratisaMSru@219617@1
+101798:Sru:A:ASru:219621 ##EQ Sru@A@ASru@219621@1
+101798:Sru:pra:praSru:219623 ##EQ Sru@pra@praSru@219623@1
+101798:Sru:vi:viSru:219625 ##EQ Sru@vi@viSru@219625@1
+101798:Sru:sam:saMSru:219627 ##EQ Sru@sam@saMSru@219627@1
+102014:SlakzRay:sam:saMSlakzRay:220063 ##EQ SlakzRay@sam@saMSlakzRay@220063@9
+102019:SlaT:A:ASlaT:220077 ##EQ SlaT@A@ASlaT@220077@1
+102019:SlaT:vi:viSlaT:220079 ##EQ SlaT@vi@viSlaT@220079@1
+102029:SlAG:sam:saMSlAG:220103 ##EQ SlAG@sam@saMSlAG@220103@1
+102040:Sliz:A:ASliz:220129 ##EQ Sliz@A@ASliz@220129@1
+102040:Sliz:upA:upASliz:220131 ##EQ Sliz@upA@upASliz@220131@1
+102040:Sliz:samA:samASliz:220133 ##EQ Sliz@samA@samASliz@220133@1
+102040:Sliz:upa:upaSliz:220135 ##EQ Sliz@upa@upaSliz@220135@1
+102040:Sliz:ni:niSliz:220137 ##EQ Sliz@ni@niSliz@220137@1
+102040:Sliz:pra:praSliz:220139 ##EQ Sliz@pra@praSliz@220139@9
+102040:Sliz:vi:viSliz:220141 ##EQ Sliz@vi@viSliz@220141@1
+102040:Sliz:pravi:praviSliz:220143 ##EQ Sliz@pravi@praviSliz@220143@9
+102040:Sliz:sam:saMSliz:220145 ##EQ Sliz@sam@saMSliz@220145@1
+102040:Sliz:aBisam:aBisaMSliz:220147 ##EQ Sliz@aBisam@aBisaMSliz@220147@1
+102040:Sliz:upasam:upasaMSliz:220149 ##EQ Sliz@upasam@upasaMSliz@220149@1
+102076:Slokay:upa:upaSlokay:220223 ##EQ Slokay@upa@upaSlokay@220223@1
+102076:Slokay:sam:saMSlokay:220225 ##EQ Slokay@sam@saMSlokay@220225@9
+102102:SvaYc:ud:ucCvaYc:220279 ##NEQ SvaYc@ud@utSvaYc@220279@9
+102166:Svas:anu:anuSvas:220413 ##EQ Svas@anu@anuSvas@220413@1
+102166:Svas:apa:apaSvas:220415 ##EQ Svas@apa@apaSvas@220415@1
+102166:Svas:aBi:aBiSvas:220417 ##EQ Svas@aBi@aBiSvas@220417@1
+102166:Svas:ava:avaSvas:220419 ##EQ Svas@ava@avaSvas@220419@9
+102166:Svas:A:ASvas:220421 ##EQ Svas@A@ASvas@220421@1
+102166:Svas:paryA:paryASvas:220423 ##EQ Svas@paryA@paryASvas@220423@1
+102166:Svas:prA:prASvas:220425 ##EQ Svas@prA@prASvas@220425@1
+102166:Svas:pratyA:pratyASvas:220427 ##EQ Svas@pratyA@pratyASvas@220427@1
+102166:Svas:samA:samASvas:220429 ##EQ Svas@samA@samASvas@220429@1
+102166:Svas:ud:ucCvas:220431 ##NEQ Svas@ud@utSvas@220431@9
+102166:Svas:prod:procCvas:220433 ##NEQ Svas@prod@prodSvas@220433@9
+102166:Svas:samud:samucCvas:220435 ##NEQ Svas@samud@samutSvas@220435@9
+102166:Svas:upa:upaSvas:220437 ##EQ Svas@upa@upaSvas@220437@1
+102166:Svas:ni:niSvas:220439 ##EQ Svas@ni@niSvas@220439@1
+102166:Svas:vini:viniSvas:220441 ##EQ Svas@vini@viniSvas@220441@1
+102166:Svas:nis:niSSvas:220443 ##NEQ Svas@nis@nizSvas@220443@9
+102166:Svas:atinis:atiniSSvas:220445 ##NEQ Svas@atinis@atinizSvas@220445@9
+102166:Svas:vinis:viniSSvas:220447 ##NEQ Svas@vinis@vinizSvas@220447@9
+102166:Svas:parA:parASvas:220449 ##EQ Svas@parA@parASvas@220449@1
+102166:Svas:pra:praSvas:220451 ##EQ Svas@pra@praSvas@220451@1
+102166:Svas:aBipra:aBipraSvas:220453 ##EQ Svas@aBipra@aBipraSvas@220453@1
+102166:Svas:prati:pratiSvas:220455 ##EQ Svas@prati@pratiSvas@220455@1
+102166:Svas:vi:viSvas:220457 ##EQ Svas@vi@viSvas@220457@1
+102166:Svas:ativi:ativiSvas:220459 ##EQ Svas@ativi@ativiSvas@220459@1
+102166:Svas:aBivi:aBiviSvas:220461 ##EQ Svas@aBivi@aBiviSvas@220461@1
+102166:Svas:parivi:pariviSvas:220463 ##EQ Svas@parivi@pariviSvas@220463@1
+102183:SvA:ud:ucCvA:220505 ##NEQ SvA@ud@utSvA@220505@9
+102183:SvA:pra:praSvA:220507 ##EQ SvA@pra@praSvA@220507@9
+102183:SvA:vi:viSvA:220509 ##EQ SvA@vi@viSvA@220509@1
+102183:SvA:sam:saMSvA:220511 ##EQ SvA@sam@saMSvA@220511@9
+102224:Svit:ava:avaSvit:220595 ##EQ Svit@ava@avaSvit@220595@1
+102224:Svit:vi:viSvit:220597 ##EQ Svit@vi@viSvit@220597@1
 102712:zWiv:aBi:aBizWiv:221579 ##EQ zWiv@aBi@aBizWiv@221579@1
 102712:zWiv:ava:avazWiv:221581 ##EQ zWiv@ava@avazWiv@221581@9
 102712:zWiv:ni:nizWiv:221583 ##EQ zWiv@ni@nizWiv@221583@1
@@ -7303,11 +7303,11 @@
 104890:sap:aBi:aBisap:226153 ##EQ sap@aBi@aBisap@226153@1
 104930:sapary:vi:visapary:226235 ##EQ sapary@vi@visapary@226235@9
 105185:saBAjay:aDi:aDisaBAjay:226748 ##EQ saBAjay@aDi@aDisaBAjay@226748@9
-106410:sar:acCA:acCAsar:229207 ##EQ sar@acCA@acCAsar@229207@10
+106410:sar:acCA:acCAsar:229207 ##EQ sar@acCA@acCAsar@229207@9
 106410:sar:ati:atisar:229209 ##EQ sar@ati@atisar@229209@9
 106410:sar:vyati:vyatisar:229211 ##EQ sar@vyati@vyatisar@229211@9
 106410:sar:anu:anusar:229213 ##EQ sar@anu@anusar@229213@9
-106410:sar:atyanu:atyanusar:229215 ##EQ sar@atyanu@atyanusar@229215@10
+106410:sar:atyanu:atyanusar:229215 ##EQ sar@atyanu@atyanusar@229215@9
 106410:sar:aByanu:aByanusar:229217 ##EQ sar@aByanu@aByanusar@229217@9
 106410:sar:vyanu:vyanusar:229219 ##EQ sar@vyanu@vyanusar@229219@9
 106410:sar:apa:apasar:229221 ##EQ sar@apa@apasar@229221@9
@@ -7334,9 +7334,9 @@
 106410:sar:ni:nisar:229263 ##NEQ sar@ni@nirar@229263@9
 106410:sar:nis:niHsar:229265 ##NEQ sar@nis@nizsar@229265@9
 106410:sar:aBinis:aBiniHsar:229267 ##NEQ sar@aBinis@aBinizsar@229267@9
-106410:sar:samaBinis:samaBiniHsar:229269 ##NEQ sar@samaBinis@samaBinis@229269@4
+106410:sar:samaBinis:samaBiniHsar:229269 ##NEQ sar@samaBinis@samaBinizsar@229269@9
 106410:sar:vinis:viniHsar:229271 ##NEQ sar@vinis@vinizsar@229271@9
-106410:sar:anuvinis:anuviniHsar:229273 ##NEQ sar@anuvinis@anuvinizsar@229273@10
+106410:sar:anuvinis:anuviniHsar:229273 ##NEQ sar@anuvinis@anuvinizsar@229273@9
 106410:sar:parA:parAsar:229275 ##EQ sar@parA@parAsar@229275@9
 106410:sar:upaparA:upaparAsar:229277 ##EQ sar@upaparA@upaparAsar@229277@9
 106410:sar:pari:parisar:229279 ##EQ sar@pari@parisar@229279@9
@@ -7368,7 +7368,7 @@
 106569:sarj:api:apisarj:229651 ##EQ sarj@api@apisarj@229651@9
 106569:sarj:aBi:aBisarj:229653 ##EQ sarj@aBi@aBisarj@229653@9
 106569:sarj:ava:avasarj:229655 ##EQ sarj@ava@avasarj@229655@9
-106569:sarj:atyava:atyavasarj:229657 ##EQ sarj@atyava@atyavasarj@229657@10
+106569:sarj:atyava:atyavasarj:229657 ##EQ sarj@atyava@atyavasarj@229657@9
 106569:sarj:anvava:anvavasarj:229659 ##EQ sarj@anvava@anvavasarj@229659@9
 106569:sarj:aByava:aByavasarj:229661 ##EQ sarj@aByava@aByavasarj@229661@9
 106569:sarj:upAva:upAvasarj:229663 ##EQ sarj@upAva@upAvasarj@229663@9
@@ -7387,7 +7387,7 @@
 106569:sarj:vyud:vyutsarj:229689 ##EQ sarj@vyud@vyutsarj@229689@9
 106569:sarj:samud:samutsarj:229691 ##EQ sarj@samud@samutsarj@229691@9
 106569:sarj:upa:upasarj:229693 ##EQ sarj@upa@upasarj@229693@9
-106569:sarj:nirupa:nirupasarj:229695 ##EQ sarj@nirupa@nirupasarj@229695@10
+106569:sarj:nirupa:nirupasarj:229695 ##EQ sarj@nirupa@nirupasarj@229695@9
 106569:sarj:ni:nisarj:229697 ##NEQ sarj@ni@nirarj@229697@9
 106569:sarj:pratini:pratinisarj:229699 ##EQ sarj@pratini@pratinisarj@229699@9
 106569:sarj:saMni:saMnisarj:229701 ##EQ sarj@saMni@saMnisarj@229701@9
@@ -7475,7 +7475,7 @@
 107857:sA:aDyava:aDyavasA:232452 ##EQ sA@aDyava@aDyavasA@232452@1
 107857:sA:anvava:anvavasA:232454 ##EQ sA@anvava@anvavasA@232454@1
 107857:sA:udava:udavasA:232456 ##EQ sA@udava@udavasA@232456@1
-107857:sA:aByudava:aByudavasA:232458 ##EQ sA@aByudava@aByudavasA@232458@10
+107857:sA:aByudava:aByudavasA:232458 ##EQ sA@aByudava@aByudavasA@232458@9
 107857:sA:upAva:upAvasA:232460 ##EQ sA@upAva@upAvasA@232460@9
 107857:sA:nirava:niravasA:232462 ##EQ sA@nirava@niravasA@232462@9
 107857:sA:paryava:paryavasA:232464 ##EQ sA@paryava@paryavasA@232464@1
@@ -7483,7 +7483,7 @@
 107857:sA:pratyava:pratyavasA:232468 ##EQ sA@pratyava@pratyavasA@232468@9
 107857:sA:vyava:vyavasA:232470 ##EQ sA@vyava@vyavasA@232470@1
 107857:sA:anuvyava:anuvyavasA:232472 ##EQ sA@anuvyava@anuvyavasA@232472@1
-107857:sA:saMvyava:saMvyavasA:232474 ##NEQ sA@saMvyava@saMvyava@232474@4
+107857:sA:saMvyava:saMvyavasA:232474 ##EQ sA@saMvyava@saMvyavasA@232474@9
 107857:sA:samava:samavasA:232476 ##EQ sA@samava@samavasA@232476@1
 107857:sA:ni:nisA:232478 ##NEQ sA@ni@nirA@232478@9
 107857:sA:pariRi:pariRisA:232480 ##EQ sA@pariRi@pariRisA@232480@9
@@ -7511,7 +7511,7 @@
 109138:sic:anu:anuzic:235096 ##NEQ sic@anu@anusic@235096@1
 109138:sic:apa:apasic:235098 ##EQ sic@apa@apasic@235098@9
 109138:sic:aBi:aBizic:235100 ##NEQ sic@aBi@aBisic@235100@9
-109138:sic:anvaBi:anvaBizic:235102 ##NEQ sic@anvaBi@anvaBisic@235102@10
+109138:sic:anvaBi:anvaBizic:235102 ##NEQ sic@anvaBi@anvaBisic@235102@9
 109138:sic:samaBi:samaBizic:235104 ##NEQ sic@samaBi@samaBisic@235104@9
 109138:sic:ava:avasic:235106 ##EQ sic@ava@avasic@235106@1
 109138:sic:A:Asic:235108 ##EQ sic@A@Asic@235108@1
@@ -7593,7 +7593,7 @@
 109680:su:parA:parAsu:236354 ##EQ su@parA@parAsu@236354@1
 109680:su:pari:parizu:236356 ##NEQ su@pari@parisu@236356@9
 109680:su:pra:prasu:236358 ##EQ su@pra@prasu@236358@1
-109680:su:aDipra:aDiprasu:236360 ##EQ su@aDipra@aDiprasu@236360@10
+109680:su:aDipra:aDiprasu:236360 ##EQ su@aDipra@aDiprasu@236360@9
 109680:su:aBipra:aBiprasu:236362 ##EQ su@aBipra@aBiprasu@236362@9
 109680:su:pratipra:pratiprasu:236364 ##EQ su@pratipra@pratiprasu@236364@9
 109680:su:vi:vizu:236366 ##NEQ su@vi@visu@236366@9
@@ -7726,7 +7726,7 @@
 113665:stu:A:Astu:244632 ##EQ stu@A@Astu@244632@9
 113665:stu:upa:upastu:244634 ##EQ stu@upa@upastu@244634@1
 113665:stu:ni:nizwu:244636 ##NEQ stu@ni@niztu@244636@9
-113665:stu:nizwavan:nizwavastu:244638 ##NEQ stu@nizwavan@nizwavanstu@244638@10
+113665:stu:nizwavan:nizwavastu:244638 ##NEQ stu@nizwavan@nizwavanstu@244638@9
 113665:stu:pari:parizwu:244640 ##NEQ stu@pari@pariztu@244640@9
 113665:stu:pra:prastu:244642 ##EQ stu@pra@prastu@244642@1
 113665:stu:aBipra:aBiprastu:244644 ##EQ stu@aBipra@aBiprastu@244644@1
@@ -7778,7 +7778,7 @@
 113928:sTA:anuvyA:anuvyAsTA:245273 ##EQ sTA@anuvyA@anuvyAsTA@245273@1
 113928:sTA:samA:samAsTA:245275 ##EQ sTA@samA@samAsTA@245275@1
 113928:sTA:ud:utsTA:245277 ##EQ sTA@ud@utsTA@245277@9
-113928:sTA:aDyud:aDyutsTA:245279 ##EQ sTA@aDyud@aDyutsTA@245279@10
+113928:sTA:aDyud:aDyutsTA:245279 ##EQ sTA@aDyud@aDyutsTA@245279@9
 113928:sTA:anUd:anUtsTA:245281 ##NEQ sTA@anUd@anUdsTA@245281@9
 113928:sTA:aByud:aByutsTA:245283 ##EQ sTA@aByud@aByutsTA@245283@9
 113928:sTA:samaByud:samaByutsTA:245285 ##EQ sTA@samaByud@samaByutsTA@245285@9
@@ -7836,7 +7836,7 @@
 114291:snih:pra:prasnih:246122 ##EQ snih@pra@prasnih@246122@9
 114291:snih:sam:saMsnih:246124 ##EQ snih@sam@saMsnih@246124@1
 114295:snu:pra:prasnu:246136 ##EQ snu@pra@prasnu@246136@1
-114295:snu:avapra:avaprasnu:246138 ##EQ snu@avapra@avaprasnu@246138@10
+114295:snu:avapra:avaprasnu:246138 ##EQ snu@avapra@avaprasnu@246138@9
 114339:spand:A:Aspand:246234 ##EQ spand@A@Aspand@246234@1
 114339:spand:upa:upaspand:246236 ##EQ spand@upa@upaspand@246236@9
 114339:spand:ni:nizpand:246238 ##EQ spand@ni@nizpand@246238@9
@@ -7923,14 +7923,14 @@
 114612:smi:ava:avasmi:246975 ##EQ smi@ava@avasmi@246975@1
 114612:smi:ud:utsmi:246977 ##EQ smi@ud@utsmi@246977@1
 114612:smi:aByud:aByutsmi:246979 ##EQ smi@aByud@aByutsmi@246979@1
-114612:smi:ku:kuzmi:246981 ##NEQ smi@ku@kusmi@246981@10
+114612:smi:ku:kuzmi:246981 ##NEQ smi@ku@kusmi@246981@9
 114612:smi:upa:upasmi:246983 ##EQ smi@upa@upasmi@246983@1
 114612:smi:pari:parizmi:246985 ##NEQ smi@pari@parismi@246985@9
 114612:smi:pra:prasmi:246987 ##EQ smi@pra@prasmi@246987@1
 114612:smi:vi:vizmi:246989 ##NEQ smi@vi@vismi@246989@1
 114612:smi:anuvi:anuvizmi:246991 ##NEQ smi@anuvi@anuvismi@246991@9
 114612:smi:sam:saMsmi:246993 ##EQ smi@sam@saMsmi@246993@1
-114658:syad:acCa:acCasyad:247093 ##EQ syad@acCa@acCasyad@247093@10
+114658:syad:acCa:acCasyad:247093 ##EQ syad@acCa@acCasyad@247093@9
 114658:syad:ati:atizyad:247095 ##NEQ syad@ati@atiryad@247095@9
 114658:syad:anu:anuzyad:247097 ##NEQ syad@anu@anuryad@247097@9
 114658:syad:aBi:aBizyad:247099 ##NEQ syad@aBi@aBiryad@247099@9
@@ -7976,7 +7976,7 @@
 114765:sru:anupari:anuparizru:247415 ##NEQ sru@anupari@anuparirru@247415@1
 114765:sru:pra:prasru:247417 ##EQ sru@pra@prasru@247417@1
 114765:sru:aBipra:aBiprasru:247419 ##EQ sru@aBipra@aBiprasru@247419@9
-114765:sru:avapra:avaprasru:247421 ##EQ sru@avapra@avaprasru@247421@10
+114765:sru:avapra:avaprasru:247421 ##EQ sru@avapra@avaprasru@247421@9
 114765:sru:saMpra:saMprasru:247423 ##EQ sru@saMpra@saMprasru@247423@1
 114765:sru:vi:vizru:247425 ##NEQ sru@vi@virru@247425@1
 114765:sru:sam:saMsru:247427 ##EQ sru@sam@saMsru@247427@1
@@ -8092,7 +8092,7 @@
 115989:han:pratisam:pratisaMhan:250140 ##EQ han@pratisam@pratisaMhan@250140@9
 115989:han:visam:visaMhan:250142 ##EQ han@visam@visaMhan@250142@9
 116085:har:ati:atihar:250342 ##EQ har@ati@atihar@250342@9
-116085:har:pratyati:pratyatihar:250344 ##EQ har@pratyati@pratyatihar@250344@10
+116085:har:pratyati:pratyatihar:250344 ##EQ har@pratyati@pratyatihar@250344@9
 116085:har:vyati:vyatihar:250346 ##EQ har@vyati@vyatihar@250346@9
 116085:har:aDi:aDihar:250348 ##EQ har@aDi@aDihar@250348@9
 116085:har:anu:anuhar:250350 ##EQ har@anu@anuhar@250350@9
@@ -8108,14 +8108,14 @@
 116085:har:aByupAva:aByupAvahar:250370 ##EQ har@aByupAva@aByupAvahar@250370@9
 116085:har:pratyava:pratyavahar:250372 ##EQ har@pratyava@pratyavahar@250372@9
 116085:har:vyava:vyavahar:250374 ##EQ har@vyava@vyavahar@250374@9
-116085:har:saMvyava:saMvyavahar:250376 ##EQ har@saMvyava@saMvyavahar@250376@10
+116085:har:saMvyava:saMvyavahar:250376 ##EQ har@saMvyava@saMvyavahar@250376@9
 116085:har:samava:samavahar:250378 ##EQ har@samava@samavahar@250378@9
 116085:har:A:Ahar:250380 ##EQ har@A@Ahar@250380@9
 116085:har:aDyA:aDyAhar:250382 ##EQ har@aDyA@aDyAhar@250382@9
 116085:har:anvA:anvAhar:250384 ##EQ har@anvA@anvAhar@250384@9
 116085:har:apA:apAhar:250386 ##EQ har@apA@apAhar@250386@9
 116085:har:vyapA:vyapAhar:250388 ##EQ har@vyapA@vyapAhar@250388@9
-116085:har:apyA:apyAhar:250390 ##EQ har@apyA@apyAhar@250390@10
+116085:har:apyA:apyAhar:250390 ##EQ har@apyA@apyAhar@250390@9
 116085:har:aByA:aByAhar:250392 ##EQ har@aByA@aByAhar@250392@9
 116085:har:udA:udAhar:250394 ##EQ har@udA@udAhar@250394@9
 116085:har:aByudA:aByudAhar:250396 ##EQ har@aByudA@aByudAhar@250396@9
@@ -8128,21 +8128,21 @@
 116085:har:samupA:samupAhar:250410 ##EQ har@samupA@samupAhar@250410@9
 116085:har:upanyA:upanyAhar:250412 ##EQ har@upanyA@upanyAhar@250412@9
 116085:har:paryA:paryAhar:250414 ##EQ har@paryA@paryAhar@250414@9
-116085:har:pratiparyA:pratiparyAhar:250416 ##EQ har@pratiparyA@pratiparyAhar@250416@10
+116085:har:pratiparyA:pratiparyAhar:250416 ##EQ har@pratiparyA@pratiparyAhar@250416@9
 116085:har:pratyA:pratyAhar:250418 ##EQ har@pratyA@pratyAhar@250418@9
 116085:har:vyA:vyAhar:250420 ##EQ har@vyA@vyAhar@250420@9
 116085:har:anuvyA:anuvyAhar:250422 ##EQ har@anuvyA@anuvyAhar@250422@9
 116085:har:apavyA:apavyAhar:250424 ##EQ har@apavyA@apavyAhar@250424@9
 116085:har:aBivyA:aBivyAhar:250426 ##EQ har@aBivyA@aBivyAhar@250426@9
 116085:har:samaBivyA:samaBivyAhar:250428 ##EQ har@samaBivyA@samaBivyAhar@250428@9
-116085:har:anusamaBivyA:anusamaBivyAhar:250430 ##EQ har@anusamaBivyA@anusamaBivyAhar@250430@10
+116085:har:anusamaBivyA:anusamaBivyAhar:250430 ##EQ har@anusamaBivyA@anusamaBivyAhar@250430@9
 116085:har:pravyA:pravyAhar:250432 ##EQ har@pravyA@pravyAhar@250432@9
 116085:har:samA:samAhar:250434 ##EQ har@samA@samAhar@250434@9
 116085:har:anusamA:anusamAhar:250436 ##EQ har@anusamA@anusamAhar@250436@9
 116085:har:aBisamA:aBisamAhar:250438 ##EQ har@aBisamA@aBisamAhar@250438@9
 116085:har:upasamA:upasamAhar:250440 ##EQ har@upasamA@upasamAhar@250440@9
 116085:har:ud:udDar:250442 ##NEQ har@ud@udhar@250442@9
-116085:har:aDyud:aDyudDar:250444 ##NEQ har@aDyud@aDyudhar@250444@10
+116085:har:aDyud:aDyudDar:250444 ##NEQ har@aDyud@aDyudhar@250444@9
 116085:har:anUd:anUdDar:250446 ##NEQ har@anUd@anUdhar@250446@9
 116085:har:apod:apodDar:250448 ##NEQ har@apod@apodhar@250448@9
 116085:har:aByud:aByudDar:250450 ##NEQ har@aByud@aByudhar@250450@9
@@ -8178,7 +8178,7 @@
 116085:har:sam:saMhar:250510 ##EQ har@sam@saMhar@250510@9
 116085:har:anusam:anusaMhar:250512 ##EQ har@anusam@anusaMhar@250512@9
 116085:har:upasam:upasaMhar:250514 ##EQ har@upasam@upasaMhar@250514@9
-116085:har:samupasam:samupasaMhar:250516 ##EQ har@samupasam@samupasaMhar@250516@10
+116085:har:samupasam:samupasaMhar:250516 ##EQ har@samupasam@samupasaMhar@250516@9
 116085:har:pratisam:pratisaMhar:250518 ##EQ har@pratisam@pratisaMhar@250518@9
 116086:har:aBi:aBihar:250522 ##EQ har@aBi@aBihar@250522@9
 116381:hary:aBi:aBihary:251117 ##EQ hary@aBi@aBihary@251117@1
@@ -8342,7 +8342,7 @@
 117919:hvA:anu:anuhvA:254583 ##EQ hvA@anu@anuhvA@254583@9
 117919:hvA:api:apihvA:254585 ##EQ hvA@api@apihvA@254585@9
 117919:hvA:aBi:aBihvA:254587 ##EQ hvA@aBi@aBihvA@254587@9
-117919:hvA:prABi:prABihvA:254589 ##EQ hvA@prABi@prABihvA@254589@10
+117919:hvA:prABi:prABihvA:254589 ##EQ hvA@prABi@prABihvA@254589@9
 117919:hvA:ava:avahvA:254591 ##EQ hvA@ava@avahvA@254591@9
 117919:hvA:A:AhvA:254593 ##EQ hvA@A@AhvA@254593@1
 117919:hvA:anvA:anvAhvA:254595 ##EQ hvA@anvA@anvAhvA@254595@9
@@ -8377,7 +8377,7 @@
 118576:av:anu:anvav:255969 ##EQ av@anu@anvav@255969@1
 118576:av:sam:samav:255971 ##EQ av@sam@samav@255971@1
 118640:aS:samupa:samupAS:256101 ##EQ aS@samupa@samupAS@256101@1
-118657:as:vyatyanu:vyatyanvas:256137 ##EQ as@vyatyanu@vyatyanvas@256137@10
+118657:as:vyatyanu:vyatyanvas:256137 ##EQ as@vyatyanu@vyatyanvas@256137@9
 118657:as:apa:apAs:256139 ##EQ as@apa@apAs@256139@1
 118657:as:pari:paryas:256141 ##EQ as@pari@paryas@256141@1
 118657:as:sam:samas:256143 ##EQ as@sam@samas@256143@1
@@ -8389,12 +8389,12 @@
 118658:as:vipari:viparyas:256157 ##EQ as@vipari@viparyas@256157@1
 118658:as:saMpari:saMparyas:256159 ##EQ as@saMpari@saMparyas@256159@9
 118658:as:upasam:upasamas:256161 ##EQ as@upasam@upasamas@256161@1
-118771:Ap:ava:avAp:256389 ##NA 
-118771:Ap:pra:prAp:256391 ##NA 
-118771:Ap:saMparipra:saMpariprAp:256393 ##NA 
-118771:Ap:sam:samAp:256395 ##NA 
-118771:Ap:parisam:parisamAp:256397 ##NA 
-118881:As:upa:upAs:256620 ##NA 
+118771:Ap:ava:avAp:256389 ##EQ Ap@ava@avAp@256389@1
+118771:Ap:pra:prAp:256391 ##EQ Ap@pra@prAp@256391@1
+118771:Ap:saMparipra:saMpariprAp:256393 ##EQ Ap@saMparipra@saMpariprAp@256393@10
+118771:Ap:sam:samAp:256395 ##EQ Ap@sam@samAp@256395@1
+118771:Ap:parisam:parisamAp:256397 ##EQ Ap@parisam@parisamAp@256397@1
+118881:As:upa:upAs:256620 ##EQ As@upa@upAs@256620@1
 118907:i:ati:atI:256674 ##EQ i@ati@atI@256674@1
 118907:i:aBi:aBI:256676 ##EQ i@aBi@aBI@256676@1
 118907:i:ava:ave:256678 ##EQ i@ava@ave@256678@1
@@ -8410,15 +8410,15 @@
 118907:i:vi:vI:256698 ##EQ i@vi@vI@256698@1
 118931:iz:A:ez:256748 ##EQ iz@A@ez@256748@1
 118931:iz:prati:pratIz:256750 ##EQ iz@prati@pratIz@256750@1
-118938:Ikz:parA:parekz:256766 ##NA 
-118938:Ikz:sam:samIkz:256768 ##NA 
-118941:Ir:sam:samIr:256776 ##NA 
+118938:Ikz:parA:parekz:256766 ##EQ Ikz@parA@parekz@256766@1
+118938:Ikz:sam:samIkz:256768 ##EQ Ikz@sam@samIkz@256768@1
+118941:Ir:sam:samIr:256776 ##EQ Ir@sam@samIr@256776@1
 118997:ud:ni:nyud:256890 ##EQ ud@ni@nyud@256890@1
-119176:Uh:prativi:prativyUh:257250 ##NA 
-119176:Uh:sam:samUh:257252 ##NA 
-119177:Uh:anu:anUh:257256 ##NA 
-119177:Uh:aBi:aByUh:257258 ##NA 
-119177:Uh:vyA:vyoh:257260 ##NA 
+119176:Uh:prativi:prativyUh:257250 ##EQ Uh@prativi@prativyUh@257250@1
+119176:Uh:sam:samUh:257252 ##EQ Uh@sam@samUh@257252@1
+119177:Uh:anu:anUh:257256 ##EQ Uh@anu@anUh@257256@9
+119177:Uh:aBi:aByUh:257258 ##EQ Uh@aBi@aByUh@257258@1
+119177:Uh:vyA:vyoh:257260 ##EQ Uh@vyA@vyoh@257260@9
 119329:kar:apa:apakar:257566 ##EQ kar@apa@apakar@257566@9
 119329:kar:aBi:aBikar:257568 ##EQ kar@aBi@aBikar@257568@9
 119329:kar:pra:prakar:257570 ##EQ kar@pra@prakar@257570@9
@@ -8441,9 +8441,9 @@
 119664:kzip:pra:prakzip:258277 ##EQ kzip@pra@prakzip@258277@1
 119664:kzip:vi:vikzip:258279 ##EQ kzip@vi@vikzip@258279@1
 119669:kzud:vi:vikzud:258291 ##EQ kzud@vi@vikzud@258291@1
-119689:KaRqay:A:AKaRqay:258333 ##NA 
-119706:Kid:pari:pariKid:258369 ##NA 
-119718:KyA:sam:saNKyA:258395 ##NA 
+119689:KaRqay:A:AKaRqay:258333 ##EQ KaRqay@A@AKaRqay@258333@9
+119706:Kid:pari:pariKid:258369 ##EQ Kid@pari@pariKid@258369@1
+119718:KyA:sam:saNKyA:258395 ##NEQ KyA@sam@saMKyA@258395@1
 119742:gam:A:Agam:258445 ##EQ gam@A@Agam@258445@1
 119742:gam:upA:upAgam:258447 ##EQ gam@upA@upAgam@258447@1
 119742:gam:ud:udgam:258449 ##EQ gam@ud@udgam@258449@1
@@ -8461,8 +8461,8 @@
 119835:graB:pari:parigraB:258659 ##EQ graB@pari@parigraB@258659@9
 119835:graB:prati:pratigraB:258661 ##EQ graB@prati@pratigraB@258661@9
 119835:graB:vi:vigraB:258663 ##EQ graB@vi@vigraB@258663@9
-119835:graB:apisam:apisaNgraB:258665 ##NEQ graB@apisam@apisaMgraB@258665@10
-119851:Gaww:sam:saNGaww:258699 ##NA 
+119835:graB:apisam:apisaNgraB:258665 ##NEQ graB@apisam@apisaMgraB@258665@9
+119851:Gaww:sam:saNGaww:258699 ##NEQ Gaww@sam@saMGaww@258699@1
 119912:car:A:Acar:258823 ##EQ car@A@Acar@258823@1
 119912:car:ud:uccar:258825 ##EQ car@ud@uccar@258825@1
 119912:car:upa:upacar:258827 ##EQ car@upa@upacar@258827@1
@@ -8471,7 +8471,7 @@
 119940:ci:vi:vici:258889 ##EQ ci@vi@vici@258889@1
 119940:ci:sam:saYci:258891 ##NEQ ci@sam@saMci@258891@1
 119941:ci:vinis:viniSci:258895 ##NEQ ci@vinis@vinizci@258895@9
-119974:Cid:pra:pracCid:258963 ##NA 
+119974:Cid:pra:pracCid:258963 ##NEQ Cid@pra@praCid@258963@9
 120030:ji:sam:saYji:259077 ##NEQ ji@sam@saMji@259077@1
 120055:jval:pra:prajval:259129 ##EQ jval@pra@prajval@259129@1
 120091:tan:vi:vitan:259203 ##EQ tan@vi@vitan@259203@1
@@ -8482,26 +8482,26 @@
 120242:dA:vyA:vyAdA:259515 ##EQ dA@vyA@vyAdA@259515@1
 120380:dru:samava:samavadru:259793 ##EQ dru@samava@samavadru@259793@1
 120380:dru:vipra:vipradru:259795 ##EQ dru@vipra@vipradru@259795@1
-120410:Dam:ava:avaDam:259857 ##NA 
-120410:Dam:vi:viDam:259859 ##NA 
-120411:Dar:A:ADar:259863 ##NA 
-120411:Dar:ni:niDar:259865 ##NA 
-120411:Dar:pari:pariDar:259867 ##NA 
-120411:Dar:pra:praDar:259869 ##NA 
-120411:Dar:saMpra:saMpraDar:259871 ##NA 
-120417:Darz:upa:upaDarz:259885 ##NA 
-120421:DA:aByupa:aByupaDA:259895 ##NA 
-120421:DA:vipari:vipariDA:259897 ##NA 
-120421:DA:vi:viDA:259899 ##NA 
-120421:DA:anuvi:anuviDA:259901 ##NA 
-120421:DA:prativi:prativiDA:259903 ##NA 
-120421:DA:sam:sanDA:259905 ##NA 
-120421:DA:upasam:upasanDA:259907 ##NA 
-120421:DA:visam:visanDA:259909 ##NA 
-120436:DI:anu:anuDI:259941 ##NA 
-120436:DI:pra:praDI:259943 ##NA 
-120442:DU:vinis:vinirDU:259957 ##NA 
-120460:DvaMs:ud:udDvaMs:259995 ##NA 
+120410:Dam:ava:avaDam:259857 ##EQ Dam@ava@avaDam@259857@1
+120410:Dam:vi:viDam:259859 ##EQ Dam@vi@viDam@259859@1
+120411:Dar:A:ADar:259863 ##EQ Dar@A@ADar@259863@9
+120411:Dar:ni:niDar:259865 ##EQ Dar@ni@niDar@259865@9
+120411:Dar:pari:pariDar:259867 ##EQ Dar@pari@pariDar@259867@9
+120411:Dar:pra:praDar:259869 ##EQ Dar@pra@praDar@259869@9
+120411:Dar:saMpra:saMpraDar:259871 ##EQ Dar@saMpra@saMpraDar@259871@9
+120417:Darz:upa:upaDarz:259885 ##EQ Darz@upa@upaDarz@259885@9
+120421:DA:aByupa:aByupaDA:259895 ##EQ DA@aByupa@aByupaDA@259895@1
+120421:DA:vipari:vipariDA:259897 ##EQ DA@vipari@vipariDA@259897@1
+120421:DA:vi:viDA:259899 ##EQ DA@vi@viDA@259899@1
+120421:DA:anuvi:anuviDA:259901 ##EQ DA@anuvi@anuviDA@259901@1
+120421:DA:prativi:prativiDA:259903 ##EQ DA@prativi@prativiDA@259903@1
+120421:DA:sam:sanDA:259905 ##NEQ DA@sam@saMDA@259905@1
+120421:DA:upasam:upasanDA:259907 ##NEQ DA@upasam@upasaMDA@259907@1
+120421:DA:visam:visanDA:259909 ##NEQ DA@visam@visaMDA@259909@9
+120436:DI:anu:anuDI:259941 ##EQ DI@anu@anuDI@259941@1
+120436:DI:pra:praDI:259943 ##EQ DI@pra@praDI@259943@1
+120442:DU:vinis:vinirDU:259957 ##EQ DU@vinis@vinirDU@259957@1
+120460:DvaMs:ud:udDvaMs:259995 ##EQ DvaMs@ud@udDvaMs@259995@1
 120478:nam:apa:apanam:260033 ##EQ nam@apa@apanam@260033@1
 120478:nam:ava:avanam:260035 ##EQ nam@ava@avanam@260035@1
 120478:nam:pari:parinam:260037 ##EQ nam@pari@parinam@260037@9
@@ -8532,20 +8532,20 @@
 121233:barh:vi:vibarh:261598 ##EQ barh@vi@vibarh@261598@9
 121295:buD:pra:prabuD:261724 ##EQ buD@pra@prabuD@261724@1
 121295:buD:sam:sambuD:261726 ##NEQ buD@sam@saMbuD@261726@1
-121326:BaYj:vi:viBaYj:261790 ##NA 
-121336:Bar:ni:niBar:261812 ##NA 
-121336:Bar:pra:praBar:261814 ##NA 
-121351:BA:pra:praBA:261846 ##NA 
-121374:BAz:aBi:aBiBAz:261894 ##NA 
-121374:BAz:vi:viBAz:261896 ##NA 
-121383:Bid:pra:praBid:261916 ##NA 
-121383:Bid:vi:viBid:261918 ##NA 
-121386:Buj:pra:praBuj:261926 ##NA 
-121391:BU:paryA:paryABU:261938 ##NA 
-121391:BU:pra:praBU:261940 ##NA 
-121391:BU:anupra:anupraBU:261942 ##NA 
-121391:BU:saMvi:saMviBU:261944 ##NA 
-121391:BU:sam:samBU:261946 ##NA 
+121326:BaYj:vi:viBaYj:261790 ##EQ BaYj@vi@viBaYj@261790@1
+121336:Bar:ni:niBar:261812 ##EQ Bar@ni@niBar@261812@9
+121336:Bar:pra:praBar:261814 ##EQ Bar@pra@praBar@261814@9
+121351:BA:pra:praBA:261846 ##EQ BA@pra@praBA@261846@1
+121374:BAz:aBi:aBiBAz:261894 ##EQ BAz@aBi@aBiBAz@261894@1
+121374:BAz:vi:viBAz:261896 ##EQ BAz@vi@viBAz@261896@1
+121383:Bid:pra:praBid:261916 ##EQ Bid@pra@praBid@261916@1
+121383:Bid:vi:viBid:261918 ##EQ Bid@vi@viBid@261918@1
+121386:Buj:pra:praBuj:261926 ##EQ Buj@pra@praBuj@261926@1
+121391:BU:paryA:paryABU:261938 ##EQ BU@paryA@paryABU@261938@1
+121391:BU:pra:praBU:261940 ##EQ BU@pra@praBU@261940@1
+121391:BU:anupra:anupraBU:261942 ##EQ BU@anupra@anupraBU@261942@9
+121391:BU:saMvi:saMviBU:261944 ##EQ BU@saMvi@saMviBU@261944@9
+121391:BU:sam:samBU:261946 ##NEQ BU@sam@saMBU@261946@1
 121445:maT:pari:parimaT:262056 ##EQ maT@pari@parimaT@262056@1
 121499:marj:pra:pramarj:262166 ##EQ marj@pra@pramarj@262166@9
 121499:marj:vi:vimarj:262168 ##EQ marj@vi@vimarj@262168@9
@@ -8617,11 +8617,11 @@
 122230:vyaD:A:AvyaD:263764 ##EQ vyaD@A@AvyaD@263764@1
 122230:vyaD:ud:udvyaD:263766 ##EQ vyaD@ud@udvyaD@263766@1
 122230:vyaD:sam:saMvyaD:263768 ##EQ vyaD@sam@saMvyaD@263768@1
-122257:SaMs:aBi:aBiSaMs:263824 ##NA 
-122282:Sam:anuni:anuniSam:263876 ##NA 
-122292:Sar:pravi:praviSar:263898 ##NA 
-122292:Sar:sam:saMSar:263900 ##NA 
-122351:SI:ati:atiSI:264020 ##NA 
+122257:SaMs:aBi:aBiSaMs:263824 ##EQ SaMs@aBi@aBiSaMs@263824@1
+122282:Sam:anuni:anuniSam:263876 ##EQ Sam@anuni@anuniSam@263876@1
+122292:Sar:pravi:praviSar:263898 ##EQ Sar@pravi@praviSar@263898@9
+122292:Sar:sam:saMSar:263900 ##EQ Sar@sam@saMSar@263900@9
+122351:SI:ati:atiSI:264020 ##EQ SI@ati@atiSI@264020@1
 122428:zWiv:ni:nizWiv:264176 ##EQ zWiv@ni@nizWiv@264176@1
 122428:zWiv:nis:nizzWiv:264178 ##EQ zWiv@nis@nizzWiv@264178@9
 122468:saYj:ud:utsaYj:264260 ##EQ saYj@ud@utsaYj@264260@9
