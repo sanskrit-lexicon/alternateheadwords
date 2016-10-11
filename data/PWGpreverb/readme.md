@@ -56,7 +56,7 @@ Currently, there are:
   * 5052 of these matches involve no spelling adjustments (marked as MWSAME)
   * 1327 of these matches DO involve a spelling adjustment (marked as MWDIFF)
 * 2265 records in preverb1b_notmw.txt  - The implied PWG preverb spelling,
-  even with current adjustments, is not found in verb-prep4.out.
+  even with current adjustments, is not found in verb-step0a.out.
   These can be viewed as the prefixed verb forms from PWG that are not present
   in MW.
 

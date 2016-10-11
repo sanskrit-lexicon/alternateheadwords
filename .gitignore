@@ -1,3 +1,4 @@
 scripts/transcoder.pyc
 *.pyc
 *~
+data/PWGpreverb/temp*
