@@ -107,6 +107,9 @@ def headwordembedwordregex(dict):
 	elif dict in ['PWG']:
 		reHeadword = r'^<H1>000{(.*?)}1'
 		reEmbedded = r'^-<P>- +{#(.*?)[ ,#]'
+	elif dict in ['PW']:
+		reHeadword = r'^<H1>...{(.*?)}1'
+		reEmbedded = r'^<\+> \#\{(.*?)[ ,}]'
 	return [reHeadword,reEmbedded]
 	
 def dictstartendreturn(dict):
@@ -116,6 +119,9 @@ def dictstartendreturn(dict):
 	elif dict in ['PWG']:
 		startstring = '<H>{#a#}'
 		endstring = '<H1>000{hArikeyI}1{hArikeyI}'
+	elif dict in ['PW']:
+		startstring = 'Line ignored'
+		endstring = 'PW135785'
 	return [startstring,endstring]
 	
 if __name__=="__main__":
@@ -193,6 +199,7 @@ if __name__=="__main__":
 				line = line.replace(u'-','')
 				line = line.replace('.','')
 				line = line.replace(u'¤','')
+				line = line.replace(u'*','')
 				fout1.write(line+'@'+linenum+'\n')
 		fin1.close()
 		fout1.close()
@@ -209,7 +216,7 @@ if __name__=="__main__":
 				line = line.strip()
 				[head,sub,linenum] = line.split('@')
 				head = re.split(' \(',head)[0]
-				if str(sub) in upasargacombinations and str(dictname) in ['PWG']: # PWG has mostly upasarga+verb kind of stuff.
+				if str(sub) in upasargacombinations and str(dictname) in ['PWG','PW']: # PWG,PW has mostly upasarga+verb kind of stuff.
 					hwmatch += 1
 					fout2.write(head+'@'+sub+'@'+sub+head+'@'+linenum+'@9\n')
 				elif head+sub in hw:
