@@ -393,7 +393,7 @@ inakz@sam@saminakz@21120@1
 iyakz@aBi@aBIyakz@21537@9
 iyakz@pra@preyakz@21539@9
 irajy@pra@prerajy@21561@9
-irasy@aBi@aBIroy@21573@9
+irasy@aBi@aBIrasy@21573@9
 il@ava@avel@21625@9
 iz@anu@anviz@21683@1
 iz@api@apIz@21685@9
@@ -2705,7 +2705,7 @@ DU@upa@upaDU@79634@9
 DU@ni@niDU@79636@1
 DU@nis@nirDU@79638@1
 DU@vinis@vinirDU@79640@1
-DU@pravinis@pravinisDU@79642@10
+DU@pravinis@praviRirDU@79642@10
 DU@pari@pariDU@79644@1
 DU@pra@praDU@79646@1
 DU@vi@viDU@79648@1
@@ -7943,8 +7943,8 @@ syad@ni@niryad@247111@9
 syad@aBini@aBiniryad@247113@9
 syad@nis@nissyad@247115@9
 syad@pari@pariryad@247117@9
-syad@pra@proyad@247119@9
-syad@paripra@pariproyad@247121@9
+syad@pra@prasyad@247119@9
+syad@paripra@pariprasyad@247121@9
 syad@vi@viryad@247123@9
 syad@anuvi@anuviryad@247125@9
 syad@aBivi@aBiviryad@247127@9
@@ -7956,7 +7956,7 @@ sraMs@ava@avasraMs@247241@1
 sraMs@vyava@vyavasraMs@247243@1
 sraMs@A@AsraMs@247245@1
 sraMs@pari@parirraMs@247247@9
-sraMs@pra@proraMs@247249@1
+sraMs@pra@prasraMs@247249@1
 sraMs@vi@virraMs@247251@1
 sraMs@anuvi@anuvirraMs@247253@1
 sraMs@sam@saMsraMs@247255@9
@@ -7974,10 +7974,10 @@ sru@nis@nissru@247409@1
 sru@anuparA@anuparAsru@247411@1
 sru@pari@parirru@247413@1
 sru@anupari@anuparirru@247415@1
-sru@pra@proru@247417@1
-sru@aBipra@aBiproru@247419@9
-sru@avapra@avaproru@247421@9
-sru@saMpra@saMproru@247423@1
+sru@pra@prasru@247417@1
+sru@aBipra@aBiprasru@247419@9
+sru@avapra@avaprasru@247421@9
+sru@saMpra@saMprasru@247423@1
 sru@vi@virru@247425@1
 sru@sam@saMsru@247427@1
 sru@aBisam@aBisaMsru@247429@1
@@ -8000,7 +8000,7 @@ svan@A@Asvan@247863@1
 svan@ni@nirvan@247865@1
 svan@nis@nissvan@247867@9
 svan@pari@parirvan@247869@9
-svan@pra@provan@247871@1
+svan@pra@prasvan@247871@1
 svan@prati@pratirvan@247873@1
 svan@vi@virvan@247875@1
 svap@anu@anurvap@247929@9
@@ -8008,9 +8008,9 @@ svap@ava@avasvap@247931@9
 svap@dus@dussvap@247933@9
 svap@ni@nirvap@247935@1
 svap@nis@nissvap@247937@9
-svap@pra@provap@247939@1
-svap@aBipra@aBiprovap@247941@9
-svap@saMpra@saMprovap@247943@9
+svap@pra@prasvap@247939@1
+svap@aBipra@aBiprasvap@247941@9
+svap@saMpra@saMprasvap@247943@9
 svap@prati@pratirvap@247945@9
 svap@vi@virvap@247947@1
 svap@sam@saMsvap@247949@1
@@ -8023,7 +8023,7 @@ svar@upa@upasvar@248327@9
 svar@ni@nirvar@248329@9
 svar@nis@nissvar@248331@9
 svar@pari@parirvar@248333@9
-svar@pra@provar@248335@9
+svar@pra@prasvar@248335@9
 svar@sam@saMsvar@248337@9
 svar@aBisam@aBisaMsvar@248339@9
 svar@pratyA@pratyAsvar@248343@9
@@ -8031,7 +8031,7 @@ svar@prati@pratirvar@248345@9
 svid@A@Asvid@249578@1
 svid@upa@upasvid@249580@1
 svid@pari@parirvid@249582@1
-svid@pra@provid@249584@1
+svid@pra@prasvid@249584@1
 svid@sam@saMsvid@249586@1
 had@upa@upahad@250016@9
 han@ati@atihan@250030@1
