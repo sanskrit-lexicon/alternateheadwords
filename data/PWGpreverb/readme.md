@@ -95,3 +95,20 @@ Each record is marked with an additional bit of metadata:
 * 841 prefixed headwords in both, spellings different
 * 1554 prefixed headwords only in preverb1a.txt
 * 0 prefixed headwords only in PWGehw3.txt
+
+## nR sandhi on prefixes
+
+```
+python test_nR_pfx.py preverb1a.txt test_nR_pfx.txt
+```
+$ python test_nR_pfx.py preverb1a.txt test_nR_pfx.txt
+8644 records from preverb1a.txt
+29 cases written to test_nR_pfx.txt
+parini 6 pariRi (24)
+parinis 11 pariRis (0)
+paryanu 4 paryaRu (0)
+prani 7 praRi (24)
+pravinis 1 praviRis (0)
+
+The numbers in parens are counts of the nR sandhi form that occur as
+prefixes in preverb1a.txt.
