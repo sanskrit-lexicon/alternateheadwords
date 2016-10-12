@@ -1,9 +1,15 @@
 """compare.py
    Oct 10, 2016
-   Compare preverb1a.txt and Dhaval's PWG/PWGehw3.txt
+     Compare preverb1a.txt and Dhaval's PWG/PWGehw3.txt
+   Oct 11, 2016
+     identify differences due purely to a choice of nasal IN THE PREFIX.
+     e.g. consider saNkar (PWGpreverb) and saMkar (PWGehw3) to be the same.
+     1st step: use the hwnorm1c normalization
+     
 """
 import sys, re
 import codecs
+from hwnorm1c import normalize_key
 
 class Preverb(object):
  def __init__(self,line,n):
@@ -89,6 +95,7 @@ def writemerge(allrecs,fileout,filein,filein1):
  f = codecs.open(fileout,"w")
  n = 0
  nsame = 0
+ nsame_norm=0
  ndiff = 0
  n1only = 0
  n2only = 0
@@ -100,21 +107,27 @@ def writemerge(allrecs,fileout,filein,filein1):
    lnum = rec1.linenum
    if rec1.pfxhw == rec2.pfxhw:
     nsame = nsame + 1
-    compcode = 'SAME'
     out = rec1.line + ' ##EQ ' + rec2.line 
+   elif normalize_key(rec1.pfxhw) == normalize_key(rec2.pfxhw):
+    nsame = nsame + 1
+    nsame_norm = nsame_norm + 1
+    out = rec1.line + ' ##EQNORM ' + rec2.line 
    else:
     ndiff = ndiff + 1
     out = rec1.line + ' ##NEQ ' + rec2.line 
-  elif rec1:
+  elif rec1: 
+   # 10/11/2016 This case no longer occurs - The too lists are same.
    out = rec1.line + ' ##NA ' 
    n1only = n1only + 1
   else:
+   # 10/11/2016 This case never did occur
    out = 'NA## ' + rec2.line
    n2only = n2only + 1
   f.write(out+'\n')
  f.close()
  print n,"records written to",fileout
  print nsame,"prefixed headwords in both, spellings the same"
+ print " Of these,",nsame_norm,"have same spellings AFTER HWNORM1C normalization"
  print ndiff,"prefixed headwords in both, spellings different"
  print n1only,"prefixed headwords only in",filein
  print n2only,"prefixed headwords only in",filein1
