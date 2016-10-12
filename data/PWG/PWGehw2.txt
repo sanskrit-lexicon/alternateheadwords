@@ -348,7 +348,7 @@ i@pratipari@pratiparii@20711@9
 i@vipari@viparii@20713@9
 i@prativipari@prativiparii@20715@9
 i@saMpari@saMparii@20717@9
-i@palA@palA@20719@1
+i@palA@palAi@20719@9
 i@prapalA@prapalAi@20721@9
 i@vipalA@vipalAi@20723@9
 i@saMpalA@saMpalAi@20725@9
@@ -4321,7 +4321,7 @@ i@saMparA@saMparAi@143978@9
 i@pari@parii@143980@9
 i@anupari@anuparii@143982@9
 i@vipari@viparii@143984@9
-i@palA@palA@143986@1
+i@palA@palAi@143986@9
 i@pra@prai@143988@9
 i@aBipra@aBiprai@143990@9
 i@vipra@viprai@143992@9
