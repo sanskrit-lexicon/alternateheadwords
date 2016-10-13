@@ -112,3 +112,8 @@ pravinis 1 praviRis (0)
 
 The numbers in parens are counts of the nR sandhi form that occur as
 prefixes in preverb1a.txt.
+
+## stop consideration of compare.txt
+Per discussion in [issue 12](https://github.com/sanskrit-lexicon/alternateheadwords/issues/12), we've agreed to stop developement of PWGehw3.
+Thus, compare.txt is no longer relevant.
+

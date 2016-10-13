@@ -51,6 +51,14 @@ class Preverb(object):
     self.mwflag=True
     self.mwhw = test1
     return True
+  if 'Mp' in test:
+   # MW uses sampra, not saMpra
+   test1 = test.replace('Mp','mp')
+   if test1 in mwd:
+    self.mwflag=True
+    self.mwhw = test1
+    return True
+  
   return False
   
  def matchmw(self,mwd):
@@ -59,10 +67,16 @@ class Preverb(object):
    self.mwflag=True
    self.mwhw = self.pfxhw
    return
+  if self.Mtest(self.pfxhw,mwd):
+   return True
   if re.search(r'ar',self.hw):
    # this works for 'kar'-'kf' type examples, 
    hw1 = re.sub(r'ar','f',self.hw)
    test = re.sub(self.hw,hw1,self.pfxhw)
+   if self.Mtest(test,mwd):
+    return
+   # Cases like ud+harz.  Here, pfxhw = udDarz
+   test = re.sub(r'ar','f',self.pfxhw)
    if self.Mtest(test,mwd):
     return
    # some roots in PWG ending in 'ar' correspond to roots in MW ending in F
@@ -94,6 +108,21 @@ class Preverb(object):
    test = re.sub('A$','o',self.pfxhw)
    if self.Mtest(test,mwd):
     return
+  #  These moved to preverb1a
+  """
+  if self.pfx.endswith('nis') and self.hw.startswith('S'):
+   # Example nis-SAs -> niHSAs rather than niSSAS
+   test = re.sub('SS','HS',self.pfxhw)
+   if self.Mtest(test,mwd):
+    print "XXX: %s -> %s"%(self.pfxhw,test)
+    return
+  if self.pfx.endswith('ni') and self.hw.startswith('S'):
+   # Example nis-SAs -> niHSAs rather than niSSAS
+   test = re.sub('SS','HS',self.pfxhw)
+   if self.Mtest(test,mwd):
+    print "XXX: %s -> %s"%(self.pfxhw,test)
+    return
+  """
   dtemp = {
    'jramB':'jfmB',
    'cUrRay':'cUrR',
@@ -138,6 +167,7 @@ class Preverb(object):
    'sAntvay':'sAntv',
    'sUcay':'sUc',
    'sUtray':'sUtr',
+   'syad':'syand',
    'aYcay':'aYc',
    'daSasy':'daSasya',
    'miSray':'miSr',
