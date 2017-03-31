@@ -47,7 +47,7 @@
 7:ba(va)kUlaH:vakUlaH:bavalaH:249305:249306
 7:ba(va)kerukA:vakerukA:bavarukA:249307:249309
 7:ba(va)qavA:vaqavA:bavavA:249315:249370
-0:ba(va)qavAkftaH puM:vaqavAkftaH puM:bavavAkftaH puM
+0:ba(va)qavAkftaH puM:vaqavAkftaH puM:bavavAkftaH puM:249371:249377
 7:ba(va)qavAgniH:vaqavAgniH:bavavAgniH:249378:249380
 7:ba(va)qavAnalaH:vaqavAnalaH:bavavAnalaH:249381:249441
 7:ba(va)qavAmuKaH:vaqavAmuKaH:bavavAmuKaH:249442:249467
@@ -167,12 +167,12 @@
 7:va(ba)ndicOraH:bandicOraH:vabaicOraH:353535:353539
 7:va(ba)ndipAWaH:bandipAWaH:vabaipAWaH:353540:353542
 0:va(va)ndI:vandI:vavaI:353543:353547
-0:va(ba)ndI [n]:bandI n:vabaI n
+0:va(ba)ndI [n]:bandI n:vabaI n:353548:353577
 7:va(ba)ndIkAraH:bandIkAraH:vabaIkAraH:353578:353582
 3:vaya(yaH)sTA:vyaHsTA:vayayaH:354166:354176
 0:va(va)rhaM:varhaM:vavaaM:358573:358585
-0:va(ba)rhiH [s]:barhiH s:vabaiH s
-0:va(ba)rhiH [s]:barhiH s:vabaiH s
+0:va(ba)rhiH [s]:barhiH s:vabaiH s:358589:358602
+0:va(ba)rhiH [s]:barhiH s:vabaiH s:358603:358608
 7:va(ba)rhiRaH:barhiRaH:vabaiRaH:358620:358631
 0:va(va)rhI:varhI:vavaI:358680:358690
 7:va(ba)liSaM:baliSaM:vabaSaM:358775:358777
@@ -243,13 +243,13 @@
 7:vi(bi)mbaH:bimbaH:vibiaH:377080:377081
 7:vi(bi)mbakaM:bimbakaM:vibiakaM:377082:377089
 7:vi(bi)mbajA:bimbajA:vibiajA:377090:377091
-0:vi(bi)mbawaH puM:bimbawaH puM:vibiawaH puM
+0:vi(bi)mbawaH puM:bimbawaH puM:vibiawaH puM:377092:377092
 7:vi(bi)mbA:bimbA:vibiA:377093:377095
 7:vi(bi)mbikA:bimbikA:vibiikA:377096:377099
 7:vi(bi)mbI:bimbI:vibiI:377100:377104
 7:vi(bi)mbuH:bimbuH:vibiuH:377105:377105
-0:vi(bi)mbozWaH tri:bimbozWaH tri:vibiozWaH tri
-0:vi(bi)mbOzWaH tri:bimbOzWaH tri:vibiOzWaH tri
+0:vi(bi)mbozWaH tri:bimbozWaH tri:vibiozWaH tri:377106:377109
+0:vi(bi)mbOzWaH tri:bimbOzWaH tri:vibiOzWaH tri:377110:377113
 7:vi(bi)laM:bilaM:vibiM:378028:378035
 7:vi(bi)laH:bilaH:vibiH:378036:378037
 7:vi(bi)lakArI:bilakArI:vibikArI:378038:378040
@@ -291,7 +291,7 @@
 7:vf(bf)hatpatraH:bfhatpatraH:vfbftpatraH:388966:388967
 7:vf(bf)hatpatrA:bfhatpatrA:vfbftpatrA:388968:388969
 7:vf(bf)hatpAwaliH:bfhatpAwaliH:vfbftpAwaliH:388970:388971
-0:vf(bf)hatpAdaH puM:bfhatpAdaH puM:vfbftpAdaH puM
+0:vf(bf)hatpAdaH puM:bfhatpAdaH puM:vfbftpAdaH puM:388972:388973
 7:vf(bf)hatpArevataM:bfhatpArevataM:vfbftpArevataM:388974:388975
 7:vf(bf)hatpAlI:bfhatpAlI:vfbftpAlI:388976:388977
 7:vf(bf)hatpIluH:bfhatpIluH:vfbftpIluH:388978:388979
@@ -301,13 +301,13 @@
 7:vf(bf)hadaNgaH:bfhadaNgaH:vfbfdaNgaH:388987:388988
 7:vf(bf)hadamlaH:bfhadamlaH:vfbfdamlaH:388989:388990
 7:vf(bf)hadelA:bfhadelA:vfbfdelA:388991:388992
-0:vf(bf)hatgfhaH:bfhatgfhaH:vfbftgfhaH
+0:vf(bf)hatgfhaH:bfhatgfhaH:vfbftgfhaH:388993:388996
 7:vf(bf)hadgolaM:bfhadgolaM:vfbfdgolaM:388997:388999
 7:vf(bf)haddalaH:bfhaddalaH:vfbfddalaH:389000:389001
 7:vf(bf)hadDalaM:bfhadDalaM:vfbfdDalaM:389002:389003
 7:vf(bf)hadvIjaH:bfhadvIjaH:vfbfdvIjaH:389004:389005
 7:vf(bf)hadBawwArikA:bfhadBawwArikA:vfbfdBawwArikA:389006:389006
-0:vf(bf)hadBAnuH puM:bfhadBAnuH puM:vfbfdBAnuH puM
+0:vf(bf)hadBAnuH puM:bfhadBAnuH puM:vfbfdBAnuH puM:389007:389023
 7:vf(bf)hadraTaH:bfhadraTaH:vfbfdraTaH:389024:389039
 7:vf(bf)hadrAvI:bfhadrAvI:vfbfdrAvI:389040:389041
 7:vf(bf)hadvalkaH:bfhadvalkaH:vfbfdvalkaH:389042:389043

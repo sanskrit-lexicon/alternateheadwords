@@ -4,13 +4,13 @@
 3:agamyAgamya(? ma)kowi:agamyAgammakowi:agamyAgamyamawi:37395:37397
 1:agArasTURAva(? vi)rohaRa:agArasTURAvirohaRa:agArasTURAvavihaRa:39478:39481
 3:agnigranTi(? nTa)sIman:agnigranTasIman:agnigranTinTaan:44274:44276
-0:agnidozma(? za)n:agnidozzan:agnidozmaza
-0:agninivf(? rvf)ttatva:agninrvfttatva:agninivfrvftva
+0:agnidozma(? za)n:agnidozzan:agnidozmaza:45751:45754
+0:agninivf(? rvf)ttatva:agninrvfttatva:agninivfrvftva:46111:46113
 3:agnizwi(? zWi)kAdAna:agnizWikAdAna:agnizwizWiAna:49883:49884
 3:agnizwi(? zWi)kenDana:agnizWikenDana:agnizwizWiDana:49885:49887
 8:agnyA(?)DirohaRa:agnyADirohaRa:DirohaRa:56609:56610
 0:aNga(? ga)jAnurAga:aNgajAnurAga:aNgaganurAga:69141:69143
 3:aNganibanDa(? dDa):aNganibadDa:aNganibanDadDa:70935:70938
 2:atisuganDi(n):atisuganDin:atisuganDn:149824:149825
-0:anuDvaMs(Dvas):anuDDvas:anuDvaMsDvas
+0:anuDvaMs(Dvas):anuDDvas:anuDvaMsDvas:358185:358189
 7:anUrADa(DA):anUrADA:anUrADaDA:425062:425067

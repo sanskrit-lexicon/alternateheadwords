@@ -38,10 +38,10 @@ class secondtime:
 		# Reconverting the codes which were found to have abnormal bigrams or trigrams to '0'.
 		if not wordbigram.issubset(bigrams):
 			print 'bigram\t', singleline, wordbigram.difference(bigrams)
-			fout.write('0:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+			fout.write('0:'+self.hw+':'+self.newhw1+':'+self.newhw2+':'+self.stratline+':'+self.endline+'\n')
 		elif not wordtrigram.issubset(trigrams):
 			print 'trigram\t', singleline, wordtrigram.difference(trigrams)
-			fout.write('0:'+self.hw+':'+self.newhw1+':'+self.newhw2+'\n')
+			fout.write('0:'+self.hw+':'+self.newhw1+':'+self.newhw2+':'+self.stratline+':'+self.endline+'\n')
 		else:
 			fout.write(singleline+'\n')
 		

@@ -21,6 +21,7 @@ class HWnorma(object):
 
 def init_hwnorma(filein):
  with codecs.open(filein,"r","utf-8") as f:
+  #print [x for x in f if len(x.split(':')) != 6]
   recs = [HWnorma(x) for x in f]
  print len(recs),"records read from",filein
  return recs

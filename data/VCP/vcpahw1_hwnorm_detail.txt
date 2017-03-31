@@ -118,7 +118,7 @@ Case 0030: OK,OK : 3:atri(ttri):ttri:atrittri:5743:5763
  key1: atri found (31) attri:GST,MW,SHS,WIL ; atri:AP,AP90,BEN,BHS,BOP,BUR,CAE,CCS,GRA,GST,IEG,INM,MD,MW,MW72,PD,PE,PUI,PW,PWG,SHS,STC,VCP,VEI,WIL,YAT ; atriH:SKD
  alt1: ttri found (21) tri:AP,AP90,BEN,BOP,BUR,CAE,CCS,GRA,IEG,MD,MW,MW72,PW,PWG,SHS,STC,VCP,WIL,YAT ; triH:MW,STC
 
-Case 0031: OK,NF : 9:aDaH(DaSSa)SayyA:aDaHDaSSa:DaSSaSayyA:6455:6457
+Case 0031: OK,NF : 0:aDaH(DaSSa)SayyA:aDaHDaSSa:DaSSaSayyA:6455:6457
  key1: aDaHSayyA found (06) aDaHSayyA:CAE,CCS,MW,PW,PWG,VCP
  alt1: aDaHDaSSa NF
 
@@ -194,7 +194,7 @@ Case 0049: OK,NF : 7:apAMSu(su)lA:apAMsulA:apAMSusu:15707:15710
  key1: apAMSulA found (01) apAMSulA:VCP
  alt1: apAMsulA NF
 
-Case 0050: OK,NF : 10:apigf(grA)hya:apgrAhya:apigfgrA:16059:16059
+Case 0050: OK,NF : 0:apigf(grA)hya:apgrAhya:apigfgrA:16059:16059
  key1: apigfhya found (06) apigfhya:GST,MW,MW72,PW,PWG,VCP
  alt1: apgrAhya NF
 
@@ -382,7 +382,7 @@ Case 0096: OK,NF : 3:amBaH(mBassA)sAra:mBassAsAra:amBaHmBassA:22639:22639
  key1: amBaHsAra found (05) amBaHsAra:MW,PW,PWG,VCP ; amBaHsAraM:SKD
  alt1: mBassAsAra NF
 
-Case 0097: OK,NF : 9:amBaH (mBassU)sU:amBaHmBassU:mBassUsU:22640:22640
+Case 0097: OK,NF : 0:amBaH (mBassU)sU:amBaHmBassU:mBassUsU:22640:22640
  key1: amBaHsU found (04) amBaHsU:MW,PW,PWG,VCP
  alt1: amBaHmBassU NF
 
@@ -422,7 +422,7 @@ Case 0106: OK,NF : 3:araRya(Rye)rudita:araRyerudita:araRyaRyeita:24080:24084
  key1: araRyarudita found (06) araRyarudita:CAE,CCS,MW,PW,PWG,VCP
  alt1: araRyerudita NF
 
-Case 0107: OK,NF : 3:arigUrtta(rRa):arigUrrRa:arigUrttarRa:24382:24384
+Case 0107: OK,NF : 0:arigUrtta(rRa):arigUrrRa:arigUrttarRa:24382:24384
  key1: arigUrtta found (05) arigUrta:GRA,MW,PW,PWG ; arigUrtta:VCP
  alt1: arigUrrRa NF
 
@@ -538,11 +538,11 @@ Case 0135: OK,NF : 3:asraPalA(lI):asraPalI:asraPalAlI:40801:40803
  key1: asraPalA found (05) asraPalA:MW,PW,PWG,SKD,VCP
  alt1: asraPalI NF
 
-Case 0136: OK,NF : 4:ahaH(haska)kara:ahaHhaska:haskakara:41033:41034
+Case 0136: OK,NF : 0:ahaH(haska)kara:ahaHhaska:haskakara:41033:41034
  key1: ahaHkara found (01) ahaHkara:VCP
  alt1: ahaHhaska NF
 
-Case 0137: OK,NF : 9:ahaH(harpa)pati:ahaHharpa:harpapati:41035:41035
+Case 0137: OK,NF : 0:ahaH(harpa)pati:ahaHharpa:harpapati:41035:41035
  key1: ahaHpati found (08) ahaHpati:MW,PW,PWG,SHS,VCP,WIL,YAT ; ahaHpatiH:SKD
  alt1: ahaHharpa NF
 
@@ -826,7 +826,7 @@ Case 0207: OK,NF : 3:uBa(mBa):mBa:uBamBa:100855:100862
  key1: uBa found (20) uBa:AP,AP90,BEN,BOP,BUR,CAE,CCS,GRA,KRM,MD,MW,MW72,PW,PWG,SHS,SKD,STC,VCP,WIL,YAT
  alt1: mBa NF
 
-Case 0208: OK,NF : 3:uBaya(tra)cara:uBtracara:uBayatraa:100898:100904
+Case 0208: OK,NF : 0:uBaya(tra)cara:uBtracara:uBayatraa:100898:100904
  key1: uBayacara found (02) uBayacara:MW,VCP
  alt1: uBtracara NF
 
@@ -862,7 +862,7 @@ Case 0216: OK,OK : 5:u(o)laqa:olaqa:uoaqa:101377:101379
  key1: ulaqa found (01) ulaqa:VCP
  alt1: olaqa found (05) olaqa:SHS,SKD,VCP,WIL,YAT
 
-Case 0217: OK,NF : 3:ulandra(nda):ulannda:ulandranda:101380:101381
+Case 0217: OK,NF : 0:ulandra(nda):ulannda:ulandranda:101380:101381
  key1: ulandra found (01) ulandra:VCP
  alt1: ulannda NF
 
@@ -986,7 +986,7 @@ Case 0247: OK,NF : 0:OmA(ka):Oka:OmAka:117364:117364
  key1: OmA found (01) OmA:VCP
  alt1: Oka NF
 
-Case 0248: OK,NF : 3:OrRRa(ka):OrRka:OrRRaka:117405:117405
+Case 0248: OK,NF : 0:OrRRa(ka):OrRka:OrRRaka:117405:117405
  key1: OrRRa found (15) OrRa:AP,AP90,BEN,CAE,CCS,MD,MW,MW72,PW,PWG,SHS,STC,WIL,YAT ; OrRRa:VCP
  alt1: OrRka NF
 
@@ -1182,7 +1182,7 @@ Case 0296: OK,NF : 7:kiSa(sa)rAdi:kisarAdi:kiSasadi:153387:153389
  key1: kiSarAdi found (02) kiSarAdi:MW,VCP
  alt1: kisarAdi NF
 
-Case 0297: OK,NF : 3:kizkinDA(nDyA)kARqa:kizknDyAkARqa:kizkinDAnDyAa:153417:153419
+Case 0297: OK,NF : 0:kizkinDA(nDyA)kARqa:kizknDyAkARqa:kizkinDAnDyAa:153417:153419
  key1: kizkinDAkARqa found (02) kizkinDAkARqa:MW,VCP
  alt1: kizknDyAkARqa NF
 
@@ -1302,7 +1302,7 @@ Case 0326: OK,NF : 9:kf(kri)mi:kfkri:krimi:163881:163921
  key1: kfmi found (25) kfmi:AP,AP90,BEN,BHS,BOP,BUR,CAE,CCS,INM,MCI,MD,MW,MW72,PE,PUI,PW,PWG,SCH,SHS,STC,VCP,VEI,WIL,YAT ; kfmiH:SKD
  alt1: kfkri NF
 
-Case 0327: OK,NF : 3:kfmikarRRa(ka):kfmikarRka:kfmikarRRaka:163928:163933
+Case 0327: OK,NF : 0:kfmikarRRa(ka):kfmikarRka:kfmikarRRaka:163928:163933
  key1: kfmikarRRa found (07) kfmikarRa:MW,PW,PWG,SHS,WIL,YAT ; kfmikarRRa:VCP
  alt1: kfmikarRka NF
 
@@ -1450,7 +1450,7 @@ Case 0363: OK,NF : 7:koSya(zya):kozya:koSyazya:169911:169913
  key1: koSya found (05) koSya:MW,MW72,PW,PWG,VCP
  alt1: kozya NF
 
-Case 0364: OK,NF : 3:kOdrA(ndrA)yaRa:kndrAyaRa:kOdrAndrA:170154:170157
+Case 0364: OK,NF : 0:kOdrA(ndrA)yaRa:kndrAyaRa:kOdrAndrA:170154:170157
  key1: kOdrAyaRa found (04) kOdrAyaRa:MW,PW,PWG,VCP
  alt1: kndrAyaRa NF
 
@@ -1522,7 +1522,7 @@ Case 0381: OK,OK : 2:kzipa(Ri)RI:kzipaRi:kziRiRI:177524:177529
  key1: kzipaRI found (02) kzipaRI:SKD,VCP
  alt1: kzipaRi found (12) kzipaRi:CAE,GRA,MW,MW72,PW,PWG,SHS,WIL,YAT ; kzipaRiH:AP,AP90,SKD
 
-Case 0382: OK,NF : 3:kzipati(sti):kzipsti:kzipatisti:177535:177535
+Case 0382: OK,NF : 0:kzipati(sti):kzipsti:kzipatisti:177535:177535
  key1: kzipati found (07) kzipati:MW,MW72,PW,PWG,VCP ; kzipatiH:AP,AP90
  alt1: kzipsti NF
 
@@ -1574,7 +1574,7 @@ Case 0394: OK,OK : 2:KaramaYja(ri)rI:KaramaYjari:KaramaYrirI:184480:184485
  key1: KaramaYjarI found (07) KaramaYjarI:MW,PWG,SHS,SKD,VCP,WIL,YAT
  alt1: KaramaYjari found (03) KaramaYjari:MW,PW,PWG
 
-Case 0395: OK,NF : 4:Ka(rju)rjjUGna:KarjuUGna:rjurjjUGna:184530:184531
+Case 0395: OK,NF : 0:Ka(rju)rjjUGna:KarjuUGna:rjurjjUGna:184530:184531
  key1: KarjjUGna found (05) KarjUGna:MW,PW,PWG ; KarjjUGna:VCP ; KarjjUGnaH:SKD
  alt1: KarjuUGna NF
 
@@ -1670,11 +1670,11 @@ Case 0418: OK,NF : 7:gamba(nba):ganba:gambanba:189486:189488
  key1: gamba found (05) gamba:SHS,SKD,VCP,WIL,YAT
  alt1: ganba NF
 
-Case 0419: OK,NF : 3:garBa(rbBa):grbBa:garBarbBa:190591:190873
+Case 0419: OK,NF : 0:garBa(rbBa):grbBa:garBarbBa:190591:190873
  key1: garBa found (24) garBa:BEN,BHS,BOP,BUR,CAE,CCS,GRA,IEG,MD,MW,MW72,PE,PUI,PW,PWG,SCH,SHS,STC,VCP,WIL,YAT ; garBaH:AP,AP90,SKD
  alt1: grbBa NF
 
-Case 0420: OK,NF : 4:ga(rBe)rBANka:garBeNka:rBerBANka:191509:191513
+Case 0420: OK,NF : 0:ga(rBe)rBANka:garBeNka:rBerBANka:191509:191513
  key1: garBANka found (04) garBANka:MW,PW,PWG,VCP
  alt1: garBeNka NF
 
@@ -1810,7 +1810,7 @@ Case 0453: OK,OK : 0:goki(kIla):kIla:gokikIla:200795:200796
  key1: goki found (01) goki:VCP
  alt1: kIla found (21) kIla:BEN,BOP,BUR,CAE,CCS,KRM,MD,MW,MW72,PW,PWG,SCH,SHS,SKD,STC,VCP,WIL,YAT ; kIlaH:AP,AP90,SKD
 
-Case 0454: OK,NF : 3:goKu(kzu)ra:gkzura:goKukzu:200817:200832
+Case 0454: OK,NF : 0:goKu(kzu)ra:gkzura:goKukzu:200817:200832
  key1: goKura found (08) goKura:MW,PW,PWG,SHS,VCP,WIL,YAT ; goKuraH:SKD
  alt1: gkzura NF
 
@@ -1822,7 +1822,7 @@ Case 0456: OK,OK : 1:gona(nA)sa:gonAsa:gonanA:202543:202548
  key1: gonasa found (10) gonasa:BUR,MW,PUI,PW,PWG,SHS,VCP,WIL,YAT ; gonasaH:SKD
  alt1: gonAsa found (09) gonAsa:MW,PW,PWG,SCH,SHS,WIL,YAT ; gonAsaM:SKD ; gonAsaH:SKD
 
-Case 0457: OK,NF : 3:gopa(zpa)pada:gzpapada:gopazpaa:202609:202613
+Case 0457: OK,NF : 0:gopa(zpa)pada:gzpapada:gopazpaa:202609:202613
  key1: gopapada found (01) gopapada:VCP
  alt1: gzpapada NF
 
@@ -1910,7 +1910,7 @@ Case 0478: OK,OK : 1:cakravAqa(la):cakravAla:cakravAqala:212667:212676
  key1: cakravAqa found (09) cakravAqa:BHS,MW,PW,PWG,SHS,VCP,WIL,YAT ; cakravAqaM:SKD
  alt1: cakravAla found (11) cakravAla:BEN,BOP,CAE,CCS,MW,PW,SHS,WIL,YAT ; cakravAlaM:SKD ; cakravAlaH:SKD
 
-Case 0479: OK,NF : 10:cakrA(kI)NkI:cakkINkI:cakrAkII:212743:212744
+Case 0479: OK,NF : 0:cakrA(kI)NkI:cakkINkI:cakrAkII:212743:212744
  key1: cakrANkI found (08) cakrANkI:MW,PW,PWG,SHS,SKD,VCP,WIL,YAT
  alt1: cakkINkI NF
 
@@ -1926,7 +1926,7 @@ Case 0482: OK,OK : 2:ca(Rqe)RqISa:caRqeSa:RqeRqISa:214275:214277
  key1: caRqISa found (07) caRqISa:CAE,CCS,MW,PUI,PW,PWG,VCP
  alt1: caRqeSa found (03) caRqeSa:MW,PW,PWG
 
-Case 0483: OK,NF : 7:caturRRa(na)vati:caturRnavati:caturRRanati:214580:214584
+Case 0483: OK,NF : 0:caturRRa(na)vati:caturRnavati:caturRRanati:214580:214584
  key1: caturRRavati found (01) caturRRavati:VCP
  alt1: caturRnavati NF
 
@@ -1934,7 +1934,7 @@ Case 0484: OK,OK : 1:caturhAyana(Ra):caturhAyaRa:caturhAyanaRa:215660:215662
  key1: caturhAyana found (03) caturhAyana:MW,PW,VCP
  alt1: caturhAyaRa found (03) caturhAyaRa:MW,PW,PWG
 
-Case 0485: OK,NF : 3:canda(ndra)ka:cndraka:candandra:215909:215911
+Case 0485: OK,NF : 0:canda(ndra)ka:cndraka:candandra:215909:215911
  key1: candaka found (12) candaka:ACC,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT ; caMdakaH:AP90 ; candakaH:AP,SKD
  alt1: cndraka NF
 
@@ -2074,7 +2074,7 @@ Case 0519: OK,NF : 3:jagadAyu(yus):jagadyus:jagadAyuyus:225054:225057
  key1: jagadAyu found (05) jagadAyu:BEN,MW,PW,PWG,VCP
  alt1: jagadyus NF
 
-Case 0520: OK,NF : 3:jaganu(nnu):jagnnu:jaganunnu:225237:225240
+Case 0520: OK,NF : 0:jaganu(nnu):jagnnu:jaganunnu:225237:225240
  key1: jaganu found (10) jaganu:MW,MW72,PW,PWG,SHS,VCP,WIL,YAT ; jaganuH:AP,AP90
  alt1: jagnnu NF
 
@@ -2174,7 +2174,7 @@ Case 0544: OK,OK : 1:jAye(yA)nya:jAyAnya:jAyeyAa:233479:233481
  key1: jAyenya found (05) jAyenya:MW,MW72,PW,PWG,VCP
  alt1: jAyAnya found (06) jAyAnya:MW,MW72,PW,PWG,SCH,VEI
 
-Case 0545: OK,NF : 10:jitu(tta)ma:jttama:jitutta:233854:233857
+Case 0545: OK,NF : 0:jitu(tta)ma:jttama:jitutta:233854:233857
  key1: jituma found (05) jituma:BUR,MW,PW,PWG,VCP
  alt1: jttama NF
 
@@ -2182,7 +2182,7 @@ Case 0546: OK,OK : 3:juhUrA(vA)Ra:juhUvARa:juhUrAvA:235586:235587
  key1: juhUrARa found (14) juhUrARa:BUR,MW,MW72,PW,PWG,SCH,SHS,STC,VCP,WIL,YAT ; juhUrARaH:AP,AP90,SKD
  alt1: juhUvARa found (01) juhUvARaH:AP90
 
-Case 0547: OK,NF : 4:jyotiH(SSA)SAstra:jyotiHSSAtra:jyoSSASAstra:237123:237136
+Case 0547: OK,NF : 0:jyotiH(SSA)SAstra:jyotiHSSAtra:jyoSSASAstra:237123:237136
  key1: jyotiHSAstra found (11) jyotiHSAstra:ACC,CAE,CCS,MD,MW,PW,PWG,SHS,VCP,WIL,YAT
  alt1: jyotiHSSAtra NF
 
@@ -2230,7 +2230,7 @@ Case 0558: OK,OK : 1:tanTI(sTI):tasTI:tanTIsTI:242064:242066
  key1: tanTI found (04) tanTI:MW,PW,PWG,VCP
  alt1: tasTI found (02) tasTI:MW,PW
 
-Case 0559: OK,NF : 4:tapaH(ska)kara:tapaHskaa:taskakara:242180:242182
+Case 0559: OK,NF : 0:tapaH(ska)kara:tapaHskaa:taskakara:242180:242182
  key1: tapaHkara found (08) tapaHkara:MW,PW,PWG,SHS,VCP,WIL,YAT ; tapaHkaraH:SKD
  alt1: tapaHskaa NF
 
@@ -2322,7 +2322,7 @@ Case 0581: OK,OK : 1:tundika(la)(Ba):tundila:tundikala:249323:249324
  key1: tundika found (11) tuMdika:AP90 ; tundika:AP,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT ; tundikaH:SKD
  alt1: tundila found (11) tundila:BUR,CAE,CCS,MW,PW,PWG,SHS,STC,WIL,YAT ; tundilaH:SKD
 
-Case 0582: OK,NF : 10:tumba(za)vana:tumzavana:tumbazana:249378:249380
+Case 0582: OK,NF : 0:tumba(za)vana:tumzavana:tumbazana:249378:249380
  key1: tumbavana found (05) tumbavana:MW,PGN,PW,PWG,VCP
  alt1: tumzavana NF
 
@@ -2478,7 +2478,7 @@ Case 0620: OK,OK : 3:dagA(kA)rgala:dakArgala:dagAkAala:256206:256455
  key1: dagArgala found (06) dagArgala:MW,MW72,PW,PWG,VCP ; dagArgalaM:AP90
  alt1: dakArgala found (01) dakArgalaM:AP90
 
-Case 0621: OK,NF : 7:daRqamAMna(Ra)va:daRqamAMRava:daRqamAMnaRa:257794:257797
+Case 0621: OK,NF : 0:daRqamAMna(Ra)va:daRqamAMRava:daRqamAMnaRa:257794:257797
  key1: daRqamAMnava found (01) daRqamAMnava:VCP
  alt1: daRqamAMRava NF
 
@@ -2602,7 +2602,7 @@ Case 0651: OK,NF : 3:duH(duSSa)SalA:duSSaSalA:duHduSSa:271790:271792
  key1: duHSalA found (04) duHSalA:BOP,INM,MW,VCP
  alt1: duSSaSalA NF
 
-Case 0652: OK,NF : 4:duH(SSI)SIla:duHSSIa:SSISIla:271799:271800
+Case 0652: OK,NF : 0:duH(SSI)SIla:duHSSIa:SSISIla:271799:271800
  key1: duHSIla found (11) duHSIla:CAE,CCS,MW,PUI,PW,PWG,SHS,STC,VCP,WIL,YAT
  alt1: duHSSIa NF
 
@@ -2626,11 +2626,11 @@ Case 0657: OK,NF : 3:duH(duzze)zeDa:duzzezeDa:duHduzze:271816:271817
  key1: duHzeDa found (03) duHzeDa:PW,PWG,VCP
  alt1: duzzezeDa NF
 
-Case 0658: OK,NF : 3:duHsakTa(kiTa):duHskiTa:duHsakTakiTa:271818:271818
+Case 0658: OK,NF : 0:duHsakTa(kiTa):duHskiTa:duHsakTakiTa:271818:271818
  key1: duHsakTa found (04) duHsakTa:MW,PW,PWG,VCP
  alt1: duHskiTa NF
 
-Case 0659: OK,NF : 3:duHsADa(Dya):duHsDya:duHsADaDya:271819:271821
+Case 0659: OK,NF : 0:duHsADa(Dya):duHsDya:duHsADaDya:271819:271821
  key1: duHsADa found (02) duHsADa:SCH,VCP
  alt1: duHsDya NF
 
@@ -2654,7 +2654,7 @@ Case 0664: OK,OK : 1:dur(s):dus:durs:272135:272139
  key1: dur found (18) dur:AP,AP90,BOP,BUR,CAE,CCS,GRA,MD,MW,MW72,PW,PWG,SHS,STC,VCP,VEI,WIL,YAT
  alt1: dus found (13) dus:AP,AP90,BEN,BOP,BUR,CAE,GRA,MD,MW,MW72,PW,PWG,STC
 
-Case 0665: OK,NF : 3:durAlaBA(mBa):durAlmBa:durAlaBAmBa:272271:272279
+Case 0665: OK,NF : 0:durAlaBA(mBa):durAlmBa:durAlaBAmBa:272271:272279
  key1: durAlaBA found (05) durAlaBA:PW,SHS,SKD,SNP,VCP
  alt1: durAlmBa NF
 
@@ -2678,7 +2678,7 @@ Case 0670: OK,OK : 1:durhala(li):durhali:durhalali:273800:273800
  key1: durhala found (04) durhala:MW,PW,PWG,VCP
  alt1: durhali found (01) durhali:MW
 
-Case 0671: OK,NF : 3:du(duH)SSrava:duHSSrava:duduHava:273903:273913
+Case 0671: OK,NF : 0:du(duH)SSrava:duHSSrava:duduHava:273903:273913
  key1: duSSrava found (01) duSSrava:VCP
  alt1: duHSSrava NF
 
@@ -2778,7 +2778,7 @@ Case 0695: OK,OK : 1:dvAra(rA)vatI:dvArAvatI:dvArarAtI:286110:286216
  key1: dvAravatI found (16) dvAravatI:AP,AP90,BEN,BHS,CAE,CCS,INM,MW,PE,PUI,PW,SHS,SKD,VCP,WIL,YAT
  alt1: dvArAvatI found (07) dvArAvatI:MW,PW,PWG,SHS,SKD,WIL,YAT
 
-Case 0696: OK,NF : 3:dvA(dbi)viMSa:dbiviMSa:dvAdbiSa:286236:286238
+Case 0696: OK,NF : 0:dvA(dbi)viMSa:dbiviMSa:dvAdbiSa:286236:286238
  key1: dvAviMSa found (07) dvAviMSa:CAE,CCS,MD,MW,PW,PWG,VCP
  alt1: dbiviMSa NF
 
@@ -2966,7 +2966,7 @@ Case 0742: OK,OK : 3:naqa(la)mIna:nalamIna:naqalana:296980:296981
  key1: naqamIna found (07) naqamIna:MW,PW,PWG,VCP,WIL,YAT ; naqamInaH:SKD
  alt1: nalamIna found (08) nalamIna:MW,PW,PWG,SHS,VCP,WIL,YAT ; nalamInaH:SKD
 
-Case 0743: OK,NF : 3:nadyA(ndyA)varttaka:nndyAvarttaka:nadyAndyAtaka:297428:297432
+Case 0743: OK,NF : 0:nadyA(ndyA)varttaka:nndyAvarttaka:nadyAndyAtaka:297428:297432
  key1: nadyAvarttaka found (01) nadyAvarttaka:VCP
  alt1: nndyAvarttaka NF
 
@@ -2978,7 +2978,7 @@ Case 0745: OK,OK : 1:nandi(ndI)vfkza:nandIvfkza:nandindIza:297771:297776
  key1: nandivfkza found (08) nandivfkza:MW,PW,PWG,SHS,VCP,WIL,YAT ; nandivfkzaH:SKD
  alt1: nandIvfkza found (05) nandIvfkza:MW,PW,PWG,SNP ; nandIvfkzaH:SKD
 
-Case 0746: OK,NF : 3:namasi(syi)ta:namsyita:namasisyi:298087:298088
+Case 0746: OK,NF : 0:namasi(syi)ta:namsyita:namasisyi:298087:298088
  key1: namasita found (11) namasita:AP,AP90,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT ; namasitaH:SKD
  alt1: namsyita NF
 
@@ -3050,7 +3050,7 @@ Case 0763: OK,NF : 7:nirudDaprakaza(sa):nirudDaprakasa:nirudDaprakazasa:307301:3
  key1: nirudDaprakaza found (02) nirudDaprakaza:SHS,VCP
  alt1: nirudDaprakasa NF
 
-Case 0764: OK,NF : 3:nif(rf)ti:nrfti:nifrf:307422:307467
+Case 0764: OK,NF : 0:nif(rf)ti:nrfti:nifrf:307422:307467
  key1: nifti found (01) nifti:VCP
  alt1: nrfti NF
 
@@ -3066,7 +3066,7 @@ Case 0767: OK,OK : 2:nirvikalpa(ka):nirvikalpaka:nirvikalka:308449:308470
  key1: nirvikalpa found (10) nirvikalpa:CAE,CCS,MD,MW,MW72,PW,PWG,STC,VCP ; nirvvikalpa:SHS
  alt1: nirvikalpaka found (10) nirvikalpaka:BEN,CAE,CCS,MW,MW72,PW,PWG ; nirvvikalpaka:WIL,YAT ; nirvvikalpakaM:SKD
 
-Case 0768: OK,NF : 3:nirhA(rhrA)da:nrhrAda:nirhArhrA:308671:308674
+Case 0768: OK,NF : 0:nirhA(rhrA)da:nrhrAda:nirhArhrA:308671:308674
  key1: nirhAda found (09) nirhAda:BEN,MW,MW72,PW,PWG,STC,VCP ; nirhAdaH:AP,AP90
  alt1: nrhrAda NF
 
@@ -3166,7 +3166,7 @@ Case 0792: OK,OK : 1:nfsena(nA):nfsenA:nfsenanA:311533:311534
  key1: nfsena found (08) nfsena:MW,PW,PWG,SHS,VCP,WIL,YAT ; nfsenaM:SKD
  alt1: nfsenA found (01) nfsenA:MW
 
-Case 0793: OK,NF : 3:neu(qu)lI:nqulI:neuqu:311544:311573
+Case 0793: OK,NF : 0:neu(qu)lI:nqulI:neuqu:311544:311573
  key1: neulI found (01) neulI:VCP
  alt1: nqulI NF
 
@@ -3402,7 +3402,7 @@ Case 0851: OK,OK : 1:parRAsa(si):parRAsi:parRAsasi:320754:320754
  key1: parRAsa found (10) parRAsa:PW,PWG,SHS,SNP,VCP,WIL,YAT ; parRAsaH:AP,AP90,SKD
  alt1: parRAsi found (04) parRAsi:MW,SHS,WIL,YAT
 
-Case 0852: OK,NF : 3:paryya(lya)Nka:parlyaNka:paryyalya:320793:320800
+Case 0852: OK,NF : 0:paryya(lya)Nka:parlyaNka:paryyalya:320793:320800
  key1: paryyaNka found (19) paryaNka:BEN,BOP,BUR,CAE,CCS,MD,MW,MW72,PUI,PW,PWG,STC,VEI ; paryaNkaH:AP ; paryaMkaH:AP90 ; paryyaNka:VCP,WIL,YAT ; paryyaNkaH:SKD
  alt1: parlyaNka NF
 
@@ -3422,7 +3422,7 @@ Case 0856: OK,NF : 10:pavitrArIpa(ha)Ra:pavitrArIhaRa:pavitrArIpaha:321519:32158
  key1: pavitrArIpaRa found (01) pavitrArIpaRa:VCP
  alt1: pavitrArIhaRa NF
 
-Case 0857: OK,NF : 3:paSa(za sa):za sa:paSaza sa:321605:321606
+Case 0857: OK,NF : 0:paSa(za sa):za sa:paSaza sa:321605:321606
  key1: paSa found (05) paSa:KRM,SHS,SKD,VCP,WIL
  alt1: za sa NF
 
@@ -3514,7 +3514,7 @@ Case 0879: OK,OK : 1:pAli(lI):pAlI:pAlilI:324988:324991
  key1: pAli found (19) pAli:BEN,BUR,CAE,CCS,IEG,MD,MW,MW72,PW,PWG,SCH,SHS,STC,VCP,WIL,YAT ; pAliH:AP,AP90,SKD
  alt1: pAlI found (09) pAlI:CAE,CCS,IEG,MD,MW,PE,PW,SCH,SKD
 
-Case 0880: OK,NF : 3:picumanda(rdda):picumrdda:picumandardda:325338:325339
+Case 0880: OK,NF : 0:picumanda(rdda):picumrdda:picumandardda:325338:325339
  key1: picumanda found (10) picumanda:BHS,MW,PW,PWG,SHS,SNP,VCP,WIL,YAT ; picumandaH:SKD
  alt1: picumrdda NF
 
@@ -3550,15 +3550,15 @@ Case 0888: OK,OK : 1:pucCawi(wI):pucCawI:pucCawiwI:327233:327234
  key1: pucCawi found (10) pucCawi:BUR,MW,MW72,PWG,SHS,VCP,WIL,YAT ; pucCawiH:AP,AP90
  alt1: pucCawI found (02) pucCawI:PW,SKD
 
-Case 0889: OK,NF : 3:putra(ttra):pttra:putrattra:327725:327824
+Case 0889: OK,NF : 0:putra(ttra):pttra:putrattra:327725:327824
  key1: putra found (24) puttra:SHS,WIL,YAT ; puttraH:SKD ; putra:BEN,BOP,BUR,CAE,CCS,GRA,IEG,MD,MW,MW72,PUI,PW,PWG,SCH,STC,VCP,VEI ; putraH:AP,AP90,SKD
  alt1: pttra NF
 
-Case 0890: OK,NF : 3:putra(ttra)jagDI:pttrajagDI:putrattraI:327839:327842
+Case 0890: OK,NF : 0:putra(ttra)jagDI:pttrajagDI:putrattraI:327839:327842
  key1: putrajagDI found (04) putrajagDI:MW,PW,PWG,VCP
  alt1: pttrajagDI NF
 
-Case 0891: OK,NF : 3:putrA(ttrA)din:pttrAdin:putrAttrA:327938:327940
+Case 0891: OK,NF : 0:putrA(ttrA)din:pttrAdin:putrAttrA:327938:327940
  key1: putrAdin found (02) putrAdin:PW,VCP
  alt1: pttrAdin NF
 
@@ -3570,7 +3570,7 @@ Case 0893: OK,NF : 0:punaH(na)stoma:punnastoma:punaHnaoma:328099:328102
  key1: punaHstoma found (04) punaHstoma:MW,PW,PWG,VCP
  alt1: punnastoma NF
 
-Case 0894: OK,NF : 7:punarRRa(na)va:punarRnava:punarRRana:328145:328147
+Case 0894: OK,NF : 0:punarRRa(na)va:punarRnava:punarRRana:328145:328147
  key1: punarRRava found (07) punarRava:CAE,CCS,MW,PW,PWG,SCH ; punarRRava:VCP
  alt1: punarRnava NF
 
@@ -3622,7 +3622,7 @@ Case 0906: OK,OK : 1:puzpavA(bA)Ra:puzpabARa:puzpavAbA:330366:330368
  key1: puzpavARa found (01) puzpavARa:VCP
  alt1: puzpabARa found (05) puzpabARa:CAE,CCS,MW,PUI,PW
 
-Case 0907: OK,NF : 3:pUtikaraja(Yja):pUtikarYja:pUtikarajaYja:330644:330645
+Case 0907: OK,NF : 0:pUtikaraja(Yja):pUtikarYja:pUtikarajaYja:330644:330645
  key1: pUtikaraja found (08) pUtikaraja:MW,PW,PWG,SHS,VCP,WIL,YAT ; pUtikarajaH:SKD
  alt1: pUtikarYja NF
 
@@ -3906,7 +3906,7 @@ Case 0977: OK,NF : 7:pUrve(rbe)dyum:pUrbedyum:pUrverbem:331885:331885
  key1: pUrvedyum found (01) pUrvedyum:VCP
  alt1: pUrbedyum NF
 
-Case 0978: OK,NF : 7:pUrve(rbe)zukAmaSamI:pUrbezukAmaSamI:pUrverbeAmaSamI:331886:331888
+Case 0978: OK,NF : 0:pUrve(rbe)zukAmaSamI:pUrbezukAmaSamI:pUrverbeAmaSamI:331886:331888
  key1: pUrvezukAmaSamI found (04) pUrvezukAmaSamI:MW,PW,PWG,VCP
  alt1: pUrbezukAmaSamI NF
 
@@ -3990,7 +3990,7 @@ Case 0998: OK,OK : 1:pratamA(rA)m:pratarAm:pratamArA:333755:333755
  key1: pratamAm found (07) pratamAm:AP,CCS,MW,MW72,PW,PWG,VCP
  alt1: pratarAm found (02) pratarAm:CAE,MW
 
-Case 0999: OK,NF : 3:pratika(zka)Sa:pratzkaSa:pratikazka:333824:333828
+Case 0999: OK,NF : 0:pratika(zka)Sa:pratzkaSa:pratikazka:333824:333828
  key1: pratikaSa found (05) pratikaSa:MW,MW72,PW,PWG,VCP
  alt1: pratzkaSa NF
 
@@ -4350,7 +4350,7 @@ Case 1088: OK,NF : 7:ba(va)huparRa:vahuparRa:bavaparRa:343599:343602
  key1: bahuparRa found (07) bahuparRa:CAE,CCS,MW,PW,PWG,VCP ; bahuparRaH:SKD
  alt1: vahuparRa NF
 
-Case 1089: OK,NF : 6:ba(va)hupAda(d):ba(va)hupAd:bavapAda:343603:343604
+Case 1089: OK,NF : 0:ba(va)hupAda(d):ba(va)hupAd:bavapAda:343603:343604
  key1: bahupAda found (07) bahupAda:CAE,CCS,MW,PW,PWG,VCP ; bahupAdaH:SKD
  alt1: ba(va)hupAd NF
 
@@ -5566,7 +5566,7 @@ Case 1392: OK,OK : 1:BaNgi(NgI):BaNgI:BaNgiNgI:348789:348790
  key1: BaNgi found (18) BaNgi:BEN,BOP,BUR,CAE,CCS,MD,MW,MW72,PW,PWG,SHS,STC,VCP,WIL,YAT ; BaNgiH:AP,SKD ; BaMgiH:AP90
  alt1: BaNgI found (03) BaNgI:CAE,MW,SKD
 
-Case 1393: OK,NF : 7:BaRwu(RwU)ka:BaRwUka:BaRwuRwU:348913:348913
+Case 1393: OK,NF : 0:BaRwu(RwU)ka:BaRwUka:BaRwuRwU:348913:348913
  key1: BaRwuka found (07) BaRwuka:MW,MW72,PW,PWG,VCP ; BaRwukaH:AP,SKD
  alt1: BaRwUka NF
 
@@ -5658,7 +5658,7 @@ Case 1415: OK,OK : 1:Beri(rI):BerI:BerirI:353877:353879
  key1: Beri found (15) Beri:BEN,BUR,CAE,CCS,MW72,PUI,PW,PWG,SHS,VCP,WIL,YAT ; BeriH:AP,AP90,SKD
  alt1: BerI found (07) BerI:BOP,CAE,IEG,MD,MW,SKD,STC
 
-Case 1416: OK,NF : 3:BogIndra(Sa):BogIndSa:BogIndraSa:354215:354216
+Case 1416: OK,NF : 0:BogIndra(Sa):BogIndSa:BogIndraSa:354215:354216
  key1: BogIndra found (12) BogIndra:ACC,CAE,CCS,MW,PW,PWG,SCH,SHS,VCP,WIL,YAT ; BogIndraH:SKD
  alt1: BogIndSa NF
 
@@ -5686,7 +5686,7 @@ Case 1422: OK,OK : 1:maGavan(t):maGavat:maGavant:354773:354780
  key1: maGavan found (17) maGavan:AP,AP90,BEN,BOP,CAE,CCS,GRA,INM,MD,MW,PW,PWG,SHS,STC,VCP,WIL,YAT
  alt1: maGavat found (07) maGavat:GRA,MW,SHS,WIL,YAT ; maGavant:BEN,CAE
 
-Case 1423: OK,NF : 3:maNkzu(NKu):maNNKu:maNkzuNKu:354842:354843
+Case 1423: OK,NF : 0:maNkzu(NKu):maNNKu:maNkzuNKu:354842:354843
  key1: maNkzu found (16) maNkzu:AP,BEN,BUR,CAE,CCS,MD,MW,MW72,PW,PWG,SHS,STC,VCP,WIL,YAT ; maMkzu:AP90
  alt1: maNNKu NF
 
@@ -5866,7 +5866,7 @@ Case 1467: OK,OK : 1:mfkaRqa(Rqu):mfkaRqu:mfkaRqaRqu:358329:358329
  key1: mfkaRqa found (10) mfkaRqa:CAE,CCS,MD,MW,MW72,PUI,PW,PWG,STC,VCP
  alt1: mfkaRqu found (09) mfkaRqu:BUR,CAE,MW,PE,PWG,SHS,WIL,YAT ; mfkaRquH:SKD
 
-Case 1468: OK,NF : 4:mft(sA)snA:mftsAA:msAsnA:358478:358479
+Case 1468: OK,NF : 0:mft(sA)snA:mftsAA:msAsnA:358478:358479
  key1: mftsnA found (07) mftsnA:MW,SHS,SKD,STC,VCP,WIL,YAT
  alt1: mftsAA NF
 
@@ -5970,7 +5970,7 @@ Case 1493: OK,OK : 1:rAtri(trI):rAtrI:rAtritrI:361656:361662
  key1: rAtri found (20) rAtri:BEN,BOP,BUR,CAE,CCS,INM,MD,MW,MW72,PUI,PW,PWG,SHS,STC,VCP,WIL,YAT ; rAtriH:AP,AP90,SKD
  alt1: rAtrI found (09) rAtrI:CAE,CCS,GRA,MD,MW,PW,PWG,SKD,VEI
 
-Case 1494: OK,NF : 4:rAtri(Yca)cara:rAtriYcaa:rAYcacara:361665:361667
+Case 1494: OK,NF : 0:rAtri(Yca)cara:rAtriYcaa:rAYcacara:361665:361667
  key1: rAtricara found (09) rAtricara:BEN,MW,PW,PWG,SHS,VCP,WIL,YAT ; rAtricaraH:SKD
  alt1: rAtriYcaa NF
 
@@ -6098,7 +6098,7 @@ Case 1525: OK,NF : 3:vaya(yaH)sTa:vyaHsTa:vayayaH:364937:364943
  key1: vayasTa found (06) vayasTa:BEN,SHS,VCP,WIL,YAT ; vayasTaH:SKD
  alt1: vyaHsTa NF
 
-Case 1526: OK,NF : 3:varivasi(syi)ta:varivsyita:varivasisyi:365065:365066
+Case 1526: OK,NF : 0:varivasi(syi)ta:varivsyita:varivasisyi:365065:365066
  key1: varivasita found (10) varivasita:AP,AP90,MW,MW72,PW,SHS,VCP,WIL,YAT ; varivasitaH:SKD
  alt1: varivsyita NF
 
@@ -6114,11 +6114,11 @@ Case 1529: OK,OK : 1:vartti(rttI):varttI:varttirttI:365449:365454
  key1: vartti found (19) varti:BEN,BHS,BUR,CAE,CCS,MD,MW,MW72,PW,PWG,SCH,STC ; vartiH:AP,AP90 ; vartti:SHS,VCP,WIL,YAT ; varttiH:SKD
  alt1: varttI found (05) vartI:CAE,MD,MW,PW ; varttI:SKD
 
-Case 1530: OK,NF : 3:varhi(rhiH)kusuma:vrhiHkusuma:varhirhiHma:365683:365684
+Case 1530: OK,NF : 0:varhi(rhiH)kusuma:vrhiHkusuma:varhirhiHma:365683:365684
  key1: varhikusuma found (03) varhikusuma:VCP,WIL ; varhikusumaM:SKD
  alt1: vrhiHkusuma NF
 
-Case 1531: OK,NF : 3:varhi(rhiH)zWa:vrhiHzWa:varhirhiH:365688:365689
+Case 1531: OK,NF : 0:varhi(rhiH)zWa:vrhiHzWa:varhirhiH:365688:365689
  key1: varhizWa found (06) varhizWa:MW72,SHS,VCP,WIL,YAT ; varhizWaM:SKD
  alt1: vrhiHzWa NF
 
@@ -6282,7 +6282,7 @@ Case 1571: OK,OK : 1:viSvA(Sva)rAj:viSvarAj:viSvASva:370929:370931
  key1: viSvArAj found (06) viSvArAj:AP,AP90,MW,PW,PWG,VCP
  alt1: viSvarAj found (06) viSvarAj:MW,PW,PWG,SHS,WIL,YAT
 
-Case 1572: OK,NF : 3:vizRudEvata(tya):vizRudEvtya:vizRudEvatatya:371622:371625
+Case 1572: OK,NF : 0:vizRudEvata(tya):vizRudEvtya:vizRudEvatatya:371622:371625
  key1: vizRudEvata found (05) vizRudEvata:MW,PW,PWG,VCP ; vizRudEvataM:SKD
  alt1: vizRudEvtya NF
 
@@ -6386,7 +6386,7 @@ Case 1597: OK,OK : 1:SaktuPalA(lI):SaktuPalI:SaktuPalAlI:382362:382363
  key1: SaktuPalA found (05) SaktuPalA:SHS,SKD,VCP,WIL,YAT
  alt1: SaktuPalI found (01) SaktuPalI:SKD
 
-Case 1598: OK,NF : 3:Saktri(kiTra):SkiTra:SaktrikiTra:382364:382364
+Case 1598: OK,NF : 0:Saktri(kiTra):SkiTra:SaktrikiTra:382364:382364
  key1: Saktri found (08) Saktri:INM,MW,MW72,PW,PWG,STC,VCP ; SaktriH:SKD
  alt1: SkiTra NF
 
@@ -6482,7 +6482,7 @@ Case 1621: OK,OK : 7:SI(sI)tya:sItya:SIsIa:385917:385917
  key1: SItya found (10) SItya:AP,AP90,BUR,MW,MW72,SHS,VCP,WIL,YAT ; SItyaM:SKD
  alt1: sItya found (13) sItya:AP,AP90,BEN,BUR,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT ; sItyaM:SKD
 
-Case 1622: OK,NF : 3:SIrzacCedya(dika):SIrzacCdika:SIrzacCedyadika:385949:385950
+Case 1622: OK,NF : 0:SIrzacCedya(dika):SIrzacCdika:SIrzacCedyadika:385949:385950
  key1: SIrzacCedya found (09) SIrzacCedya:CAE,MW,PW,PWG,SHS,VCP ; SIrzacCedyaH:SKD ; SIrzaCedya:WIL,YAT
  alt1: SIrzacCdika NF
 
@@ -6794,7 +6794,7 @@ Case 1699: OK,OK : 7:sU(zU)rkza(rkzya):zUrkza:sUzUza:401420:401421
  key1: sUrkza found (03) sUrkza:KRM,SKD,VCP
  alt1: zUrkza found (04) zUrkza:SKD,VCP,WIL,YAT
 
-Case 1700: OK,NF : 3:sUrkza(rkzya)Ra:srkzyaRa:sUrkzarkzya:401423:401423
+Case 1700: OK,NF : 0:sUrkza(rkzya)Ra:srkzyaRa:sUrkzarkzya:401423:401423
  key1: sUrkzaRa found (12) sUrkzaRa:BEN,BUR,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT ; sUrkzaRaM:AP90,SKD
  alt1: srkzyaRa NF
 
@@ -6826,7 +6826,7 @@ Case 1707: OK,OK : 3:ste(zwe)pa:zwepa:stezwe:402530:402531
  key1: stepa found (03) stepa:VCP,WIL,YAT
  alt1: zwepa found (03) zwepa:SKD,VCP,WIL
 
-Case 1708: OK,NF : 3:stEna(nya):stnya:stEnanya:402540:402541
+Case 1708: OK,NF : 0:stEna(nya):stnya:stEnanya:402540:402541
  key1: stEna found (12) stEna:BEN,BUR,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT ; stEnaM:AP90,SKD
  alt1: stnya NF
 
