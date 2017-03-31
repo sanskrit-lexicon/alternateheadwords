@@ -2,3 +2,7 @@ scripts/transcoder.pyc
 *.pyc
 *~
 data/PWGpreverb/temp*
+# added by ejf. 03-30-2017. All files beginning with temp
+temp*
+# added by ejf
+data/VCP/hwnorm1c.txt
