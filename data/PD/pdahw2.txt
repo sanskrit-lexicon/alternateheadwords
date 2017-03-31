@@ -1,6 +1,6 @@
-3:*aMhaha(aMhahA):aMhahA:aMhahaaMhahA:3895:3897
+7:*aMhaha(aMhahA):aMhahA:aMhahaaMhahA:3895:3897
 10:akaTaha(ma)cakra:akaTamacakra:akaTahamakra:4534:4535
-3:akzirAji(ºjI):akzirAjI:akzirAjijI:28108:28110
+7:akzirAji(ºjI):akzirAjI:akzirAjijI:28108:28110
 3:agamyAgamya(? ma)kowi:agamyAgammakowi:agamyAgamyamawi:37395:37397
 1:agArasTURAva(? vi)rohaRa:agArasTURAvirohaRa:agArasTURAvavihaRa:39478:39481
 3:agnigranTi(? nTa)sIman:agnigranTasIman:agnigranTinTaan:44274:44276
@@ -8,9 +8,9 @@
 0:agninivf(? rvf)ttatva:agninrvfttatva:agninivfrvftva
 3:agnizwi(? zWi)kAdAna:agnizWikAdAna:agnizwizWiAna:49883:49884
 3:agnizwi(? zWi)kenDana:agnizWikenDana:agnizwizWiDana:49885:49887
-4:agnyA(?)DirohaRa:agnyADirohaRa:DirohaRa:56609:56610
+8:agnyA(?)DirohaRa:agnyADirohaRa:DirohaRa:56609:56610
 0:aNga(? ga)jAnurAga:aNgajAnurAga:aNgaganurAga:69141:69143
 3:aNganibanDa(? dDa):aNganibadDa:aNganibanDadDa:70935:70938
 2:atisuganDi(n):atisuganDin:atisuganDn:149824:149825
 0:anuDvaMs(Dvas):anuDDvas:anuDvaMsDvas
-3:anUrADa(DA):anUrADA:anUrADaDA:425062:425067
+7:anUrADa(DA):anUrADA:anUrADaDA:425062:425067

@@ -79,18 +79,18 @@ class dataholder:
 				elif self.newhw2 in hw1:
 					print '2:'+self.hw+':'+self.newhw2+':'+self.newhw1
 					fout.write('2:'+self.hw+':'+self.newhw2+':'+self.newhw1+':'+self.startline+':'+self.endline+'\n')
-				elif l.levenshtein(self.pre[-self.midlen:],self.mid) < l.levenshtein(self.post[:self.midlen],self.mid):
-					print '3:'+self.hw+':'+self.newhw1+':'+self.newhw2
-					fout.write('3:'+self.hw+':'+self.newhw1+':'+self.newhw2+':'+self.startline+':'+self.endline+'\n')
-				elif l.levenshtein(self.pre[-self.midlen:],self.mid) > l.levenshtein(self.post[:self.midlen],self.mid):
-					print '4:'+self.hw+':'+self.newhw2+':'+self.newhw1
-					fout.write('4:'+self.hw+':'+self.newhw2+':'+self.newhw1+':'+self.startline+':'+self.endline+'\n')
 				elif similarorthography(self.pre[-self.midlen:]) == similarorthography(self.mid):
 					print '7:'+self.hw+':'+self.newhw1+':'+self.newhw2
 					fout.write('7:'+self.hw+':'+self.newhw1+':'+self.newhw2+':'+self.startline+':'+self.endline+'\n')
 				elif similarorthography(self.post[:self.midlen]) == similarorthography(self.mid):
 					print '8:'+self.hw+':'+self.newhw2+':'+self.newhw1
 					fout.write('8:'+self.hw+':'+self.newhw2+':'+self.newhw1+':'+self.startline+':'+self.endline+'\n')
+				elif l.levenshtein(self.pre[-self.midlen:],self.mid) < l.levenshtein(self.post[:self.midlen],self.mid):
+					print '3:'+self.hw+':'+self.newhw1+':'+self.newhw2
+					fout.write('3:'+self.hw+':'+self.newhw1+':'+self.newhw2+':'+self.startline+':'+self.endline+'\n')
+				elif l.levenshtein(self.pre[-self.midlen:],self.mid) > l.levenshtein(self.post[:self.midlen],self.mid):
+					print '4:'+self.hw+':'+self.newhw2+':'+self.newhw1
+					fout.write('4:'+self.hw+':'+self.newhw2+':'+self.newhw1+':'+self.startline+':'+self.endline+'\n')
 				elif self.midlen <= len(self.pre) and self.pre[-len(self.mid)] == self.mid[0] and self.mid[0] in 'kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzshl|': # ma(mi)hira. Consonant matching has higher priority than vowel matching.
 					print '12:'+self.hw+':'+self.newhw1+':'+self.newhw2
 					fout.write('12:'+self.hw+':'+self.newhw1+':'+self.newhw2+':'+self.startline+':'+self.endline+'\n')
