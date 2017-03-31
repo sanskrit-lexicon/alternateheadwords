@@ -16,3 +16,29 @@
 ;
 980 old 0:pUrvya(rvya):pUrvya:pUrvyarvya:331890:331891
 980 new 20:pUrvya(rbya):pUrbya:pUrvyarvya:331890:331891
+;
+; Changes of alternates from abBr... to aBr
+0055 old 99:abBra(Bra):aBra:abBraBra:18104:18107
+0055 new 21:abBra(Bra):aBra:abBraBra:18104:18107
+0056 old 99:abBraM(BraM)liha:aBraMliha:abBraMBraM:18108:18110
+0056 new 21:abBraM(BraM)liha:aBraMliha:abBraMBraM:18108:18110
+0057 old 99:abBra(Bra)ka:aBraka:abBraBra:18111:18112
+0057 new 21:abBra(Bra)ka:aBraka:abBraBra:18111:18112
+0058 old 99:abBra(Bra)Nkaza:aBraNkaza:abBraBraza:18113:18114
+0058 new 21:abBra(Bra)Nkaza:aBraNkaza:abBraBraza:18113:18114
+0059 old 99:abBra(Bra)puzpa:aBrapuzpa:abBraBrapa:18115:18117
+0059 new 21:abBra(Bra)puzpa:aBrapuzpa:abBraBrapa:18115:18117
+0060 old 99:abBra(Bra)mAtaNga:aBramAtaNga:abBraBraaNga:18118:18118
+0060 new 21:abBra(Bra)mAtaNga:aBramAtaNga:abBraBraaNga:18118:18118
+0061 old 99:abBra(Bra)mu:aBramu:abBraBra:18119:18120
+0061 new 21:abBra(Bra)mu:aBramu:abBraBra:18119:18120
+0062 old 99:abBra(Bra)muvallaBa:aBramuvallaBa:abBraBraallaBa:18121:18122
+0062 new 21:abBra(Bra)muvallaBa:aBramuvallaBa:abBraBraallaBa:18121:18122
+0063 old 99:abBra(Bra)roham:aBraroham:abBraBraam:18123:18125
+0063 new 21:abBra(Bra)roham:aBraroham:abBraBraam:18123:18125
+0064 old 99:abBro(Bro)tTa:aBrotTa:abBroBro:18126:18128
+0064 new 21:abBro(Bro)tTa:aBrotTa:abBroBro:18126:18128
+0065 old 99:abBri(Bri):aBri:abBriBri:18129:18129
+0065 new 21:abBri(Bri):aBri:aBriBri:18129:18129
+0066 old 99:abBri(Bri)ya:aBriya:abBriBri:18130:18130
+0066 new 21:abBri(Bri)ya:aBriya:aBriBri:18130:18130
