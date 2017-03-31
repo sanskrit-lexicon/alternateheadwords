@@ -39,7 +39,7 @@ def main(recs):
  print nkey1,"key1 found"
  print nkey1alt,"key1alt found"
 
-def write_recs(recs1,fileout):
+def write_recs(recs,fileout):
  with codecs.open(fileout,"w","utf-8") as f:
   status_counter = {}
   for irec,rec in enumerate(recs):
