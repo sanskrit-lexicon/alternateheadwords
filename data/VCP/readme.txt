@@ -7,7 +7,7 @@ The temp_vcpahw0.txt has two additional entries:
 4276,b:paSa(za--sa):321607,321608
 
 
-python check_hwnorm.py vcpahw1.txt vcpahw1_hwnorm.txt vcpahw1_hwnorm_detail.txt 
+python check_hwnorm.py vcpahw2.txt vcpahw1_hwnorm.txt vcpahw1_hwnorm_detail.txt 
 
 
 4 cases where 
