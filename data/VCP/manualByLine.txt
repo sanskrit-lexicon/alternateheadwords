@@ -42,3 +42,38 @@
 0065 new 21:abBri(Bri):aBri:aBriBri:18129:18129
 0066 old 99:abBri(Bri)ya:aBriya:abBriBri:18130:18130
 0066 new 21:abBri(Bri)ya:aBriya:aBriBri:18130:18130
+; code=22.  aYc -> ac
+0090 old 99:amudryaYc(c):amudryac:amudryaYcc:21863:21865
+0090 new 22:amudryaYc(c):amudryac:amudryaYcc:21863:21865
+0091 old 99:amumuyaYc(c):amumuyac:amumuyaYcc:21866:21868
+0091 new 22:amumuyaYc(c):amumuyac:amumuyaYcc:21866:21868
+; code=23.
+115 old 99:arbu (rvu)da:arvuda:arburbu:26112:26141
+115 new 23:arbu(rvu)da:arvuda:arburbu:26112:26141
+; code=24
+0142 old 99:AkarzA(zA)di:AkazAdi:AkarzAzA:42035:42039
+0142 new 24:AkarzA(zA)di:AkazAdi:AkarzAzA:42035:42039
+; code=25
+0298 old 99:kizkinDyA(nDA)Dipa:kizkinDADipa:kizkinDyAnDyA:153424:153425
+0298 new 25:kizkinDyA(nDA)Dipa:kizkinDADipa:kizkinDyAnDyA:153424:153425
+; code=26
+0408 old 0:gajacirBa(rBa)wA:gajacirBawA:gajacirBarBa:186464:186465
+0408 new 269:gajacirBa(rBi)wA:gajacirBiwA:gajacirBarBa:186464:186465
+; code=27.  Print has a virama with the parenthetical (r).
+0427 old 4:gi(r)rA:girA:grrA:193588:193597
+0427 new 27:gi(r)rA:gir:grrA:193588:193597
+; code=28  tattva or tatva, cf skd
+0551 old 0:tattva(tva):tattva:tattvatva:240600:240644
+0551 new 28:tattva(tva):tatva:tattvatva:240600:240644
+; code=28  pattra or patra, cf skd, mw
+0814 old 0:pattra(tra):pattra:pattratra:317285:317389
+0814 new 28:pattra(tra):patra:pattratra:317285:317389
+; code=29
+1399 old 0:Ballu(llu)ka:Balluka:Ballullu:349621:349625
+1399 new 29:Ballu(llU)ka:BallUka:Ballullu:349621:349625
+; code=30 ?  Could not find good confirmation of maWa as alternate.
+1428 old 0:maRWa(Wa):maRWa:maRWaWa:355126:355133
+1428 new 30:maRWa(Wa):maWa:maRWaWa:355126:355133
+; code=28
+1476 old 0:mEttra(tra):mEttra:mEttratra:358694:358700
+1476 new 31:mEttra(tra):mEtra:mEttratra:358694:358700

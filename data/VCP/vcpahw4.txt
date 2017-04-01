@@ -87,8 +87,8 @@
 2:amA (vA)vasI:amAvAsI:avAvasI:21778:21779
 1:amAva(vA)syA:amAvAsyA:amAvavAA:21780:21792
 1:amitrasa (sA)ha:amitrasAha:amitrasasA:21812:21814
-99:amudryaYc(c):amudryac:amudryaYcc:21863:21865
-99:amumuyaYc(c):amumuyac:amumuyaYcc:21866:21868
+22:amudryaYc(c):amudryac:amudryaYcc:21863:21865
+22:amumuyaYc(c):amumuyac:amumuyaYcc:21866:21868
 1:amu(do)vat:adovat:amudot:21869:21871
 5:a(A)muzyAyaRa:AmuzyAyaRa:aAuzyAyaRa:21876:21877
 2:amba(ri)rIza:ambariza:amrirIza:22274:22290
@@ -112,7 +112,7 @@
 5:a(A)rdDapAdika:ArdDapAdika:aAdDapAdika:25850:25855
 1:a(A)rdDaprasTika:ArdDaprasTika:aAdDaprasTika:25860:25861
 1:arba(rva):arva:arbarva:26110:26111
-99:arbu (rvu)da:arvuda:arburbu:26112:26141
+23:arbu(rvu)da:arvuda:arburbu:26112:26141
 1:arSa(rsa)s:arsas:arSarsa:26262:26310
 2:alA(bu)bU:alAbu:abubU:28535:28537
 1:avagra(grA)ha:avagrAha:avagragrA:29148:29159
@@ -139,7 +139,7 @@
 5:a(A)hituRqika:AhituRqika:aAituRqika:41757:41758
 4:ahi(vu)buDna:ahivuDna:avubuDna:41787:41792
 2:ahimeda(ka):ahimedaka:ahimeka:41814:41814
-99:AkarzA(zA)di:AkazAdi:AkarzAzA:42035:42039
+24:AkarzA(zA)di:AkazAdi:AkarzAzA:42035:42039
 5:A(a)kOSala:akOSala:AaOSala:43064:43064
 1:A(a)kzEtrajYa:akzEtrajYa:AazEtrajYa:43168:43169
 1:Agatya(mya):Agamya:Agatyamya:44013:44015
@@ -295,7 +295,7 @@
 1:kiSa(sa)ra:kisara:kiSasa:153381:153384
 3:kiSa(sa)rAdi:kisarAdi:kiSasadi:153387:153389
 99:kizkinDA(nDyA)kARqa:kizkinDyAkARqa:kizkinDAnDyAa:153417:153419
-99:kizkinDyA(nDA)Dipa:kizkinDADipa:kizkinDyAnDyA:153424:153425
+25:kizkinDyA(nDA)Dipa:kizkinDADipa:kizkinDyAnDyA:153424:153425
 3:kuku(kU)da:kukUda:kukukU:153875:153887
 1:kukkuwa(wI)vrata:kukkuwIvrata:kukkuwawIata:153932:153936
 1:kuqapa(va):kuqava:kuqapava:154850:154868
@@ -405,7 +405,7 @@
 1:Ku(KU)rdda:KUrdda:KuKUda:185246:185247
 1:Kowi(wI):KowI:KowiwI:185361:185362
 3:KaqgaPala(ka):KaqgaPaka:KaqgaPalaka:185518:185519
-0:gajacirBa(rBa)wA:gajacirBawA:gajacirBarBa:186464:186465
+269:gajacirBa(rBi)wA:gajacirBiwA:gajacirBarBa:186464:186465
 6:gajAdinAman(mA):gajAdinAmA:gajAdinAmanmA:186567:186569
 2:gajA(da)Sana:gajAdana:gadaSana:186609:186611
 1:gaqura(la):gaqula:gaqurala:186766:186770
@@ -424,7 +424,7 @@
 1:gARqi(RqI)va:gARqIva:gARqiRqI:192202:192222
 3:gAndi(nDi)nIsuta:gAnDinIsuta:gAndinDiuta:192671:192683
 2:gAya(ttrI)trI:gAyattrI:ttrItrI:192903:193311
-4:gi(r)rA:girA:grrA:193588:193597
+27:gi(r)rA:gir:grrA:193588:193597
 3:giri(li)ta:gilita:girili:193751:193751
 3:gi(ge)zRu:gezRu:gigeu:193938:193944
 1:gIrbA(rvA)Ra:gIrvARa:gIrbArvA:194130:194133
@@ -548,7 +548,7 @@
 3:JaRa(na)tkara:Janatkara:JaRanaara:238662:238665
 1:waNkaRa(na):waNkana:waNkaRana:238907:238922
 1:qahu(hU):qahU:qahuhU:239112:239115
-0:tattva(tva):tattva:tattvatva:240600:240644
+28:tattva(tva):tatva:tattvatva:240600:240644
 0:tadryaYca(c):tadryaYcc:tadryaYcac:241240:241242
 3:tanu(nU)ruw:tanUruw:tanunUw:241389:241390
 3:tanu(nU)ruha:tanUruha:tanunUha:241391:241391
@@ -811,7 +811,7 @@
 1:pawwiSa(sa):pawwisa:pawwiSasa:315928:315953
 3:pawwISa(ma):pawwIma:pawwISama:315954:315955
 3:paRa(na)sya:panasya:paRanaa:316006:316007
-0:pattra(tra):pattra:pattratra:317285:317389
+28:pattra(tra):patra:pattratra:317285:317389
 2:pattra(re)leKA:pattrareKA:pattreleKA:317433:317433
 2:pattra(Si)sirA:pattraSirA:pattSisirA:317460:317460
 1:patnISAlA(la):patnISAla:patnISAlAla:317524:317524
@@ -1396,7 +1396,7 @@
 1:Badraba(va)lA:BadravalA:Badrabava:349202:349204
 3:Ba(Bu)raRyu:BuraRyu:BaBuRyu:349390:349392
 2:Barma(n):Barman:Barmn:349531:349532
-0:Ballu(llu)ka:Balluka:Ballullu:349621:349625
+29:Ballu(llU)ka:BallUka:Ballullu:349621:349625
 7:BavAdfkza(Sa)S:BavAdfkSaS:BavAdfkzaSa:349670:349672
 2:Bavizya(t):Bavizyat:Bavizyt:349697:349741
 0:BAravAha(h):BAravAhh:BAravAhah:350796:350799
@@ -1425,7 +1425,7 @@
 1:maYji(YjI):maYjI:maYjiYjI:354952:354952
 1:maRi(RI):maRI:maRiRI:355022:355029
 1:maRibI(vI)ja:maRivIja:maRibIvI:355088:355088
-0:maRWa(Wa):maRWa:maRWaWa:355126:355133
+30:maRWa(Wa):maWa:maRWaWa:355126:355133
 3:mattakASi(si)nI:mattakAsinI:mattakASisi:355376:355377
 1:maTu(TU)rA:maTUrA:maTuTU:355669:355674
 1:maDumalli(llI):maDumallI:maDumallillI:356207:356208
@@ -1473,7 +1473,7 @@
 3:meka(Ka)lAdrijA:meKalAdrijA:mekaKadrijA:358545:358546
 1:mewa(qa):meqa:mewaqa:358591:358592
 1:meTi(Di):meDi:meTiDi:358599:358600
-0:mEttra(tra):mEttra:mEttratra:358694:358700
+31:mEttra(tra):mEtra:mEttratra:358694:358700
 1:mrewa(qa):mreqa:mrewaqa:358829:358830
 1:mlewa(qa):mleqa:mlewaqa:358859:358860
 1:yatu(tU)kA:yatUkA:yatutU:359141:359141
