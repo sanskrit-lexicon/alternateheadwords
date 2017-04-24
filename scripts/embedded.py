@@ -110,6 +110,9 @@ def headwordembedwordregex(dict):
 	elif dict in ['PW']:
 		reHeadword = r'^<H1>...{(.*?)}1'
 		reEmbedded = r'^<\+> \#\{(.*?)[ ,}]'
+	elif dict in ['AE']:
+		reHeadword = r'^<><P>{[@]([a-zA-Z]*)[,]'
+		reEmbedded = r'{[@]-([a-z]+)[,]*[@]}'
 	return [reHeadword,reEmbedded]
 	
 def dictstartendreturn(dict):
@@ -122,6 +125,9 @@ def dictstartendreturn(dict):
 	elif dict in ['PW']:
 		startstring = 'Line ignored'
 		endstring = 'PW135785'
+	elif dict in ['AE']:
+		startstring = '<><H>{@A.@}'
+		endstring = '[Page502]'
 	return [startstring,endstring]
 	
 if __name__=="__main__":
@@ -216,7 +222,9 @@ if __name__=="__main__":
 				line = line.strip()
 				[head,sub,linenum] = line.split('@')
 				head = re.split(' \(',head)[0]
-				if str(sub) in upasargacombinations and str(dictname) in ['PWG','PW']: # PWG,PW has mostly upasarga+verb kind of stuff.
+				if dictname in ['AE']:
+					fout2.write(head+'@'+sub+'@'+head+sub+'@'+linenum+'@0\n')
+				elif str(sub) in upasargacombinations and str(dictname) in ['PWG','PW']: # PWG,PW has mostly upasarga+verb kind of stuff.
 					hwmatch += 1
 					fout2.write(head+'@'+sub+'@'+sub+head+'@'+linenum+'@9\n')
 				elif head+sub in hw:
