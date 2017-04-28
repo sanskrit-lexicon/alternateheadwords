@@ -41,7 +41,7 @@ def similarorthography(headword):
 	return headword
 
 class dataholder:
-	global hw1, inputlist
+	global hw1, inputlist, dictname
 	'Class to hold the data while manipulation'
 	def __init__(self, singleline,fout):
 		self.len = len(re.split('[,:-]',singleline))
@@ -60,7 +60,10 @@ class dataholder:
 				self.midlen = len(self.mid)
 				self.newhw1 = self.pre[:-self.midlen]+self.mid+self.post
 				self.newhw2 = self.pre+self.mid+self.post[self.midlen:]
-				knownhw = knownsolutions(inputlist,self.hw)
+				if not dictname in ['mwe','ae','bor']:
+					knownhw = knownsolutions(inputlist,self.hw)
+				else:
+					knownhw = []
 				if self.midlen > 1 and (self.pre[-self.midlen:] == self.mid or self.mid == self.post[:self.midlen]): # asU(kza)kzaRa - These are mainly some errors in print / typo. Needs examination.
 					fout.write('0:'+self.hw+':'+self.newhw1+':'+self.newhw2+':'+self.startline+':'+self.endline+'\n')
 				elif self.post == '' and self.newhw1 in hw1 and l.levenshtein1(self.hw, self.newhw1, 1):

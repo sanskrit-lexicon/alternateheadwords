@@ -237,7 +237,10 @@ if __name__=="__main__":
 					hwmatch += 1
 					fout2.write(head+'@'+sub+'@'+sub+'@'+linenum+'@4\n')
 				else:
-					trialsolution = knownsolutions(head+sub)
+					if not dictname in ['mwe','ae','bor','MWE','AE','BOR']:
+						trialsolution = knownsolutions(inputlist,self.hw)
+					else:
+						trialsolution = []
 					overlapsolution = overlap(head,sub)
 					upasargasolution = upasargaremoval(head,sub)
 					lcs = longest_common_substring(head,sub)
@@ -292,11 +295,12 @@ if __name__=="__main__":
 		for line in data:
 			line = line.strip()
 			dat = dataholder(line)
-			for (a,b) in upasargasandhi:
-				if not(re.match('pra[nR]',dat.sub)):
-					dat.solution = re.sub(a,b,dat.solution)
-				if dat.solution in hw:
-					dat.code = '1'
+			if not dictname in ['MWE','AE','BOR']:
+				for (a,b) in upasargasandhi:
+					if not(re.match('pra[nR]',dat.sub)):
+						dat.solution = re.sub(a,b,dat.solution)
+					if dat.solution in hw:
+						dat.code = '1'
 			fout3.write(dat.head+'@'+dat.sub+'@'+dat.solution+'@'+dat.line+'@'+dat.code+'\n')
 		fout3.close()
 
