@@ -18,10 +18,10 @@ Before proceeding with the analysis, we need to review the files
 * vcpahw2.txt  is a revision of vcpahw1.txt
   `with abnormal bigrams and trigrams removed`
 * Files vcpahw0.txt and vcpahw1.txt are constructed from vcphw0.txt
-  * within the scripts directory, `python ahw.py vcp`
+  * within the scripts directory, `python ahw.py VCP`
   * The original construction done as part of bash script 'redo.sh'
 * File vcpahw2.txt is constructed from vcpahw1.txt:
-  * within the scripts directory, `python ahw1.py vcp`
+  * within the scripts directory, `python ahw1.py VCP`
   * The original construction done as part of bash script 'redo.sh'
 * File vcpahw3.txt is originally a copy of vcpahw2.txt. It has been 
   subjected to some manual editing.
@@ -40,10 +40,12 @@ It was invoked  for vcpahw1.txt v. vcpahw2.txt,
 vcpahw2.txt v. vcpahw3.txt and vcpahw3.txt v. vcpahw4.txt.
 ```
 python forensic1.py vcpahw1.txt vcpahw2.txt  
-#  no difference in alternate headwords between these two.
+  no difference in alternate headwords between these two.
+```
+
 ```
 python forensic1.py vcpahw2.txt vcpahw3.txt  > vcpahw2_3_diff.txt
-#  58 differences, the details in vcpahw2_3_diff.txt.
+  58 differences, the details in vcpahw2_3_diff.txt.
 ```
 From the documentation mentioned above, vcpahw3 is a 'manual' adjustment
 of vcpahw2.
