@@ -102,7 +102,7 @@ Case 0055: OK=OK : 0:abBra(Bra):abBra:abBraBra:18104:18107
 ```
 
 ### vcpahw2_hwnorm_ok1.txt
-File [vcpahw2_hwnorm_ok1.txt] contains the safest (most certain) cases:
+File [vcpahw2_hwnorm_ok1.txt](https://github.com/sanskrit-lexicon/alternateheadwords/blob/master/data/vcp/vcpahw2_hwnorm_ok1.txt) contains the safest (most certain) cases:
   `OK,OK  and correction code!=0`
 There are 1066 such cases (out of 1740).   Here we know that 
 * the alternate spelling is found in some dictionary (OK,OK) 
@@ -114,7 +114,7 @@ These cases can be considered ready to install as alternate spellings.
 
 ### vcpahw2_hwnorm_todo1.txt
 More work needs to be done on the remaining cases 692 cases, which
-are saved in [vcpahw2_hwnorm_todo1.txt]
+are saved in [vcpahw2_hwnorm_todo1.txt](https://github.com/sanskrit-lexicon/alternateheadwords/blob/master/data/vcp/vcpahw2_hwnorm_todo1.txt)
 There are  692 remaining cases.
 The extraction of these cases from vcpahw2_hwnorm.txt is saved in
 vcpahw2_hwnorm_todo1.txt.
