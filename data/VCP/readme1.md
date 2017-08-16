@@ -125,4 +125,15 @@ Note 1:  Some of these cases may have been resolved by the manual work
 done in files vcpahw3 and vcpahw4.  Tying down this prior work might
 be a good first step in the analysis of the todo cases.
 
-Note 2:
+Note 2: In a [comment](https://github.com/sanskrit-lexicon/alternateheadwords/issues/11#issuecomment-252474003) to #11, Dhaval points out a print error.
+ This will help with case 0298 in the ...todo1.txt file:
+```
+Case 0298: OK=OK : 0:kizkinDyA(nDyA)Dipa:kizkinDyADipa:kizkinDyAnDyA:153424:153425
+```
+
+Note 3: #17 provides a UI for correction a selection of 211 cases.
+   All of these are cases where the suggested alternate is not found in
+   any dictionary (thus these are a subset of the ...todo1.txt list).
+   I'm not sure why all of the 637 ',NF' cases are not included in this
+   selection of 212.
+
