@@ -1,0 +1,45 @@
+1740 records read from vcpahw3.txt
+1740 records read from vcpahw4.txt
+DIfference in key2 at line # 115
+vcpahw3.txt 99:arbu (rvu)da:arvuda:arburbu:26112:26141
+vcpahw4.txt 23:arbu(rvu)da:arvuda:arburbu:26112:26141
+DIfference in key2 at line # 408
+vcpahw3.txt 0:gajacirBa(rBa)wA:gajacirBawA:gajacirBarBa:186464:186465
+vcpahw4.txt 269:gajacirBa(rBi)wA:gajacirBiwA:gajacirBarBa:186464:186465
+DIfference in key1alt at line # 427
+vcpahw3.txt 4:gi(r)rA:girA:grrA:193588:193597
+vcpahw4.txt 27:gi(r)rA:gir:grrA:193588:193597
+DIfference in key1alt at line # 551
+vcpahw3.txt 0:tattva(tva):tattva:tattvatva:240600:240644
+vcpahw4.txt 28:tattva(tva):tatva:tattvatva:240600:240644
+DIfference in key1alt at line # 814
+vcpahw3.txt 0:pattra(tra):pattra:pattratra:317285:317389
+vcpahw4.txt 28:pattra(tra):patra:pattratra:317285:317389
+DIfference in key2 at line # 911
+vcpahw3.txt 0:pUrva(rva):pUrva:pUrvarva:331420:331428
+vcpahw4.txt 20:pUrva(rba):pUrba:pUrvarva:331420:331428
+DIfference in key2 at line # 913
+vcpahw3.txt 0:pUrva(rva)kAya:pUrvakAya:pUrvarvaa:331431:331431
+vcpahw4.txt 20:pUrva(rba)kAya:pUrbakAya:pUrvarvaa:331431:331431
+DIfference in key2 at line # 914
+vcpahw3.txt 0:pUrva(rva)kAlika:pUrvakAlika:pUrvarvaika:331432:331435
+vcpahw4.txt 20:pUrva(rba)kAlika:pUrbakAlika:pUrvarvaika:331432:331435
+DIfference in key2 at line # 915
+vcpahw3.txt 0:pUrva(rva)kft:pUrvakft:pUrvarva:331436:331438
+vcpahw4.txt 20:pUrva(rba)kft:pUrbakft:pUrvarva:331436:331438
+DIfference in key2 at line # 955
+vcpahw3.txt 0:pUrva(rva)vAda:pUrvavAda:pUrvarvaa:331816:331819
+vcpahw4.txt 20:pUrva(rba)vAda:pUrbavAda:pUrvarvaa:331816:331819
+DIfference in key2 at line # 980
+vcpahw3.txt 0:pUrvya(rvya):pUrvya:pUrvyarvya:331890:331891
+vcpahw4.txt 20:pUrvya(rbya):pUrbya:pUrvyarvya:331890:331891
+DIfference in key2 at line # 1399
+vcpahw3.txt 0:Ballu(llu)ka:Balluka:Ballullu:349621:349625
+vcpahw4.txt 29:Ballu(llU)ka:BallUka:Ballullu:349621:349625
+DIfference in key1alt at line # 1428
+vcpahw3.txt 0:maRWa(Wa):maRWa:maRWaWa:355126:355133
+vcpahw4.txt 30:maRWa(Wa):maWa:maRWaWa:355126:355133
+DIfference in key1alt at line # 1476
+vcpahw3.txt 0:mEttra(tra):mEttra:mEttratra:358694:358700
+vcpahw4.txt 31:mEttra(tra):mEtra:mEttratra:358694:358700
+PROBLEM: 14 differences in vcpahw3.txt and vcpahw4.txt

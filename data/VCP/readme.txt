@@ -19,3 +19,4 @@ python check_hwnorm.py vcpahw2.txt vcpahw1_hwnorm.txt vcpahw1_hwnorm_detail.txt
  (b) and the 'normal' key1 is not found in any dictionary,
     e.g. UrdDakaca is not found, etc.
 
+See readme1.md for further work on VCP alternate headwords.

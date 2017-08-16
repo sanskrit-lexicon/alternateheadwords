@@ -1,0 +1,177 @@
+1740 records read from vcpahw2.txt
+1740 records read from vcpahw3.txt
+DIfference in key1alt at line # 26
+vcpahw2.txt 10:atipa(Ta)Tin:atiTaTin:atipaTan:5026:5027
+vcpahw3.txt 99:atipa(Ta)Tin:atipaTa:atipaTan:5026:5027
+DIfference in key1alt at line # 31
+vcpahw2.txt 0:aDaH(DaSSa)SayyA:aDaHDaSSa:DaSSaSayyA:6455:6457
+vcpahw3.txt 99:aDaH(DaSSa)SayyA:aDaSSayyA:DaSSaSayyA:6455:6457
+DIfference in key1alt at line # 50
+vcpahw2.txt 0:apigf(grA)hya:apgrAhya:apigfgrA:16059:16059
+vcpahw3.txt 99:apigf(grA)hya:apigrAhya:apigfgrA:16059:16059
+DIfference in key1alt at line # 55
+vcpahw2.txt 0:abBra(Bra):abBra:abBraBra:18104:18107
+vcpahw3.txt 99:abBra(Bra):aBra:abBraBra:18104:18107
+DIfference in key1alt at line # 56
+vcpahw2.txt 0:abBraM(BraM)liha:abBraMliha:abBraMBraM:18108:18110
+vcpahw3.txt 99:abBraM(BraM)liha:aBraMliha:abBraMBraM:18108:18110
+DIfference in key1alt at line # 57
+vcpahw2.txt 0:abBra(Bra)ka:abBraka:abBraBra:18111:18112
+vcpahw3.txt 99:abBra(Bra)ka:aBraka:abBraBra:18111:18112
+DIfference in key1alt at line # 58
+vcpahw2.txt 0:abBra(Bra)Nkaza:abBraNkaza:abBraBraza:18113:18114
+vcpahw3.txt 99:abBra(Bra)Nkaza:aBraNkaza:abBraBraza:18113:18114
+DIfference in key1alt at line # 59
+vcpahw2.txt 0:abBra(Bra)puzpa:abBrapuzpa:abBraBrapa:18115:18117
+vcpahw3.txt 99:abBra(Bra)puzpa:aBrapuzpa:abBraBrapa:18115:18117
+DIfference in key1alt at line # 60
+vcpahw2.txt 0:abBra(Bra)mAtaNga:abBramAtaNga:abBraBraaNga:18118:18118
+vcpahw3.txt 99:abBra(Bra)mAtaNga:aBramAtaNga:abBraBraaNga:18118:18118
+DIfference in key1alt at line # 61
+vcpahw2.txt 0:abBra(Bra)mu:abBramu:abBraBra:18119:18120
+vcpahw3.txt 99:abBra(Bra)mu:aBramu:abBraBra:18119:18120
+DIfference in key1alt at line # 62
+vcpahw2.txt 0:abBra(Bra)muvallaBa:abBramuvallaBa:abBraBraallaBa:18121:18122
+vcpahw3.txt 99:abBra(Bra)muvallaBa:aBramuvallaBa:abBraBraallaBa:18121:18122
+DIfference in key1alt at line # 63
+vcpahw2.txt 0:abBra(Bra)roham:abBraroham:abBraBraam:18123:18125
+vcpahw3.txt 99:abBra(Bra)roham:aBraroham:abBraBraam:18123:18125
+DIfference in key1alt at line # 64
+vcpahw2.txt 0:abBro(Bro)tTa:abBrotTa:abBroBro:18126:18128
+vcpahw3.txt 99:abBro(Bro)tTa:aBrotTa:abBroBro:18126:18128
+DIfference in key1alt at line # 65
+vcpahw2.txt 0:abBri(Bri):abBri:abBriBri:18129:18129
+vcpahw3.txt 99:abBri(Bri):aBri:abBriBri:18129:18129
+DIfference in key1alt at line # 66
+vcpahw2.txt 0:abBri(Bri)ya:abBriya:abBriBri:18130:18130
+vcpahw3.txt 99:abBri(Bri)ya:aBriya:abBriBri:18130:18130
+DIfference in key1alt at line # 73
+vcpahw2.txt 0:aBimarSana(rzaR):aBimarrzaR:aBimarSanarzaR:19841:19848
+vcpahw3.txt 99:aBimarSana(rzaR):aBimarzaRa:aBimarSanarzaR:19841:19848
+DIfference in key1alt at line # 90
+vcpahw2.txt 7:amudryaYc(c):amudryaYc:amudryaYcc:21863:21865
+vcpahw3.txt 99:amudryaYc(c):amudryac:amudryaYcc:21863:21865
+DIfference in key1alt at line # 91
+vcpahw2.txt 7:amumuyaYc(c):amumuyaYc:amumuyaYcc:21866:21868
+vcpahw3.txt 99:amumuyaYc(c):amumuyac:amumuyaYcc:21866:21868
+DIfference in key1alt at line # 96
+vcpahw2.txt 3:amBaH(mBassA)sAra:mBassAsAra:amBaHmBassA:22639:22639
+vcpahw3.txt 99:amBaH(mBassA)sAra:amBaHssAra:amBaHmBassA:22639:22639
+DIfference in key1alt at line # 97
+vcpahw2.txt 0:amBaH (mBassU)sU:amBaHmBassU:mBassUsU:22640:22640
+vcpahw3.txt 99:amBaH (mBassU)sU:amBassU:mBassUsU:22640:22640
+DIfference in key2 at line # 105
+vcpahw2.txt 0:araRya(RyAnAm):RyAnAm:araRyaRyAnAm:24058:24069
+vcpahw3.txt 99:araRya(RyAnAm)pati:araRyAnAmpati:araRyaRyAnAm:24058:24069
+DIfference in key1alt at line # 107
+vcpahw2.txt 0:arigUrtta(rRa):arigUrrRa:arigUrttarRa:24382:24384
+vcpahw3.txt 99:arigUrtta(rRa):arigUrRa:arigUrttarRa:24382:24384
+DIfference in key2 at line # 115
+vcpahw2.txt 0:arbu (rbu)da:arbuda:arburbu:26112:26141
+vcpahw3.txt 99:arbu (rvu)da:arvuda:arburbu:26112:26141
+DIfference in key2 at line # 134
+vcpahw2.txt 0:asU(kza)kzaRa:kzakzaRa:asUkzaRa:39752:39752
+vcpahw3.txt 99:asU(rkza)kzaRa:asUrkzaRa:asUkzaRa:39752:39752
+DIfference in key1alt at line # 136
+vcpahw2.txt 0:ahaH(haska)kara:ahaHhaska:haskakara:41033:41034
+vcpahw3.txt 99:ahaH(haska)kara:ahaskara:haskakara:41033:41034
+DIfference in key1alt at line # 137
+vcpahw2.txt 0:ahaH(harpa)pati:ahaHharpa:harpapati:41035:41035
+vcpahw3.txt 99:ahaH(harpa)pati:aharpati:harpapati:41035:41035
+DIfference in key1alt at line # 138
+vcpahw2.txt 3:ahaH(haSSe)Seza:haSSeSeza:ahaHhaSSe:41036:41037
+vcpahw3.txt 99:ahaH(haSSe)Seza:ahaSSeza:ahaHhaSSe:41036:41037
+DIfference in key1alt at line # 142
+vcpahw2.txt 0:AkarzA(zA)di:AkarzAdi:AkarzAzA:42035:42039
+vcpahw3.txt 99:AkarzA(zA)di:AkazAdi:AkarzAzA:42035:42039
+DIfference in key1alt at line # 149
+vcpahw2.txt 7:Ajanma(na):Ajanna:Ajanmana:45970:45971
+vcpahw3.txt 99:Ajanma(na):Ajana:Ajanmana:45970:45971
+DIfference in key1alt at line # 166
+vcpahw2.txt 3:ASco(Scyo)tana:Scyotana:AScoScyo:61074:61078
+vcpahw3.txt 99:ASco(Scyo)tana:AScyotana:AScoScyo:61074:61078
+DIfference in key1alt at line # 167
+vcpahw2.txt 3:ikzuvallI(llarI):ikzullarI:ikzuvallIllarI:66621:66622
+vcpahw3.txt 99:ikzuvallI(llarI):ikzuvallarI:ikzuvallIllarI:66621:66622
+DIfference in key1alt at line # 186
+vcpahw2.txt 4:u(ddyo)dyota:uddyoa:ddyodyota:86742:86747
+vcpahw3.txt 99:u(ddyo)dyota:uddyota:ddyodyota:86742:86747
+DIfference in key1alt at line # 195
+vcpahw2.txt 0:upacarmma(n):upacarmmn:upacarmman:88777:88779
+vcpahw3.txt 99:upacarmma(n):upacarmman:upacarmman:88777:88779
+DIfference in key1alt at line # 200
+vcpahw2.txt 0:upasaM(saNkra)kramaRe:saNkrakramaRe:upasaMsaNkrae:98591:98599
+vcpahw3.txt 99:upasaM(saNkra)kramaRe:upasaNkramaRe:upasaMsaNkrae:98591:98599
+DIfference in key1alt at line # 201
+vcpahw2.txt 4:upasaM(saNgra)graha:upasaMsaNgra:saNgragraha:98600:98604
+vcpahw3.txt 99:upasaM(saNgra)graha:upasaNgraha:saNgragraha:98600:98604
+DIfference in key1alt at line # 202
+vcpahw2.txt 0:upasaM(saNgra)grahaRa:saNgragrahaRa:upasaMsaNgraa:98605:98608
+vcpahw3.txt 99:upasaM(saNgra)grahaRa:upasaNgrahaRa:upasaMsaNgraa:98605:98608
+DIfference in key1alt at line # 203
+vcpahw2.txt 0:upasaM(saNgrA)grAhya:saNgrAgrAhya:upasaMsaNgrA:98609:98612
+vcpahw3.txt 99:upasaM(saNgrA)grAhya:upasaNgrAhya:upasaMsaNgrA:98609:98612
+DIfference in key1alt at line # 204
+vcpahw2.txt 0:upasamiDa(D):upasamiDD:upasamiDaD:98745:98746
+vcpahw3.txt 99:upasamiDa(D):upasamiD:upasamiDaD:98745:98746
+DIfference in key1alt at line # 207
+vcpahw2.txt 3:uBa(mBa):mBa:uBamBa:100855:100862
+vcpahw3.txt 99:uBa(mBa):umBa:uBamBa:100855:100862
+DIfference in key1alt at line # 208
+vcpahw2.txt 0:uBaya(tra)cara:uBtracara:uBayatraa:100898:100904
+vcpahw3.txt 99:uBaya(tra)cara:uBayatracara:uBayatraa:100898:100904
+DIfference in key1alt at line # 209
+vcpahw2.txt 0:uBayatodat(nta):uBayatonta:uBayatodatnta:100905:100909
+vcpahw3.txt 99:uBayatodat(nta):uBayatodanta:uBayatodatnta:100905:100909
+DIfference in key1alt at line # 217
+vcpahw2.txt 0:ulandra(nda):ulannda:ulandranda:101380:101381
+vcpahw3.txt 99:ulandra(nda):ulandra:ulandranda:101380:101381
+DIfference in key1alt at line # 222
+vcpahw2.txt 3:UrdDa(rdDva):rdDva:UrdDardDva:102792:102800
+vcpahw3.txt 99:UrdDa(rdDva):UrdDva:UrdDardDva:102792:102800
+DIfference in key1alt at line # 223
+vcpahw2.txt 3:UrdDa(dDva)ka:UdDvaka:UrdDadDva:102801:102806
+vcpahw3.txt 99:UrdDa(dDva)ka:UrdDvaka:UrdDadDva:102801:102806
+DIfference in key1alt at line # 224
+vcpahw2.txt 3:UrdDa(rdDva)kaca:rdDvakaca:UrdDardDva:102807:102808
+vcpahw3.txt 99:UrdDa(rdDva)kaca:UrdDvakaca:UrdDardDva:102807:102808
+DIfference in key1alt at line # 225
+vcpahw2.txt 3:UrdDa(rdDva)kaRWa:rdDvakaRWa:UrdDardDva:102809:102810
+vcpahw3.txt 99:UrdDa(rdDva)kaRWa:UrdDvakaRWa:UrdDardDva:102809:102810
+DIfference in key1alt at line # 226
+vcpahw2.txt 3:UrdDa(rdDva)karmman:rdDvakarmman:UrdDardDvaan:102811:102814
+vcpahw3.txt 99:UrdDa(rdDva)karmman:UrdDvakarmman:UrdDardDvaan:102811:102814
+DIfference in key1alt at line # 227
+vcpahw2.txt 3:UrdDa(rdDva)manTin:rdDvamanTin:UrdDardDvan:103057:103061
+vcpahw3.txt 99:UrdDa(rdDva)manTin:UrdDvamanTin:UrdDardDvan:103057:103061
+DIfference in key1alt at line # 228
+vcpahw2.txt 3:UrdDa(rdDva)mAna:rdDvamAna:UrdDardDva:103062:103075
+vcpahw3.txt 99:UrdDa(rdDva)mAna:UrdDvamAna:UrdDardDva:103062:103075
+DIfference in key1alt at line # 232
+vcpahw2.txt 0:fzi(zwi)zeRa:zwizeRa:fzizwia:107863:107864
+vcpahw3.txt 99:fzi(zwi)zeRa:fzwizeRa:fzizwia:107863:107864
+DIfference in key1alt at line # 247
+vcpahw2.txt 0:OmA(ka):Oka:OmAka:117364:117364
+vcpahw3.txt 99:OmA(ka):OmAka:OmAka:117364:117364
+DIfference in key1alt at line # 248
+vcpahw2.txt 0:OrRRa(ka):OrRka:OrRRaka:117405:117405
+vcpahw3.txt 99:OrRRa(ka):OrRRaka:OrRRaka:117405:117405
+DIfference in key1alt at line # 249
+vcpahw2.txt 4:Oza(sta)stya:Ozastaa:stastya:118380:118383
+vcpahw3.txt 99:Oza(sta)stya:Ozasta:stastya:118380:118383
+DIfference in key1alt at line # 284
+vcpahw2.txt 1:kArdama(mika):kArmika:kArdamamika:145811:145811
+vcpahw3.txt 99:kArdama(mika):kArdamika:kArdamamika:145811:145811
+DIfference in key1alt at line # 297
+vcpahw2.txt 0:kizkinDA(nDyA)kARqa:kizknDyAkARqa:kizkinDAnDyAa:153417:153419
+vcpahw3.txt 99:kizkinDA(nDyA)kARqa:kizkinDyAkARqa:kizkinDAnDyAa:153417:153419
+DIfference in key2 at line # 298
+vcpahw2.txt 0:kizkinDyA(nDyA)Dipa:kizkinDyADipa:kizkinDyAnDyA:153424:153425
+vcpahw3.txt 99:kizkinDyA(nDA)Dipa:kizkinDADipa:kizkinDyAnDyA:153424:153425
+DIfference in key1alt at line # 391
+vcpahw2.txt 7:Kana(mA)pAna:KamApAna:KanamAna:184330:184331
+vcpahw3.txt 4:Kana(mA)pAna:KanamAna:KamApAna:184330:184331
+DIfference in key1alt at line # 1121
+vcpahw2.txt 7:bA(va)RaliNga:vaRaliNga:bAvaliNga:343806:343807
+vcpahw3.txt 4:bA(va)RaliNga:bAvaliNga:vaRaliNga:343806:343807
+PROBLEM: 58 differences in vcpahw2.txt and vcpahw3.txt
