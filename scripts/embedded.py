@@ -18,6 +18,7 @@ Usage:
 import sys, re
 import codecs
 import datetime
+import enchant
 import suggest as s
 import hw1list as h
 import levenshtein as l
@@ -111,7 +112,7 @@ def headwordembedwordregex(dict):
 		reHeadword = r'^<H1>...{(.*?)}1'
 		reEmbedded = r'^<\+> \#\{(.*?)[ ,}]'
 	elif dict in ['AE']:
-		reHeadword = r'^<><P>{[@]([a-zA-Z]*)[,]'
+		reHeadword = r'^<P>{[@]([a-zA-Z]*)[,]'
 		reEmbedded = r'{[@]-([a-z]+)[,]*[@]}'
 	return [reHeadword,reEmbedded]
 	
@@ -126,19 +127,32 @@ def dictstartendreturn(dict):
 		startstring = 'Line ignored'
 		endstring = 'PW135785'
 	elif dict in ['AE']:
-		startstring = '<><H>{@A.@}'
+		startstring = '<H>{@A.@}'
 		endstring = '[Page502]'
 	return [startstring,endstring]
-	
+
+def englishjoiner(head,sub):
+	global englishdict
+	if englishdict.check(head+sub):
+		return (head+sub,1)
+	elif head.endswith('e') and re.search('^[aeiou]',sub) and englishdict.check(head[:-1]+sub):
+		return (head[:-1]+sub,2)
+	elif head.endswith('y') and sub.startswith('i') and englishdict.check(head[:-1]+sub):
+		return (head[:-1]+sub,3)
+	else:
+		return(head+sub,0)
+
 if __name__=="__main__":
 	dictname = sys.argv[1]
 	startpoint = '1'
-	colognedir = '../../Cologne_localcopy/'+dictname
+	colognedir = '../../Cologne_localcopy/'+dictname.lower()
 	if len(sys.argv) > 2:
 		startpoint = sys.argv[2]
 	[reHeadword, reEmbedded] = headwordembedwordregex(dictname)
 	hw = set(h.hw1())
 
+	englishdict = enchant.Dict('en_GB')
+	
 	upasargacombinations = ['ati','atinis','atipra','ativi','ativyA','atisam','atyati','atyaBi','atyA','atyud','atyupa','aDi','aDini','aDinis','aDivi','aDyava','aDyA','aDyupa','anu','anuni','anunis','anuparA','anupari','anuparyA','anupra','anuprati','anuvi','anuvyava','anuvyA','anusam','anusampra','anUd','anvapa','anvava','anvA','apa','apani','apanis','apaparA','apaparyA','apapra','apavyA','apA','apAti','api','apipari','apod','apyati','aBi','aBini','aBinis','aBiparA','aBipari','aBiparyA','aBipra','aBivi','aBivyA','aBisamA','aBisam','aByati','aByaDi','aByanu','aByapa','aByava','aByA','aByudA','aByud','aByupa','aByupA','aByupAva','ava','avani','avA','A','utpra','udava','udA','ud','udvi','unni','upa','upani','upanis','upanyA','upapari','upaparyA','upapra','upavi','upavyA','upasaṁni','upasamA','upasam','upA','upAti','upAva','upodA','upod','upopa','duHsam','duranu','durava','durA','durud','durupa','durni','duzpari','duzpra','dus','ni','nipra','nirati','niraDi','niranu','nirapa','niraBi','niraBi','nirava','nirupA','nirvi','nivyA','nizpra','nisu','nis','nyA','parA','pari','parini','parinis','paripra','parivi','parivyA','parisam','paryaDi','paryanu','paryava','paryA','paryud','paryupa','pra','praNi','prati','pratini','pratinis','pratiparA','pratipari','pratipra','prativi','prativyA','pratisam','pratyaDi','pratyanu','pratyapa','pratyapi','pratyaBi','pratyava','pratyA','pratyudA','pratyud','pratyupa','pratyupA','pravi','pravyA','prasam','prA','prADi','prod','vi','vini','vinis','viparA','vipari','viparyA','vipra','viprati','visam','vyati','vyanu','vyanvA','vyapa','vyapA','vyaBi','vyava','vyA','vyud','vyupa','saṁvi','saṁvyava','saṁvyA','sanni','samati','samaDi','samanu','samanuvi','samanvA','samapa','samapi','samaBi','samaBivyA','samaBisam','samaBisampra','samaByava','samaByA','samaByud','samava','samava','samavA','samA','samudA','samud','samupa','samupA','sam','samparA','sampari','sampra','samprati','samprA','samprod','sampari','su','supari','suvi','susamA','svanu','svaBi','svaByA','saMpra','samupani','saṁvi','saṁvyava','saṁvyA','sanni','samati','samaDi','samanu','samanuvi','samanvA','samapa','samapi','samaBi','samaBivyA','samaBisaM','samaBisaMpra','samaByava','samaByA','samaByud','samava','samava','samavA','samA','samudA','samud','samupa','samupA','saM','saMparA','saMpari','saMpra','saMprati','saMprA','saMprod','saMpari','saMni','nirA','prani','pratyAsam','sapra','praRyA','pariRi','saMpratyA','saMnis','aBiprati','avasam','nyava','anusamA','anuvyud','Ani','praRi','saMvi','avanis','pratyaByanu','Avi','anUpa','vyatisam','pratisamA','prAva','aBisaMpra','aBiprati','upaparA','samaByati','paryupA','pratinyA','saMpravi','upaprati','upasaMparA','upasaMni','vyApa','pratiparyA','aDisam','atini','pratyaBini','aBisaMni','atyanu','anuvinis','atyava','nirupa','aByudava','anvaBi','aDipra','nizwavan','aDyud','avapra','pratyati','saMvyava','apyA','pratiparyA','anusamaBivyA','aDyud','samupasam','vyatyanu','apisam','aByupani','prABi','anvati','antarupAti','aBipratyava','anUdA','aBipratyA','samaByupa','samopa','prativipari','aBivyud','parisamA','samaBinis']
 	# specific to PWG (maybe later can be extended to other dicts too.)
 	upasargacombinations += ['antar','punar','saha','acCa','sama','acCA','ku','aram','astam','aByastam','paScAt','prapalA','vipalA','saMpalA','pali','upapali','vipali','pla','palA']
@@ -150,7 +164,7 @@ if __name__=="__main__":
 	
 	if not startpoint in ['2','3','4','5']:
 		print "#Step 1. Writing embedded headwords with their corresponding line in ehw0.txt"
-		fin = codecs.open(colognedir+'/'+dictname+'txt/'+dictname+'.txt','r','utf-8')
+		fin = codecs.open(colognedir+'/orig/'+dictname.lower()+'.txt','r','utf-8')
 		fout = codecs.open('../data/'+dictname+'/'+dictname+'ehw0.txt','w','utf-8')
 		headword = ''
 		embeddedtag = ''
@@ -222,8 +236,10 @@ if __name__=="__main__":
 				line = line.strip()
 				[head,sub,linenum] = line.split('@')
 				head = re.split(' \(',head)[0]
-				if dictname in ['AE']:
-					fout2.write(head+'@'+sub+'@'+head+sub+'@'+linenum+'@0\n')
+				# Special treatment for English dictionary headwords
+				if dictname in ['AE','MWE','BOR']:
+					(joined,cod) = englishjoiner(head,sub)
+					fout2.write(head+'@'+sub+'@'+joined+'@'+linenum+'@'+str(cod)+'\n')
 				elif str(sub) in upasargacombinations and str(dictname) in ['PWG','PW']: # PWG,PW has mostly upasarga+verb kind of stuff.
 					hwmatch += 1
 					fout2.write(head+'@'+sub+'@'+sub+head+'@'+linenum+'@9\n')
