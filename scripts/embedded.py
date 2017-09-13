@@ -139,6 +139,12 @@ def englishjoiner(head,sub):
 		return (head[:-1]+sub,2)
 	elif head.endswith('y') and sub.startswith('i') and englishdict.check(head[:-1]+sub):
 		return (head[:-1]+sub,3)
+	elif head.endswith('y') and sub.startswith('ed') and englishdict.check(head[:-1]+'i'+sub):
+		return (head[:-1]+'i'+sub,4)
+	elif head.endswith('y') and sub.startswith('er') and englishdict.check(head[:-1]+sub):
+		return (head[:-1]+sub,5)
+	elif head.endswith('y') and englishdict.check(head[:-1]+'i'+sub):
+		return (head[:-1]+'i'+sub,6)
 	else:
 		return(head+sub,0)
 
@@ -305,7 +311,7 @@ if __name__=="__main__":
 		print '#Step 4. Storing sandhi resolved data in ehw3.txt.'
 		fin3 = codecs.open('../data/'+dictname+'/'+dictname+'ehw2.txt','r','utf-8')
 		fout3 = codecs.open('../data/'+dictname+'/'+dictname+'ehw3.txt','w','utf-8')
-		codelist = ['0','1','2','3','4','5','8','9','10','99']
+		codelist = ['0','1','2','3','4','5','6','7','8','9','10','99']
 		data = fin3.readlines()
 		fin3.close()
 		for line in data:
@@ -323,7 +329,7 @@ if __name__=="__main__":
 	if not startpoint in ['6']:
 		print '#Step 5. Analysis of codes.'
 		fin4 = codecs.open('../data/'+dictname+'/'+dictname+'ehw3.txt','r','utf-8')
-		codelist = ['0','1','2','3','4','5','8','9','10','99']
+		codelist = ['0','1','2','3','4','5','6','7','8','9','10','99']
 		data = fin4.readlines()
 		fin4.close()
 		for member in codelist:
