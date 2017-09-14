@@ -135,6 +135,8 @@ def englishjoiner(head,sub):
 	global englishdict
 	if re.search('^[A-Z]',sub) and englishdict.check(sub):
 		return (sub,7)
+	elif re.search('^[A-Z]',sub): # Starts with capital, and not in Dictionary of pyenchant. Mostly correct.
+		return (sub,8) # May require some manual checking.
 	elif englishdict.check(head+sub):
 		return (head+sub,1)
 	elif head.endswith('e') and re.search('^[aeiou]',sub) and englishdict.check(head[:-1]+sub):
@@ -147,6 +149,8 @@ def englishjoiner(head,sub):
 		return (head[:-1]+sub,5)
 	elif head.endswith('y') and englishdict.check(head[:-1]+'i'+sub):
 		return (head[:-1]+'i'+sub,6)
+	elif head.endswith('y') and sub.startswith('a') and englishdict.check(head[:-1]+sub):
+		return (head[:-1]+sub,9)
 	else:
 		return(head+sub,0)
 
