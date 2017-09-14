@@ -101,11 +101,11 @@ Accomplish@ed@911
 ;{@-ment,@} {%s.%} {#sidDi-samApti#} {%f.,%} {#nirvftti#} {%f.,%}
 Accomplish@ment@913
 ;{@-ance.@} {%s.%} {#anusAraH, sAdfSyaM, anuroDaH;#} ‘in
-Accomplish@ance@923
+Accord@ance@923
 ;{@-ing,@} {%prep.%} {#yaTA, anurUpaM, anu,#}
-Accomplish@ing@927
+Accord@ing@927
 ;one's power,’ {#yaTASakti#}. {@-ingly.@} {%adv.%}
-Accomplish@ingly@930
+Accord@ingly@930
 ;{@-able,@} {%a.%} {#ciMtyahetuka, pratisaMKyeya#}. {@2@} {#parAnu-#}
 Account@able@954
 ;{#-yogAyatta#}. {@-ant,@} {%s.%} {#gaRakaH, leKakaH, gaRanA-#}
@@ -143,9 +143,9 @@ Acknowledge@ment@1044
 ;{@-Acoustics,@} {%s.%} {#DvanividyA-SAstraM#}.
 Acoustic@Acoustics@1051
 ;{@2@} {#paricayaM kf. aByas#} 4 P. {@-ance,@} {%s.%} {#pari-#}
-Acoustics@ance@1058
+Acquaint@ance@1058
 ;{#saMsargaH, saMstavaH,#} {@-ed,@} {%a.%} {#paricita, abyasta;#}
-Acoustics@ed@1061
+Acquaint@ed@1061
 ;{#saMmatiM dfS#} c. {@-ence,@} {%s.%} {#saM-anu-mati#} {%f.%}
 Acquiesce@ence@1066
 ;{@-sition,@} {%s.%} {#arjanaM, prApti#} {%f.,%} {#lABaH, aDigamaH#}.
@@ -851,7 +851,7 @@ Atheist@ical@3538
 ;{@-Atheism,@} {%s.%} {#nAstikyaM, ISvaraniMdA#}.
 Atheist@Atheism@3539
 ;<P>{@Athlete.@} {%s.%} {#mallaH, mallayodDf#} {%m.%} {@-Athletic,@}
-Atheism@Athletic@3541
+Athlete@Athletic@3541
 ;-({#rI#}) {#kzaM, naBas#} {%n%} {@2@} {#SUnyaM#}. {@-ical,@} {%a.%} {#AMta-#}
 Atmosphere@ical@3551
 ;‘a. ic theory’ {#paramARuvAdaH#}. {@-ical,@} {%a.%}
@@ -3359,7 +3359,7 @@ Criminate@ion@12319
 ;{#-paRaM, aBiSaMsanaM#}. {@-ory,@} {%a.%} {#aBiSaMsaka;#}
 Criminate@ory@12320
 ;{#ayukta#}. {%-v. t.%} {@-Crimple,@} {#saMkuc#} 1 P, {#pu-#}
-Criminate@Crimple@12324
+Crimp@Crimple@12324
 ;{@-ing,@} {%s.%} {#aMjalikarman#} {%n.,%} {#azwAMgapAtaH; Sva-#}
 Cringe@ing@12339
 ;{#vyaMgIkf#}. {@2@} (fig.) {#durbalIkf#}. {@-ness,@} {%s.%}
@@ -3393,11 +3393,11 @@ Crude@ly@12508
 ;{@-ness.@} {%s.%} {#apakvatA, AmatA, apAkaH,#}
 Crude@ness@12509
 ;{#nirdaya, nirGfRa, kaWinahfdaya, krUrakarman#}. {@-ly,@}
-Crude@ly@12513
+Cruel@ly@12513
 ;{%adv.%} {#nizkaruRaM, nirdayaM, nizWuraM,#} &c. {@-ty,@}
-Crude@ty@12514
+Cruel@ty@12514
 ;{@-ness,@} {%s.%} {#nfSaMsatA, nizwuratA, nirdayatvaM, krUratA,#}
-Crude@ness@12515
+Cruel@ness@12515
 ;{#ucCizwaM, annaSezaH, pizwakaSakalaM#}. {@-Crummy,@}
 Crum@Crummy@12522
 ;c. {@-ing,@} {%a.%} {#jIrRa, avasanna, viSIrRa#}.
@@ -11065,9 +11065,9 @@ Orator@y@42887
 ;{#-sanAsTAnaM, BajanAlayaH#}. {@-Oratorio,@} {%s.%}
 Orator@Oratorio@42890
 ;{#caMdraH, aKaMqakalaH SaSI#} (Mal. 2). {@-ed,@}
-Oratorio@ed@42896
+Orb@ed@42896
 ;{@-Orbicular,@} {%a.%} {#maMqalAkAra, vartula, golAkfti#}.
-Oratorio@Orbicular@42897
+Orb@Orbicular@42897
 ;{@-Orbiculate,@} {%s.%} {#vartulaM#}. {%-a.%} {#vartula;#} {%See(s.).%}
 Orbicular@Orbiculate@42898
 ;{#rda kz#} 1 A, {#DarmakarmaRi niyuj#}. {@-er,@} {%s.%}
@@ -11233,11 +11233,11 @@ Pain@ed@43876
 ;{#pIq-kliS-tap#} -pass. {@-ful,@} {%a.%} {#saruj, ru-#}
 Pain@ful@43879
 ;{#duzkara, kaWina#}. {@-fully,@} {%adv.%} {#savyaTaM,#}
-Pain@fully@43886
+Pained@fully@43886
 ;{#kfcCreRa, kazwena#}. {@-less,@} {%a.%} {#duHKa#} or {#vyaTA-#}
-Pain@less@43888
+Pained@less@43888
 ;{#-hIna#} or {#rahita#}. {@-Painstaking,@} {%a.%} {#vyavasA,#}
-Pain@Painstaking@43889
+Pained@Painstaking@43889
 ;{#tUlikA, tUli#} {%f.,%} {#varRatUlI, IzikA#}. {@-ed,@} {%a.%}
 Paint@ed@43897
 ;{#-kAleKya-gata, citrArpita, AliKita#}. {@-er,@} {%s.%}
@@ -14199,7 +14199,7 @@ Separate@ness@55476
 ;{@-Separable,@} {%a.%} {#viBAjya, viyojya, vicCedya;#}
 Separate@Separable@55478
 ;{#SavasTAnaM-maMdiraM-gartaH#}. {@-Sepulchral,@} {%a.%} ({%s.%})
-Septum@Sepulchral@55500
+Sepulchre@Sepulchral@55500
 ;in comp. {@-Sepulture,@} {%s.%} {#niKananaM, BUmO#}
 Sepulchral@Sepulture@55501
 ;10, {#pfTakra kf#} 8 U. {@2 Seclude,@} q. v. {@-ed,@}
@@ -14345,7 +14345,7 @@ Shed@der@56044
 ;{@-ish,@} {%a.%} {#apratiBa, lajjASIla, janaBIta;#}
 Sheep@ish@56053
 ;{@-y,@} {%a.%} {#SaMKin, kaMbumaya#} ({#yI#} {%f.%}), {#-pUrRa#}.
-Shelf@y@56078
+Shell@y@56078
 ;{#nirvAta#}. {@-less,@} {%a.%} {#nirASraya, nirAlaMya, a-#}
 Shelter@less@56087
 ;{%-v. t.%} {#nizkas#} c., {#nirAkf#} 8 U. {@-ing,@} {%a.%}
@@ -16091,7 +16091,7 @@ Vacate@ion@64325
 ;{#-rRita. aparicCinna#} {@-ness,@} {%s.%} {#aniSvayaH#}
 Vague@ness@64347
 ;{#nizPalaM#}. {@-Vanity,@} {%s.%} {#vfTABimAnaH, miTyA-#}
-Vague@Vanity@64356
+Vain@Vanity@64356
 ;{#-cCanaM; svastivAdaH#}. {@-Valedictory,@} {%a.%}
 Valediction@Valedictory@64362
 ;({#kI#} {%f.%}), {#aKaMqya, nyAyya, Darmya#}. {@-ity,@} {%s.%}

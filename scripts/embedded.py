@@ -112,7 +112,7 @@ def headwordembedwordregex(dict):
 		reHeadword = r'^<H1>...{(.*?)}1'
 		reEmbedded = r'^<\+> \#\{(.*?)[ ,}]'
 	elif dict in ['AE']:
-		reHeadword = r'^<P>{[@]([a-zA-Z]*)[,]'
+		reHeadword = r'^<P>{[@]([a-zA-Z]*)[,.]'
 		reEmbedded = r'{[@](-[a-zA-Z]+)[,.]*[@]}'
 	return [reHeadword,reEmbedded]
 	

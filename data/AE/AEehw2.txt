@@ -49,9 +49,9 @@ Accommodate@ion@Accommodation@895@2
 Accompany@ed@Accompanied@901@4
 Accomplish@ed@Accomplished@911@1
 Accomplish@ment@Accomplishment@913@1
-Accomplish@ance@Accomplishance@923@0
-Accomplish@ing@Accomplishing@927@1
-Accomplish@ingly@Accomplishingly@930@0
+Accord@ance@Accordance@923@1
+Accord@ing@According@927@1
+Accord@ingly@Accordingly@930@1
 Account@able@Accountable@954@1
 Account@ant@Accountant@955@1
 Accoutre@ment@Accoutrement@958@1
@@ -70,8 +70,8 @@ Acid@ulate@Acidulate@1037@0
 Acid@ulous@Acidulous@1038@1
 Acknowledge@ment@Acknowledgement@1044@1
 Acoustic@Acoustics@Acoustics@1051@7
-Acoustics@ance@Acousticsance@1058@0
-Acoustics@ed@Acousticsed@1061@0
+Acquaint@ance@Acquaintance@1058@1
+Acquaint@ed@Acquainted@1061@1
 Acquiesce@ence@Acquiescence@1066@2
 Acquire@sition@Acquiresition@1071@0
 Acquit@al@Acquital@1079@0
@@ -424,7 +424,7 @@ Astronomy@er@Astronomer@3509@5
 Astronomy@ical@Astronomical@3510@3
 Atheist@ical@Atheistical@3538@0
 Atheist@Atheism@Atheism@3539@7
-Atheism@Athletic@Athletic@3541@7
+Athlete@Athletic@Athletic@3541@7
 Atmosphere@ical@Atmosphereical@3551@0
 Atom@ical@Atomical@3555@0
 Atone@ment@Atonement@3564@1
@@ -1678,7 +1678,7 @@ Criminal@ity@Criminality@12315@1
 Criminal@Criminate@CriminalCriminate@12316@0
 Criminate@ion@Criminateion@12319@0
 Criminate@ory@Criminateory@12320@0
-Criminate@Crimple@CriminateCrimple@12324@0
+Crimp@Crimple@CrimpCrimple@12324@0
 Cringe@ing@Cringing@12339@2
 Cripple@ness@Crippleness@12351@0
 Crisis@Critical@Critical@12355@7
@@ -1695,9 +1695,9 @@ Cross@ly@Crossly@12455@1
 Cross@ness@Crossness@12457@1
 Crude@ly@Crudely@12508@1
 Crude@ness@Crudeness@12509@1
-Crude@ly@Crudely@12513@1
-Crude@ty@Crudety@12514@0
-Crude@ness@Crudeness@12515@1
+Cruel@ly@Cruelly@12513@1
+Cruel@ty@Cruelty@12514@1
+Cruel@ness@Cruelness@12515@1
 Crum@Crummy@Crummy@12522@7
 Crumble@ing@Crumbling@12530@2
 Crush@ing@Crushing@12551@1
@@ -5531,8 +5531,8 @@ Oration@Orator@Orator@42883@7
 Orator@ical@Oratorical@42886@1
 Orator@y@Oratory@42887@1
 Orator@Oratorio@Oratorio@42890@7
-Oratorio@ed@Oratorioed@42896@0
-Oratorio@Orbicular@Orbicular@42897@7
+Orb@ed@Orbed@42896@1
+Orb@Orbicular@Orbicular@42897@7
 Orbicular@Orbiculate@OrbicularOrbiculate@42898@0
 Ordain@er@Ordainer@42916@1
 Order@er@Orderer@42964@1
@@ -5615,9 +5615,9 @@ Pagan@ism@Paganism@43847@1
 Pageant@ry@Pageantry@43855@1
 Pain@ed@Pained@43876@1
 Pain@ful@Painful@43879@1
-Pain@fully@Painfully@43886@1
-Pain@less@Painless@43888@1
-Pain@Painstaking@Painstaking@43889@7
+Pained@fully@Painedfully@43886@0
+Pained@less@Painedless@43888@0
+Pained@Painstaking@Painstaking@43889@7
 Paint@ed@Painted@43897@1
 Paint@er@Painter@43899@1
 Paint@ing@Painting@43902@1
@@ -7098,7 +7098,7 @@ Separate@ion@Separation@55466@2
 Separate@ly@Separately@55471@1
 Separate@ness@Separateness@55476@1
 Separate@Separable@Separable@55478@7
-Septum@Sepulchral@Sepulchral@55500@7
+Sepulchre@Sepulchral@Sepulchral@55500@7
 Sepulchral@Sepulture@SepulchralSepulture@55501@0
 Sequester@ed@Sequestered@55511@1
 Serene@ly@Serenely@55525@1
@@ -7171,7 +7171,7 @@ Shear@Shears@Shears@56027@7
 Sheath@Sheathe@Sheathe@56031@7
 Shed@der@Shedder@56044@0
 Sheep@ish@Sheepish@56053@1
-Shelf@y@Shelfy@56078@0
+Shell@y@Shelly@56078@1
 Shelter@less@Shelterless@56087@0
 Shelve@ing@Shelving@56091@2
 Shepherd@ess@Shepherdess@56094@1
@@ -8044,7 +8044,7 @@ Vacant@Vacancy@Vacancy@64322@7
 Vacancy@Vacate@Vacate@64324@7
 Vacate@ion@Vacation@64325@2
 Vague@ness@Vagueness@64347@1
-Vague@Vanity@Vanity@64356@7
+Vain@Vanity@Vanity@64356@7
 Valediction@Valedictory@Valedictory@64362@7
 Valid@ity@Validity@64375@1
 Valor@ous@Valorous@64384@1
