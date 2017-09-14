@@ -302,7 +302,7 @@ Antler@ed@Antlered@2597@1
 Anxiety@Anxious@Anxious@2606@7
 Anxious@ly@Anxiously@2613@1
 Apart@ment@Apartment@2638@1
-Apathy@etic@Apathyetic@2643@0
+Apathy@etic@Apathetic@2643@5
 Ape@Apish@Apish@2648@7
 Apology@ist@Apologist@2674@3
 Apology@ize@Apologize@2675@3
@@ -1189,7 +1189,7 @@ Collocate@ion@Collocation@9381@2
 Colloquy@al@Colloquial@9393@6
 Collude@Collusion@Collusion@9397@7
 Colly@ed@Collied@9401@4
-Colly@er@Collier@9402@6
+Colly@er@Collier@9402@4
 Colly@y@Collyy@9402@0
 Colony@ize@Colonize@9414@3
 Colossus@Colossal@Colossal@9419@7
@@ -1294,7 +1294,7 @@ Compliment@er@Complimenter@9967@1
 Complot@ter@Complotter@9971@0
 Comply@ance@Compliance@9979@6
 Comply@ant@Compliant@9982@6
-Comply@er@Complier@9984@6
+Comply@er@Complier@9984@4
 Comport@able@Comportable@9991@0
 Comport@ment@Comportment@9991@1
 Compose@ed@Composed@10006@2
@@ -1706,7 +1706,7 @@ Crust@y@Crusty@12559@1
 Cry@down@Crydown@12576@0
 Cry@out@Cryout@12578@0
 Cry@up@Cryup@12578@0
-Cry@er@Crier@12579@6
+Cry@er@Crier@12579@4
 Crystal@lize@Crystallize@12586@1
 Cube@Cubical@Cubical@12593@7
 Culminate@ion@Culmination@12652@2
@@ -1863,7 +1863,7 @@ Defray@er@Defrayer@13703@0
 Defunct@ion@Defunction@13709@0
 Defy@ance@Defiance@13720@6
 Defy@ant@Defiant@13724@6
-Defy@er@Defer@13725@5
+Defy@er@Defier@13725@4
 Degrade@ation@Degradation@13742@2
 Degrade@ing@Degrading@13746@2
 Deify@Deiform@Deiform@13763@8
@@ -1920,7 +1920,7 @@ Denounce@er@Denouncer@14093@2
 Denounce@ment@Denouncement@14094@1
 Dense@ity@Density@14105@2
 Deny@al@Denial@14129@6
-Deny@er@Denier@14132@6
+Deny@er@Denier@14132@4
 Depart@ed@Departed@14150@1
 Depart@ment@Department@14153@1
 Depart@ure@Departure@14156@1
@@ -2629,7 +2629,7 @@ Enunciate@ion@Enunciation@19169@2
 Enunciate@ive@Enunciateive@19171@0
 Envenom@ed@Envenomed@19182@1
 Envy@able@Enviable@19199@6
-Envy@er@Envier@19201@6
+Envy@er@Envier@19201@4
 Envy@ous@Envious@19202@6
 Envy@ously@Enviously@19208@6
 Epicure@Epicurism@Epicurism@19224@8
@@ -2896,7 +2896,7 @@ False@hood@Falsehood@21129@1
 False@ly@Falsely@21133@1
 False@ness@Falseness@21134@1
 False@Falsify@Falsify@21137@7
-Falsify@er@Falsifier@21144@6
+Falsify@er@Falsifier@21144@4
 Falsify@ication@Falsification@21145@3
 Falter@ing@Faltering@21154@1
 Falter@ingly@Falteringly@21156@1
@@ -4349,7 +4349,7 @@ Justice@Justiciary@Justiciary@33211@8
 Justiciary@Justify@Justify@33212@7
 Justify@able@Justifiable@33215@6
 Justify@ication@Justification@33216@3
-Justify@er@Justifier@33219@6
+Justify@er@Justifier@33219@4
 Juvenile@ity@Juvenileity@33231@0
 Juxtapose@ition@Juxtaposition@33234@2
 Keen@ly@Keenly@33252@1
@@ -4782,7 +4782,7 @@ Magnet@ism@Magnetism@36771@1
 Magnet@ize@Magnetize@36772@1
 Magnificent@Magnificence@Magnificence@36780@7
 Magniloquent@Magniloquence@Magniloquence@36786@7
-Magnify@er@Magnifier@36792@6
+Magnify@er@Magnifier@36792@4
 Magnify@ing@Magnifying@36793@1
 Maid@hood@Maidhood@36811@0
 Mail@ed@Mailed@36820@1
@@ -5226,7 +5226,7 @@ Mute@ly@Mutely@40427@1
 Mute@ness@Muteness@40428@1
 Mutilate@ed@Mutilated@40433@2
 Mutilate@ion@Mutilation@40435@2
-Mutiny@eer@Mutinyeer@40443@0
+Mutiny@eer@Mutineer@40443@5
 Mutiny@ous@Mutinyous@40445@0
 Mutter@ing@Muttering@40452@1
 Mutter@er@Mutterer@40455@1
@@ -5448,7 +5448,7 @@ Occupy@ancy@Occupancy@42195@9
 Occupy@ant@Occupant@42197@9
 Occupy@ation@Occupation@42198@9
 Occupy@ed@Occupied@42205@4
-Occupy@er@Occupier@42210@6
+Occupy@er@Occupier@42210@4
 Occur@rence@Occurrence@42225@1
 Occur@rent@Occurrent@42229@0
 Ocean@ic@Oceanic@42240@1
@@ -7374,7 +7374,7 @@ Soot@y@Sooty@57820@1
 Soothe@ing@Soothing@57833@2
 Sophism@cate@Sophismcate@57846@0
 Sorcery@er@Sorcerer@57853@5
-Sorcery@ess@Sorceryess@57854@0
+Sorcery@ess@Sorceress@57854@5
 Sore@ly@Sorely@57866@1
 Sorrow@fully@Sorrowfully@57880@1
 Sorrow@Sorry@Sorry@57881@7
@@ -7567,7 +7567,7 @@ Strength@en@Strengthen@59777@1
 Strength@ing@Strengthing@59784@0
 Strut@ting@Strutting@59806@1
 Stucco@ed@Stuccoed@59815@1
-Study@ent@Studyent@59834@0
+Study@ent@Student@59834@5
 Study@ied@Studied@59836@3
 Study@ious@Studious@59838@3
 Study@iously@Studiously@59841@3
@@ -7711,7 +7711,7 @@ Sycophant@Sycophancy@Sycophancy@61004@7
 Syllogism@Syllogistic@Syllogistic@61013@7
 Symbol@ic@Symbolic@61022@1
 Symmetry@ical@Symmetrical@61026@3
-Sympathy@etic@Sympathyetic@61036@0
+Sympathy@etic@Sympathetic@61036@5
 Sympathy@ize@Sympathize@61037@3
 Synchronous@Synchronism@Synchronism@61057@7
 Synchronism@Syancnronize@Syancnronize@61058@8

@@ -143,12 +143,12 @@ def englishjoiner(head,sub):
 		return (head[:-1]+sub,2)
 	elif head.endswith('y') and sub.startswith('i') and englishdict.check(head[:-1]+sub):
 		return (head[:-1]+sub,3)
-	elif head.endswith('y') and sub.startswith('ed') and englishdict.check(head[:-1]+'i'+sub):
+	elif head.endswith('y') and sub.startswith('e') and englishdict.check(head[:-1]+'i'+sub):
 		return (head[:-1]+'i'+sub,4)
-	elif head.endswith('y') and sub.startswith('er') and englishdict.check(head[:-1]+sub):
-		return (head[:-1]+sub,5)
 	elif head.endswith('y') and englishdict.check(head[:-1]+'i'+sub):
 		return (head[:-1]+'i'+sub,6)
+	elif re.search('[^aeiou]y$',head) and re.search('^e',sub) and englishdict.check(head[:-1]+sub):
+		return (head[:-1]+sub,5)
 	elif head.endswith('y') and sub.startswith('a') and englishdict.check(head[:-1]+sub):
 		return (head[:-1]+sub,9)
 	else:
