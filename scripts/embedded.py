@@ -153,7 +153,9 @@ def englishjoiner(head,sub):
 		return (head[:-1]+sub,9)
 	elif re.search('y$',head) and sub.startswith('ous') and englishdict.check(head[:-1]+sub):
 		return (head[:-1]+sub,10)
-	elif sub in ['ful','less','fully','ness','up','down','on','in','off','out','away','about','round','through','to'] and not head.endswith('y'):
+	elif sub in ['ful','less','fully','ness',] and not head.endswith('y'):
+		return (head+sub,11)
+	elif sub in ['up','down','on','in','off','out','away','about','round','through','to']:
 		return (head+sub,11)
 	else:
 		return(head+sub,0)
