@@ -202,7 +202,7 @@ Allay@ment@Allayment@1920@0
 Allege@ation@Allegation@1927@2
 Allegory@ical@Allegorical@1934@3
 Allegory@ically@Allegorically@1935@3
-Allegory@ize@Allegoryize@1936@0
+Allegory@ize@Allegorize@1936@3
 Alleviate@ion@Alleviation@1941@2
 Alleviate@lve@Alleviatelve@1943@0
 Alligate@ion@Alligateion@1948@0
@@ -2682,7 +2682,7 @@ Ether@Ethereal@Ethereal@19647@7
 Ethics@ally@Ethicsally@19653@0
 Etymology@ical@Etymological@19664@3
 Etymology@ist@Etymologist@19666@3
-Etymology@ize@Etymologyize@19666@0
+Etymology@ize@Etymologize@19666@3
 Eulogy@ize@Eulogize@19672@3
 Eulogy@ist@Eulogist@19675@3
 Evacuate@ion@Evacuation@19696@2
@@ -3312,8 +3312,8 @@ Gem@med@Gemmed@24623@1
 Gem@my@Gemmy@24624@1
 Gemini@Geminate@Geminate@24630@8
 Geminate@Geminous@Geminous@24631@8
-Geneology@ical@Geneologyical@24639@0
-Geneology@ist@Geneologyist@24639@0
+Geneology@ical@Geneological@24639@3
+Geneology@ist@Geneologist@24639@3
 General@ity@Generality@24651@1
 General@ize@Generalize@24654@1
 General@ization@Generalization@24658@1
@@ -3415,7 +3415,7 @@ Glorify@ication@Glorification@25232@3
 Glorify@Glorious@Glorious@25234@7
 Glorious@ly@Gloriously@25240@1
 Gloss@y@Glossy@25249@1
-Glossary@ist@Glossaryist@25255@0
+Glossary@ist@Glossarist@25255@3
 Glow@ing@Glowing@25271@1
 Glow@ingly@Glowingly@25275@1
 Glow@worm@Glowworm@25276@0
@@ -4462,7 +4462,7 @@ Lax@ative@Laxative@34255@1
 Lay@before@Laybefore@34287@0
 Lay@by@Layby@34288@0
 Lay@down@Laydown@34289@0
-Lay@in@Lain@34295@3
+Lay@in@Layin@34295@0
 Lay@on@Layon@34295@0
 Lay@out@Layout@34296@1
 Lay@to@Layto@34302@0
@@ -4533,7 +4533,7 @@ Let@off@Letoff@34774@0
 Let@out@Letout@34776@0
 Lethargy@ic@Lethargic@34785@3
 Lethargy@ically@Lethargically@34788@3
-Lethargy@icalness@Lethargyicalness@34789@0
+Lethargy@icalness@Lethargicalness@34789@3
 Letter@ed@Lettered@34805@1
 Level@ler@Leveller@34828@1
 Level@ness@Levelness@34830@1
@@ -4933,7 +4933,7 @@ Meek@ness@Meekness@38107@1
 Meet@ness@Meetness@38134@0
 Meet@ing@Meeting@38134@1
 Melancholy@ic@Melancholic@38156@3
-Melancholy@ily@Melancholyily@38156@0
+Melancholy@ily@Melancholily@38156@3
 Mellifluous@ly@Mellifluously@38167@1
 Mellifluous@ness@Mellifluousness@38167@1
 Melody@Melodious@Melodious@38181@7
@@ -5131,7 +5131,7 @@ Monk@ish@Monkish@39603@1
 Monogamy@ist@Monogamist@39621@3
 Monomania@Monomaniac@Monomaniac@39629@7
 Monopoly@ist@Monopolist@39637@3
-Monopoly@izer@Monopolyizer@39638@0
+Monopoly@izer@Monopolizer@39638@3
 Monopoly@ize@Monopolize@39638@3
 Monosyllable@Monosyllabic@Monosyllabic@39644@7
 Monotheist@notheism@Monotheistnotheism@39649@0
@@ -5200,7 +5200,7 @@ Mud@Muddle@Muddle@40179@7
 Multiform@ity@Multiformity@40222@0
 Multiply@ed@Multiplied@40247@4
 Multiply@ier@Multiplier@40248@3
-Multiply@icator@Multiplyicator@40249@0
+Multiply@icator@Multiplicator@40249@3
 Multiply@ication@Multiplication@40249@3
 Multiply@icative@Multiplicative@40253@3
 Multiply@cand@Multiplicand@40254@6
@@ -5274,11 +5274,11 @@ Navigate@or@Navigator@40785@2
 Near@ness@Nearness@40823@1
 Neat@ly@Neatly@40829@1
 Neat@ness@Neatness@40830@1
-Necessary@ian@Necessaryian@40844@0
+Necessary@ian@Necessarian@40844@3
 Necessary@ily@Necessarily@40847@3
 Necessity@ate@Necessitate@40857@9
 Necromancy@er@Necromancer@40880@5
-Necromancy@ian@Necromancyian@40881@0
+Necromancy@ian@Necromancian@40881@3
 Nectar@ean@Nectarean@40885@0
 Need@ful@Needful@40904@1
 Need@less@Needless@40905@1
@@ -5296,7 +5296,7 @@ Negotiate@ion@Negotiation@40962@2
 Negotiate@or@Negotiator@40964@2
 Neigh@ing@Neighing@40970@1
 Neighbour@ing@Neighbouring@40985@1
-Neology@ist@Neologyist@40999@0
+Neology@ist@Neologist@40999@3
 Nephritic@ai@Nephriticai@41010@0
 Nerve@less@Nerveless@41019@1
 Nerve@ous@Nervous@41020@2
@@ -5495,7 +5495,7 @@ On@ward@Onward@42598@1
 On@wards@Onwards@42599@1
 One@ness@Oneness@42624@1
 One@Once@Once@42626@7
-Ontology@ist@Ontologyist@42656@0
+Ontology@ist@Ontologist@42656@3
 Ooze@ing@Oozing@42662@2
 Ooze@y@Oozey@42663@0
 Open@er@Opener@42715@1
@@ -5559,7 +5559,7 @@ Ornate@ly@Ornately@43082@1
 Ornithology@ist@Ornithologist@43085@3
 Orphan@age@Orphanage@43089@1
 Orthodox@y@Orthodoxy@43102@1
-Orthoepy@ist@Orthoepyist@43105@0
+Orthoepy@ist@Orthoepist@43105@3
 Orthogon@al@Orthogonal@43108@1
 Oscitant@Oscitate@Oscitate@43123@8
 Osseous@Ossicle@Ossicle@43127@8
@@ -5608,7 +5608,7 @@ Pacify@ied@Pacified@43793@3
 Pacify@ier@Pacifier@43795@3
 Pacify@ic@Pacific@43796@3
 Pacify@ication@Pacification@43798@3
-Pacify@icatory@Pacifyicatory@43800@0
+Pacify@icatory@Pacificatory@43800@3
 Pack@age@Package@43819@1
 Pack@Packet@Packet@43820@7
 Pagan@ism@Paganism@43847@1
@@ -5633,7 +5633,7 @@ Palmister@Palmistry@Palmistry@44006@7
 Palpable@Palpably@Palpably@44014@7
 Palpitate@ion@Palpitation@44018@2
 Palsy@ied@Palsied@44024@3
-Palsy@ical@Palsyical@44025@0
+Palsy@ical@Palsical@44025@3
 Pamper@ed@Pampered@44036@1
 Pamper@er@Pamperer@44037@1
 Pamper@ing@Pampering@44038@1
@@ -5672,7 +5672,7 @@ Parricide@al@Parricidal@44338@2
 Parse@ing@Parsing@44347@2
 Parsimony@ious@Parsimonious@44349@3
 Parsimony@iously@Parsimoniously@44351@3
-Parsimony@iousness@Parsimonyiousness@44352@0
+Parsimony@iousness@Parsimoniousness@44352@3
 Parson@age@Parsonage@44357@1
 Part@ing@Parting@44391@1
 Part@ly@Partly@44396@1
@@ -5868,7 +5868,7 @@ Phthisic@Phthisical@Phthisical@45815@8
 Physic@ian@Physician@45823@1
 Physic@Physical@Physical@45825@7
 Physical@ly@Physically@45830@1
-Physiognomy@ist@Physiognomyist@45834@0
+Physiognomy@ist@Physiognomist@45834@3
 Pick@axe@Pickaxe@45858@1
 Pick@ing@Picking@45862@1
 Picture@ed@Pictured@45882@2
@@ -5984,7 +5984,7 @@ Polite@ness@Politeness@46800@1
 Pollute@er@Polluter@46819@2
 Pollute@ion@Pollution@46819@2
 Pollute@sion@Pollutesion@46822@0
-Polyandry@ist@Polyandryist@46826@0
+Polyandry@ist@Polyandrist@46826@3
 Polygamy@ist@Polygamist@46832@3
 Polygon@al@Polygonal@46839@1
 Polytheist@Polytheism@Polytheism@46855@7
@@ -6170,7 +6170,7 @@ Prig@gish@Priggish@48175@1
 Prime@ness@Primeness@48188@1
 Prime@Primary@Primary@48189@7
 Primary@ily@Primarily@48194@3
-Primary@iness@Primaryiness@48195@0
+Primary@iness@Primariness@48195@3
 Primary@Primate@Primate@48196@7
 Primate@er@Primateer@48197@0
 Primate@Primeval@Primeval@48197@7
@@ -6296,7 +6296,7 @@ Prosecute@ion@Prosecution@48932@2
 Prosecute@or@Prosecutor@48937@2
 Proselyte@ize@Proselytize@48942@2
 Proselyte@ism@Proselytism@48942@2
-Prosody@ian@Prosodyian@48946@0
+Prosody@ian@Prosodian@48946@3
 Prospect@ive@Prospective@48953@1
 Prospect@ively@Prospectively@48955@1
 Prosper@ity@Prosperity@48966@1
@@ -7357,7 +7357,7 @@ Solicit@ously@Solicitously@57696@1
 Solicit@ude@Solicitude@57696@1
 Solid@ify@Solidify@57707@1
 Soliloquy@Soliloquize@Soliloquize@57712@8
-Solitary@ily@Solitaryily@57719@0
+Solitary@ily@Solitarily@57719@3
 Solitary@iness@Solitariness@57720@3
 Solitary@Solitude@Solitude@57721@7
 Solstice@Solstitial@Solstitial@57729@8
