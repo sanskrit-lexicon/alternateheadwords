@@ -113,7 +113,7 @@ def headwordembedwordregex(dict):
 		reEmbedded = r'^<\+> \#\{(.*?)[ ,}]'
 	elif dict in ['AE']:
 		reHeadword = r'^<P>{[@]([a-zA-Z]*)[,]'
-		reEmbedded = r'{[@]-([a-z]+)[,]*[@]}'
+		reEmbedded = r'{[@](-[a-zA-Z]+)[,.]*[@]}'
 	return [reHeadword,reEmbedded]
 	
 def dictstartendreturn(dict):
@@ -133,7 +133,9 @@ def dictstartendreturn(dict):
 
 def englishjoiner(head,sub):
 	global englishdict
-	if englishdict.check(head+sub):
+	if re.search('^[A-Z]',sub) and englishdict.check(sub):
+		return (sub,7)
+	elif englishdict.check(head+sub):
 		return (head+sub,1)
 	elif head.endswith('e') and re.search('^[aeiou]',sub) and englishdict.check(head[:-1]+sub):
 		return (head[:-1]+sub,2)
@@ -193,10 +195,11 @@ if __name__=="__main__":
 				matchembed = re.findall(reEmbedded,line)
 				if len(matchembed) > 0 and not (re.match('^[A-Z]+$',headword) and dictname in ['STC']):
 					for embeddedtag in matchembed:
+						print embeddedtag
 						emb = re.split(r'[ ;,]',embeddedtag)
 						for memb in emb:
 							if not re.search(r'^[^a-zA-Z0-9]*$',memb):
-								print headword.encode('utf-8'), memb.encode('utf-8')
+								#print headword.encode('utf-8'), memb.encode('utf-8')
 								fout.write(';'+line+'\n')
 								fout.write(headword+'@'+memb+'@'+unicode(counter)+'\n')
 		fin.close()
