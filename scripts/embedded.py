@@ -195,13 +195,18 @@ if __name__=="__main__":
 				matchembed = re.findall(reEmbedded,line)
 				if len(matchembed) > 0 and not (re.match('^[A-Z]+$',headword) and dictname in ['STC']):
 					for embeddedtag in matchembed:
-						print embeddedtag
 						emb = re.split(r'[ ;,]',embeddedtag)
 						for memb in emb:
 							if not re.search(r'^[^a-zA-Z0-9]*$',memb):
+								# special patch for AE. Here there are subheadwords starting with Capital letter replace the previous word. Suffices append to it.
+								# https://github.com/sanskrit-lexicon/alternateheadwords/issues/19#issuecomment-329283031
 								#print headword.encode('utf-8'), memb.encode('utf-8')
 								fout.write(';'+line+'\n')
 								fout.write(headword+'@'+memb+'@'+unicode(counter)+'\n')
+								if dictname in ['AE']:
+									capit = re.search('^-([A-Z][a-z]*)',memb)
+									if capit:
+										headword = capit.group(1)
 		fin.close()
 		fout.close()
 
