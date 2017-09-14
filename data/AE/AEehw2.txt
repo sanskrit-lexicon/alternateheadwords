@@ -180,7 +180,7 @@ Agree@able@Agreeable@1721@1
 Agree@ably@Agreeably@1724@1
 Agree@ment@Agreement@1726@1
 Agriculture@Agriculturist@Agriculturist@1733@7
-Aid@less@Aidless@1756@0
+Aid@less@Aidless@1756@11
 All@ing@Alling@1762@0
 All@ment@Allment@1762@0
 Air@y@Airy@1791@1
@@ -371,7 +371,7 @@ Arrow@y@Arrowy@3151@0
 Art@ful@Artful@3165@1
 Art@fulness@Artfulness@3167@1
 Art@less@Artless@3168@1
-Art@ness@Artness@3171@0
+Art@ness@Artness@3171@11
 Art@Artifice@Artifice@3172@7
 Artifice@Artificer@Artificer@3173@7
 Artificer@Artificial@Artificial@3175@7
@@ -535,7 +535,7 @@ Beach@y@Beachy@4469@0
 Bead@man@Beadman@4476@0
 Beak@ed@Beaked@4480@1
 Beak@er@Beaker@4481@1
-Beam@less@Beamless@4487@0
+Beam@less@Beamless@4487@11
 Beam@y@Beamy@4488@0
 Bear@Born@Born@4514@7
 Born@back@Bornback@4517@0
@@ -647,7 +647,7 @@ Blind@ness@Blindness@5495@1
 Blink@ing@Blinking@5499@1
 Bliss@ful@Blissful@5504@1
 Bliss@fully@Blissfully@5505@1
-Bliss@less@Blissless@5506@0
+Bliss@less@Blissless@5506@11
 Blithe@ly@Blithely@5514@1
 Blithe@ness@Blitheness@5515@1
 Bloat@ed@Bloated@5523@1
@@ -953,7 +953,7 @@ Cement@ation@Cementation@7733@0
 Cense@er@Censer@7740@2
 Censor@sorious@Censorsorious@7745@0
 Censor@ly@Censorly@7746@0
-Censor@ness@Censorness@7747@0
+Censor@ness@Censorness@7747@11
 Censure@able@Censurable@7757@2
 Censure@er@Censurer@7758@2
 Cent@Centenarian@Centenarian@7765@7
@@ -977,7 +977,7 @@ Ceremony@ousness@Ceremoniousness@7809@6
 Certain@ly@Certainly@7817@1
 Certain@titude@Certaintitude@7821@0
 Certify@tificate@Certifytificate@7829@0
-Chaff@less@Chaffless@7853@0
+Chaff@less@Chaffless@7853@11
 Chaff@y@Chaffy@7854@0
 Chain@ed@Chained@7867@1
 Chair@man@Chairman@7871@1
@@ -1043,7 +1043,7 @@ Chit@chat@Chitchat@8336@1
 Chivalry@ous@Chivalrous@8340@10
 Choke@ed@Choked@8351@2
 Choose@Choice@Choice@8365@7
-Choice@less@Choiceless@8374@0
+Choice@less@Choiceless@8374@11
 Chop@Chops@Chops@8379@7
 Chronicle@er@Chronicler@8404@2
 Chronology@ist@Chronologist@8408@3
@@ -1052,7 +1052,7 @@ Chuck@ling@Chuckling@8423@1
 Chuff@y@Chuffy@8432@0
 Church@y@Churchy@8439@0
 Churl@ish@Churlish@8445@1
-Churl@ness@Churlness@8446@0
+Churl@ness@Churlness@8446@11
 Churn@ing@Churning@8452@1
 Chyle@ous@Chyleous@8463@0
 Cicatrice@Cicatrize@Cicatrize@8467@8
@@ -1219,7 +1219,7 @@ Comedy@ian@Comedian@9544@3
 Comfort@able@Comfortable@9561@1
 Comfort@ably@Comfortably@9564@1
 Comfort@er@Comforter@9568@1
-Comfort@less@Comfortless@9570@0
+Comfort@less@Comfortless@9570@11
 Command@ant@Commandant@9607@1
 Command@er@Commander@9608@1
 Command@ment@Commandment@9611@1
@@ -1266,7 +1266,7 @@ Compulsory@ly@Compulsorily@9850@6
 Compulsory@Compulsion@Compulsion@9852@7
 Compend@Compendious@Compendious@9857@7
 Compendious@ly@Compendiously@9859@0
-Compendious@ness@Compendiousness@9860@0
+Compendious@ness@Compendiousness@9860@11
 Compensate@ion@Compensation@9865@2
 Compensate@lve@Compensatelve@9866@0
 Compete@ent@Competent@9876@2
@@ -1308,7 +1308,7 @@ Comprehend@hensible@Comprehendhensible@10039@0
 Comprehend@sion@Comprehendsion@10042@0
 Comprehend@hensive@Comprehendhensive@10046@0
 Comprehend@ly@Comprehendly@10047@0
-Comprehend@ness@Comprehendness@10048@0
+Comprehend@ness@Comprehendness@10048@11
 Compress@able@Compressable@10052@0
 Compress@ibility@Compressibility@10053@1
 Compress@ion@Compression@10054@1
@@ -1361,7 +1361,7 @@ Condescend@ing@Condescending@10295@1
 Condescend@ingly@Condescendingly@10296@1
 Condescend@Condescension@Condescension@10297@7
 Condign@ly@Condignly@10302@0
-Condign@ness@Condignness@10302@0
+Condign@ness@Condignness@10302@11
 Condition@al@Conditional@10316@1
 Condition@ally@Conditionally@10317@1
 Condition@ed@Conditioned@10318@1
@@ -1437,7 +1437,7 @@ Conquer@Conquest@Conquest@10685@7
 Consanguineous@Consanguinity@Consanguinity@10690@7
 Conscience@tious@Consciencetious@10696@0
 Conscience@ly@Consciencely@10698@0
-Conscience@ness@Conscienceness@10699@0
+Conscience@ness@Conscienceness@10699@11
 Conscionable@Conscionably@Conscionably@10703@8
 Conscious@ness@Consciousness@10714@1
 Consecrate@ed@Consecrated@10725@2
@@ -1445,7 +1445,7 @@ Consecrate@er@Consecrateer@10726@0
 Consecrate@ion@Consecration@10727@2
 Consecution@Consecutlve@Consecutlve@10732@8
 Consecutlve@ly@Consecutlvely@10734@0
-Consecutlve@ness@Consecutlveness@10735@0
+Consecutlve@ness@Consecutlveness@10735@11
 Consent@ient@Consentient@10748@0
 Consent@ingly@Consentingly@10748@1
 Consequence@sequent@Consequencesequent@10762@0
@@ -1680,7 +1680,7 @@ Criminate@ion@Criminateion@12319@0
 Criminate@ory@Criminateory@12320@0
 Crimp@Crimple@Crimple@12324@8
 Cringe@ing@Cringing@12339@2
-Cripple@ness@Crippleness@12351@0
+Cripple@ness@Crippleness@12351@11
 Crisis@Critical@Critical@12355@7
 Crisp@ation@Crispation@12364@0
 Crisp@ature@Crispature@12365@0
@@ -1719,7 +1719,7 @@ Curd@y@Curdy@12737@0
 Cure@able@Curable@12753@2
 Cure@ative@Curative@12756@2
 Cure@er@Curer@12757@2
-Cure@less@Cureless@12758@0
+Cure@less@Cureless@12758@11
 Curiosity@Curious@Curious@12764@7
 Curious@ly@Curiously@12770@1
 Current@ly@Currently@12794@1
@@ -1777,7 +1777,7 @@ Dear@ly@Dearly@13235@1
 Dear@ness@Dearness@13237@1
 Debase@ment@Debasement@13255@1
 Debate@er@Debater@13264@2
-Debate@ful@Debateful@13266@0
+Debate@ful@Debateful@13266@11
 Debauch@er@Debaucher@13272@1
 Debauch@er@Debaucher@13274@1
 Debauch@ery@Debauchery@13275@1
@@ -1792,9 +1792,9 @@ Decease@ed@Deceased@13332@2
 Deceive@er@Deceiver@13337@2
 Deceive@Deceit@Deceit@13338@7
 Deceit@Deception@Deception@13339@7
-Deception@ful@Deceptionful@13341@0
+Deception@ful@Deceptionful@13341@11
 Deception@Deceptive@Deceptive@13342@7
-Deceptive@fully@Deceptivefully@13345@0
+Deceptive@fully@Deceptivefully@13345@11
 Decent@ly@Decently@13355@1
 Decide@ed@Decided@13368@2
 Decide@edly@Decidedly@13371@2
@@ -1966,7 +1966,7 @@ Description@Descriptive@Descriptive@14403@7
 Desecrate@ion@Desecration@14412@2
 Desert@er@Deserter@14421@1
 Desert@ion@Desertion@14423@1
-Desert@less@Desertless@14425@0
+Desert@less@Desertless@14425@11
 Deserve@ed@Deserved@14429@2
 Deserve@edly@Deservedly@14429@2
 Desiccate@ion@Desiccation@14439@2
@@ -1976,7 +1976,7 @@ Desiderate@Desideratum@Desideratum@14443@7
 Design@edly@Designedly@14455@1
 Design@er@Designer@14457@1
 Design@ing@Designing@14458@1
-Design@less@Designless@14460@0
+Design@less@Designless@14460@11
 Designate@ing@Designating@14465@2
 Desire@able@Desirable@14478@2
 Desire@ous@Desirous@14479@2
@@ -1984,11 +1984,11 @@ Desolate@ion@Desolation@14497@2
 Despair@Desperate@Desperate@14506@7
 Desperate@ly@Desperately@14511@1
 Desperate@ness@Desperateness@14512@1
-Despatch@ful@Despatchful@14523@0
+Despatch@ful@Despatchful@14523@11
 Despise@ingly@Despiseingly@14532@0
 Despise@Despleable@Despleable@14533@8
-Despite@fully@Despitefully@14544@0
-Despite@ness@Despiteness@14545@0
+Despite@fully@Despitefully@14544@11
+Despite@ness@Despiteness@14545@11
 Despoil@er@Despoiler@14549@1
 Despoil@Despoliation@Despoliation@14550@7
 Despond@ency@Despondency@14554@1
@@ -2214,7 +2214,7 @@ Dispute@atious@Disputatious@16152@2
 Disqualify@ication@Disqualification@16156@3
 Disquiet@ed@Disquieted@16163@1
 Disregard@ful@Disregardful@16175@1
-Disregard@fully@Disregardfully@16176@0
+Disregard@fully@Disregardfully@16176@11
 Disrepute@ation@Disreputeation@16183@0
 Disrepute@able@Disreputable@16185@2
 Disrespect@ful@Disrespectful@16192@1
@@ -2317,14 +2317,14 @@ Dote@age@Dotage@16817@2
 Dote@ard@Dotard@16820@2
 Dote@ing@Doting@16821@2
 Dote@ingly@Dotingly@16822@2
-Double@ful@Doubleful@16827@0
+Double@ful@Doubleful@16827@11
 Double@ness@Doubleness@16837@1
 Double@Doubly@Doubly@16838@7
 Doubt@ful@Doubtful@16856@1
 Doubt@less@Doubtless@16861@1
 Doubt@lessly@Doubtlessly@16862@1
 Dower@ed@Dowered@16887@1
-Dower@less@Dowerless@16888@0
+Dower@less@Dowerless@16888@11
 Down@ward@Downward@16920@1
 Down@y@Downy@16923@1
 Drama@ally@Dramaally@16983@0
@@ -2349,7 +2349,7 @@ Dray@man@Drayman@17059@0
 Dread@ed@Dreaded@17063@1
 Dread@ful@Dreadful@17064@1
 Dread@fully@Dreadfully@17067@1
-Dread@less@Dreadless@17067@0
+Dread@less@Dreadless@17067@11
 Dread@naught@Dreadnaught@17068@0
 Dream@er@Dreamer@17077@1
 Dream@y@Dreamy@17079@1
@@ -2745,7 +2745,7 @@ Excruciate@ion@Excruciation@20128@2
 Exculpate@ed@Exculpated@20135@2
 Exculpate@ion@Exculpation@20136@2
 Exculpate@ory@Exculpatory@20137@2
-Excuse@less@Excuseless@20161@0
+Excuse@less@Excuseless@20161@11
 Execrate@ion@Execration@20165@2
 Execrate@Execrable@Execrable@20166@7
 Execute@ion@Execution@20176@2
@@ -2759,7 +2759,7 @@ Exert@ion@Exertion@20227@1
 Exhale@ation@Exhalation@20240@2
 Exhaust@ed@Exhausted@20257@1
 Exhaust@ion@Exhaustion@20259@1
-Exhaust@less@Exhaustless@20262@0
+Exhaust@less@Exhaustless@20262@11
 Exhibit@ion@Exhibition@20271@1
 Exhibit@ioner@Exhibitioner@20273@1
 Exhilarate@ion@Exhilaration@20276@2
@@ -2912,7 +2912,7 @@ Fancy@Fanciful@Fanciful@21231@7
 Fanciful@ly@Fancifully@21238@1
 Fanciful@ness@Fancifulness@21239@1
 Fang@ed@Fanged@21246@1
-Fang@less@Fangless@21247@0
+Fang@less@Fangless@21247@11
 Fantasm@Fantastic@Fantastic@21251@7
 Farce@Farcical@Farcical@21282@7
 Fare@Farewell@Farewell@21294@7
@@ -2981,7 +2981,7 @@ Felon@y@Felony@21721@1
 Fen@Fenny@Fenny@21743@8
 Fence@er@Fencer@21750@2
 Fence@ing@Fencing@21751@2
-Fence@less@Fenceless@21752@0
+Fence@less@Fenceless@21752@11
 Ferment@ation@Fermentation@21765@1
 Fertile@ize@Fertilize@21803@2
 Fervent@ly@Fervently@21811@1
@@ -3009,7 +3009,7 @@ Filial@Filiation@Filiation@22030@8
 Fill@ed@Filled@22045@1
 Film@y@Filmy@22057@1
 Filth@y@Filthy@22065@1
-Fin@less@Finless@22071@0
+Fin@less@Finless@22071@11
 Fin@Finny@Finny@22072@7
 Final@ly@Finally@22077@1
 Finance@s@Finances@22080@1
@@ -3039,7 +3039,7 @@ Fix@ture@Fixture@22328@1
 Flabby@ness@Flabbiness@22331@6
 Flag@gy@Flaggy@22341@0
 Flagellate@ion@Flagellation@22345@2
-Flagitious@ness@Flagitiousness@22352@0
+Flagitious@ness@Flagitiousness@22352@11
 Flagrant@cy@Flagrantcy@22360@0
 Flake@y@Flakey@22369@0
 Flame@ing@Flaming@22377@2
@@ -3218,7 +3218,7 @@ Frisk@y@Frisky@23823@1
 Frolic@some@Frolicsome@23855@1
 Front@age@Frontage@23893@1
 Front@al@Frontal@23894@1
-Front@less@Frontless@23896@0
+Front@less@Frontless@23896@11
 Front@let@Frontlet@23897@0
 Frost@y@Frosty@23909@1
 Froth@y@Frothy@23914@1
@@ -3286,7 +3286,7 @@ Gain@er@Gainer@24318@1
 Gain@ful@Gainful@24319@1
 Gain@ly@Gainly@24320@0
 Gainsay@er@Gainsayer@24326@1
-Gairish@ness@Gairishness@24329@0
+Gairish@ness@Gairishness@24329@11
 Gall@ing@Galling@24350@1
 Gallant@ry@Gallantry@24358@1
 Gallant@ly@Gallantly@24361@1
@@ -3305,7 +3305,7 @@ Gastronome@tronomy@Gastronometronomy@24544@0
 Gather@er@Gatherer@24560@1
 Gather@ing@Gathering@24562@1
 Gaud@y@Gaudy@24567@1
-Gaud@ness@Gaudness@24570@0
+Gaud@ness@Gaudness@24570@11
 Gay@Gaiety@Gaiety@24590@7
 Geld@ing@Gelding@24618@1
 Gem@med@Gemmed@24623@1
@@ -3548,8 +3548,8 @@ Guilt@lessly@Guiltlessly@26278@1
 Guilt@y@Guilty@26279@1
 Gull@ery@Gullery@26298@0
 Gum@my@Gummy@26313@1
-Gust@ful@Gustful@26339@0
-Gust@less@Gustless@26340@0
+Gust@ful@Gustful@26339@11
+Gust@less@Gustless@26340@11
 Gust@y@Gusty@26340@1
 Gymnasium@Gymnastic@Gymnastic@26357@7
 Habit@ation@Habitation@26389@1
@@ -3608,7 +3608,7 @@ Haste@Hasty@Hasty@26895@7
 Hasty@Hastily@Hastily@26899@7
 Hate@Hatred@Hatred@26920@7
 Hatred@er@Hatreder@26922@0
-Hatred@ful@Hatredful@26923@0
+Hatred@ful@Hatredful@26923@11
 Haughty@ly@Haughtily@26929@6
 Haughty@ness@Haughtiness@26930@6
 Have@ing@Having@26964@2
@@ -3642,8 +3642,8 @@ Heed@ful@Heedful@27262@1
 Heed@less@Heedless@27263@1
 Heinous@ly@Heinously@27289@1
 Heinous@ness@Heinousness@27289@1
-Heir@less@Heirless@27297@0
-Heir@less@Heirless@27297@0
+Heir@less@Heirless@27297@11
+Heir@less@Heirless@27297@11
 Heir@ship@Heirship@27298@0
 Hell@ish@Hellish@27307@1
 Helm@Helmsman@Helmsman@27314@7
@@ -3748,7 +3748,7 @@ Hostile@ity@Hostility@28225@2
 Hot@ly@Hotly@28244@1
 Hot@ness@Hotness@28246@1
 Hour@ly@Hourly@28267@1
-House@less@Houseless@28294@0
+House@less@Houseless@28294@11
 Hover@ing@Hovering@28310@1
 Howl@ing@Howling@28337@1
 Huff@er@Huffer@28368@0
@@ -3777,8 +3777,8 @@ Hurl@ing@Hurling@28540@1
 Hurry@ed@Hurried@28563@4
 Hurry@edly@Hurriedly@28564@4
 Hurt@fully@Hurtfully@28577@1
-Hurt@less@Hurtless@28578@0
-Husband@less@Husbandless@28596@0
+Hurt@less@Hurtless@28578@11
+Husband@less@Husbandless@28596@11
 Husband@ry@Husbandry@28597@1
 Husband@Husbandman@Husbandman@28600@8
 Husk@ed@Husked@28613@1
@@ -3945,8 +3945,8 @@ Incontinent@Incontinence@Incontinence@30092@7
 Incontrovertible@Inconvenience@Inconvenience@30102@7
 Incorporate@ion@Incorporation@30114@2
 Incorrect@ly@Incorrectly@30120@1
-Incorrect@ness@Incorrectness@30121@0
-Incorrupt@ness@Incorruptness@30132@0
+Incorrect@ness@Incorrectness@30121@11
+Incorrupt@ness@Incorruptness@30132@11
 Increase@ing@Increasing@30147@2
 Incredulous@ly@Incredulously@30155@1
 Incredulous@Incredulity@Incredulity@30156@7
@@ -4010,7 +4010,7 @@ Infatuate@ed@Infatuated@30667@2
 Infatuate@ing@Infatuating@30670@2
 Infatuate@ion@Infatuation@30671@2
 Infect@ion@Infection@30683@1
-Infecund@less@Infecundless@30690@0
+Infecund@less@Infecundless@30690@11
 Infelicity@ous@Infelicitous@30693@10
 Infer@able@Inferable@30702@1
 Infer@ence@Inference@30704@1
@@ -4243,7 +4243,7 @@ Inveterate@Inveteracy@Inveteracy@32373@7
 Invidious@ly@Invidiously@32379@1
 Invigorate@ing@Invigorating@32384@2
 Invigorate@ion@Invigoration@32386@2
-Inviolable@ness@Inviolableness@32391@0
+Inviolable@ness@Inviolableness@32391@11
 Invisible@ness@Invisibleness@32402@1
 Invisible@y@Invisibley@32404@0
 Invite@ation@Invitation@32411@2
@@ -4254,7 +4254,7 @@ Involve@Involution@Involution@32444@7
 Inward@ly@Inwardly@32454@1
 Inward@Inwards@Inwards@32456@7
 Inwrap@volve@Inwrapvolve@32462@0
-Irascible@ness@Irascibleness@32471@0
+Irascible@ness@Irascibleness@32471@11
 Ire@ful@Ireful@32476@1
 Iron@y@Irony@32507@1
 Irony@ical@Ironical@32514@3
@@ -4282,7 +4282,7 @@ Irritate@ble@Irritateble@32654@0
 Irritate@lity@Irritatelity@32656@0
 Island@Islander@Islander@32663@7
 Isolate@ion@Isolation@32670@2
-Issue@less@Issueless@32687@0
+Issue@less@Issueless@32687@11
 Itch@y@Itchy@32702@1
 Iterate@ion@Iteration@32709@2
 Iterate@ive@Iterative@32710@2
@@ -4337,7 +4337,7 @@ Judicial@ly@Judicially@33085@1
 Judicial@Judicious@Judicious@33086@7
 Judicious@ly@Judiciously@33091@1
 Juggle@er@Juggler@33105@2
-Juice@less@Juiceless@33113@0
+Juice@less@Juiceless@33113@11
 Juice@y@Juicey@33115@0
 Jump@ing@Jumping@33132@1
 Jump@er@Jumper@33135@1
@@ -4370,7 +4370,7 @@ Kind@ly@Kindly@33402@1
 Kind@ness@Kindness@33407@1
 Kind@Kindliness@Kindliness@33412@7
 King@dom@Kingdom@33446@1
-King@less@Kingless@33448@0
+King@less@Kingless@33448@11
 King@like@Kinglike@33449@0
 King@ly@Kingly@33450@1
 King@ship@Kingship@33452@1
@@ -4396,13 +4396,13 @@ Knuckle@ed@Knuckled@33632@2
 Knurl@ed@Knurled@33635@1
 Labial@ed@Labialed@33669@0
 Labial@er@Labialer@33671@0
-Labial@ness@Labialness@33682@0
+Labial@ness@Labialness@33682@11
 Labial@Laboratory@Laboratory@33683@7
 Labyrinth@ian@Labyrinthian@33689@0
 Lachrymal@Lachrymatory@Lachrymatory@33707@8
 Lachrymatory@Lachrymose@Lachrymose@33708@7
 Laconic@ally@Laconically@33733@1
-Ladle@ful@Ladleful@33764@0
+Ladle@ful@Ladleful@33764@11
 Lady@like@Ladylike@33776@1
 Lag@Laggard@Laggard@33783@7
 Lamb@kin@Lambkin@33803@1
@@ -4451,10 +4451,10 @@ Lave@er@Laveer@34189@0
 Lave@ment@Lavement@34190@0
 Lavish@er@Lavisher@34200@1
 Lavish@ly@Lavishly@34201@1
-Lavish@ful@Lavishful@34226@0
-Lavish@fully@Lavishfully@34231@0
+Lavish@ful@Lavishful@34226@11
+Lavish@fully@Lavishfully@34231@11
 Lavish@fulness@Lavishfulness@34233@0
-Lavish@less@Lavishless@34234@0
+Lavish@less@Lavishless@34234@11
 Lavish@lessly@Lavishlessly@34240@0
 Lavish@lessness@Lavishlessness@34241@0
 Lavish@Lawyer@Lawyer@34244@7
@@ -4569,7 +4569,7 @@ Light@ness@Lightness@35167@1
 Light@some@Lightsome@35174@0
 Light@en@Lighten@35195@1
 Light@er@Lighter@35198@1
-Light@less@Lightless@35199@0
+Light@less@Lightless@35199@11
 Light@some@Lightsome@35201@0
 Light@ning@Lightning@35203@1
 Like@ed@Liked@35262@2
@@ -4609,7 +4609,7 @@ Lisp@ing@Lisping@35528@1
 Lisp@er@Lisper@35529@1
 Lisp@ingly@Lispingly@35531@0
 List@ly@Listly@35551@0
-List@ness@Listness@35554@0
+List@ness@Listness@35554@11
 Listen@er@Listener@35563@1
 Literal@ity@Literality@35569@0
 Literal@ly@Literally@35571@1
@@ -4802,7 +4802,7 @@ Make@up@Makeup@36949@0
 Make@er@Maker@36960@2
 Make@ing@Making@36966@2
 Malapert@ly@Malapertly@36985@0
-Malapert@ness@Malapertness@36986@0
+Malapert@ness@Malapertness@36986@11
 Malediction@dictory@Maledictiondictory@37007@0
 Malevolent@ly@Malevolently@37019@1
 Malevolent@Malevolence@Malevolence@37021@7
@@ -4837,7 +4837,7 @@ Manifest@Manifesto@Manifesto@37242@7
 Manipulate@ion@Manipulation@37253@2
 Manner@ed@Mannered@37277@1
 Manner@ism@Mannerism@37280@1
-Manner@less@Mannerless@37280@0
+Manner@less@Mannerless@37280@11
 Manner@ly@Mannerly@37281@1
 Manufacture@al@Manufactureal@37320@0
 Manufacture@er@Manufacturer@37321@2
@@ -4856,7 +4856,7 @@ Mark@ed@Marked@37451@1
 Mark@Marksman@Marksman@37456@7
 Market@able@Marketable@37466@1
 Market@ink@Marketink@37469@0
-Marrow@less@Marrowless@37488@0
+Marrow@less@Marrowless@37488@11
 Marrow@y@Marrowy@37489@0
 Marry@ageable@Marriageable@37507@6
 Marry@ed@Married@37509@4
@@ -4930,7 +4930,7 @@ Meditate@ive@Meditative@38078@2
 Medulla@ry@Medullary@38098@0
 Meek@ly@Meekly@38105@1
 Meek@ness@Meekness@38107@1
-Meet@ness@Meetness@38134@0
+Meet@ness@Meetness@38134@11
 Meet@ing@Meeting@38134@1
 Melancholy@ic@Melancholic@38156@3
 Melancholy@ily@Melancholily@38156@3
@@ -4977,7 +4977,7 @@ Meretricious@ly@Meretriciously@38413@1
 Merge@Mersion@Mersion@38423@8
 Merit@ed@Merited@38446@1
 Merit@ly@Meritly@38453@0
-Merit@ness@Meritness@38453@0
+Merit@ness@Meritness@38453@11
 Merry@ly@Merrily@38466@6
 Merry@ment@Merriment@38467@6
 Merry@ness@Merriness@38472@6
@@ -5099,8 +5099,8 @@ Misuse@age@Misuseage@39329@0
 Mitigate@lon@Mitigatelon@39343@0
 Mix@ed@Mixed@39353@1
 Moan@ment@Moanment@39373@0
-Moan@ful@Moanful@39374@0
-Moan@fully@Moanfully@39375@0
+Moan@ful@Moanful@39374@11
+Moan@fully@Moanfully@39375@11
 Moat@ed@Moated@39379@1
 Mobile@Mobility@Mobility@39386@7
 Mock@er@Mocker@39396@1
@@ -5180,7 +5180,7 @@ Mourn@fully@Mournfully@40058@1
 Mourn@fulness@Mournfulness@40059@1
 Mourn@ing@Mourning@40060@1
 Mouth@ful@Mouthful@40082@1
-Mouth@less@Mouthless@40084@0
+Mouth@less@Mouthless@40084@11
 Move@able@Moveable@40114@1
 Move@ables@Moveables@40117@1
 Move@ed@Moved@40118@2
@@ -5215,7 +5215,7 @@ Murk@y@Murky@40331@1
 Murmur@er@Murmurer@40340@1
 Muscle@Muscular@Muscular@40345@7
 Muscular@Musculous@Musculous@40347@8
-Muse@ful@Museful@40353@0
+Muse@ful@Museful@40353@11
 Music@al@Musical@40367@1
 Music@ally@Musically@40373@1
 Music@ian@Musician@40374@1
@@ -5291,7 +5291,7 @@ Negative@Negation@Negation@40935@7
 Neglect@ce@Neglectce@40948@0
 Neglect@ful@Neglectful@40952@1
 Neglect@Negligent@Negligent@40953@7
-Negligent@fully@Negligentfully@40955@0
+Negligent@fully@Negligentfully@40955@11
 Negotiate@ion@Negotiation@40962@2
 Negotiate@or@Negotiator@40964@2
 Neigh@ing@Neighing@40970@1
@@ -5319,7 +5319,7 @@ Nice@ly@Nicely@41146@1
 Nictate@ion@Nictateion@41165@0
 Niggard@ly@Niggardly@41172@1
 Niggard@ly@Niggardly@41174@1
-Niggard@ness@Niggardness@41175@0
+Niggard@ness@Niggardness@41175@11
 Night@ly@Nightly@41202@1
 Nihil@ism@Nihilism@41209@1
 Nihil@ity@Nihility@41210@0
@@ -5336,13 +5336,13 @@ Noble@ness@Nobleness@41275@1
 Noble@Nobly@Nobly@41277@7
 Nobly@Nobility@Nobility@41281@7
 Nobility@Noblesse@Noblesse@41289@7
-Noise@ful@Noiseful@41329@0
+Noise@ful@Noiseful@41329@11
 Noise@less@Noiseless@41330@1
 Noise@lessly@Noiselessly@41331@1
 Noise@Noisy@Noisy@41332@7
 Noisy@ily@Noisily@41337@3
 Noisy@iness@Noisiness@41338@3
-Noisome@ness@Noisomeness@41342@0
+Noisome@ness@Noisomeness@41342@11
 Nominal@ly@Nominally@41359@1
 Nominate@ion@Nomination@41365@2
 Nominate@ive@Nominative@41366@2
@@ -5355,7 +5355,7 @@ Nonsensical@ness@Nonsensicalness@41430@1
 Norm@al@Normal@41451@1
 North@ward@Northward@41466@1
 North@wards@Northwards@41466@1
-Nose@less@Noseless@41482@0
+Nose@less@Noseless@41482@11
 Nose@Nostril@Nostril@41483@7
 Notch@ed@Notched@41500@1
 Note@able@Notable@41526@2
@@ -5408,7 +5408,7 @@ Obnoxious@ly@Obnoxiously@41977@1
 Obnoxious@ness@Obnoxiousness@41978@1
 Obscene@ly@Obscenely@41984@1
 Obscene@ity@Obscenity@41984@2
-Obscene@ness@Obsceneness@41985@0
+Obscene@ness@Obsceneness@41985@11
 Obscure@ation@Obscuration@42002@2
 Obscure@ed@Obscured@42004@2
 Obscure@ly@Obscurely@42010@1
@@ -5507,7 +5507,7 @@ Operate@ive@Operative@42739@2
 Operate@or@Operator@42743@2
 Opine@Opinion@Opinion@42756@7
 Opportune@ly@Opportunely@42773@1
-Opportune@ness@Opportuneness@42775@0
+Opportune@ness@Opportuneness@42775@11
 Opportune@Opportunity@Opportunity@42776@7
 Oppose@ed@Opposed@42789@2
 Oppose@er@Opposer@42794@2
@@ -5519,7 +5519,7 @@ Oppress@ive@Oppressive@42818@1
 Oppress@or@Oppressor@42821@1
 Opprobrium@Opprobrious@Opprobrious@42826@7
 Opprobrious@ly@Opprobriously@42828@1
-Opprobrious@ness@Opprobriousness@42829@0
+Opprobrious@ness@Opprobriousness@42829@11
 Optic@Optics@Optics@42837@7
 Option@al@Optional@42847@1
 Option@ally@Optionally@42849@1
@@ -5579,7 +5579,7 @@ Outgo@ing@Outgoing@43253@1
 Outpour@ing@Outpouring@43297@1
 Outrage@ous@Outrageous@43310@1
 Outrage@ously@Outrageously@43313@1
-Outrage@ness@Outrageness@43315@0
+Outrage@ness@Outrageness@43315@11
 Outside@er@Outsider@43342@2
 Ovarious@Ovary@Ovary@43382@7
 Overawe@ed@Overawed@43421@2
@@ -5615,8 +5615,8 @@ Pagan@ism@Paganism@43847@1
 Pageant@ry@Pageantry@43855@1
 Pain@ed@Pained@43876@1
 Pain@ful@Painful@43879@1
-Pained@fully@Painedfully@43886@0
-Pained@less@Painedless@43888@0
+Pained@fully@Painedfully@43886@11
+Pained@less@Painedless@43888@11
 Pained@Painstaking@Painstaking@43889@7
 Paint@ed@Painted@43897@1
 Paint@er@Painter@43899@1
@@ -5730,7 +5730,7 @@ Patriot@ism@Patriotism@44762@1
 Patron@age@Patronage@44773@1
 Patron@al@Patronal@44776@0
 Patron@ize@Patronize@44776@1
-Patron@less@Patronless@44779@0
+Patron@less@Patronless@44779@11
 Pave@er@Paver@44819@2
 Pave@ment@Pavement@44820@1
 Pay@ee@Payee@44847@1
@@ -5873,7 +5873,7 @@ Pick@axe@Pickaxe@45858@1
 Pick@ing@Picking@45862@1
 Picture@ed@Pictured@45882@2
 Picture@Picturesque@Picturesque@45884@7
-Piece@less@Pieceless@45902@0
+Piece@less@Pieceless@45902@11
 Piece@Piecemeal@Piecemeal@45903@7
 Pierce@ed@Pierced@45915@2
 Pierce@er@Piercer@45918@2
@@ -5890,14 +5890,14 @@ Pious@ly@Piously@46053@1
 Pipe@er@Piper@46065@2
 Pirate@Piratisal@Piratisal@46078@8
 Pitch@y@Pitchy@46111@0
-Pith@less@Pithless@46119@0
+Pith@less@Pithless@46119@11
 Pith@y@Pithy@46120@1
 Pity@ly@Pityly@46137@0
 Pity@ness@Pityness@46137@0
 Pity@Pitiful@Pitiful@46138@7
 Pitiful@Pitying@Pitying@46139@7
 Pitying@ly@Pityingly@46143@1
-Pitying@ness@Pityingness@46144@0
+Pitying@ness@Pityingness@46144@11
 Pitying@Pitiless@Pitiless@46145@7
 Pitiless@ly@Pitilessly@46147@1
 Placate@Placable@Placable@46155@8
@@ -6009,7 +6009,7 @@ Portend@Portent@Portent@46995@7
 Portent@ous@Portentous@46999@1
 Portent@ously@Portentously@47001@1
 Portion@ing@Portioning@47015@1
-Portion@less@Portionless@47016@0
+Portion@less@Portionless@47016@11
 Portly@iness@Portliness@47021@3
 Portray@Portrait@Portrait@47027@7
 Positive@ly@Positively@47060@1
@@ -6136,7 +6136,7 @@ Presume@Presumption@Presumption@47981@7
 Presumption@Presumptive@Presumptive@47985@7
 Presumptive@tuous@Presumptivetuous@47989@0
 Presumptive@ly@Presumptively@47991@1
-Presumptive@ness@Presumptiveness@47994@0
+Presumptive@ness@Presumptiveness@47994@11
 Presuppose@ition@Presupposition@47998@2
 Pretend@ed@Pretended@48012@1
 Pretend@edly@Pretendedly@48016@0
@@ -6282,7 +6282,7 @@ Propitiate@or@Propitiateor@48854@0
 Propitiate@ory@Propitiatory@48855@2
 Propitiate@propitious@Propitiatepropitious@48857@0
 Propitiate@ly@Propitiately@48861@0
-Propitiate@ness@Propitiateness@48862@0
+Propitiate@ness@Propitiateness@48862@11
 Proportion@ate@Proportionate@48877@1
 Proportion@al@Proportional@48878@1
 Proportion@ately@Proportionately@48884@1
@@ -6319,7 +6319,7 @@ Protuberance@Protuberant@Protuberant@49057@7
 Protuberant@Protuberate@Protuberate@49063@8
 Prove@er@Proveer@49083@0
 Prove@Proof@Proof@49084@7
-Proof@less@Proofless@49094@0
+Proof@less@Proofless@49094@11
 Proverb@isl@Proverbisl@49103@0
 Proverb@ially@Proverbially@49105@1
 Provide@ed@Provided@49119@2
@@ -6436,7 +6436,7 @@ Querulous@ness@Querulousness@49859@1
 Question@ably@Questionably@49887@1
 Question@ary@Questionary@49888@0
 Question@er@Questioner@49888@1
-Question@less@Questionless@49890@0
+Question@less@Questionless@49890@11
 Quibble@er@Quibbler@49895@2
 Quibble@ing@Quibbling@49896@2
 Quick@en@Quicken@49915@1
@@ -6459,7 +6459,7 @@ Radiate@Radiant@Radiant@50070@7
 Radiant@ly@Radiantly@50072@1
 Radiant@Radiance@Radiance@50073@7
 Rag@ged@Ragged@50097@1
-Rage@ful@Rageful@50106@0
+Rage@ful@Rageful@50106@11
 Rage@ing@Raging@50108@2
 Rail@er@Railer@50120@1
 Rail@ing@Railing@50121@1
@@ -6603,8 +6603,8 @@ Refresh@ment@Refreshment@51276@1
 Refrigerate@Refrigerant@Refrigerant@51285@7
 Refuge@Refugee@Refugee@51298@7
 Refute@ation@Refutation@51324@2
-Regard@ful@Regardful@51360@0
-Regard@fully@Regardfully@51361@0
+Regard@ful@Regardful@51360@11
+Regard@fully@Regardfully@51361@11
 Regard@ing@Regarding@51362@1
 Regard@less@Regardless@51363@1
 Regard@lessly@Regardlessly@51366@0
@@ -6642,7 +6642,7 @@ Relieve@leviate@Relieveleviate@51644@0
 Relieve@ed@Relieved@51649@2
 Relieve@Relief@Relief@51652@7
 Religion@ligious@Religionligious@51664@0
-Religion@ness@Religionness@51668@0
+Religion@ness@Religionness@51668@11
 Relinquish@ment@Relinquishment@51672@1
 Reluctant@ly@Reluctantly@51686@1
 Reluctant@Reluctance@Reluctance@51688@7
@@ -6668,7 +6668,7 @@ Remit@Remission@Remission@51793@7
 Remonstrate@Remonstrance@Remonstrance@51803@7
 Remorse@ful@Remorseful@51807@1
 Remorse@less@Remorseless@51808@1
-Remote@less@Remoteless@51814@0
+Remote@less@Remoteless@51814@11
 Remove@al@Removal@51835@2
 Remove@er@Remover@51842@2
 Remunerate@ion@Remuneration@51850@2
@@ -6729,7 +6729,7 @@ Resign@ation@Resignation@52306@1
 Resign@ed@Resigned@52313@1
 Resist@ance@Resistance@52327@1
 Resist@er@Resister@52329@1
-Resist@less@Resistless@52330@0
+Resist@less@Resistless@52330@11
 Resolve@ed@Resolved@52342@2
 Resolve@end@Resolveend@52345@0
 Resolve@er@Resolver@52345@2
@@ -6833,7 +6833,7 @@ Right@ful@Rightful@53068@1
 Right@fully@Rightfully@53069@1
 Right@ly@Rightly@53070@1
 Rigid@ity@Rigidity@53075@1
-Rigid@ness@Rigidness@53076@0
+Rigid@ness@Rigidness@53076@11
 Rigid@ly@Rigidly@53077@1
 Rigour@ous@Rigourous@53083@0
 Rigour@ously@Rigourously@53086@0
@@ -7040,7 +7040,7 @@ Second@Secondary@Secondary@55021@7
 Secondary@ly@Secondarily@55025@6
 Secret@ly@Secretly@55046@1
 Secular@ity@Secularity@55081@1
-Secular@ness@Secularness@55082@0
+Secular@ness@Secularness@55082@11
 Secure@ity@Security@55093@2
 Sedate@ly@Sedately@55105@1
 Sedate@ness@Sedateness@55107@1
@@ -7051,7 +7051,7 @@ Seduce@er@Seducer@55135@2
 Seduce@Seduction@Seduction@55137@7
 Seduction@Seductive@Seductive@55140@7
 Sedulous@ly@Sedulously@55144@1
-Sedulous@ness@Sedulousness@55145@0
+Sedulous@ness@Sedulousness@55145@11
 See@er@Seer@55157@2
 See@Sight@Sight@55158@7
 Sight@ly@Sightly@55170@1
@@ -7172,7 +7172,7 @@ Sheath@Sheathe@Sheathe@56031@7
 Shed@der@Shedder@56044@0
 Sheep@ish@Sheepish@56053@1
 Shell@y@Shelly@56078@1
-Shelter@less@Shelterless@56087@0
+Shelter@less@Shelterless@56087@11
 Shelve@ing@Shelving@56091@2
 Shepherd@ess@Shepherdess@56094@1
 Shift@y@Shifty@56116@1
@@ -7256,7 +7256,7 @@ Six@Sixteen@Sixteen@56826@7
 Sixteen@th@Sixteenth@56827@1
 Sixteen@ieth@Sixteenieth@56828@0
 Skill@ly@Skillly@56864@0
-Skill@ness@Skillness@56866@0
+Skill@ness@Skillness@56866@11
 Skim@med@Skimmed@56871@1
 Skim@mer@Skimmer@56872@1
 Skin@ny@Skinny@56886@1
@@ -7275,7 +7275,7 @@ Slave@ish@Slavish@57005@2
 Slay@er@Slayer@57011@1
 Sleep@er@Sleeper@57031@1
 Sleep@less@Sleepless@57035@1
-Sleep@ness@Sleepness@57038@0
+Sleep@ness@Sleepness@57038@11
 Sleep@y@Sleepy@57039@1
 Slender@ness@Slenderness@57062@1
 Slide@ing@Sliding@57072@2
@@ -7294,7 +7294,7 @@ Sloven@liness@Slovenliness@57165@1
 Slow@ly@Slowly@57177@1
 Slow@ness@Slowness@57179@1
 Siug@gard@Siuggard@57186@0
-Siug@ness@Siugness@57189@0
+Siug@ness@Siugness@57189@11
 Sly@ly@Slyly@57212@1
 Sly@ness@Slyness@57214@1
 Smart@ly@Smartly@57243@1
@@ -7336,7 +7336,7 @@ Soar@ing@Soaring@57539@1
 Sob@bingly@Sobbingly@57544@1
 Sober@ed@Sobered@57553@1
 Sober@ly@Soberly@57554@1
-Sociable@ness@Sociableness@57565@0
+Sociable@ness@Sociableness@57565@11
 Society@Soclal@Soclal@57574@8
 Sodomy@Sodomite@Sodomite@57594@7
 Soft@en@Soften@57612@1
@@ -7347,7 +7347,7 @@ Sojourn@ing@Sojourning@57641@1
 Sojourn@er@Sojourner@57644@1
 Sole@ly@Solely@57668@1
 Solemn@ity@Solemnity@57680@1
-Solemn@ness@Solemnness@57681@0
+Solemn@ness@Solemnness@57681@11
 Solemn@ize@Solemnize@57684@1
 Solemn@ly@Solemnly@57686@1
 Solicit@ation@Solicitation@57691@1
@@ -7367,7 +7367,7 @@ Solve@Soluble@Soluble@57742@7
 Soluble@Solution@Solution@57743@7
 Somnambulate@Somnamoulism@Somnamoulism@57779@8
 Somnamoulism@Somnambulist@Somnambulist@57780@7
-Son@less@Sonless@57796@0
+Son@less@Sonless@57796@11
 Sonorous@ly@Sonorously@57806@1
 Sonorous@ness@Sonorousness@57807@1
 Soot@y@Sooty@57820@1
@@ -7581,7 +7581,7 @@ Stunt@ed@Stunted@59885@1
 Stupefy@ing@Stupefying@59891@1
 Stupefy@Stupid@Stupid@59892@7
 Stupid@ity@Stupidity@59895@1
-Stupid@ness@Stupidness@59896@0
+Stupid@ness@Stupidness@59896@11
 Stupid@ly@Stupidly@59897@1
 Style@ish@Stylish@59918@2
 Suave@ity@Suavity@59929@2
@@ -7841,7 +7841,7 @@ Thirst@y@Thirsty@61964@1
 Thirteen@th@Thirteenth@61968@1
 Thirty@ieth@Thirtieth@61971@3
 Thither@ward@Thitherward@61982@0
-Thorn@less@Thornless@61997@0
+Thorn@less@Thornless@61997@11
 Thorn@y@Thorny@61997@1
 Thorough@ly@Thoroughly@62004@1
 Thorough@ness@Thoroughness@62009@1
@@ -7916,7 +7916,7 @@ Transfer@ence@Transference@62827@1
 Transform@ation@Transformation@62845@1
 Transfuse@ion@Transfusion@62849@2
 Transgress@or@Transgressor@62858@1
-Transient@ness@Transientness@62866@0
+Transient@ness@Transientness@62866@11
 Transit@ion@Transition@62869@1
 Transit@ive@Transitive@62871@1
 Transit@ory@Transitory@62872@1
@@ -8016,7 +8016,7 @@ Unite@edly@Uniteedly@63969@0
 Unite@Union@Union@63970@7
 Universe@ality@Universality@63979@2
 Universe@ally@Universally@63980@2
-Unkempt@ness@Unkemptness@63990@0
+Unkempt@ness@Unkemptness@63990@11
 Unlearn@ed@Unlearned@63997@1
 Unman@ly@Unmanly@64011@1
 Unsheathe@ed@Unsheathed@64079@2
@@ -8039,7 +8039,7 @@ Usury@ous@Usurious@64280@6
 Uterus@Uterine@Uterine@64286@7
 Utter@ance@Utterance@64305@1
 Utter@ly@Utterly@64307@1
-Uxorious@ness@Uxoriousness@64313@0
+Uxorious@ness@Uxoriousness@64313@11
 Vacant@Vacancy@Vacancy@64322@7
 Vacancy@Vacate@Vacate@64324@7
 Vacate@ion@Vacation@64325@2
@@ -8222,7 +8222,7 @@ Wild@erness@Wilderness@65890@1
 Wild@ly@Wildly@65891@1
 Wild@ness@Wildness@65892@1
 Wile@Wily@Wily@65896@7
-Will@ful@Willful@65910@0
+Will@ful@Willful@65910@11
 Will@fulness@Willfulness@65914@0
 Will@ing@Willing@65915@1
 Will@ingly@Willingly@65917@1
@@ -8252,7 +8252,7 @@ Woman@ish@Womanish@66145@1
 Woman@kind@Womankind@66146@1
 Woman@ly@Womanly@66147@1
 Wonder@Wondrous@Wondrous@66160@7
-Wondrous@fully@Wondrousfully@66162@0
+Wondrous@fully@Wondrousfully@66162@11
 Wondrous@ingly@Wondrousingly@66162@0
 Wont@ed@Wonted@66166@1
 Woo@er@Wooer@66172@1
