@@ -151,6 +151,8 @@ def englishjoiner(head,sub):
 		return (head[:-1]+sub,5)
 	elif head.endswith('y') and sub.startswith('a') and englishdict.check(head[:-1]+sub):
 		return (head[:-1]+sub,9)
+	elif re.search('y$',head) and sub.startswith('ous') and englishdict.check(head[:-1]+sub):
+		return (head[:-1]+sub,10)
 	else:
 		return(head+sub,0)
 

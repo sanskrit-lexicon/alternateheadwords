@@ -252,7 +252,7 @@ Amputate@ion@Amputation@2275@2
 Amuse@ment@Amusement@2281@1
 Amuse@ing@Amusing@2282@2
 Analogy@ical@Analogical@2294@3
-Analogy@ous@Analogyous@2295@0
+Analogy@ous@Analogous@2295@10
 Analogy@ly@Analogyly@2296@0
 Analyze@Analysis@Analysis@2303@7
 Anarchy@chist@Anarchychist@2311@0
@@ -289,8 +289,8 @@ Annual@ly@Annually@2468@1
 Annul@ment@Annulment@2474@1
 Anoint@er@Anointer@2484@1
 Anoint@ing@Anointing@2485@1
-Anomaly@ous@Anomalyous@2489@0
-Anomaly@ously@Anomalyously@2490@0
+Anomaly@ous@Anomalous@2489@10
+Anomaly@ously@Anomalously@2490@10
 Anonymous@ly@Anonymously@2497@1
 Answer@Able@Able@2519@7
 Ant@hill@Anthill@2522@1
@@ -832,7 +832,7 @@ Cable@gram@Cablegram@6786@1
 Cackle@er@Cackler@6794@2
 Cadge@er@Cadger@6810@2
 Cajole@ry@Cajolery@6826@1
-Calamity@ous@Calamityous@6834@0
+Calamity@ous@Calamitous@6834@10
 Calculate@ed@Calculated@6847@2
 Calculate@ion@Calculation@6848@2
 Calculate@or@Calculator@6849@2
@@ -1040,7 +1040,7 @@ Chirography@er@Chirographyer@8317@0
 Chirp@ing@Chirping@8326@1
 Chirp@ing@Chirping@8326@1
 Chit@chat@Chitchat@8336@1
-Chivalry@ous@Chivalryous@8340@0
+Chivalry@ous@Chivalrous@8340@10
 Choke@ed@Choked@8351@2
 Choose@Choice@Choice@8365@7
 Choice@less@Choiceless@8374@0
@@ -2972,7 +2972,7 @@ Feel@ing@Feeling@21635@1
 Feel@ingly@Feelingly@21647@1
 Feign@ed@Feigned@21657@1
 Feign@er@Feigner@21663@1
-Felicity@ous@Felicityous@21675@0
+Felicity@ous@Felicitous@21675@10
 Felicity@Felicitate@Felicitate@21677@7
 Fell@er@Feller@21687@1
 Fellow@ship@Fellowship@21711@1
@@ -3161,8 +3161,8 @@ Forsake@ing@Forsaking@23375@2
 Forswear@er@Forswearer@23383@0
 Forth@Forthwith@Forthwith@23395@7
 Fortify@ication@Fortification@23402@3
-Fortuity@ous@Fortuityous@23411@0
-Fortuity@ously@Fortuityously@23412@0
+Fortuity@ous@Fortuitous@23411@10
+Fortuity@ously@Fortuitously@23412@10
 Fortune@ate@Fortunate@23425@2
 Fortune@ately@Fortunately@23428@2
 Forty@Fortieth@Fortieth@23432@7
@@ -4002,7 +4002,7 @@ Inert@Inertia@Inertia@30590@7
 Inevitable@ly@Inevitablely@30599@0
 Inexperience@ed@Inexperienced@30618@2
 Infallible@Infallibility@Infallibility@30640@7
-Infamy@ous@Infamyous@30645@0
+Infamy@ous@Infamous@30645@10
 Infamy@ousness@Infamyousness@30649@0
 Infant@fancy@Infantfancy@30657@0
 Infant@Infanticide@Infanticide@30659@7
@@ -4011,7 +4011,7 @@ Infatuate@ing@Infatuating@30670@2
 Infatuate@ion@Infatuation@30671@2
 Infect@ion@Infection@30683@1
 Infecund@less@Infecundless@30690@0
-Infelicity@ous@Infelicityous@30693@0
+Infelicity@ous@Infelicitous@30693@10
 Infer@able@Inferable@30702@1
 Infer@ence@Inference@30704@1
 Infer@ential@Inferential@30707@1
@@ -4059,8 +4059,8 @@ Inhuman@ity@Inhumanity@31004@1
 Inhuman@ly@Inhumanly@31004@1
 Inhume@ation@Inhumeation@31008@0
 Inimical@ly@Inimically@31013@1
-Iniquity@ous@Iniquityous@31024@0
-Iniquity@ously@Iniquityously@31028@0
+Iniquity@ous@Iniquitous@31024@10
+Iniquity@ously@Iniquitously@31028@10
 Initiate@ed@Initiated@31038@2
 Initiate@ion@Initiation@31040@2
 Initiate@ive@Initiative@31043@2
@@ -5135,9 +5135,9 @@ Monopoly@izer@Monopolizer@39638@3
 Monopoly@ize@Monopolize@39638@3
 Monosyllable@Monosyllabic@Monosyllabic@39644@7
 Monotheist@notheism@Monotheistnotheism@39649@0
-Monotony@ous@Monotonyous@39654@0
-Monotony@ously@Monotonyously@39656@0
-Monotony@ousness@Monotonyousness@39657@0
+Monotony@ous@Monotonous@39654@10
+Monotony@ously@Monotonously@39656@10
+Monotony@ousness@Monotonousness@39657@10
 Monster@Monstrous@Monstrous@39669@7
 Monstrous@ly@Monstrously@39674@1
 Month@ly@Monthly@39683@1
@@ -5227,7 +5227,7 @@ Mute@ness@Muteness@40428@1
 Mutilate@ed@Mutilated@40433@2
 Mutilate@ion@Mutilation@40435@2
 Mutiny@eer@Mutineer@40443@5
-Mutiny@ous@Mutinyous@40445@0
+Mutiny@ous@Mutinous@40445@10
 Mutter@ing@Muttering@40452@1
 Mutter@er@Mutterer@40455@1
 Mutter@ingly@Mutteringly@40456@0
@@ -7758,7 +7758,7 @@ Taste@ful@Tasteful@61374@1
 Taste@fully@Tastefully@61376@1
 Taste@less@Tasteless@61377@1
 Taunt@ing@Taunting@61390@1
-Tautology@ous@Tautologyous@61398@0
+Tautology@ous@Tautologous@61398@10
 Tax@ation@Taxation@61414@1
 Teach@er@Teacher@61418@1
 Teach@ing@Teaching@61421@1
@@ -7930,8 +7930,8 @@ Transpose@ition@Transposition@62919@2
 Transverse@ly@Transversely@62923@1
 Travel@ling@Travelling@62944@1
 Travel@ler@Traveller@62946@1
-Treachery@ously@Treacheryously@62959@0
-Treachery@ousness@Treacheryousness@62960@0
+Treachery@ously@Treacherously@62959@10
+Treachery@ousness@Treacherousness@62960@10
 Treasure@er@Treasurer@62986@2
 Treasure@y@Treasurey@62989@0
 Treat@ment@Treatment@63005@1
