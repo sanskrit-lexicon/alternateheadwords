@@ -106,14 +106,16 @@ def headwordembedwordregex(dict):
 	if dict in ['STC']:
 		reHeadword = r'^<P>\(?\[?\{@(.*?)@}'
 		reEmbedded = r'\{\%([^%]*)\%\}'
-	elif dict in ['PWG']:
-		reHeadword = r'^<H1>000{(.*?)}1'
-		reEmbedded = r'^-<P>- +{#(.*?)[ ,#]'
 	elif dict in ['PW']:
 		# {#hvAla#}¦
 		reHeadword = r'^<L>.*<k1>(.*?)<k2>'
 		# <div n="p">— Mit {#aBi#} das.
 		reEmbedded = u'<div n="p">— Mit {#([^#]*)#}'
+	elif dict in ['PWG']:
+		# {#hvAla#}¦
+		reHeadword = r'^<L>.*<k1>(.*?)<k2>'
+		# <div n="p">— {#aBi#} das.
+		reEmbedded = u'<div n="p">— {#([^#]*)#}'
 	elif dict in ['AE']:
 		reHeadword = r'^<P>{[@]([a-zA-Z]*)[,.]'
 		reEmbedded = r'{[@](-[a-zA-Z]+)[,.]*[@]}'
