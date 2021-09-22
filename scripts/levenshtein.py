@@ -2,6 +2,7 @@
     Source: http://en.wikibooks.org/wiki/Algorithm_Implementation/Strings/Levenshtein_distance#Python, first version
  Jan 5, 2015. This file copied from TM2013/vcpte/ejf/vac-vcp-cmp1/ folder.
 """
+from __future__ import print_function
 def levenshtein1(s1, s2,m):
  # returns levenshtein distance, but returns m if
  # the distance would be greater than or equal to m.
@@ -10,7 +11,8 @@ def levenshtein1(s1, s2,m):
  # returns -1 if distance is > m
  dbg=False
  if dbg:
-  print "s1=%s (%s), and s2=%s (%s)" % (s1,len(s1),s2,len(s2))
+  #print "s1=%s (%s), and s2=%s (%s)" % (s1,len(s1),s2,len(s2))
+  print("s1=" + s1 + "(" + str(len(s1)) + "), and s2=" + s2 + "(" + str(len(s2)) + ")")
  if len(s1) < len(s2):
   return levenshtein1(s2, s1,m)
  

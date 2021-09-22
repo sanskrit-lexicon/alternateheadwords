@@ -6,6 +6,7 @@ this gives the suggestions for possible headword based on these assumptions
 2. The output is sorted primarily on basis of the initmach i.e. maximum letters match on the left side. e.g. initmatch("Davala","DarA")==2 because two letters on the left side match.
 3. The output is shown only for the least edit-distance. e.g. if the least possible edit-distance for a given inputword is 2, then only words whose edit-distance is 2 will be shown only.
 """
+from __future__ import print_function
 import levenshtein as lev
 import hw1list as h
 import sys
@@ -50,5 +51,5 @@ if __name__=="__main__":
 	excludeddict = sys.argv[2]
 	hw1 = h.hw1(excludeddict)
 	hw1 = triming(hw1)
-	print suggesthw(hw1,inputword,excludeddict)
+	print(suggesthw(hw1,inputword,excludeddict))
 	

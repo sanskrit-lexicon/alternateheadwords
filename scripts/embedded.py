@@ -15,6 +15,7 @@ Usage:
 	e.g.
 	e.g. python embedded.py STC
 """
+from __future__ import print_function
 import sys, re
 import codecs
 import datetime
@@ -43,7 +44,7 @@ def knownsolutions(joinedword):
 def nochange(joinedword):
 	global nochangelist
 	for regex in nochangelist:
-		#print joinedword
+		#print(joinedword)
 		if re.search(regex,joinedword):
 			return True
 			break
@@ -109,8 +110,10 @@ def headwordembedwordregex(dict):
 		reHeadword = r'^<H1>000{(.*?)}1'
 		reEmbedded = r'^-<P>- +{#(.*?)[ ,#]'
 	elif dict in ['PW']:
-		reHeadword = r'^<H1>...{(.*?)}1'
-		reEmbedded = r'^<\+> \#\{(.*?)[ ,}]'
+		# {#hvAla#}¦
+		reHeadword = r'^<L>.*<k1>(.*?)<k2>'
+		# <div n="p">— Mit {#aBi#} das.
+		reEmbedded = u'<div n="p">— Mit {#([^#]*)#}'
 	elif dict in ['AE']:
 		reHeadword = r'^<P>{[@]([a-zA-Z]*)[,.]'
 		reEmbedded = r'{[@](-[a-zA-Z]+)[,.]*[@]}'
@@ -125,7 +128,7 @@ def dictstartendreturn(dict):
 		endstring = '<H1>000{hArikeyI}1{hArikeyI}'
 	elif dict in ['PW']:
 		startstring = 'Line ignored'
-		endstring = 'PW135785'
+		endstring = u'{#hvAla#}¦ <lex>m.</lex> {%das Fehlen , Versagen.%} Nach dem <ab>Comm.</ab> {%das Sterben.%}'
 	elif dict in ['AE']:
 		startstring = '<H>{@A.@}'
 		endstring = '[Page502]'
@@ -163,7 +166,7 @@ def englishjoiner(head,sub):
 if __name__=="__main__":
 	dictname = sys.argv[1]
 	startpoint = '1'
-	colognedir = '../../Cologne_localcopy/'+dictname.lower()
+	colognedir = '../../'+dictname.lower()
 	if len(sys.argv) > 2:
 		startpoint = sys.argv[2]
 	[reHeadword, reEmbedded] = headwordembedwordregex(dictname)
@@ -181,7 +184,7 @@ if __name__=="__main__":
 	#upasargasandhi += [('kraRd','krand'),]
 	
 	if not startpoint in ['2','3','4','5']:
-		print "#Step 1. Writing embedded headwords with their corresponding line in ehw0.txt"
+		print("#Step 1. Writing embedded headwords with their corresponding line in ehw0.txt")
 		fin = codecs.open(colognedir+'/orig/'+dictname.lower()+'.txt','r','utf-8')
 		fout = codecs.open('../data/'+dictname+'/'+dictname+'ehw0.txt','w','utf-8')
 		headword = ''
@@ -210,7 +213,7 @@ if __name__=="__main__":
 							if not re.search(r'^[^a-zA-Z0-9]*$',memb):
 								# special patch for AE. Here there are subheadwords starting with Capital letter replace the previous word. Suffices append to it.
 								# https://github.com/sanskrit-lexicon/alternateheadwords/issues/19#issuecomment-329283031
-								#print headword.encode('utf-8'), memb.encode('utf-8')
+								#print(headword.encode('utf-8'), memb.encode('utf-8'))
 								fout.write(';'+line+'\n')
 								fout.write(headword+'@'+memb+'@'+unicode(counter)+'\n')
 								if dictname in ['AE']:
@@ -221,7 +224,7 @@ if __name__=="__main__":
 		fout.close()
 
 	if not startpoint in ['3','4','5']:
-		print "#Step 2. Writing embedded headwords in SLP1 in ehw1.txt"
+		print("#Step 2. Writing embedded headwords in SLP1 in ehw1.txt")
 		fin1 = codecs.open('../data/'+dictname+'/'+dictname+'ehw0.txt','r','utf-8')
 		fout1 = codecs.open('../data/'+dictname+'/'+dictname+'ehw1.txt','w','utf-8')
 		for line in fin1:
@@ -249,7 +252,7 @@ if __name__=="__main__":
 		fout1.close()
 	
 	if not startpoint in ['4','5']:
-		print '#Step 3. Writing suggestions for bracket resolutions in ehw2.txt'
+		print('#Step 3. Writing suggestions for bracket resolutions in ehw2.txt')
 		fin2 = codecs.open('../data/'+dictname+'/'+dictname+'ehw1.txt','r','utf-8')
 		fout2 = codecs.open('../data/'+dictname+'/'+dictname+'ehw2.txt','w','utf-8')
 		hwmatch = 0
@@ -278,7 +281,7 @@ if __name__=="__main__":
 					fout2.write(head+'@'+sub+'@'+sub+'@'+linenum+'@4\n')
 				else:
 					if not dictname in ['mwe','ae','bor','MWE','AE','BOR']:
-						trialsolution = knownsolutions(inputlist,self.hw)
+						trialsolution = knownsolutions(sub+head)
 					else:
 						trialsolution = []
 					overlapsolution = overlap(head,sub)
@@ -321,12 +324,12 @@ if __name__=="__main__":
 					else:
 						fout2.write(head+'@'+sub+'@'+head+sub+'@'+linenum+'@0\n')
 				
-		print hwmatch, 'subheadwords matched.'
+		print(hwmatch, 'subheadwords matched.')
 		fin2.close()
 		fout2.close()
 
 	if not startpoint in ['5','6']:
-		print '#Step 4. Storing sandhi resolved data in ehw3.txt.'
+		print('#Step 4. Storing sandhi resolved data in ehw3.txt.')
 		fin3 = codecs.open('../data/'+dictname+'/'+dictname+'ehw2.txt','r','utf-8')
 		fout3 = codecs.open('../data/'+dictname+'/'+dictname+'ehw3.txt','w','utf-8')
 		codelist = ['0','1','2','3','4','5','6','7','8','9','10','11','99']
@@ -345,7 +348,7 @@ if __name__=="__main__":
 		fout3.close()
 
 	if not startpoint in ['6']:
-		print '#Step 5. Analysis of codes.'
+		print('#Step 5. Analysis of codes.')
 		fin4 = codecs.open('../data/'+dictname+'/'+dictname+'ehw3.txt','r','utf-8')
 		codelist = ['0','1','2','3','4','5','6','7','8','9','10','11','99']
 		data = fin4.readlines()
@@ -357,6 +360,6 @@ if __name__=="__main__":
 				dat = dataholder(line)
 				if dat.code == member:
 					counter += 1
-			print 'Total', counter, 'entries with code', member
+			print('Total', counter, 'entries with code', member)
 			
 		
