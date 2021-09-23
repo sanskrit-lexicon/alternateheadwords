@@ -106,7 +106,6 @@ nid@pari@parinid@386855@9
 nI@antarRayati@antarRayatinI@400479@3
 nI@avA@avAnI@400751@9
 nI@avAnItA@avAnItAnI@400751@3
-nI@anUd@anUdnI@400934@9
 pac@nis@nizpac@410077@9
 paW@apa@apapaW@413583@9
 pad@praRi@praRipad@418118@9

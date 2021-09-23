@@ -191,7 +191,7 @@ niMs@pari@pariniMs@288766@9
 niMs@pra@praRiMs@288767@9
 nid@parini@parininid@290336@9
 nI@pratisamA@pratisamAnI@300180@9
-nI@anud@anudnI@300194@3
+nI@anud@anunnI@300194@3
 nI@prapari@prapariRI@300256@3
 nI@prativi@prativinI@300307@9
 nu@saMpra@saMpraRu@301967@9
