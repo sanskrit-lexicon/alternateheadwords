@@ -43,15 +43,17 @@ def find_unique(PWGehw3file, PWehw3file, PWGuniquefile, PWuniquefile):
 	pwguniq = codecs.open(PWGuniquefile, 'w', 'utf-8')
 	for (hw, upasarga, comb, linenum, code) in pwglist:
 		if comb not in pwcomb:
-			lin = hw + '@' + upasarga + '@' + comb + '@' + linenum + '@' + code
-			pwguniq.write(lin + '\n')
+			if code != '1':
+				lin = hw + '@' + upasarga + '@' + comb + '@' + linenum + '@' + code
+				pwguniq.write(lin + '\n')
 	pwguniq.close()
 	print("PRESENT IN PW AND ABSENT IN PWG.")
 	pwuniq = codecs.open(PWuniquefile, 'w', 'utf-8')
 	for (hw, upasarga, comb, linenum, code) in pwlist:
 		if comb not in pwgcomb:
-			lin = hw + '@' + upasarga + '@' + comb + '@' + linenum + '@' + code
-			pwuniq.write(lin + '\n')
+			if code != '1':
+				lin = hw + '@' + upasarga + '@' + comb + '@' + linenum + '@' + code
+				pwuniq.write(lin + '\n')
 	pwuniq.close()
 
 
