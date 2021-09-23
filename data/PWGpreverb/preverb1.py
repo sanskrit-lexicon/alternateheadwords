@@ -1,10 +1,12 @@
 """preverb1.py
    Oct 6, 2016
    Filter pwg.txt for preverbs
-   Identifed as line starting with -<P>- {#...#}
-   e.g., under nI, -<P>- {#ati#}
-   
+   Sep 23, 2021
+   The regex is changed. e.g. <div n="p">— {#nis#}
 """
+from __future__ import print_function
+from builtins import range
+from builtins import str as text
 import sys, re
 import codecs
 
@@ -13,7 +15,7 @@ class Hwrec(object):
   line = line.rstrip('\r\n')
   self.line = line # the text
   self.n = n # integer line number within file (starting at 1)
-  (self.pageref,self.hwslp,self.linenum12) = re.split(r':',line)
+  (self.pageref,self.hwslp,self.linenum12,self.L) = re.split(r':',line)
   # next required for use in slp_cmp
   (self.linenum1,self.linenum2) = re.split('[,]',self.linenum12)
   self.lnum1 = int(self.linenum1)
@@ -51,9 +53,9 @@ def preverb1(hwrecs,vrecs):
   idx1 = hwrec.lnum1-1
   idx2 = hwrec.lnum2-1
   pfxes=[]
-  for idx in xrange(idx1,idx2+1):
+  for idx in range(idx1,idx2+1):
    line = vrecs[idx]
-   m = re.search(r'^-<P>- +{#(.*?)#}',line)
+   m = re.search(r'^<div n="p">— {#(.*?)#}',line)
    if not m:
     continue
    pfx = m.group(1)
@@ -81,21 +83,21 @@ def write_preverbs(recs,fileout):
    if pfx != pfx0:
     nadj = nadj+1
     outadj = "ADJUST %03d: %s:%s:%s:%s => %s" %(nadj,L,key1,linenum,pfx0,pfx)
-    print outadj.encode('utf-8')
+    print(outadj)
  fout.close()
- print n,"records written to",fileout
+ print(n,"records written to",fileout)
 
 if __name__=="__main__":
  filein = sys.argv[1] # xxx.txt  (xxx is dictcode, lower-case)
  filein1 = sys.argv[2] # xxxhw2.txt
  fileout = sys.argv[3] #
  hwrecs = init_hwrecs(filein1)
- print len(hwrecs),"records from",filein1
+ print(len(hwrecs),"records from",filein1)
  vrecs = []
  with codecs.open(filein,'r','utf-8') as f:
   vrecs=[line.rstrip('\r\n') for line in f]
- print len(vrecs),"records read from",filein
+ print(len(vrecs),"records read from",filein)
  recs = preverb1(hwrecs,vrecs)
- print len(recs),"filtered"
+ print(len(recs),"filtered")
  # output
  write_preverbs(recs,fileout)
