@@ -1188,10 +1188,8 @@ oK@parA@126665
 kac@A@131042
 ;<div n="p">— {#vi#} caus. s. {#vikacay#} .
 kac@vi@131045
-;<div n="p">— {#pra, prakawita#} s. u. {#prakaway#} .
+;<div n="p">— {#pra#}, {#prakawita#} s. u. {#prakaway#} .
 kaw@pra@131648
-;<div n="p">— {#pra, prakawita#} s. u. {#prakaway#} .
-kaw@prakawita@131648
 ;<div n="p">— {#A#} {%prahlen%}, s. {#AkatTana#} .
 katT@A@134274
 ;<div n="p">— {#vi#}
@@ -1286,10 +1284,8 @@ kar@upa@139785
 kar@pratyupa@139868
 ;<div n="p">— {#ni#} act. med. {%von der Höhe herabbringen, demüthigen, überwinden%}: {#ni ka^rma ma\nyuM du\reva^sya\ SarDa^taH#}
 kar@ni@139871
-;<div n="p">— {#prani, pranikaroti#}
+;<div n="p">— {#prani#}, {#pranikaroti#}
 kar@prani@139903
-;<div n="p">— {#prani, pranikaroti#}
-kar@pranikaroti@139903
 ;<div n="p">— {#vini#} {%Jmd zu nahe treten, beleidigen, kränken, verletzen%}: {#yo jyezWo vinikurvIta loBAdBrAtFnyavIyasaH#}
 kar@vini@139907
 ;<div n="p">— {#nis#} act. med.
@@ -1360,10 +1356,8 @@ kar@upa@140597
 kar@ni@140609
 ;<div n="p">— {#vini#}
 kar@vini@140611
-;<div n="p">— {#saMni, saMnikIrRa#} {%ausgestreckt%}: {#virahaSayane saMnikIrREkapArSvAm#}
+;<div n="p">— {#saMni#}, {#saMnikIrRa#} {%ausgestreckt%}: {#virahaSayane saMnikIrREkapArSvAm#}
 kar@saMni@140625
-;<div n="p">— {#saMni, saMnikIrRa#} {%ausgestreckt%}: {#virahaSayane saMnikIrREkapArSvAm#}
-kar@saMnikIrRa@140625
 ;<div n="p">— {#parA#} {%von sich geben, einbüssen, verlieren%}: {#rAjyamakzEH parAkIrya#}
 kar@parA@140628
 ;<div n="p">— {#pari#}
@@ -1666,14 +1660,10 @@ kutsay@aBi@166973
 kutsay@ava@166976
 ;<div n="p">— {#pra#} {%in Verwesung übergehen%}: {#prakuTita#}
 kuT@pra@167022
-;<div n="p">— {#kunT, kuTnA/ti#} {%quälen%} oder {%umarmen%}
+;<div n="p">— {#kunT#}, {#kuTnA/ti#} {%quälen%} oder {%umarmen%}
 kunT@kunT@167465
-;<div n="p">— {#kunT, kuTnA/ti#} {%quälen%} oder {%umarmen%}
-kunT@kuTnA/ti@167465
-;<div n="p">— {#prani, pranikunTyAt#}
+;<div n="p">— {#prani#}, {#pranikunTyAt#}
 kunT@prani@167469
-;<div n="p">— {#prani, pranikunTyAt#}
-kunT@pranikunTyAt@167469
 ;<div n="p">— {#ati#} {%heftig zürnen%}: {#Saktiratyakupat#}
 kup@ati@167657
 ;<div n="p">— {#pari#}
@@ -1686,12 +1676,8 @@ kup@sam@167697
 kuz@anu@172333
 ;<div n="p">— {#aBi#} {%an Etwas zerren%}: {#na vAlakarRanAsASrotodaSanavivarARyaBikuzRIyAt#}
 kuz@aBi@172337
-;<div n="p">— {#ava, tUlEravakuzRAti = avatUlayati#}
+;<div n="p">— {#ava#}, {#tUlEravakuzRAti = avatUlayati#}
 kuz@ava@172340
-;<div n="p">— {#ava, tUlEravakuzRAti = avatUlayati#}
-kuz@tUlEravakuzRAti@172340
-;<div n="p">— {#ava, tUlEravakuzRAti = avatUlayati#}
-kuz@avatUlayati@172340
 ;<div n="p">— {#nis#} mit und ohne Bindevocal
 kuz@nis@172343
 ;<div n="p">— {#A#} {%beabsichtigen%}: {#A vA agre kuvate yajeyeti#}
@@ -1748,10 +1734,8 @@ krand@ni@185488
 krand@pari@185492
 ;<div n="p">— {#pra#} {%laut anrufen%}: {#pra va spaLa^kraMnsuvi\tAya^ dA\vane^#}
 krand@pra@185495
-;<div n="p">— {#vi, vikrandita#} <lex>n.</lex> {%das Wehklagen%}
+;<div n="p">— {#vi#}, {#vikrandita#} <lex>n.</lex> {%das Wehklagen%}
 krand@vi@185499
-;<div n="p">— {#vi, vikrandita#} <lex>n.</lex> {%das Wehklagen%}
-krand@vikrandita@185499
 ;<div n="p">— {#sam#} {%zusammenschreien u.s.w.%}: {#saM mA\tfBi^rvAvaSA\no a^krAn#}
 krand@sam@185502
 ;<div n="p">— {#anu#} {%sich sehnen nach, trauern um%}: {#anu\ pUrvA^H kfpate vAvaSA\nA pra\dIDyA^nA\ joza^ma\nyABi^reti#} {%verlangend sehnt sie sich nach den vorangegangenen%}
@@ -1952,10 +1936,8 @@ kruS@samA@188273
 kruS@ud@188276
 ;<div n="p">— {#aByud#} {%durch lauten Zuruf ermuntern%}: {#na vA anaByutkruzwa indro vIryaM kartumarhatyaByenamutkroSAmeti#}
 kruS@aByud@188295
-;<div n="p">— {#prod, protkruzwa#} <lex>n.</lex> {%ein lautes Aufschreien%}
+;<div n="p">— {#prod#}, {#protkruzwa#} <lex>n.</lex> {%ein lautes Aufschreien%}
 kruS@prod@188298
-;<div n="p">— {#prod, protkruzwa#} <lex>n.</lex> {%ein lautes Aufschreien%}
-kruS@protkruzwa@188298
 ;<div n="p">— {#samud#} {%ein lautes Geschrei%} (acc.) {%erheben%}: {#harzeRAtisamutkruzwo nisvano divamAviSat . bAlastrIvfdDasaMGAnAm#}
 kruS@samud@188302
 ;<div n="p">— {#upa#} s. {#upakroSa#} fgg.
@@ -1970,10 +1952,8 @@ kruS@vi@188324
 kruS@sam@188353
 ;<div n="p">— {#aBisam#} {%zuschreien, zurufen%}: {#AryetyevABisaMkruSya vyAhartuM nASakattataH (vAzpApihitakaRWaH)#}
 kruS@aBisam@188360
-;<div n="p">— {#pari, pariklAnta#} {%in hohem Grade erschöpft, - abgemattet%}: {#tfzA#}
+;<div n="p">— {#pari#}, {#pariklAnta#} {%in hohem Grade erschöpft, - abgemattet%}: {#tfzA#}
 klam@pari@189286
-;<div n="p">— {#pari, pariklAnta#} {%in hohem Grade erschöpft, - abgemattet%}: {#tfzA#}
-klam@pariklAnta@189286
 ;<div n="p">— {#vi#} med. {%verzagen%}: {#na vicaklame#}
 klam@vi@189289
 ;<div n="p">— {#vi#} {%in Verwirrung gerathen%}: {#milantyASu jImUtA viklavante divi grahAH#}
@@ -2076,10 +2056,8 @@ kzA@ava@191920
 kzA@pra@191922
 ;<div n="p">— {#saMpra#} caus. {%verglimmen machen, auslöschen%}: {#yada^va\kzARA\nyasa^MprakzApya prayA\yAdyaTA^ yajYaveSa\saM vA\ daha^naM vA tA\dfge\va tat#}
 kzA@saMpra@191926
-;<div n="p">— {#A = kzAray#} 3: {#mAtaraM pitaraM jAyAM BrAtaraM tanayaM gurum . AkzArayan SataM dApyaH#}
+;<div n="p">— {#A#} = {#kzAray#} 3: {#mAtaraM pitaraM jAyAM BrAtaraM tanayaM gurum . AkzArayan SataM dApyaH#}
 kzAray@A@192302
-;<div n="p">— {#A = kzAray#} 3: {#mAtaraM pitaraM jAyAM BrAtaraM tanayaM gurum . AkzArayan SataM dApyaH#}
-kzAray@kzAray@192302
 ;<div n="p">— {#aDi#} {%verweilen —, wohnen bei%} oder {%in, sich ausbreiten über%}; mit dem acc. oder loc. des Ortes: {#tA hi ma\DyaM BarA^RAmindrA\gnI a^Dikzi\taH#}
 kzi@aDi@192436
 ;<div n="p">— {#anu#} {%sich ausbreiten in, reichen zu%}: {#pa\TaH sarvA\~ anu^ kziya#}
@@ -2102,10 +2080,8 @@ kzi@apa@192624
 kzi@api@192633
 ;<div n="p">— {#ava#} {%wegschaffen, entfernen%}: {#tAM tena vAvakziRuyAt#}
 kzi@ava@192636
-;<div n="p">— {#upa, upakzIya#}
+;<div n="p">— {#upa#}, {#upakzIya#}
 kzi@upa@192640
-;<div n="p">— {#upa, upakzIya#}
-kzi@upakzIya@192640
 ;<div n="p">— {#pari#} {%vernichten, ein Ende machen%}: {#parikziRotyAyuH#}
 kzi@pari@192649
 ;<div n="p">— {#pra#} {%verderben, vernichten, erschöpfen%}: {#pra taM kzi^RA\M parva^te pAda\gfhya^#}
@@ -2216,10 +2192,8 @@ Kac@ud@197545
 KaRqay@ava@198561
 ;<div n="p">— {#A#} s. {#AKaRqayitar, AKaRqala#} .
 KaRqay@A@198565
-;<div n="p">— {#ud, utKaRqitA#} (vom Geliebten) {%hintergangen%}
+;<div n="p">— {#ud#}, {#utKaRqitA#} (vom Geliebten) {%hintergangen%}
 KaRqay@ud@198567
-;<div n="p">— {#ud, utKaRqitA#} (vom Geliebten) {%hintergangen%}
-KaRqay@utKaRqitA@198567
 ;<div n="p">— {#pari#} {%klein machen, besiegen%}: {#aKaRqyamAnaM pariKaRqya Sakram#}
 KaRqay@pari@198571
 ;<div n="p">— {#vi#}
@@ -2338,10 +2312,8 @@ gaRay@pari@204024
 gaRay@pra@204032
 ;<div n="p">— {#vi#}
 gaRay@vi@204037
-;<div n="p">— {#praRyA, praRyAgadat#}
+;<div n="p">— {#praRyA#}, {#praRyAgadat#}
 gad@praRyA@205126
-;<div n="p">— {#praRyA, praRyAgadat#}
-gad@praRyAgadat@205126
 ;<div n="p">— {#ni#}
 gad@ni@205130
 ;<div n="p">— {#aBini#} {%zu Jmd sprechen%}: {#tizWaMstizWantIM mahASAntimuccEraBinigadati#}
@@ -2420,10 +2392,8 @@ gam@upA@208202
 gam@aByupA@208239
 ;<div n="p">— {#samupA#}
 gam@samupA@208243
-;<div n="p">— {#nyA, nyAga^n#}
+;<div n="p">— {#nyA#}, {#nyAga^n#}
 gam@nyA@208259
-;<div n="p">— {#nyA, nyAga^n#}
-gam@nyAga^n@208259
 ;<div n="p">— {#paryA#}
 gam@paryA@208263
 ;<div n="p">— {#pratyA#}
@@ -2508,10 +2478,8 @@ gar@pra@209364
 gar@saMpra@209369
 ;<div n="p">— {#prati#} mit dem dat.
 gar@prati@209372
-;<div n="p">— {#aBiprati = prati#}
+;<div n="p">— {#aBiprati#} = {#prati#}
 gar@aBiprati@209389
-;<div n="p">— {#aBiprati = prati#}
-gar@prati@209389
 ;<div n="p">— {#sam#}
 gar@sam@209392
 ;<div n="p">— {#aBisam#} {%zusagen, versprechen%}: {#viSve taddevA aBisaMgfRantu#}
@@ -2544,10 +2512,8 @@ garj@samaBi@210153
 garj@pari@210156
 ;<div n="p">— {#pra#} {%zu tosen, zu donnern beginnen%}: {#niraBrameva cAkASaM prajagarja mahAsvanam#}
 garj@pra@210159
-;<div n="p">— {#saMpra, saMpragarjita#} <lex>n.</lex> {%heftiges Getöse%}
+;<div n="p">— {#saMpra#}, {#saMpragarjita#} <lex>n.</lex> {%heftiges Getöse%}
 garj@saMpra@210163
-;<div n="p">— {#saMpra, saMpragarjita#} <lex>n.</lex> {%heftiges Getöse%}
-garj@saMpragarjita@210163
 ;<div n="p">— {#prati#} {%entgegenbrüllen, mit einem Brüllen u.s.w. antworten, sich gegenseitig anschreien%}: {#mattAnkuYjarAnpratigarjataH#}
 garj@prati@210166
 ;<div n="p">— {#vi#} {%brüllen, schreien%}: {#yoDAnAM ca vigarjatAm#}
@@ -2586,10 +2552,8 @@ gal@nis@211599
 gal@pari@211602
 ;<div n="p">— {#vi#}
 gal@vi@211608
-;<div n="p">— {#ava, avagalBate#} wird
+;<div n="p">— {#ava#}, {#avagalBate#} wird
 galB@ava@211919
-;<div n="p">— {#ava, avagalBate#} wird
-galB@avagalBate@211919
 ;<div n="p">— {#pra#} {%sich muthig, entschlossen benehmen%}: {#yA kaTaMcana saKIvacanena prAgaBipriyatamaM prajagalBe#}
 galB@pra@211922
 ;<div n="p">— {#acCa#} {%hingehen zu, kommen zu%}: {#oko\ nAcCA\ sada^naM jAna\tI gA^t#}
@@ -2782,16 +2746,10 @@ guh@samupa@219072
 guh@ni@219075
 ;<div n="p">— {#vini#} {%verbergen, verstecken%}: {#sA bAnDavaBayAdbAlA garBaM taM vinigUhatI#}
 guh@vini@219101
-;<div n="p">— {#vi, vigUQa#}
+;<div n="p">— {#vi#}, {#vigUQa#}
 guh@vi@219106
-;<div n="p">— {#vi, vigUQa#}
-guh@vigUQa@219106
-;<div n="p">— {#sam, saMgUQa = saMkalita#} {%von oben bedeckt%}
+;<div n="p">— {#sam#}, {#saMgUQa = saMkalita#} {%von oben bedeckt%}
 guh@sam@219115
-;<div n="p">— {#sam, saMgUQa = saMkalita#} {%von oben bedeckt%}
-guh@saMgUQa@219115
-;<div n="p">— {#sam, saMgUQa = saMkalita#} {%von oben bedeckt%}
-guh@saMkalita@219115
 ;<div n="p">— {#aBi#} {%behüten, bewahren%}: {#vajro vE sPyo brAhmaRaScemaM purA yajYamaByajUgupatam#}
 gopay@aBi@222968
 ;<div n="p">— {#pra#} {%zu schützen suchen%}: {#balavantaM ripuM dfzwvA kilAtmAnaM pragopayet#}
@@ -2964,10 +2922,8 @@ Garz@pari@232169
 Garz@pra@232172
 ;<div n="p">— {#saMpra#} {%einreiben%}
 Garz@saMpra@232176
-;<div n="p">— {#vi, viGfzwa#} {%zerrieben%}
+;<div n="p">— {#vi#}, {#viGfzwa#} {%zerrieben%}
 Garz@vi@232179
-;<div n="p">— {#vi, viGfzwa#} {%zerrieben%}
-Garz@viGfzwa@232179
 ;<div n="p">— {#sam#} {%reiben, sich reiben an%}: {#vanakuYjarasaMGfzwaharicandana#}
 Garz@sam@232183
 ;<div n="p">— {#api#} {%abfressen%}: {#(vamryaH) jyAmapijakzuH#}
@@ -3048,10 +3004,8 @@ GrA@vi@234440
 GrA@sam@234448
 ;<div n="p">— {#ud#} {%aufblicken, sehen%}: {#yaM cekitAnamanu cittaya uccakanti#} {%il voit, et aprés lui voient les organes de la connaissance%}
 cak@ud@234741
-;<div n="p">— {#pra, pracakita#} {%zitternd, erschrocken%}
+;<div n="p">— {#pra#}, {#pracakita#} {%zitternd, erschrocken%}
 cak@pra@234745
-;<div n="p">— {#pra, pracakita#} {%zitternd, erschrocken%}
-cak@pracakita@234745
 ;<div n="p">— {#anu#} {%blicken auf%}: {#indro^ vi\dvA~ anu\ hi tvA^ ca\cakza^#}
 cakz@anu@235843
 ;<div n="p">— {#aBi#}
@@ -3180,10 +3134,8 @@ car@vyud@241404
 car@anuvyud@241415
 ;<div n="p">— {#samud#} {%herausgehen%}
 car@samud@241418
-;<div n="p">— {#upa, kAmamapucaraDyE#} ved.
+;<div n="p">— {#upa#}, {#kAmamapucaraDyE#} ved.
 car@upa@241421
-;<div n="p">— {#upa, kAmamapucaraDyE#} ved.
-car@kAmamapucaraDyE@241421
 ;<div n="p">— {#dus#} {%übel an Jmd%} (acc.) {%handeln, dem Gatten untreu sein%}: {#kAmavaktavyahfdayA BartAraM duScaranti yAH#}
 car@dus@241468
 ;<div n="p">— {#nis#} {%hervorkommen, zum Vorschein kommen, hervorgehen, hinausgehen, sich erheben%} (von Lauten): {#itaScetaSca niScerurhfzwAH sarve yuyutsavaH#}
@@ -3300,10 +3252,8 @@ ci@samupa@246097
 ci@ni@246101
 ;<div n="p">— {#Ani#} scheinbar in {#Aniceya#} (
 ci@Ani@246130
-;<div n="p">— {#pariRi, praRi#}
+;<div n="p">— {#pariRi#}, {#praRi#}
 ci@pariRi@246133
-;<div n="p">— {#pariRi, praRi#}
-ci@praRi@246133
 ;<div n="p">— {#saMni#}, partic. {#saMnicita = nicita#}
 ci@saMni@246137
 ;<div n="p">— {#pari#}
@@ -3374,10 +3324,8 @@ cint@anu@249136
 cint@samanu@249153
 ;<div n="p">— {#aBi#} {%über Etwas nachsinnen%}
 cint@aBi@249159
-;<div n="p">— {#vyA, vyAcintayat#}
+;<div n="p">— {#vyA#}, {#vyAcintayat#}
 cint@vyA@249162
-;<div n="p">— {#vyA, vyAcintayat#}
-cint@vyAcintayat@249162
 ;<div n="p">— {#nis#} s. {#aniScintya#} .
 cint@nis@249165
 ;<div n="p">— {#pari#}
@@ -3586,16 +3534,8 @@ jakz@apa@257596
 jakz@pra@257598
 ;<div n="p">— {#vi#} {%auffressen%}: {#vijagDAnmfgapakziBiH#}
 jakz@vi@257602
-;<div n="p">— {#vyati, °jAjYaDvam, °jajYiDve, °jajYize, °jajYizva#}
+;<div n="p">— {#vyati#}, °{#jAjYaDvam, °jajYiDve, °jajYize, °jajYizva#}
 jan@vyati@259495
-;<div n="p">— {#vyati, °jAjYaDvam, °jajYiDve, °jajYize, °jajYizva#}
-jan@°jAjYaDvam@259495
-;<div n="p">— {#vyati, °jAjYaDvam, °jajYiDve, °jajYize, °jajYizva#}
-jan@°jajYiDve@259495
-;<div n="p">— {#vyati, °jAjYaDvam, °jajYiDve, °jajYize, °jajYizva#}
-jan@°jajYize@259495
-;<div n="p">— {#vyati, °jAjYaDvam, °jajYiDve, °jajYize, °jajYizva#}
-jan@°jajYizva@259495
 ;<div n="p">— {#aDi#} . In zahlreichen Stellen der älteren Sprache erscheint {#jan#} mit {#aDi#} verbunden in der Bed. {%geboren werden von%} (abl.), {%entstehen aus%}, aber wie die betonten Texte zeigen, ist die praep. nicht unmittelbar zum Verbum zu ziehen. Ausser den u. {#aDi#} 2, {%c%},
 jan@aDi@259498
 ;<div n="p">— {#anu#}¦
@@ -3686,10 +3626,8 @@ jalp@vyati@265441
 jalp@anu@265445
 ;<div n="p">— {#aBi#}
 jalp@aBi@265449
-;<div n="p">— {#upa, upajalpita#} <lex>n.</lex> {%Gerede%}
+;<div n="p">— {#upa#}, {#upajalpita#} <lex>n.</lex> {%Gerede%}
 jalp@upa@265463
-;<div n="p">— {#upa, upajalpita#} <lex>n.</lex> {%Gerede%}
-jalp@upajalpita@265463
 ;<div n="p">— {#pari#} {%schwatzen%}: {#apyunmattAtpralapato bAlAcca parijalpataH#}
 jalp@pari@265467
 ;<div n="p">— {#pra#} {%sprechen%}: {#catuzpAdakfto dozo nApEhIti prajalpataH#}
@@ -3868,16 +3806,12 @@ jYA@aBisam@274412
 jYA@pratisam@274417
 ;<div n="p">— {#aDi#} s. u. {#ji#} mit {#aDi#} .
 jyA@aDi@275049
-;<div n="p">— {#upa, upajyAya#}
+;<div n="p">— {#upa#}, {#upajyAya#}
 jyA@upa@275051
-;<div n="p">— {#upa, upajyAya#}
-jyA@upajyAya@275051
 ;<div n="p">— {#pari#} = simpl. 1: {#taM brahma prapannaM kzatraM na parijinAti#}
 jyA@pari@275055
-;<div n="p">— {#pra, prajyAya#}
+;<div n="p">— {#pra#}, {#prajyAya#}
 jyA@pra@275059
-;<div n="p">— {#pra, prajyAya#}
-jyA@prajyAya@275059
 ;<div n="p">— {#ava#} caus. {%beleuchten%} (mittelst eines Lichtes, einer Fackel u. s. w.)
 jyut@ava@275295
 ;<div n="p">— {#aBi#} {%den Rachen aufsperren gegen Etwas%}: {#laNkAmaBimuKaH kopAdaBIkzRaM yo 'BijfmBate#}
@@ -4280,10 +4214,8 @@ tij@ud@294068
 tij@ni@294073
 ;<div n="p">— {#sam#} caus. {%aufstacheln, anfeuern%}: {#vfkodaram . saMtejayaMstadA vAgBirmAtariSveva pAvakam#}
 tij@sam@294077
-;<div n="p">— {#pra, pratilAmi#}
+;<div n="p">— {#pra#}, {#pratilAmi#}
 til@pra@295325
-;<div n="p">— {#pra, pratilAmi#}
-til@pratilAmi@295325
 ;<div n="p">— {#ud#} {%es zu Etwas bringen, Etwas vermögen%}: {#aDa\ cyavA^na\ utta^vI\tyarTa^m#}
 tu@ud@297015
 ;<div n="p">— {#sam#} intens. {%Etwas vermögen, durchführen%}: {#kratu^M daDi\krA anu^ sa\MtavI^tvat#}
@@ -4644,10 +4576,8 @@ dA@upa@321972
 dA@ni@321985
 ;<div n="p">— {#pariRi#}, {#°dadAti#}
 dA@pariRi@321993
-;<div n="p">— {#praRi, °dadAti#}
+;<div n="p">— {#praRi#}, °{#dadAti#}
 dA@praRi@321997
-;<div n="p">— {#praRi, °dadAti#}
-dA@°dadAti@321997
 ;<div n="p">— {#nis#}, partic. {#nirdatta#}
 dA@nis@322003
 ;<div n="p">— {#parA#}
@@ -4852,10 +4782,8 @@ dI@pra@329276
 dI@sam@329280
 ;<div n="p">— {#upa#}, {#°padAya#} u. s. w.
 dI@upa@329304
-;<div n="p">— {#pra, °dAya#}
+;<div n="p">— {#pra#}, °{#dAya#}
 dI@pra@329309
-;<div n="p">— {#pra, °dAya#}
-dI@°dAya@329309
 ;<div n="p">— {#upa#} caus. {%hinzuweihen%}: {#nedizWinamupadIkzya#}
 dIkz@upa@329349
 ;<div n="p">— {#sam#} {%zusammen, mit Andern sich weihen%}: {#saMdIkzita#}
@@ -5630,14 +5558,10 @@ nad@upa@372641
 nad@ni@372644
 ;<div n="p">— {#pariRi#} und {#praRi#}
 nad@pariRi@372655
-;<div n="p">— {#pari, pariRadati#}
+;<div n="p">— {#pari#}, {#pariRadati#}
 nad@pari@372658
-;<div n="p">— {#pari, pariRadati#}
-nad@pariRadati@372658
-;<div n="p">— {#pra, praRadati#}
+;<div n="p">— {#pra#}, {#praRadati#}
 nad@pra@372662
-;<div n="p">— {#pra, praRadati#}
-nad@praRadati@372662
 ;<div n="p">— {#aBipra#} {%zu brüllen —, zu schreien anfangen%}: {#aBipraReduH#}
 nad@aBipra@372672
 ;<div n="p">— {#vipra#} caus. {%ertönen machen, mit einem Geräusch erfüllen%}: {#madaNgatAlaGozESca sarvato vipraRAditam (gaham)#}
@@ -5764,10 +5688,8 @@ nard@ava@377127
 nard@A@377130
 ;<div n="p">— {#ni#} wie mit {#avaH tAsu na nyUNKayennIvIva#} (sic) {#nardet#}
 nard@ni@377135
-;<div n="p">— {#pra, pranardati#}
+;<div n="p">— {#pra#}, {#pranardati#}
 nard@pra@377140
-;<div n="p">— {#pra, pranardati#}
-nard@pranardati@377140
 ;<div n="p">— {#prati#} {%entgegenbrüllen%}: {#mahAmeGaM mahAGoraM darduraH pratinardati#}
 nard@prati@377145
 ;<div n="p">— {#vi#} {%aufbrüllen, brüllen%}: {#vinanarda#}
@@ -5784,12 +5706,8 @@ naS@vyapa@378784
 naS@ava@378787
 ;<div n="p">— {#nis#}, partic. {#nirnazwa#} (das {#na#} unverändert, weil {#Sa#} in {#za#} übergegangen ist) {%verloren gegangen, verschwunden%}: {#°nAmakftya (mahIpAla)#}
 naS@nis@378790
-;<div n="p">— {#pari, pariRaSyati, parinazwa#}
+;<div n="p">— {#pari#}, {#pariRaSyati, parinazwa#}
 naS@pari@378796
-;<div n="p">— {#pari, pariRaSyati, parinazwa#}
-naS@pariRaSyati@378796
-;<div n="p">— {#pari, pariRaSyati, parinazwa#}
-naS@parinazwa@378796
 ;<div n="p">— {#pra#} (das {#na#} der Wurzel bleibt unverändert, wenn {#Sa#} in {#za#} sich wandelt
 naS@pra@378800
 ;<div n="p">— {#atipra#} {%einer Sache%} (acc.) {%verlustig gehen%}: {#nedimAM lokAnatipraRaSyAni#}
@@ -5910,10 +5828,8 @@ nI@anu@400440
 nI@paryanu@400469
 ;<div n="p">— {#pratyanu#}
 nI@pratyanu@400472
-;<div n="p">— {#antar, antarRayati#}
+;<div n="p">— {#antar#}, {#antarRayati#}
 nI@antar@400479
-;<div n="p">— {#antar, antarRayati#}
-nI@antarRayati@400479
 ;<div n="p">— {#apa#}
 nI@apa@400483
 ;<div n="p">— {#vyapa#}
@@ -5938,10 +5854,8 @@ nI@anvA@400742
 nI@aByA@400745
 ;<div n="p">— {#samaByA#} {%herbeiführen, herführen%}: {#vandiM samAByAnaya#} (sic!) {#matsakASam#}
 nI@samaByA@400748
-;<div n="p">— {#avA, avAnItA#}
+;<div n="p">— {#avA#}, {#avAnItA#}
 nI@avA@400751
-;<div n="p">— {#avA, avAnItA#}
-nI@avAnItA@400751
 ;<div n="p">— {#udA#}
 nI@udA@400755
 ;<div n="p">— {#aByudA#} = {#udA#}
@@ -6562,10 +6476,8 @@ piz@ava@452129
 piz@A@452132
 ;<div n="p">— {#ud#} {%zerquetschen, zerdrücken%}: {#BImabAhubalotpizwe vinazwe rAkzase#}
 piz@ud@452137
-;<div n="p">— {#samud, samutpizwa#} {%herausgequetscht%}: {#naKasaMDi#}
+;<div n="p">— {#samud#}, {#samutpizwa#} {%herausgequetscht%}: {#naKasaMDi#}
 piz@samud@452143
-;<div n="p">— {#samud, samutpizwa#} {%herausgequetscht%}: {#naKasaMDi#}
-piz@samutpizwa@452143
 ;<div n="p">— {#ni#} {%zermalmen%}
 piz@ni@452146
 ;<div n="p">— {#prani#} (nicht {#praRi#})
@@ -6834,10 +6746,8 @@ plu@ud@506879
 plu@samud@506899
 ;<div n="p">— {#upa#}
 plu@upa@506902
-;<div n="p">— {#samupa, samupapluta#} {%heimgesucht, in Noth befindlich, in Gefahr seiend%}
+;<div n="p">— {#samupa#}, {#samupapluta#} {%heimgesucht, in Noth befindlich, in Gefahr seiend%}
 plu@samupa@506935
-;<div n="p">— {#samupa, samupapluta#} {%heimgesucht, in Noth befindlich, in Gefahr seiend%}
-plu@samupapluta@506935
 ;<div n="p">— {#upani#} {%sich nähern%}: {#dIkzArUpameva tadupaniplavante#} {%sie nähern sich dem Aussehen der%} <is>Dīkṣā</is> d. i. {%des%} <is>Dīkṣita</is>
 plu@upani@506938
 ;<div n="p">— {#pari#} ({#pariplUya#}
@@ -6966,14 +6876,8 @@ barh@aBi@512279
 barh@upa@512282
 ;<div n="p">— {#samupa#} caus. {%verstärken, vermehren, ergänzen%}: {#itihAsapurARAByAM vedaM samupavfMhayet#}
 barh@samupa@512301
-;<div n="p">— {#ni, nivfMhitA, nivfMhyate, nivarhayati#}
+;<div n="p">— {#ni#}, {#nivfMhitA, nivfMhyate, nivarhayati#}
 barh@ni@512304
-;<div n="p">— {#ni, nivfMhitA, nivfMhyate, nivarhayati#}
-barh@nivfMhitA@512304
-;<div n="p">— {#ni, nivfMhitA, nivfMhyate, nivarhayati#}
-barh@nivfMhyate@512304
-;<div n="p">— {#ni, nivfMhitA, nivfMhyate, nivarhayati#}
-barh@nivarhayati@512304
 ;<div n="p">— {#pari#} act. med. {%umfangen, umschliessen%} (und dadurch {%stützen), befestigen, dichtmachen, munire%}: {#AtmAnaM prAREH paribfhanneti (parito varDayan#}
 barh@pari@512308
 ;<div n="p">— {#sam#} {%fest zusammenfügen%}: {#A ya^yAma\ saM ba^barha gra\nTIMSca^kAra te df\QAn#}
@@ -7224,10 +7128,8 @@ Bar@upasam@533752
 Barts@aBi@534578
 ;<div n="p">— {#ava#} {%Jmd%} (acc.) {%bedrohen%}: {#nandayansuhfdaH sarvAn SAtravAMScAvaBartsayan#}
 Barts@ava@534583
-;<div n="p">— {#ud, udaBartsata#}
+;<div n="p">— {#ud#}, {#udaBartsata#}
 Barts@ud@534589
-;<div n="p">— {#ud, udaBartsata#}
-Barts@udaBartsata@534589
 ;<div n="p">— {#nis#} {%drohen, hart anfahren, ausschelten%}; mit dem acc. der Person
 Barts@nis@534592
 ;<div n="p">— {#aBinis#} {%ausschelten%}: {#°rBartsya#}
@@ -7236,10 +7138,8 @@ Barts@aBinis@534615
 Barts@pari@534618
 ;<div n="p">— {#sam#} {%hart anfahren, ausschelten%}: {#°Bartsita#}
 Barts@sam@534625
-;<div n="p">— {#ni, °BAlayati#} und {#°te#} {%wahrnehmen%}: {#yaM vE somyEtamaRimAnaM na niBAlayase#}
+;<div n="p">— {#ni#}, °{#BAlayati#} und {#°te#} {%wahrnehmen%}: {#yaM vE somyEtamaRimAnaM na niBAlayase#}
 Bal@ni@534724
-;<div n="p">— {#ni, °BAlayati#} und {#°te#} {%wahrnehmen%}: {#yaM vE somyEtamaRimAnaM na niBAlayase#}
-Bal@°BAlayati@534724
 ;<div n="p">— {#sam#} {%vernehmen%}: {#vijYaptim - saMBAlayAmAsa#}
 Bal@sam@534730
 ;<div n="p">— {#nis#} {%abbeissen, zerkauen%}: {#tasya\ grAvA^Ro\ dantA^H . a\nya\ta\raM vA e\te ma^Msunva\tornirba^psati#}
@@ -7248,12 +7148,8 @@ Bas@nis@535789
 Bas@pra@535793
 ;<div n="p">— {#ati#} {%stark —, stärker scheinen. - glänzen%}: {#yaTA\ sUryo^ ati\BAti^#}
 BA@ati@536183
-;<div n="p">— {#vyati, °BAte, °baBe#} impers.
+;<div n="p">— {#vyati#}, °{#BAte, °baBe#} impers.
 BA@vyati@536188
-;<div n="p">— {#vyati, °BAte, °baBe#} impers.
-BA@°BAte@536188
-;<div n="p">— {#vyati, °BAte, °baBe#} impers.
-BA@°baBe@536188
 ;<div n="p">— {#anu#} {%scheinen nach%} (acc).: {#u\zo vi^BA\tIranu^ BAsi pU\rvIH#}
 BA@anu@536191
 ;<div n="p">— {#aBi#} {%erglänzen, erscheinen%}: {#nIlaSapyamaBiBAti komalam#}
@@ -7302,20 +7198,16 @@ BAz@aBi@540229
 BAz@pratyaBi@540271
 ;<div n="p">— {#samaBi#} {%mit einander reden%}: {#uccEH samaBiBAzantO#}
 BAz@samaBi@540273
-;<div n="p">— {#ava, °BAzita#} viell. {%geschmäht%} (vgl. {#apa°)#}
+;<div n="p">— {#ava#}, °{#BAzita#} viell. {%geschmäht%} (vgl. {#apa°)#}
 BAz@ava@540276
-;<div n="p">— {#ava, °BAzita#} viell. {%geschmäht%} (vgl. {#apa°)#}
-BAz@°BAzita@540276
 ;<div n="p">— {#A#} {%anreden, reden zu%} (acc.)
 BAz@A@540284
 ;<div n="p">— {#vyA#} {%anreden, sprechen zu%}: {#vyABAzamARAScAnyo'nyaM na me jIvanvimokzyase#}
 BAz@vyA@540299
 ;<div n="p">— {#samA#} {%anreden, sagen zu%}
 BAz@samA@540305
-;<div n="p">— {#ud, udBAzita#}
+;<div n="p">— {#ud#}, {#udBAzita#}
 BAz@ud@540313
-;<div n="p">— {#ud, udBAzita#}
-BAz@udBAzita@540313
 ;<div n="p">— {#pari#}
 BAz@pari@540316
 ;<div n="p">— {#pra#} {%sprechen%}: {#jAnannapi - kasmAdevaM praBAzase#}
@@ -7406,10 +7298,8 @@ BI@pari@542925
 BI@pra@542927
 ;<div n="p">— {#vi#} {%erschrecken%} (intrans.): {#mA viBEstvaM (mApi BEstvam#} ed. Bomb.)
 BI@vi@542931
-;<div n="p">— {#sam, saMBIta#} {%sich fürchtend vor Jmd%} (gen.)
+;<div n="p">— {#sam#}, {#saMBIta#} {%sich fürchtend vor Jmd%} (gen.)
 BI@sam@542943
-;<div n="p">— {#sam, saMBIta#} {%sich fürchtend vor Jmd%} (gen.)
-BI@saMBIta@542943
 ;<div n="p">— {#ava#} {%einbiegen%}
 Buj@ava@543890
 ;<div n="p">— {#pratyava#} {%zurückbiegen%}: {#rwaBAn#}
@@ -7462,10 +7352,8 @@ Bur@pari@544929
 Bur@sam@544932
 ;<div n="p">— {#ati#}
 BU@ati@545759
-;<div n="p">— {#vyati, °BavizIzwa#}
+;<div n="p">— {#vyati#}, °{#BavizIzwa#}
 BU@vyati@545773
-;<div n="p">— {#vyati, °BavizIzwa#}
-BU@°BavizIzwa@545773
 ;<div n="p">— {#anu#}
 BU@anu@545778
 ;<div n="p">— {#pratyanu#} {%im Einzelnen geniessen%}: {#deSadigantarESca pratyanuBUtaM punaH punaH pratyanuBavati#}
@@ -7518,10 +7406,8 @@ BU@anuparA@546131
 BU@pari@546136
 ;<div n="p">— {#saMpari#} {%geringachten%}: {#arTErvihInaH puruzaH parEH saMpariBUyate#}
 BU@saMpari@546213
-;<div n="p">— {#pra, praBavARi#}
+;<div n="p">— {#pra#}, {#praBavARi#}
 BU@pra@546217
-;<div n="p">— {#pra, praBavARi#}
-BU@praBavARi@546217
 ;<div n="p">— {#anupra#} {%sich verbreiten durch%}: {#sUryo\ viSva\manu\ praBU^taH#} Einschiebung nach
 BU@anupra@546373
 ;<div n="p">— {#aBipra#} {%Jmd%} (acc.) {%beistehen%}: {#I\jA\namiddyOrgU\rtAva^surIjA\naM BUmi^ra\Bi pra^BU\zaRi^#} {%dem Opferer mögen Himmel und Erde beistehen%}
@@ -7696,10 +7582,8 @@ maT@sam@561963
 mad@anu@562312
 ;<div n="p">— {#aBi#}
 mad@aBi@562327
-;<div n="p">— {#ava, avamadan#}
+;<div n="p">— {#ava#}, {#avamadan#}
 mad@ava@562335
-;<div n="p">— {#ava, avamadan#}
-mad@avamadan@562335
 ;<div n="p">— {#ud#}
 mad@ud@562338
 ;<div n="p">— {#prod#} {%anfangen toll —, wüthend zu werden%}: {#pronmAdyadvinDyaganDadvipa#} Inschr. in Journ. of the Am. Or.
@@ -7978,14 +7862,10 @@ mah@sam@578398
 mA@anu@587581
 ;<div n="p">— {#A#} {%anblöken%}: {#vatsa ImenAstaruRa AmimIyAt#}
 mA@A@587584
-;<div n="p">— {#pariRi, °mimIte#}
+;<div n="p">— {#pariRi#}, °{#mimIte#}
 mA@pariRi@587587
-;<div n="p">— {#pariRi, °mimIte#}
-mA@°mimIte@587587
-;<div n="p">— {#praRi, °mimIte#}
+;<div n="p">— {#praRi#}, °{#mimIte#}
 mA@praRi@587591
-;<div n="p">— {#praRi, °mimIte#}
-mA@°mimIte@587591
 ;<div n="p">— {#vi#} {%brüllen, schreien(?)%}: {#jI\vaM ru^danti\ vi ma^yante aDva\re#}
 mA@vi@587596
 ;<div n="p">— {#anu#}
@@ -8002,14 +7882,10 @@ mA@ud@587749
 mA@upa@587755
 ;<div n="p">— {#ni#}
 mA@ni@587776
-;<div n="p">— {#pariRi, °mimIte#}
+;<div n="p">— {#pariRi#}, °{#mimIte#}
 mA@pariRi@587787
-;<div n="p">— {#pariRi, °mimIte#}
-mA@°mimIte@587787
-;<div n="p">— {#praRi, °mimIte#}
+;<div n="p">— {#praRi#}, °{#mimIte#}
 mA@praRi@587791
-;<div n="p">— {#praRi, °mimIte#}
-mA@°mimIte@587791
 ;<div n="p">— {#nis#}
 mA@nis@587796
 ;<div n="p">— {#aBinis#} {%bilden, verfertigen, bauen, schaffen%}: {#cEtyaH pUrvakAlABinirmitaH#}
@@ -8036,14 +7912,10 @@ mA@sam@587984
 mA@apa@588074
 ;<div n="p">— {#ni#} {%vertauschen gegen%} (instr.): {#pakvenAmasya niyamaM na praSaMsanti sADavaH . nimayetpakvamAMsena BojanArTAya#}
 mA@ni@588082
-;<div n="p">— {#pariRi, °mayate#}
+;<div n="p">— {#pariRi#}, °{#mayate#}
 mA@pariRi@588087
-;<div n="p">— {#pariRi, °mayate#}
-mA@°mayate@588087
-;<div n="p">— {#praRi, °mayate#} ebend.
+;<div n="p">— {#praRi#}, °{#mayate#} ebend.
 mA@praRi@588091
-;<div n="p">— {#praRi, °mayate#} ebend.
-mA@°mayate@588091
 ;<div n="p">— {#vini#} s. {#vinimaya#} .
 mA@vini@588093
 ;<div n="p">— {#anu#} {%durchsuchen%}: {#kftsnAM pfTivImanumArgata#}
@@ -8076,12 +7948,8 @@ mi@sam@597236
 mi@A@597300
 ;<div n="p">— {#ud#} {%verschwinden%}: {#sUrya^sya\ cakzu\rmuhu\runmi^mIyAt#}
 mi@ud@597315
-;<div n="p">— {#pra, pra minanti#}
+;<div n="p">— {#pra#}, {#pra minanti#}
 mi@pra@597319
-;<div n="p">— {#pra, pra minanti#}
-mi@pra@597319
-;<div n="p">— {#pra, pra minanti#}
-mi@minanti@597319
 ;<div n="p">— {#A#} s. {#AmikzA#} .
 mikz@A@597406
 ;<div n="p">— {#sam#} = simpl.: {#yadvA^ ya\jYaM mana^ve saMmimi\kzatu^H#} (nämlich {#maDukaSayA#}; vgl.
@@ -8268,10 +8136,8 @@ muz@nis@605170
 muz@pari@605173
 ;<div n="p">— {#pra#} {%rauben, wegnehmen%}: {#mA na\ Ayu\H pra (Ayuzpra#} nach
 muz@pra@605183
-;<div n="p">— {#saMpra, cittasaMpramuzita#} {%hingerissen%}
+;<div n="p">— {#saMpra#}, {#cittasaMpramuzita#} {%hingerissen%}
 muz@saMpra@605196
-;<div n="p">— {#saMpra, cittasaMpramuzita#} {%hingerissen%}
-muz@cittasaMpramuzita@605196
 ;<div n="p">— {#vi#} {%rauben, wegnehmen%}: {#grahASca taddfzwivimuzwarocizaH#}
 muz@vi@605199
 ;<div n="p">— {#vyati#}, partic. {#°mUQa#} {%überaus verwirrt%}: {#indriyErvyatimUQAtmA#}
@@ -8530,28 +8396,16 @@ arC@vi@633353
 arC@sam@633356
 ;<div n="p">— {#aByati#} {%hinüberschaffen in, übertragen auf%} (acc.)
 arj@aByati@633369
-;<div n="p">— {#samA, samArjita#} {%erworben, erlangt%}
+;<div n="p">— {#samA#}, {#samArjita#} {%erworben, erlangt%}
 arj@samA@633372
-;<div n="p">— {#samA, samArjita#} {%erworben, erlangt%}
-arj@samArjita@633372
 ;<div n="p">— {#upa#}
 arj@upa@633375
 ;<div n="p">— {#pra#} {%durcheilen%}: {#pra ye dvi\tA di\va f\YjantyAtA^H#}
 arj@pra@633385
 ;<div n="p">— {#aBi#}
 art@aBi@633531
-;<div n="p">— {#aBi, asanto 'ByarTitAH sadBiH kvacitkArye kadAcana#}
+;<div n="p">— {#aBi#}, {#asanto 'ByarTitAH sadBiH kvacitkArye kadAcana#}
 arTay@aBi@633760
-;<div n="p">— {#aBi, asanto 'ByarTitAH sadBiH kvacitkArye kadAcana#}
-arTay@asanto@633760
-;<div n="p">— {#aBi, asanto 'ByarTitAH sadBiH kvacitkArye kadAcana#}
-arTay@'ByarTitAH@633760
-;<div n="p">— {#aBi, asanto 'ByarTitAH sadBiH kvacitkArye kadAcana#}
-arTay@sadBiH@633760
-;<div n="p">— {#aBi, asanto 'ByarTitAH sadBiH kvacitkArye kadAcana#}
-arTay@kvacitkArye@633760
-;<div n="p">— {#aBi, asanto 'ByarTitAH sadBiH kvacitkArye kadAcana#}
-arTay@kadAcana@633760
 ;<div n="p">— {#pra#}
 arTay@pra@633763
 ;<div n="p">— {#prati#}
@@ -8580,30 +8434,12 @@ arh@sam@634540
 av@upa@635128
 ;<div n="p">— {#A#} lies {#prAyamAsizye#} st. {#prAyamASizye#} und {#prAyamAsitum#} st. {#prAyamA- Situm#} (vgl. u. 2. {#As)#}; desgleichen
 aS@A@637269
-;<div n="p">— {#upa, vErasyopaSamo dfzwaH pApaM nopASnute punaH#} {%man hat es erlebt, dass Feindschaft sich legte und dass man nicht von Neuem Böses erfuhr.%}
+;<div n="p">— {#upa#}, {#vErasyopaSamo dfzwaH pApaM nopASnute punaH#} {%man hat es erlebt, dass Feindschaft sich legte und dass man nicht von Neuem Böses erfuhr.%}
 aS@upa@637272
-;<div n="p">— {#upa, vErasyopaSamo dfzwaH pApaM nopASnute punaH#} {%man hat es erlebt, dass Feindschaft sich legte und dass man nicht von Neuem Böses erfuhr.%}
-aS@vErasyopaSamo@637272
-;<div n="p">— {#upa, vErasyopaSamo dfzwaH pApaM nopASnute punaH#} {%man hat es erlebt, dass Feindschaft sich legte und dass man nicht von Neuem Böses erfuhr.%}
-aS@dfzwaH@637272
-;<div n="p">— {#upa, vErasyopaSamo dfzwaH pApaM nopASnute punaH#} {%man hat es erlebt, dass Feindschaft sich legte und dass man nicht von Neuem Böses erfuhr.%}
-aS@pApaM@637272
-;<div n="p">— {#upa, vErasyopaSamo dfzwaH pApaM nopASnute punaH#} {%man hat es erlebt, dass Feindschaft sich legte und dass man nicht von Neuem Böses erfuhr.%}
-aS@nopASnute@637272
-;<div n="p">— {#upa, vErasyopaSamo dfzwaH pApaM nopASnute punaH#} {%man hat es erlebt, dass Feindschaft sich legte und dass man nicht von Neuem Böses erfuhr.%}
-aS@punaH@637272
 ;<div n="p">— {#samupa#} {%theilhaftig werden%}: {#yadyacCarIreRa karoti karma tenEva dehI samupASnute tat#}
 aS@samupa@637275
-;<div n="p">— {#upa, yAni grAmyARi BojyAni grAmikastAnyupASniyAt#} (die Kurze aus metrischen Rücksichten)
+;<div n="p">— {#upa#}, {#yAni grAmyARi BojyAni grAmikastAnyupASniyAt#} (die Kurze aus metrischen Rücksichten)
 aS@upa@637285
-;<div n="p">— {#upa, yAni grAmyARi BojyAni grAmikastAnyupASniyAt#} (die Kurze aus metrischen Rücksichten)
-aS@yAni@637285
-;<div n="p">— {#upa, yAni grAmyARi BojyAni grAmikastAnyupASniyAt#} (die Kurze aus metrischen Rücksichten)
-aS@grAmyARi@637285
-;<div n="p">— {#upa, yAni grAmyARi BojyAni grAmikastAnyupASniyAt#} (die Kurze aus metrischen Rücksichten)
-aS@BojyAni@637285
-;<div n="p">— {#upa, yAni grAmyARi BojyAni grAmikastAnyupASniyAt#} (die Kurze aus metrischen Rücksichten)
-aS@grAmikastAnyupASniyAt@637285
 ;<div n="p">— {#pari#} lies {%Jmd%} (acc.) {%beim Essen übergehen, früher als ein Anderer essen%} oder {%geniessen%} und vgl. noch: {#paryaSnanti ca ye dArAnagniBftyAnatiTIMstaTA#}
 aS@pari@637288
 ;<div n="p">— {#pra#} simpl. Im letzten Beispiele ist die gewöhnliche Bedeutung {%essen. geniessen%} anzunehmen, da {#nEtyakam (= nEvedyam#} Schol.) das Object ist.
@@ -8624,10 +8460,8 @@ as@pra@638229
 as@sam@638232
 ;<div n="p">— {#ati#}
 as@ati@638246
-;<div n="p">— {#aDi, aDyasta#} {%fälschlich übertragen, missverstanden%}
+;<div n="p">— {#aDi#}, {#aDyasta#} {%fälschlich übertragen, missverstanden%}
 as@aDi@638250
-;<div n="p">— {#aDi, aDyasta#} {%fälschlich übertragen, missverstanden%}
-as@aDyasta@638250
 ;<div n="p">— {#udapa#} {%vollständig aufgeben, ganz unterlassen%}: {#prayAsamudapAsya#}
 as@udapa@638254
 ;<div n="p">— {#api#} med. {%einfügen%}
@@ -8662,10 +8496,8 @@ as@parA@638326
 as@pari@638333
 ;<div n="p">— {#vipari#}
 as@vipari@638345
-;<div n="p">— {#pra, aMSam#} {%das Loos werfen%}
+;<div n="p">— {#pra#}, {#aMSam#} {%das Loos werfen%}
 as@pra@638351
-;<div n="p">— {#pra, aMSam#} {%das Loos werfen%}
-as@aMSam@638351
 ;<div n="p">— {#utpra#} s. {#utprAsa#} .
 as@utpra@638354
 ;<div n="p">— {#prati#}
@@ -8674,14 +8506,8 @@ as@prati@638356
 as@vi@638361
 ;<div n="p">— {#sam#}
 as@sam@638367
-;<div n="p">— {#aBi, nAByasUyAmi vAkyasyAsya tavAnaGe#}
+;<div n="p">— {#aBi#}, {#nAByasUyAmi vAkyasyAsya tavAnaGe#}
 asUy@aBi@638925
-;<div n="p">— {#aBi, nAByasUyAmi vAkyasyAsya tavAnaGe#}
-asUy@nAByasUyAmi@638925
-;<div n="p">— {#aBi, nAByasUyAmi vAkyasyAsya tavAnaGe#}
-asUy@vAkyasyAsya@638925
-;<div n="p">— {#aBi, nAByasUyAmi vAkyasyAsya tavAnaGe#}
-asUy@tavAnaGe@638925
 ;<div n="p">— {#anu#} {%nachsprechen, nacherzählen%}: {#mayoditaM yadanvAtTa#}
 ah@anu@639239
 ;<div n="p">— {#aBi#} {%sprechen zu%} (acc.), {%antworten%}
@@ -8702,14 +8528,8 @@ Ap@samupa@642802
 Ap@pari@642804
 ;<div n="p">— {#pra#} partic. {#prApta#}
 Ap@pra@642820
-;<div n="p">— {#anupra, sarvarasA anuprAptAH pAnIyam#} wohl {%alle Flüssigkeiten sind schliesslich Wasser%}
+;<div n="p">— {#anupra#}, {#sarvarasA anuprAptAH pAnIyam#} wohl {%alle Flüssigkeiten sind schliesslich Wasser%}
 Ap@anupra@642825
-;<div n="p">— {#anupra, sarvarasA anuprAptAH pAnIyam#} wohl {%alle Flüssigkeiten sind schliesslich Wasser%}
-Ap@sarvarasA@642825
-;<div n="p">— {#anupra, sarvarasA anuprAptAH pAnIyam#} wohl {%alle Flüssigkeiten sind schliesslich Wasser%}
-Ap@anuprAptAH@642825
-;<div n="p">— {#anupra, sarvarasA anuprAptAH pAnIyam#} wohl {%alle Flüssigkeiten sind schliesslich Wasser%}
-Ap@pAnIyam@642825
 ;<div n="p">— {#aBipra#} vgl. {#aBiprApaRa#} .
 Ap@aBipra@642828
 ;<div n="p">— {#paripra#} vgl. {#pariprApti, pariprepsu#} .
@@ -8722,10 +8542,8 @@ Ap@vi@642836
 Ap@sam@642842
 ;<div n="p">— {#parisam#} pass. {%zum Schluss gelangen, das Endziel erreichen%}
 Ap@parisam@642853
-;<div n="p">— {#sam, samAliNgati#}
+;<div n="p">— {#sam#}, {#samAliNgati#}
 AliNg@sam@645015
-;<div n="p">— {#sam, samAliNgati#}
-AliNg@samAliNgati@645015
 ;<div n="p">— {#aDi#}
 As@aDi@646047
 ;<div n="p">— {#anu#}
@@ -8756,16 +8574,12 @@ i@upADi@646847
 i@prADi@646849
 ;<div n="p">— {#anu#}
 i@anu@646851
-;<div n="p">— {#samanu, parvaBAMSasamanvita#} {%versehen mit, wozu hinzugefügt —, addirt worden ist%}
+;<div n="p">— {#samanu#}, {#parvaBAMSasamanvita#} {%versehen mit, wozu hinzugefügt —, addirt worden ist%}
 i@samanu@646861
-;<div n="p">— {#samanu, parvaBAMSasamanvita#} {%versehen mit, wozu hinzugefügt —, addirt worden ist%}
-i@parvaBAMSasamanvita@646861
 ;<div n="p">— {#apa#}
 i@apa@646864
-;<div n="p">— {#vyapa, vyapeta#} {%getrennt%} (Gegens. {#sahita)#}
+;<div n="p">— {#vyapa#}, {#vyapeta#} {%getrennt%} (Gegens. {#sahita)#}
 i@vyapa@646871
-;<div n="p">— {#vyapa, vyapeta#} {%getrennt%} (Gegens. {#sahita)#}
-i@vyapeta@646871
 ;<div n="p">— {#api#}
 i@api@646874
 ;<div n="p">— {#aBi#}
@@ -8782,24 +8596,14 @@ i@upAva@646904
 i@pratyava@646908
 ;<div n="p">— {#vyava#}
 i@vyava@646912
-;<div n="p">— {#samava, samaveta#} {%in Etwas enthalten, inhärirend%}: {#kArya#}
+;<div n="p">— {#samava#}, {#samaveta#} {%in Etwas enthalten, inhärirend%}: {#kArya#}
 i@samava@646916
-;<div n="p">— {#samava, samaveta#} {%in Etwas enthalten, inhärirend%}: {#kArya#}
-i@samaveta@646916
 ;<div n="p">— {#A#}
 i@A@646921
-;<div n="p">— {#udA, udeyivaMs#} {%hervorgegangen, entstanden, geboren%} (=  {#udita#}
+;<div n="p">— {#udA#}, {#udeyivaMs#} {%hervorgegangen, entstanden, geboren%} (=  {#udita#}
 i@udA@646933
-;<div n="p">— {#udA, udeyivaMs#} {%hervorgegangen, entstanden, geboren%} (=  {#udita#}
-i@udeyivaMs@646933
-;<div n="p">— {#pratyA, pratyeyAya svakaM DAma#}
+;<div n="p">— {#pratyA#}, {#pratyeyAya svakaM DAma#}
 i@pratyA@646936
-;<div n="p">— {#pratyA, pratyeyAya svakaM DAma#}
-i@pratyeyAya@646936
-;<div n="p">— {#pratyA, pratyeyAya svakaM DAma#}
-i@svakaM@646936
-;<div n="p">— {#pratyA, pratyeyAya svakaM DAma#}
-i@DAma@646936
 ;<div n="p">— {#samA#}
 i@samA@646939
 ;<div n="p">— {#parisamA#} {%umkehrend sich wohin%} (acc.) {%begeben%}
@@ -8808,10 +8612,8 @@ i@parisamA@646943
 i@ud@646946
 ;<div n="p">— {#aByud#}
 i@aByud@646960
-;<div n="p">— {#prod, prodyatprOQapriyaNgu#}
+;<div n="p">— {#prod#}, {#prodyatprOQapriyaNgu#}
 i@prod@646966
-;<div n="p">— {#prod, prodyatprOQapriyaNgu#}
-i@prodyatprOQapriyaNgu@646966
 ;<div n="p">— {#samud#}
 i@samud@646969
 ;<div n="p">— {#upa#}
@@ -8820,26 +8622,18 @@ i@upa@646976
 i@aDyupa@646993
 ;<div n="p">— {#aByupa#}
 i@aByupa@646995
-;<div n="p">— {#samopa, balavIryasamopeta#}
+;<div n="p">— {#samopa#}, {#balavIryasamopeta#}
 i@samopa@647008
-;<div n="p">— {#samopa, balavIryasamopeta#}
-i@balavIryasamopeta@647008
 ;<div n="p">— {#pratyupa#} vgl. {#pratyupeya#} .
 i@pratyupa@647011
 ;<div n="p">— {#vyupa#} {%sich vertheilen in%} oder {%über Etwas%}
 i@vyupa@647013
 ;<div n="p">— {#samupa#}
 i@samupa@647016
-;<div n="p">— {#ni, BaNgaM nIyAt#}
+;<div n="p">— {#ni#}, {#BaNgaM nIyAt#}
 i@ni@647024
-;<div n="p">— {#ni, BaNgaM nIyAt#}
-i@BaNgaM@647024
-;<div n="p">— {#ni, BaNgaM nIyAt#}
-i@nIyAt@647024
-;<div n="p">— {#nis, niryadvaktrAnalArcis#} ungenau st. {#vaktraniryadanalArcis#}
+;<div n="p">— {#nis#}, {#niryadvaktrAnalArcis#} ungenau st. {#vaktraniryadanalArcis#}
 i@nis@647028
-;<div n="p">— {#nis, niryadvaktrAnalArcis#} ungenau st. {#vaktraniryadanalArcis#}
-i@niryadvaktrAnalArcis@647028
 ;<div n="p">— {#parA#}
 i@parA@647032
 ;<div n="p">— {#saMparA#} {%abscheiden, sterben%}: {#saMparete pitari#}
@@ -8886,18 +8680,8 @@ iNg@vi@647219
 iD@pari@647584
 ;<div n="p">— {#prADi#} s. {#prADyezaRa#} .
 iz@prADi@648322
-;<div n="p">— {#anu, svagfhe veSavAwe dyUtasaBAyAmApaRe ca nipuRamanvizyannopalabDavAn#}
+;<div n="p">— {#anu#}, {#svagfhe veSavAwe dyUtasaBAyAmApaRe ca nipuRamanvizyannopalabDavAn#}
 iz@anu@648324
-;<div n="p">— {#anu, svagfhe veSavAwe dyUtasaBAyAmApaRe ca nipuRamanvizyannopalabDavAn#}
-iz@svagfhe@648324
-;<div n="p">— {#anu, svagfhe veSavAwe dyUtasaBAyAmApaRe ca nipuRamanvizyannopalabDavAn#}
-iz@veSavAwe@648324
-;<div n="p">— {#anu, svagfhe veSavAwe dyUtasaBAyAmApaRe ca nipuRamanvizyannopalabDavAn#}
-iz@dyUtasaBAyAmApaRe@648324
-;<div n="p">— {#anu, svagfhe veSavAwe dyUtasaBAyAmApaRe ca nipuRamanvizyannopalabDavAn#}
-iz@ca@648324
-;<div n="p">— {#anu, svagfhe veSavAwe dyUtasaBAyAmApaRe ca nipuRamanvizyannopalabDavAn#}
-iz@nipuRamanvizyannopalabDavAn@648324
 ;<div n="p">— {#pra#}
 iz@pra@648327
 ;<div n="p">— {#anupra#} caus. {%Jmd zu Jmd hinsenden%}: {#anuprezitA#}
@@ -8928,12 +8712,8 @@ Ikz@samava@648626
 Ikz@ud@648633
 ;<div n="p">— {#upa#}
 Ikz@upa@648638
-;<div n="p">— {#nis, tiryaNmuKo nagnAmanirIkzan#}
+;<div n="p">— {#nis#}, {#tiryaNmuKo nagnAmanirIkzan#}
 Ikz@nis@648645
-;<div n="p">— {#nis, tiryaNmuKo nagnAmanirIkzan#}
-Ikz@tiryaNmuKo@648645
-;<div n="p">— {#nis, tiryaNmuKo nagnAmanirIkzan#}
-Ikz@nagnAmanirIkzan@648645
 ;<div n="p">— {#saMnis#} {%erblicken%}
 Ikz@saMnis@648650
 ;<div n="p">— {#pari#}
@@ -8978,12 +8758,8 @@ Ir@vyava@648887
 Ir@A@648890
 ;<div n="p">— {#ud#}
 Ir@ud@648894
-;<div n="p">— {#aByud, iti DanavatyAByudIrite#} {%nachdem sie so geredet hatte%}
+;<div n="p">— {#aByud#}, {#iti DanavatyAByudIrite#} {%nachdem sie so geredet hatte%}
 Ir@aByud@648899
-;<div n="p">— {#aByud, iti DanavatyAByudIrite#} {%nachdem sie so geredet hatte%}
-Ir@iti@648899
-;<div n="p">— {#aByud, iti DanavatyAByudIrite#} {%nachdem sie so geredet hatte%}
-Ir@DanavatyAByudIrite@648899
 ;<div n="p">— {#pratyud#} {%dagegen ertönen lassen, erwiedern%}: {#etAvadanuvAdapariBAzayA pratyudIrya#}
 Ir@pratyud@648902
 ;<div n="p">— {#samud#} caus.: {#vAyunA samudIritAH (SarAH)#}
@@ -8998,12 +8774,8 @@ IS@pari@649035
 Iz@A@649232
 ;<div n="p">— {#prati#} vgl. {#pratIha#} .
 Ih@prati@649299
-;<div n="p">— {#sam, samIhate 'rTasidDim#} {%strebt nach%}
+;<div n="p">— {#sam#}, {#samIhate 'rTasidDim#} {%strebt nach%}
 Ih@sam@649301
-;<div n="p">— {#sam, samIhate 'rTasidDim#} {%strebt nach%}
-Ih@samIhate@649301
-;<div n="p">— {#sam, samIhate 'rTasidDim#} {%strebt nach%}
-Ih@'rTasidDim@649301
 ;<div n="p">— {#aBi#} und — {#praH yadizwarUparasaganDasparSaM prokzitamaByukzitaM ca tacCuci#}
 ukz@aBi@649427
 ;<div n="p">— {#ava#}
@@ -9012,66 +8784,34 @@ ukz@ava@649431
 ukz@nis@649434
 ;<div n="p">— {#pari#}
 ukz@pari@649437
-;<div n="p">— {#pra, tadadBirdevayajanaM dravyARyAtmAnameva ca . prokzya#}
+;<div n="p">— {#pra#}, {#tadadBirdevayajanaM dravyARyAtmAnameva ca . prokzya#}
 ukz@pra@649440
-;<div n="p">— {#pra, tadadBirdevayajanaM dravyARyAtmAnameva ca . prokzya#}
-ukz@tadadBirdevayajanaM@649440
-;<div n="p">— {#pra, tadadBirdevayajanaM dravyARyAtmAnameva ca . prokzya#}
-ukz@dravyARyAtmAnameva@649440
-;<div n="p">— {#pra, tadadBirdevayajanaM dravyARyAtmAnameva ca . prokzya#}
-ukz@ca@649440
-;<div n="p">— {#pra, tadadBirdevayajanaM dravyARyAtmAnameva ca . prokzya#}
-ukz@prokzya@649440
 ;<div n="p">— {#sam#}
 ukz@sam@649444
 ;<div n="p">— {#ni#}
 uc@ni@649588
 ;<div n="p">— {#sam#}, partic. {#samucita#}
 uc@sam@649593
-;<div n="p">— {#pra, projJya#} {%bei Seite lassend, mit Ausnahme von%}
+;<div n="p">— {#pra#}, {#projJya#} {%bei Seite lassend, mit Ausnahme von%}
 ujJ@pra@649954
-;<div n="p">— {#pra, projJya#} {%bei Seite lassend, mit Ausnahme von%}
-ujJ@projJya@649954
 ;<div n="p">— {#pra#} caus. {%zur Sehnsucht anregen%}: {#protkaRWayantyupavanAni manAMsi puMsAm#}
 utkaRW@pra@650175
 ;<div n="p">— {#aBi#} dass.: {#aByudya#} (nach dem Schol. von {#vand)#}
 ud@aBi@651564
-;<div n="p">— {#ni, nyundamAna#}
+;<div n="p">— {#ni#}, {#nyundamAna#}
 ud@ni@651567
-;<div n="p">— {#ni, nyundamAna#}
-ud@nyundamAna@651567
-;<div n="p">— {#sam, samunnamagrato vastraM paScAcCuDyati karmaRA#} {%nass gemacht%}
+;<div n="p">— {#sam#}, {#samunnamagrato vastraM paScAcCuDyati karmaRA#} {%nass gemacht%}
 ud@sam@651570
-;<div n="p">— {#sam, samunnamagrato vastraM paScAcCuDyati karmaRA#} {%nass gemacht%}
-ud@samunnamagrato@651570
-;<div n="p">— {#sam, samunnamagrato vastraM paScAcCuDyati karmaRA#} {%nass gemacht%}
-ud@vastraM@651570
-;<div n="p">— {#sam, samunnamagrato vastraM paScAcCuDyati karmaRA#} {%nass gemacht%}
-ud@paScAcCuDyati@651570
-;<div n="p">— {#sam, samunnamagrato vastraM paScAcCuDyati karmaRA#} {%nass gemacht%}
-ud@karmaRA@651570
 ;<div n="p">— {#apa#} s. {#apomBana#} .
 uB@apa@656267
-;<div n="p">— {#pra, prollAGita#}
+;<div n="p">— {#pra#}, {#prollAGita#}
 ullAGay@pra@656877
-;<div n="p">— {#pra, prollAGita#}
-ullAGay@prollAGita@656877
 ;<div n="p">— {#aBi#}
 uz@aBi@657030
-;<div n="p">— {#upa, prA\tare\tena^ ka\kzamupO^zet#}
+;<div n="p">— {#upa#}, {#prA\tare\tena^ ka\kzamupO^zet#}
 uz@upa@657033
-;<div n="p">— {#upa, prA\tare\tena^ ka\kzamupO^zet#}
-uz@prA\tare\tena^@657033
-;<div n="p">— {#upa, prA\tare\tena^ ka\kzamupO^zet#}
-uz@ka\kzamupO^zet@657033
-;<div n="p">— {#prati, taM pratyOzattasmAtsa pratyuzwamuKaH#}
+;<div n="p">— {#prati#}, {#taM pratyOzattasmAtsa pratyuzwamuKaH#}
 uz@prati@657036
-;<div n="p">— {#prati, taM pratyOzattasmAtsa pratyuzwamuKaH#}
-uz@taM@657036
-;<div n="p">— {#prati, taM pratyOzattasmAtsa pratyuzwamuKaH#}
-uz@pratyOzattasmAtsa@657036
-;<div n="p">— {#prati, taM pratyOzattasmAtsa pratyuzwamuKaH#}
-uz@pratyuzwamuKaH@657036
 ;<div n="p">— {#pra#} desid. vgl. {#prorRunavizu#} .
 UrRu@pra@657535
 ;<div n="p">— {#vyati#} {%úmstellen, je den Platz wechseln lassen%}: {#vyatyUhetpAtrARi#}
@@ -9090,10 +8830,8 @@ Uh@apod@657811
 Uh@upa@657814
 ;<div n="p">— {#samupa#}
 Uh@samupa@657820
-;<div n="p">— {#nis, nirUQa#} {%abgesondert, für sich stehend%}
+;<div n="p">— {#nis#}, {#nirUQa#} {%abgesondert, für sich stehend%}
 Uh@nis@657824
-;<div n="p">— {#nis, nirUQa#} {%abgesondert, für sich stehend%}
-Uh@nirUQa@657824
 ;<div n="p">— {#pari#} vgl. {#paryUhaRa#} .
 Uh@pari@657828
 ;<div n="p">— {#prati#}
@@ -9118,12 +8856,8 @@ ej@apa@659348
 kaTay@ni@662640
 ;<div n="p">— {#pari#} {%nennen%}
 kaTay@pari@662642
-;<div n="p">— {#aBi, aBi kamizyante#}
+;<div n="p">— {#aBi#}, {#aBi kamizyante#}
 kam@aBi@663859
-;<div n="p">— {#aBi, aBi kamizyante#}
-kam@aBi@663859
-;<div n="p">— {#aBi, aBi kamizyante#}
-kam@kamizyante@663859
 ;<div n="p">— {#ni#} füge hinzu {%neidisch sein%} und die Stellen
 kam@ni@663862
 ;<div n="p">— {#pra#} s. {#prakamana#} .
@@ -9214,12 +8948,8 @@ kar@A@664469
 kar@avA@664475
 ;<div n="p">— {#paryA#} vgl. {#paryAkula; - prA#} vgl. {#prAkAruka#} .
 kar@paryA@664477
-;<div n="p">— {#vyA, dIpaH - vyAkIrRArciH#} {%zerstreut, auseinandergeworfen%}
+;<div n="p">— {#vyA#}, {#dIpaH - vyAkIrRArciH#} {%zerstreut, auseinandergeworfen%}
 kar@vyA@664479
-;<div n="p">— {#vyA, dIpaH - vyAkIrRArciH#} {%zerstreut, auseinandergeworfen%}
-kar@dIpaH@664479
-;<div n="p">— {#vyA, dIpaH - vyAkIrRArciH#} {%zerstreut, auseinandergeworfen%}
-kar@vyAkIrRArciH@664479
 ;<div n="p">— {#ud#}
 kar@ud@664482
 ;<div n="p">— {#pari#} streiche {#parikara#} am Ende.
@@ -9234,30 +8964,16 @@ kar@pravi@664501
 kar@sam@664505
 ;<div n="p">— {#apa#}
 kart@apa@665459
-;<div n="p">— {#ava, (BUrjadrumasya) carmaBirniSitaSastraSatAvakfttEH#} {%ablösen%}
+;<div n="p">— {#ava#}, ({#BUrjadrumasya) carmaBirniSitaSastraSatAvakfttEH#} {%ablösen%}
 kart@ava@665462
-;<div n="p">— {#ava, (BUrjadrumasya) carmaBirniSitaSastraSatAvakfttEH#} {%ablösen%}
-kart@(BUrjadrumasya)@665462
-;<div n="p">— {#ava, (BUrjadrumasya) carmaBirniSitaSastraSatAvakfttEH#} {%ablösen%}
-kart@carmaBirniSitaSastraSatAvakfttEH@665462
-;<div n="p">— {#ud, (mAMsam) svamutkftyAsinA#}
+;<div n="p">— {#ud#}, ({#mAMsam) svamutkftyAsinA#}
 kart@ud@665465
-;<div n="p">— {#ud, (mAMsam) svamutkftyAsinA#}
-kart@(mAMsam)@665465
-;<div n="p">— {#ud, (mAMsam) svamutkftyAsinA#}
-kart@svamutkftyAsinA@665465
-;<div n="p">— {#nis, nizkftya gardaBam#} {%zerreissen%}
+;<div n="p">— {#nis#}, {#nizkftya gardaBam#} {%zerreissen%}
 kart@nis@665469
-;<div n="p">— {#nis, nizkftya gardaBam#} {%zerreissen%}
-kart@nizkftya@665469
-;<div n="p">— {#nis, nizkftya gardaBam#} {%zerreissen%}
-kart@gardaBam@665469
 ;<div n="p">— {#pari#} vgl. {#parikartana#} .
 kart@pari@665472
-;<div n="p">— {#pra, vikartata#} st. {#prakartata#}
+;<div n="p">— {#pra#}, {#vikartata#} st. {#prakartata#}
 kart@pra@665474
-;<div n="p">— {#pra, vikartata#} st. {#prakartata#}
-kart@vikartata@665474
 ;<div n="p">— {#pari#} caus. s. u. 1. {#karz#} mit {#pari#} .
 karS@pari@665959
 ;<div n="p">— {#pra#}, partic. {#prakfSita#}
@@ -9270,10 +8986,8 @@ karz@vyapa@665987
 karz@vyava@665990
 ;<div n="p">— {#A#}
 karz@A@665992
-;<div n="p">— {#apA, anapAkfzwa#} {%nicht erniedrigt%}
+;<div n="p">— {#apA#}, {#anapAkfzwa#} {%nicht erniedrigt%}
 karz@apA@665998
-;<div n="p">— {#apA, anapAkfzwa#} {%nicht erniedrigt%}
-karz@anapAkfzwa@665998
 ;<div n="p">— {#aByA#} vgl. {#aByAkarza#} .
 karz@aByA@666002
 ;<div n="p">— {#aByupA#} {%an sich heranziehen%}
@@ -9288,14 +9002,10 @@ karz@pratyud@666014
 karz@samud@666016
 ;<div n="p">— {#upa#}
 karz@upa@666019
-;<div n="p">— {#ni, nikfzwa#}
+;<div n="p">— {#ni#}, {#nikfzwa#}
 karz@ni@666023
-;<div n="p">— {#ni, nikfzwa#}
-karz@nikfzwa@666023
-;<div n="p">— {#saMni, saMnikfzwaviprakfzwayoH#}
+;<div n="p">— {#saMni#}, {#saMnikfzwaviprakfzwayoH#}
 karz@saMni@666029
-;<div n="p">— {#saMni, saMnikfzwaviprakfzwayoH#}
-karz@saMnikfzwaviprakfzwayoH@666029
 ;<div n="p">— {#nis#}
 karz@nis@666035
 ;<div n="p">— {#pari#}
@@ -9310,10 +9020,8 @@ karz@saMpra@666057
 kal@A@666140
 ;<div n="p">— {#pratyA#}, zu {#pratyAkalita#}
 kal@pratyA@666149
-;<div n="p">— {#ud, prItyutkalitalocana#}
+;<div n="p">— {#ud#}, {#prItyutkalitalocana#}
 kal@ud@666153
-;<div n="p">— {#ud, prItyutkalitalocana#}
-kal@prItyutkalitalocana@666153
 ;<div n="p">— {#pari#} streiche
 kal@pari@666159
 ;<div n="p">— {#sam#} {%zusammenfassen%}: {#saMkalitadaSa (daSA#} {%Saum des Gewandes)%}
@@ -9378,12 +9086,8 @@ kup@prati@672892
 kuz@aBi@674309
 ;<div n="p">— {#nis#} vgl. {#nizkoza#} fgg.
 kuz@nis@674312
-;<div n="p">— {#vi, muzwimaDye vikUjitvA#} (so die neuere Ausg.) {#dviDABUtamaBajyata (cApam)#}
+;<div n="p">— {#vi#}, {#muzwimaDye vikUjitvA#} (so die neuere Ausg.) {#dviDABUtamaBajyata (cApam)#}
 kUj@vi@674606
-;<div n="p">— {#vi, muzwimaDye vikUjitvA#} (so die neuere Ausg.) {#dviDABUtamaBajyata (cApam)#}
-kUj@muzwimaDye@674606
-;<div n="p">— {#vi, muzwimaDye vikUjitvA#} (so die neuere Ausg.) {#dviDABUtamaBajyata (cApam)#}
-kUj@vikUjitvA@674606
 ;<div n="p">— {#vi#} caus. {%zusammenziehen%}: {#Amle vaktraM vikURayet#}
 kUR@vi@674709
 ;<div n="p">— {#ud#} vgl. {#utkrATinI#} .
@@ -9394,16 +9098,8 @@ krand@aByava@678330
 krand@A@678333
 ;<div n="p">— {#ati#}
 kram@ati@678346
-;<div n="p">— {#samaByati, cittaM samaByatyakrAmatkA nviyaM devatADikA#} {%er kam auf den Gedanken, dachte bei sich%}
+;<div n="p">— {#samaByati#}, {#cittaM samaByatyakrAmatkA nviyaM devatADikA#} {%er kam auf den Gedanken, dachte bei sich%}
 kram@samaByati@678350
-;<div n="p">— {#samaByati, cittaM samaByatyakrAmatkA nviyaM devatADikA#} {%er kam auf den Gedanken, dachte bei sich%}
-kram@cittaM@678350
-;<div n="p">— {#samaByati, cittaM samaByatyakrAmatkA nviyaM devatADikA#} {%er kam auf den Gedanken, dachte bei sich%}
-kram@samaByatyakrAmatkA@678350
-;<div n="p">— {#samaByati, cittaM samaByatyakrAmatkA nviyaM devatADikA#} {%er kam auf den Gedanken, dachte bei sich%}
-kram@nviyaM@678350
-;<div n="p">— {#samaByati, cittaM samaByatyakrAmatkA nviyaM devatADikA#} {%er kam auf den Gedanken, dachte bei sich%}
-kram@devatADikA@678350
 ;<div n="p">— {#vyati#}
 kram@vyati@678353
 ;<div n="p">— {#samati#}
@@ -9420,10 +9116,8 @@ kram@aBi@678382
 kram@A@678386
 ;<div n="p">— {#apA#}, die ed. Bomb. liest richtig {#apakramya#} .
 kram@apA@678405
-;<div n="p">— {#nirA, °kramat#}
+;<div n="p">— {#nirA#}, °{#kramat#}
 kram@nirA@678407
-;<div n="p">— {#nirA, °kramat#}
-kram@°kramat@678407
 ;<div n="p">— {#samA#}
 kram@samA@678410
 ;<div n="p">— {#ud#}
@@ -9432,74 +9126,38 @@ kram@ud@678413
 kram@pratyud@678420
 ;<div n="p">— {#upa#}
 kram@upa@678422
-;<div n="p">— {#nis, pAWe tu muKanizkrAntA vipruzo brahmabindavaH#}
+;<div n="p">— {#nis#}, {#pAWe tu muKanizkrAntA vipruzo brahmabindavaH#}
 kram@nis@678433
-;<div n="p">— {#nis, pAWe tu muKanizkrAntA vipruzo brahmabindavaH#}
-kram@pAWe@678433
-;<div n="p">— {#nis, pAWe tu muKanizkrAntA vipruzo brahmabindavaH#}
-kram@tu@678433
-;<div n="p">— {#nis, pAWe tu muKanizkrAntA vipruzo brahmabindavaH#}
-kram@muKanizkrAntA@678433
-;<div n="p">— {#nis, pAWe tu muKanizkrAntA vipruzo brahmabindavaH#}
-kram@vipruzo@678433
-;<div n="p">— {#nis, pAWe tu muKanizkrAntA vipruzo brahmabindavaH#}
-kram@brahmabindavaH@678433
 ;<div n="p">— {#aBinis#}, {#aYjanAdaBinizkrAntaH (mahAgajaH)#} {%hervorgegangen%} so v. a. {%abstammend von, erzeugt%}
 kram@aBinis@678436
-;<div n="p">— {#parA, °krAntaM cAtra sUriBiH#} {%haben grossen Eifer an den Tag gelegt, - ihr Bestes gethan%}
+;<div n="p">— {#parA#}, °{#krAntaM cAtra sUriBiH#} {%haben grossen Eifer an den Tag gelegt, - ihr Bestes gethan%}
 kram@parA@678439
-;<div n="p">— {#parA, °krAntaM cAtra sUriBiH#} {%haben grossen Eifer an den Tag gelegt, - ihr Bestes gethan%}
-kram@°krAntaM@678439
-;<div n="p">— {#parA, °krAntaM cAtra sUriBiH#} {%haben grossen Eifer an den Tag gelegt, - ihr Bestes gethan%}
-kram@cAtra@678439
-;<div n="p">— {#parA, °krAntaM cAtra sUriBiH#} {%haben grossen Eifer an den Tag gelegt, - ihr Bestes gethan%}
-kram@sUriBiH@678439
 ;<div n="p">— {#pari#} (so zu lesen)
 kram@pari@678442
 ;<div n="p">— {#pra#}
 kram@pra@678447
 ;<div n="p">— {#prati#}
 kram@prati@678452
-;<div n="p">— {#vi, SUrasya - siMhavikrAntacAriRaH#} {%muthig verfahrend%}
+;<div n="p">— {#vi#}, {#SUrasya - siMhavikrAntacAriRaH#} {%muthig verfahrend%}
 kram@vi@678458
-;<div n="p">— {#vi, SUrasya - siMhavikrAntacAriRaH#} {%muthig verfahrend%}
-kram@SUrasya@678458
-;<div n="p">— {#vi, SUrasya - siMhavikrAntacAriRaH#} {%muthig verfahrend%}
-kram@siMhavikrAntacAriRaH@678458
 ;<div n="p">— {#sam#}
 kram@sam@678461
 ;<div n="p">— {#upasam#} vgl. {#upasaMkramaRa, upasaMkrAnti#} .
 kram@upasam@678478
-;<div n="p">— {#pratisam, °krAnta#} so v. a. {%abgespiegelt, reflectirt%}
+;<div n="p">— {#pratisam#}, °{#krAnta#} so v. a. {%abgespiegelt, reflectirt%}
 kram@pratisam@678480
-;<div n="p">— {#pratisam, °krAnta#} so v. a. {%abgespiegelt, reflectirt%}
-kram@°krAnta@678480
 ;<div n="p">— {#vi#}
 krI@vi@678834
-;<div n="p">— {#sam, °krIRIta#} 3te sg. potent.
+;<div n="p">— {#sam#}, °{#krIRIta#} 3te sg. potent.
 krI@sam@678840
-;<div n="p">— {#sam, °krIRIta#} 3te sg. potent.
-krI@°krIRIta@678840
 ;<div n="p">— {#aDi#} {%über Jmd%} (acc.) {%spielen, - tanzen%}
 krIq@aDi@678851
 ;<div n="p">— {#ni#} caus. auch
 krIq@ni@678854
-;<div n="p">— {#pra, utpatyAruhya dolAyAM prAkrIqadvarakanyakA#}
+;<div n="p">— {#pra#}, {#utpatyAruhya dolAyAM prAkrIqadvarakanyakA#}
 krIq@pra@678858
-;<div n="p">— {#pra, utpatyAruhya dolAyAM prAkrIqadvarakanyakA#}
-krIq@utpatyAruhya@678858
-;<div n="p">— {#pra, utpatyAruhya dolAyAM prAkrIqadvarakanyakA#}
-krIq@dolAyAM@678858
-;<div n="p">— {#pra, utpatyAruhya dolAyAM prAkrIqadvarakanyakA#}
-krIq@prAkrIqadvarakanyakA@678858
-;<div n="p">— {#vi, vraje vikrIqatorevaM gopAlacCadmamAyayA#}
+;<div n="p">— {#vi#}, {#vraje vikrIqatorevaM gopAlacCadmamAyayA#}
 krIq@vi@678862
-;<div n="p">— {#vi, vraje vikrIqatorevaM gopAlacCadmamAyayA#}
-krIq@vraje@678862
-;<div n="p">— {#vi, vraje vikrIqatorevaM gopAlacCadmamAyayA#}
-krIq@vikrIqatorevaM@678862
-;<div n="p">— {#vi, vraje vikrIqatorevaM gopAlacCadmamAyayA#}
-krIq@gopAlacCadmamAyayA@678862
 ;<div n="p">— {#apa#}, partic. {#apakruzwa#} {%bescholten, schmachvoll%}: {#jIvitaM yadupakruzwaM yaTEva maraRaM taTA#}
 kruS@apa@678971
 ;<div n="p">— {#ud#}
@@ -9508,30 +9166,22 @@ kruS@ud@678974
 kruS@upa@678980
 ;<div n="p">— {#pari#} und {#pra#} vgl. {#parikroSa#} und {#prakroSa#} .
 kruS@pari@678984
-;<div n="p">— {#A, sOhfdAklinnacetas#} {%feucht%} so v. a. {%weich, gerührt%}
+;<div n="p">— {#A#}, {#sOhfdAklinnacetas#} {%feucht%} so v. a. {%weich, gerührt%}
 klid@A@679241
-;<div n="p">— {#A, sOhfdAklinnacetas#} {%feucht%} so v. a. {%weich, gerührt%}
-klid@sOhfdAklinnacetas@679241
 ;<div n="p">— {#pra#} vgl. {#prakleda#} u.s.w.
 klid@pra@679244
-;<div n="p">— {#vi, viklinnahfdaya#} so v. a. {%erweicht, gerührt%}
+;<div n="p">— {#vi#}, {#viklinnahfdaya#} so v. a. {%erweicht, gerührt%}
 klid@vi@679246
-;<div n="p">— {#vi, viklinnahfdaya#} so v. a. {%erweicht, gerührt%}
-klid@viklinnahfdaya@679246
 ;<div n="p">— {#pari#}, partic.
 kliS@pari@679279
-;<div n="p">— {#sam, saMklizwakarman#} entweder {%derjenige dem Alles schwer von der Hand geht%} oder {%der Andern Leid zufügt%}
+;<div n="p">— {#sam#}, {#saMklizwakarman#} entweder {%derjenige dem Alles schwer von der Hand geht%} oder {%der Andern Leid zufügt%}
 kliS@sam@679283
-;<div n="p">— {#sam, saMklizwakarman#} entweder {%derjenige dem Alles schwer von der Hand geht%} oder {%der Andern Leid zufügt%}
-kliS@saMklizwakarman@679283
 ;<div n="p">— {#pari#} vgl. {#parikvaRana#} .
 kvaR@pari@679385
 ;<div n="p">— {#nis#} vgl. {#nizkvATa#} .
 kvaT@nis@679395
-;<div n="p">— {#vi, vikzata#}
+;<div n="p">— {#vi#}, {#vikzata#}
 kzan@vi@679548
-;<div n="p">— {#vi, vikzata#}
-kzan@vikzata@679548
 ;<div n="p">— {#A#} caus. = {#Asecayati#}
 kzar@A@679795
 ;<div n="p">— {#upa#} {%übergiessen%}: {#upa^kzaranti ju\hvo^ Gf\tena^#}
@@ -9556,16 +9206,12 @@ kzi@prati@679952
 kzi@api@679988
 ;<div n="p">— {#ava#}, absol. {#avakzAyam#}
 kzi@ava@679990
-;<div n="p">— {#upa, °kzIRa#} {%erschöpft durch%} so v. a. {%ganz in Etwas%} (instr.) {%aufgehend, nur damit zu thun habend%}: {#sarvA hIyamupanizadvidyAvidyAvidyAviBAgadarSanenEvopakzIRA#}
+;<div n="p">— {#upa#}, °{#kzIRa#} {%erschöpft durch%} so v. a. {%ganz in Etwas%} (instr.) {%aufgehend, nur damit zu thun habend%}: {#sarvA hIyamupanizadvidyAvidyAvidyAviBAgadarSanenEvopakzIRA#}
 kzi@upa@679993
-;<div n="p">— {#upa, °kzIRa#} {%erschöpft durch%} so v. a. {%ganz in Etwas%} (instr.) {%aufgehend, nur damit zu thun habend%}: {#sarvA hIyamupanizadvidyAvidyAvidyAviBAgadarSanenEvopakzIRA#}
-kzi@°kzIRa@679993
 ;<div n="p">— {#nis#} {%vernichten%} oder {%wegschaffen%}
 kzi@nis@679996
-;<div n="p">— {#pra, prakzIRacandra#} {%stark abgenommen habend%}
+;<div n="p">— {#pra#}, {#prakzIRacandra#} {%stark abgenommen habend%}
 kzi@pra@679999
-;<div n="p">— {#pra, prakzIRacandra#} {%stark abgenommen habend%}
-kzi@prakzIRacandra@679999
 ;<div n="p">— {#vi#} {%verderben, vernichten%}: {#ISvarA yajamAnaM vikzetoH#}
 kzi@vi@680003
 ;<div n="p">— {#sam#} {%zu Nichte machen%}: {#yatrAhaM saMkzayizyAmi SApaM brAhmaRaniHsftam#}
@@ -9614,20 +9260,16 @@ KaRqay@pari@681541
 KaRqay@vi@681543
 ;<div n="p">— {#ud#}
 Kan@ud@681602
-;<div n="p">— {#prod, SfNgaprotKAtasnAnamfttika#}
+;<div n="p">— {#prod#}, {#SfNgaprotKAtasnAnamfttika#}
 Kan@prod@681613
-;<div n="p">— {#prod, SfNgaprotKAtasnAnamfttika#}
-Kan@SfNgaprotKAtasnAnamfttika@681613
 ;<div n="p">— {#samud#} {%mit der Wurzel ausgraben%}
 Kan@samud@681616
 ;<div n="p">— {#ni#}
 Kan@ni@681619
 ;<div n="p">— {#pra#} {%umgraben%} d. h. {%durch Graben zu Fall bringen%}: {#mA naH kaScitpraKAnmA pramezmahi#}
 Kan@pra@681624
-;<div n="p">— {#A, AKAditadviradaSoRita#}
+;<div n="p">— {#A#}, {#AKAditadviradaSoRita#}
 KAd@A@682022
-;<div n="p">— {#A, AKAditadviradaSoRita#}
-KAd@AKAditadviradaSoRita@682022
 ;<div n="p">— {#pra#} {%kauen, zerbeissen%}: {#pra yatKAda^ti\ kzAm#}
 KAd@pra@682025
 ;<div n="p">— {#nis#} {%loskriegen%}
@@ -9680,10 +9322,8 @@ gam@ati@683678
 gam@aDi@683681
 ;<div n="p">— {#anu#}
 gam@anu@683691
-;<div n="p">— {#vyapa, vyapagatalepa#} {%gewichen, verschwunden%}
+;<div n="p">— {#vyapa#}, {#vyapagatalepa#} {%gewichen, verschwunden%}
 gam@vyapa@683700
-;<div n="p">— {#vyapa, vyapagatalepa#} {%gewichen, verschwunden%}
-gam@vyapagatalepa@683700
 ;<div n="p">— {#api#}
 gam@api@683705
 ;<div n="p">— {#aBi#}
@@ -9698,40 +9338,14 @@ gam@vyava@683732
 gam@A@683735
 ;<div n="p">— {#aDyA#},
 gam@aDyA@683740
-;<div n="p">— {#anvA, °gata#} mit act. Bed.
+;<div n="p">— {#anvA#}, °{#gata#} mit act. Bed.
 gam@anvA@683744
-;<div n="p">— {#anvA, °gata#} mit act. Bed.
-gam@°gata@683744
-;<div n="p">— {#samaByA, tvAM Bo mAnasa saMsmaranpunarasO haMsaH samaByAgataH#} {%zurückgekehrt%}
+;<div n="p">— {#samaByA#}, {#tvAM Bo mAnasa saMsmaranpunarasO haMsaH samaByAgataH#} {%zurückgekehrt%}
 gam@samaByA@683747
-;<div n="p">— {#samaByA, tvAM Bo mAnasa saMsmaranpunarasO haMsaH samaByAgataH#} {%zurückgekehrt%}
-gam@tvAM@683747
-;<div n="p">— {#samaByA, tvAM Bo mAnasa saMsmaranpunarasO haMsaH samaByAgataH#} {%zurückgekehrt%}
-gam@Bo@683747
-;<div n="p">— {#samaByA, tvAM Bo mAnasa saMsmaranpunarasO haMsaH samaByAgataH#} {%zurückgekehrt%}
-gam@mAnasa@683747
-;<div n="p">— {#samaByA, tvAM Bo mAnasa saMsmaranpunarasO haMsaH samaByAgataH#} {%zurückgekehrt%}
-gam@saMsmaranpunarasO@683747
-;<div n="p">— {#samaByA, tvAM Bo mAnasa saMsmaranpunarasO haMsaH samaByAgataH#} {%zurückgekehrt%}
-gam@haMsaH@683747
-;<div n="p">— {#samaByA, tvAM Bo mAnasa saMsmaranpunarasO haMsaH samaByAgataH#} {%zurückgekehrt%}
-gam@samaByAgataH@683747
-;<div n="p">— {#aByupA, atisnehavaSAttvAM ca vayaM sarve 'ByupAgatAH#}
+;<div n="p">— {#aByupA#}, {#atisnehavaSAttvAM ca vayaM sarve 'ByupAgatAH#}
 gam@aByupA@683750
-;<div n="p">— {#aByupA, atisnehavaSAttvAM ca vayaM sarve 'ByupAgatAH#}
-gam@atisnehavaSAttvAM@683750
-;<div n="p">— {#aByupA, atisnehavaSAttvAM ca vayaM sarve 'ByupAgatAH#}
-gam@ca@683750
-;<div n="p">— {#aByupA, atisnehavaSAttvAM ca vayaM sarve 'ByupAgatAH#}
-gam@vayaM@683750
-;<div n="p">— {#aByupA, atisnehavaSAttvAM ca vayaM sarve 'ByupAgatAH#}
-gam@sarve@683750
-;<div n="p">— {#aByupA, atisnehavaSAttvAM ca vayaM sarve 'ByupAgatAH#}
-gam@'ByupAgatAH@683750
-;<div n="p">— {#paryupA, °gatAH#} {%um Jmd herum stehend%}
+;<div n="p">— {#paryupA#}, °{#gatAH#} {%um Jmd herum stehend%}
 gam@paryupA@683753
-;<div n="p">— {#paryupA, °gatAH#} {%um Jmd herum stehend%}
-gam@°gatAH@683753
 ;<div n="p">— {#nyA#} {%herabkommen zu%}
 gam@nyA@683756
 ;<div n="p">— {#paryA#}
@@ -9740,10 +9354,8 @@ gam@paryA@683759
 gam@pratinyA@683764
 ;<div n="p">— {#samA#}
 gam@samA@683767
-;<div n="p">— {#ud, udgata#} {%hinausgehend über%} (eine Zahl) so v. a. {#aByaDika#}
+;<div n="p">— {#ud#}, {#udgata#} {%hinausgehend über%} (eine Zahl) so v. a. {#aByaDika#}
 gam@ud@683772
-;<div n="p">— {#ud, udgata#} {%hinausgehend über%} (eine Zahl) so v. a. {#aByaDika#}
-gam@udgata@683772
 ;<div n="p">— {#apod#} desid. {%sich losmachen wollen%}
 gam@apod@683775
 ;<div n="p">— {#upa#}
@@ -9768,16 +9380,12 @@ gam@vi@683837
 gam@sam@683841
 ;<div n="p">— {#anusam#} desid. {%nachfolgen wollen%}
 gam@anusam@683853
-;<div n="p">— {#aBisam, AryamiSrABisaMgata#} {%in Verein mit%}
+;<div n="p">— {#aBisam#}, {#AryamiSrABisaMgata#} {%in Verein mit%}
 gam@aBisam@683856
-;<div n="p">— {#aBisam, AryamiSrABisaMgata#} {%in Verein mit%}
-gam@AryamiSrABisaMgata@683856
 ;<div n="p">— {#upasam#}
 gam@upasam@683859
-;<div n="p">— {#sama, samagacCatu#}
+;<div n="p">— {#sama#}, {#samagacCatu#}
 gam@sama@683864
-;<div n="p">— {#sama, samagacCatu#}
-gam@samagacCatu@683864
 ;<div n="p">— {#aBi#}
 gar@aBi@683962
 ;<div n="p">— {#aByA#} {%besprechen%}: {#yaTAByAgAramaBininartaM punaH punaH pApmAnaM nirhaRyAt#}
@@ -9790,10 +9398,8 @@ gar@sam@683971
 gar@ud@683983
 ;<div n="p">— {#pratyud#} vgl. {#pratyudgAra#} .
 gar@pratyud@683990
-;<div n="p">— {#ni, nigilati#}
+;<div n="p">— {#ni#}, {#nigilati#}
 gar@ni@683992
-;<div n="p">— {#ni, nigilati#}
-gar@nigilati@683992
 ;<div n="p">— {#ud#} caus. {%erwecken%}: {#ujjAgarita#}
 gar@ud@684012
 ;<div n="p">— {#pra#}
@@ -9818,16 +9424,8 @@ gal@ni@684497
 gal@nis@684500
 ;<div n="p">— {#vi#}
 gal@vi@684503
-;<div n="p">— {#pra, yasyAH smaraRamAtreRa pragalBante vipaScitaH#}
+;<div n="p">— {#pra#}, {#yasyAH smaraRamAtreRa pragalBante vipaScitaH#}
 galB@pra@684555
-;<div n="p">— {#pra, yasyAH smaraRamAtreRa pragalBante vipaScitaH#}
-galB@yasyAH@684555
-;<div n="p">— {#pra, yasyAH smaraRamAtreRa pragalBante vipaScitaH#}
-galB@smaraRamAtreRa@684555
-;<div n="p">— {#pra, yasyAH smaraRamAtreRa pragalBante vipaScitaH#}
-galB@pragalBante@684555
-;<div n="p">— {#pra, yasyAH smaraRamAtreRa pragalBante vipaScitaH#}
-galB@vipaScitaH@684555
 ;<div n="p">— {#aBi#}
 gA@aBi@684704
 ;<div n="p">— {#pari#}
@@ -9836,68 +9434,36 @@ gA@pari@684709
 gA@vipari@684713
 ;<div n="p">— {#anu#}
 gA@anu@684745
-;<div n="p">— {#ava, avagItaM muhurdfzwamupalabDaM ca yadBavet#}
+;<div n="p">— {#ava#}, {#avagItaM muhurdfzwamupalabDaM ca yadBavet#}
 gA@ava@684749
-;<div n="p">— {#ava, avagItaM muhurdfzwamupalabDaM ca yadBavet#}
-gA@avagItaM@684749
-;<div n="p">— {#ava, avagItaM muhurdfzwamupalabDaM ca yadBavet#}
-gA@muhurdfzwamupalabDaM@684749
-;<div n="p">— {#ava, avagItaM muhurdfzwamupalabDaM ca yadBavet#}
-gA@ca@684749
-;<div n="p">— {#ava, avagItaM muhurdfzwamupalabDaM ca yadBavet#}
-gA@yadBavet@684749
 ;<div n="p">— {#A#}
 gA@A@684753
-;<div n="p">— {#ud, udgAti#}
+;<div n="p">— {#ud#}, {#udgAti#}
 gA@ud@684757
-;<div n="p">— {#ud, udgAti#}
-gA@udgAti@684757
 ;<div n="p">— {#upa#}
 gA@upa@684763
-;<div n="p">— {#pra, pragIta#} {%singend hergesagt, gesungen%}: {#vEdikASca (mantrAH) dviviDAH pragItA apragItASca . tatra pragItAH sAmAni . apragItASca dviviDAH#} (nämlich {#fcaH#} und {#yajUMzi)#}
+;<div n="p">— {#pra#}, {#pragIta#} {%singend hergesagt, gesungen%}: {#vEdikASca (mantrAH) dviviDAH pragItA apragItASca . tatra pragItAH sAmAni . apragItASca dviviDAH#} (nämlich {#fcaH#} und {#yajUMzi)#}
 gA@pra@684769
-;<div n="p">— {#pra, pragIta#} {%singend hergesagt, gesungen%}: {#vEdikASca (mantrAH) dviviDAH pragItA apragItASca . tatra pragItAH sAmAni . apragItASca dviviDAH#} (nämlich {#fcaH#} und {#yajUMzi)#}
-gA@pragIta@684769
 ;<div n="p">— {#saMpra#} {%zu singen beginnen%}: {#samaM saMprajaguryatra manastuzwivivarDanam#}
 gA@saMpra@684773
 ;<div n="p">— {#ava#} {%ergründen, begreifen%}; pass.
 gAh@ava@685208
-;<div n="p">— {#vi, vijagAha jalam#}
+;<div n="p">— {#vi#}, {#vijagAha jalam#}
 gAh@vi@685211
-;<div n="p">— {#vi, vijagAha jalam#}
-gAh@vijagAha@685211
-;<div n="p">— {#vi, vijagAha jalam#}
-gAh@jalam@685211
-;<div n="p">— {#anu, anuguRita#}
+;<div n="p">— {#anu#}, {#anuguRita#}
 guRay@anu@685626
-;<div n="p">— {#anu, anuguRita#}
-guRay@anuguRita@685626
-;<div n="p">— {#ava, pAvakenAvaguRWitaH#} {%in Feuer gehüllt%}
+;<div n="p">— {#ava#}, {#pAvakenAvaguRWitaH#} {%in Feuer gehüllt%}
 guRW@ava@685771
-;<div n="p">— {#ava, pAvakenAvaguRWitaH#} {%in Feuer gehüllt%}
-guRW@pAvakenAvaguRWitaH@685771
-;<div n="p">— {#samava, nIlaM satoyameGABaM vastraM samavaguRWitA#} {%gehüllt in ein Gewand%}
+;<div n="p">— {#samava#}, {#nIlaM satoyameGABaM vastraM samavaguRWitA#} {%gehüllt in ein Gewand%}
 guRW@samava@685775
-;<div n="p">— {#samava, nIlaM satoyameGABaM vastraM samavaguRWitA#} {%gehüllt in ein Gewand%}
-guRW@nIlaM@685775
-;<div n="p">— {#samava, nIlaM satoyameGABaM vastraM samavaguRWitA#} {%gehüllt in ein Gewand%}
-guRW@satoyameGABaM@685775
-;<div n="p">— {#samava, nIlaM satoyameGABaM vastraM samavaguRWitA#} {%gehüllt in ein Gewand%}
-guRW@vastraM@685775
-;<div n="p">— {#samava, nIlaM satoyameGABaM vastraM samavaguRWitA#} {%gehüllt in ein Gewand%}
-guRW@samavaguRWitA@685775
-;<div n="p">— {#A, kusumarasavimuktavastramAguRWitAM#} {%gehüllt in ein Gewand%}
+;<div n="p">— {#A#}, {#kusumarasavimuktavastramAguRWitAM#} {%gehüllt in ein Gewand%}
 guRW@A@685778
-;<div n="p">— {#A, kusumarasavimuktavastramAguRWitAM#} {%gehüllt in ein Gewand%}
-guRW@kusumarasavimuktavastramAguRWitAM@685778
 ;<div n="p">— {#aDi#} vgl. {#aDigoptar#} .
 gup@aDi@685812
 ;<div n="p">— {#anu#}
 gup@anu@685814
-;<div n="p">— {#ava, avAgurat#}
+;<div n="p">— {#ava#}, {#avAgurat#}
 gur@ava@685901
-;<div n="p">— {#ava, avAgurat#}
-gur@avAgurat@685901
 ;<div n="p">— {#samaBi#} med. {%sich zusammenkauern%}
 guh@samaBi@686130
 ;<div n="p">— {#samava#} s. u. {#samaBi#} .
@@ -9966,48 +9532,30 @@ Gaww@pari@688652
 Gaww@sam@688654
 ;<div n="p">— {#prA#} vgl. {#prAGAra#} .
 Gar@prA@688771
-;<div n="p">— {#ava, pARiByAmavaGfzya#} (Conj.) {%abreiben%}
+;<div n="p">— {#ava#}, {#pARiByAmavaGfzya#} (Conj.) {%abreiben%}
 Garz@ava@688802
-;<div n="p">— {#ava, pARiByAmavaGfzya#} (Conj.) {%abreiben%}
-Garz@pARiByAmavaGfzya@688802
 ;<div n="p">— {#ni#} vgl. {#niGarza#} fg., {#niGfzva; - nis#} vgl. {#nirGarzaRa#} .
 Garz@ni@688805
-;<div n="p">— {#vyA, °Guwita#} {%zurückgekehrt%}
+;<div n="p">— {#vyA#}, °{#Guwita#} {%zurückgekehrt%}
 Guw@vyA@688916
-;<div n="p">— {#vyA, °Guwita#} {%zurückgekehrt%}
-Guw@°Guwita@688916
 ;<div n="p">— {#ud#} {%laut verkünden%}: {#imAni dUzaRAnyudGuzyante#}
 Guz@ud@688958
 ;<div n="p">— {#prod#} vgl. {#prodGozaRA#} .
 Guz@prod@688962
 ;<div n="p">— {#pari#} {%laut verkünden%}: {#pariGuzyantaH#} (sic)
 Guz@pari@688964
-;<div n="p">— {#A, vismayAGUrRitaM SiraH#}
+;<div n="p">— {#A#}, {#vismayAGUrRitaM SiraH#}
 GUrR@A@688981
-;<div n="p">— {#A, vismayAGUrRitaM SiraH#}
-GUrR@vismayAGUrRitaM@688981
-;<div n="p">— {#A, vismayAGUrRitaM SiraH#}
-GUrR@SiraH@688981
-;<div n="p">— {#vyA, °GUrRante - vanarAjayaH#}
+;<div n="p">— {#vyA#}, °{#GUrRante - vanarAjayaH#}
 GUrR@vyA@688985
-;<div n="p">— {#vyA, °GUrRante - vanarAjayaH#}
-GUrR@°GUrRante@688985
-;<div n="p">— {#vyA, °GUrRante - vanarAjayaH#}
-GUrR@vanarAjayaH@688985
-;<div n="p">— {#vi, °GUrRantI#}
+;<div n="p">— {#vi#}, °{#GUrRantI#}
 GUrR@vi@688988
-;<div n="p">— {#vi, °GUrRantI#}
-GUrR@°GUrRantI@688988
 ;<div n="p">— {#anu#} {%küssen%}: {#pitroH pAdAvanuGrAya#}
 GrA@anu@689170
 ;<div n="p">— {#ava#} caus.
 GrA@ava@689173
-;<div n="p">— {#vyA, °jiGratIti vyAGraH#}
+;<div n="p">— {#vyA#}, °{#jiGratIti vyAGraH#}
 GrA@vyA@689176
-;<div n="p">— {#vyA, °jiGratIti vyAGraH#}
-GrA@°jiGratIti@689176
-;<div n="p">— {#vyA, °jiGratIti vyAGraH#}
-GrA@vyAGraH@689176
 ;<div n="p">— {#sam#} {%erhellen%}, mit acc.
 cakAs@sam@689223
 ;<div n="p">— {#anu#} {%benennen, nennen%}
@@ -10072,10 +9620,8 @@ car@saMpravi@691042
 car@sam@691045
 ;<div n="p">— {#parisam#} vgl. {#parisaMcara; - pratisam#} vgl. {#pratisaMcara#} .
 car@parisam@691055
-;<div n="p">— {#vi, vicarcita#} {%aufgetragen%}: {#priyaNgukAlIyakakuNkumAni stanANgarAgezu vicarcitAni#}
+;<div n="p">— {#vi#}, {#vicarcita#} {%aufgetragen%}: {#priyaNgukAlIyakakuNkumAni stanANgarAgezu vicarcitAni#}
 carc@vi@691231
-;<div n="p">— {#vi, vicarcita#} {%aufgetragen%}: {#priyaNgukAlIyakakuNkumAni stanANgarAgezu vicarcitAni#}
-carc@vicarcita@691231
 ;<div n="p">— {#ud#} {%aufbrechen%}
 cal@ud@691390
 ;<div n="p">— {#prod#} {%aufbrechen%}
@@ -10104,16 +9650,8 @@ ci@apa@691924
 ci@ava@691930
 ;<div n="p">— {#upa#}, in Betreff von {#upacAyin#} vgl. oben
 ci@upa@691933
-;<div n="p">— {#nis, vivAhaM ca niScikAyAhni saptame#} {%setzte fest%}
+;<div n="p">— {#nis#}, {#vivAhaM ca niScikAyAhni saptame#} {%setzte fest%}
 ci@nis@691936
-;<div n="p">— {#nis, vivAhaM ca niScikAyAhni saptame#} {%setzte fest%}
-ci@vivAhaM@691936
-;<div n="p">— {#nis, vivAhaM ca niScikAyAhni saptame#} {%setzte fest%}
-ci@ca@691936
-;<div n="p">— {#nis, vivAhaM ca niScikAyAhni saptame#} {%setzte fest%}
-ci@niScikAyAhni@691936
-;<div n="p">— {#nis, vivAhaM ca niScikAyAhni saptame#} {%setzte fest%}
-ci@saptame@691936
 ;<div n="p">— {#parinis#} vgl. {#pariniScaya#} .
 ci@parinis@691939
 ;<div n="p">— {#pari#}
@@ -10136,18 +9674,12 @@ cint@pravi@692594
 cint@saMvi@692596
 ;<div n="p">— {#pra#} caus.
 cud@pra@692895
-;<div n="p">— {#sama, AkarRasamacoditEH#} (so auch die ed. Bomb.; der
+;<div n="p">— {#sama#}, {#AkarRasamacoditEH#} (so auch die ed. Bomb.; der
 cud@sama@692906
-;<div n="p">— {#sama, AkarRasamacoditEH#} (so auch die ed. Bomb.; der
-cud@AkarRasamacoditEH@692906
 ;<div n="p">— {#pari#}
 cumb@pari@692931
-;<div n="p">— {#A, sarvamAcezwate viDiH#} {%thun, vollbringen%}
+;<div n="p">— {#A#}, {#sarvamAcezwate viDiH#} {%thun, vollbringen%}
 cezw@A@693193
-;<div n="p">— {#A, sarvamAcezwate viDiH#} {%thun, vollbringen%}
-cezw@sarvamAcezwate@693193
-;<div n="p">— {#A, sarvamAcezwate viDiH#} {%thun, vollbringen%}
-cezw@viDiH@693193
 ;<div n="p">— {#vi#}
 cezw@vi@693196
 ;<div n="p">— {#pari#}
@@ -10168,18 +9700,14 @@ Cad@ud@693669
 Cad@apod@693673
 ;<div n="p">— {#pra#}
 Cad@pra@693675
-;<div n="p">— {#vipra, vipracCanna#} {%verborgen, geheim%}
+;<div n="p">— {#vipra#}, {#vipracCanna#} {%verborgen, geheim%}
 Cad@vipra@693684
-;<div n="p">— {#vipra, vipracCanna#} {%verborgen, geheim%}
-Cad@vipracCanna@693684
 ;<div n="p">— {#prati#}
 Cad@prati@693687
 ;<div n="p">— {#upa#}
 Cad@upa@693700
-;<div n="p">— {#A, anAcCfRRa#}
+;<div n="p">— {#A#}, {#anAcCfRRa#}
 Card@A@693872
-;<div n="p">— {#A, anAcCfRRa#}
-Card@anAcCfRRa@693872
 ;<div n="p">— {#ava#}
 CA@ava@693944
 ;<div n="p">— {#A#} {%abschneiden, abschaben%}: {#barhiH#} Citat bei
@@ -10192,22 +9720,14 @@ CA@nyAvi@693953
 Cid@ava@694100
 ;<div n="p">— {#A#}
 Cid@A@694110
-;<div n="p">— {#samud, samucCinna#} {%verloren gegangen%}: {#racanA#}
+;<div n="p">— {#samud#}, {#samucCinna#} {%verloren gegangen%}: {#racanA#}
 Cid@samud@694120
-;<div n="p">— {#samud, samucCinna#} {%verloren gegangen%}: {#racanA#}
-Cid@samucCinna@694120
 ;<div n="p">— {#pari#}
 Cid@pari@694123
 ;<div n="p">— {#vi#}
 Cid@vi@694131
-;<div n="p">— {#vi, utPullEH svarRakamalEH - tanmuKAmBoruhotsarpatkAntivicCuritEriva#}
+;<div n="p">— {#vi#}, {#utPullEH svarRakamalEH - tanmuKAmBoruhotsarpatkAntivicCuritEriva#}
 Cur@vi@694194
-;<div n="p">— {#vi, utPullEH svarRakamalEH - tanmuKAmBoruhotsarpatkAntivicCuritEriva#}
-Cur@utPullEH@694194
-;<div n="p">— {#vi, utPullEH svarRakamalEH - tanmuKAmBoruhotsarpatkAntivicCuritEriva#}
-Cur@svarRakamalEH@694194
-;<div n="p">— {#vi, utPullEH svarRakamalEH - tanmuKAmBoruhotsarpatkAntivicCuritEriva#}
-Cur@tanmuKAmBoruhotsarpatkAntivicCuritEriva@694194
 ;<div n="p">— {#aBi#}
 jan@aBi@694727
 ;<div n="p">— {#upa#}
@@ -10228,14 +9748,8 @@ ji@vinis@696277
 ji@parA@696281
 ;<div n="p">— {#vi#}
 ji@vi@696285
-;<div n="p">— {#A, AjIvyEkataraM BAvaM yastvanyamupajIvati#}
+;<div n="p">— {#A#}, {#AjIvyEkataraM BAvaM yastvanyamupajIvati#}
 jIv@A@696603
-;<div n="p">— {#A, AjIvyEkataraM BAvaM yastvanyamupajIvati#}
-jIv@AjIvyEkataraM@696603
-;<div n="p">— {#A, AjIvyEkataraM BAvaM yastvanyamupajIvati#}
-jIv@BAvaM@696603
-;<div n="p">— {#A, AjIvyEkataraM BAvaM yastvanyamupajIvati#}
-jIv@yastvanyamupajIvati@696603
 ;<div n="p">— {#aByud#} lies {%sich am Leben zu erhalten suchen, sich nähren%} und vgl.
 jIv@aByud@696606
 ;<div n="p">— {#pratyud#}
@@ -10262,52 +9776,26 @@ jYA@apa@697213
 jYA@aBi@697215
 ;<div n="p">— {#pratyaBi#}
 jYA@pratyaBi@697220
-;<div n="p">— {#ava, mAvajYa = mAvajAnIhi#}
+;<div n="p">— {#ava#}, {#mAvajYa = mAvajAnIhi#}
 jYA@ava@697225
-;<div n="p">— {#ava, mAvajYa = mAvajAnIhi#}
-jYA@mAvajYa@697225
-;<div n="p">— {#ava, mAvajYa = mAvajAnIhi#}
-jYA@mAvajAnIhi@697225
 ;<div n="p">— {#A#} {%halten für%}: {#gopErgopavadAjYAyi (°dajYAyi?) harirdevErjagatpatiH#}
 jYA@A@697228
 ;<div n="p">— {#upa#} desid. die neuere Ausg. liest: {#tAnyuktErupajijYAsyastaTA dvijavarottamAn#};
 jYA@upa@697231
-;<div n="p">— {#nis, nirjYAtamadgati#}
+;<div n="p">— {#nis#}, {#nirjYAtamadgati#}
 jYA@nis@697234
-;<div n="p">— {#nis, nirjYAtamadgati#}
-jYA@nirjYAtamadgati@697234
 ;<div n="p">— {#pari#}
 jYA@pari@697237
-;<div n="p">— {#pratipra, a\nye vA\ vE ni\Dimagu^ptaM vi\ndanti\ na vA\ prati\ prajA^nanti#}
+;<div n="p">— {#pratipra#}, {#a\nye vA\ vE ni\Dimagu^ptaM vi\ndanti\ na vA\ prati\ prajA^nanti#}
 jYA@pratipra@697241
-;<div n="p">— {#pratipra, a\nye vA\ vE ni\Dimagu^ptaM vi\ndanti\ na vA\ prati\ prajA^nanti#}
-jYA@a\nye@697241
-;<div n="p">— {#pratipra, a\nye vA\ vE ni\Dimagu^ptaM vi\ndanti\ na vA\ prati\ prajA^nanti#}
-jYA@vA\@697241
-;<div n="p">— {#pratipra, a\nye vA\ vE ni\Dimagu^ptaM vi\ndanti\ na vA\ prati\ prajA^nanti#}
-jYA@vE@697241
-;<div n="p">— {#pratipra, a\nye vA\ vE ni\Dimagu^ptaM vi\ndanti\ na vA\ prati\ prajA^nanti#}
-jYA@ni\Dimagu^ptaM@697241
-;<div n="p">— {#pratipra, a\nye vA\ vE ni\Dimagu^ptaM vi\ndanti\ na vA\ prati\ prajA^nanti#}
-jYA@vi\ndanti\@697241
-;<div n="p">— {#pratipra, a\nye vA\ vE ni\Dimagu^ptaM vi\ndanti\ na vA\ prati\ prajA^nanti#}
-jYA@na@697241
-;<div n="p">— {#pratipra, a\nye vA\ vE ni\Dimagu^ptaM vi\ndanti\ na vA\ prati\ prajA^nanti#}
-jYA@vA\@697241
-;<div n="p">— {#pratipra, a\nye vA\ vE ni\Dimagu^ptaM vi\ndanti\ na vA\ prati\ prajA^nanti#}
-jYA@prati\@697241
-;<div n="p">— {#pratipra, a\nye vA\ vE ni\Dimagu^ptaM vi\ndanti\ na vA\ prati\ prajA^nanti#}
-jYA@prajA^nanti@697241
 ;<div n="p">— {#prati#}
 jYA@prati@697245
 ;<div n="p">— {#vi#}
 jYA@vi@697251
 ;<div n="p">— {#prativi#} lies {%erkenntlich sein%} und vgl.
 jYA@prativi@697256
-;<div n="p">— {#saMvi, °jYAta#} {%allgemein anerkannt%}
+;<div n="p">— {#saMvi#}, °{#jYAta#} {%allgemein anerkannt%}
 jYA@saMvi@697259
-;<div n="p">— {#saMvi, °jYAta#} {%allgemein anerkannt%}
-jYA@°jYAta@697259
 ;<div n="p">— {#sam#} caus.
 jYA@sam@697262
 ;<div n="p">— {#ava#} vgl. {#avajyotana#} .
@@ -10326,22 +9814,14 @@ jval@ud@697850
 jval@samud@697853
 ;<div n="p">— {#pra#} caus. (mit langem {#A)#}
 jval@pra@697856
-;<div n="p">— {#saMpra, kroDAtsaMprajvalanniva#}
+;<div n="p">— {#saMpra#}, {#kroDAtsaMprajvalanniva#}
 jval@saMpra@697860
-;<div n="p">— {#saMpra, kroDAtsaMprajvalanniva#}
-jval@kroDAtsaMprajvalanniva@697860
 ;<div n="p">— {#sam#} caus. {%erleuchten%}
 jval@sam@697864
 ;<div n="p">— {#nis#} {%sich ausdrücken, ausdrücken%} (in Worten): {#iti SaMkarAcAryErnirawaNki#}
 waNk@nis@698025
-;<div n="p">— {#anu, acCi^drA u\Sija^H pa\dAnu^takzuH#}
+;<div n="p">— {#anu#}, {#acCi^drA u\Sija^H pa\dAnu^takzuH#}
 takz@anu@698468
-;<div n="p">— {#anu, acCi^drA u\Sija^H pa\dAnu^takzuH#}
-takz@acCi^drA@698468
-;<div n="p">— {#anu, acCi^drA u\Sija^H pa\dAnu^takzuH#}
-takz@u\Sija^H@698468
-;<div n="p">— {#anu, acCi^drA u\Sija^H pa\dAnu^takzuH#}
-takz@pa\dAnu^takzuH@698468
 ;<div n="p">— {#A#}
 tan@A@698939
 ;<div n="p">— {#samA#},
@@ -10368,14 +9848,10 @@ tap@pari@699288
 tap@pra@699292
 ;<div n="p">— {#prati#}
 tap@prati@699296
-;<div n="p">— {#ava, a/vatAnta#} {%ohnmächtig%}
+;<div n="p">— {#ava#}, {#a/vatAnta#} {%ohnmächtig%}
 tam@ava@699392
-;<div n="p">— {#ava, a/vatAnta#} {%ohnmächtig%}
-tam@a/vatAnta@699392
-;<div n="p">— {#ni, nitAnta#}
+;<div n="p">— {#ni#}, {#nitAnta#}
 tam@ni@699395
-;<div n="p">— {#ni, nitAnta#}
-tam@nitAnta@699395
 ;<div n="p">— {#ava#}
 tar@ava@699458
 ;<div n="p">— {#ud#}
@@ -10400,14 +9876,10 @@ tar@sam@699504
 tar@anusam@699515
 ;<div n="p">— {#pari#} vgl. {#paritarkaRa#} .
 tark@pari@699683
-;<div n="p">— {#prati, apratitarkita#} {%unerwartet%} oder {%wovon man sich keine Vorstellung zu bilden vermag%}
+;<div n="p">— {#prati#}, {#apratitarkita#} {%unerwartet%} oder {%wovon man sich keine Vorstellung zu bilden vermag%}
 tark@prati@699685
-;<div n="p">— {#prati, apratitarkita#} {%unerwartet%} oder {%wovon man sich keine Vorstellung zu bilden vermag%}
-tark@apratitarkita@699685
-;<div n="p">— {#sam, saMtarjyamAna#} (so die ed. Bomb.)
+;<div n="p">— {#sam#}, {#saMtarjyamAna#} (so die ed. Bomb.)
 tarj@sam@699819
-;<div n="p">— {#sam, saMtarjyamAna#} (so die ed. Bomb.)
-tarj@saMtarjyamAna@699819
 ;<div n="p">— {#upa#} {%anstechen, spalten%}
 tard@upa@699852
 ;<div n="p">— {#pra#} vgl. {#pratardana#} .
@@ -10416,64 +9888,22 @@ tard@pra@699855
 tard@sam@699857
 ;<div n="p">— {#pari#} vgl. {#paritarpaRa#} .
 tarp@pari@699870
-;<div n="p">— {#vi, vitfpto ruDirEstezAm#}
+;<div n="p">— {#vi#}, {#vitfpto ruDirEstezAm#}
 tarp@vi@699872
-;<div n="p">— {#vi, vitfpto ruDirEstezAm#}
-tarp@vitfpto@699872
-;<div n="p">— {#vi, vitfpto ruDirEstezAm#}
-tarp@ruDirEstezAm@699872
 ;<div n="p">— {#sam#} {%sich laben an%} (gen.): {#amftasyeva saMtfpyedavamAnasya paRqitaH#}
 tarp@sam@699875
 ;<div n="p">— {#prati#} s. {#pratItoda#} .
 tud@prati@701029
-;<div n="p">— {#sam, yaTAmayo 'sADu cikitsito nfRAM punaH punaH saMtudati prarohAn#} so v. a. {%immer wieder hervorbricht%}
+;<div n="p">— {#sam#}, {#yaTAmayo 'sADu cikitsito nfRAM punaH punaH saMtudati prarohAn#} so v. a. {%immer wieder hervorbricht%}
 tud@sam@701031
-;<div n="p">— {#sam, yaTAmayo 'sADu cikitsito nfRAM punaH punaH saMtudati prarohAn#} so v. a. {%immer wieder hervorbricht%}
-tud@yaTAmayo@701031
-;<div n="p">— {#sam, yaTAmayo 'sADu cikitsito nfRAM punaH punaH saMtudati prarohAn#} so v. a. {%immer wieder hervorbricht%}
-tud@'sADu@701031
-;<div n="p">— {#sam, yaTAmayo 'sADu cikitsito nfRAM punaH punaH saMtudati prarohAn#} so v. a. {%immer wieder hervorbricht%}
-tud@cikitsito@701031
-;<div n="p">— {#sam, yaTAmayo 'sADu cikitsito nfRAM punaH punaH saMtudati prarohAn#} so v. a. {%immer wieder hervorbricht%}
-tud@nfRAM@701031
-;<div n="p">— {#sam, yaTAmayo 'sADu cikitsito nfRAM punaH punaH saMtudati prarohAn#} so v. a. {%immer wieder hervorbricht%}
-tud@punaH@701031
-;<div n="p">— {#sam, yaTAmayo 'sADu cikitsito nfRAM punaH punaH saMtudati prarohAn#} so v. a. {%immer wieder hervorbricht%}
-tud@punaH@701031
-;<div n="p">— {#sam, yaTAmayo 'sADu cikitsito nfRAM punaH punaH saMtudati prarohAn#} so v. a. {%immer wieder hervorbricht%}
-tud@saMtudati@701031
-;<div n="p">— {#sam, yaTAmayo 'sADu cikitsito nfRAM punaH punaH saMtudati prarohAn#} so v. a. {%immer wieder hervorbricht%}
-tud@prarohAn@701031
-;<div n="p">— {#sam, SrutvApi te saMtulayanti tattvam#} {%abwägen%}
+;<div n="p">— {#sam#}, {#SrutvApi te saMtulayanti tattvam#} {%abwägen%}
 tul@sam@701178
-;<div n="p">— {#sam, SrutvApi te saMtulayanti tattvam#} {%abwägen%}
-tul@SrutvApi@701178
-;<div n="p">— {#sam, SrutvApi te saMtulayanti tattvam#} {%abwägen%}
-tul@te@701178
-;<div n="p">— {#sam, SrutvApi te saMtulayanti tattvam#} {%abwägen%}
-tul@saMtulayanti@701178
-;<div n="p">— {#sam, SrutvApi te saMtulayanti tattvam#} {%abwägen%}
-tul@tattvam@701178
 ;<div n="p">— {#aBi#} {%sich zufrieden fühlen, seine Freude haben%}: {#BfSamaByatuzyat#}
 tuz@aBi@701277
-;<div n="p">— {#pari, °tutuzuH#}
+;<div n="p">— {#pari#}, °{#tutuzuH#}
 tuz@pari@701280
-;<div n="p">— {#pari, °tutuzuH#}
-tuz@°tutuzuH@701280
-;<div n="p">— {#sam, asaMtuzwA dvijA nazwAH saMtuzwA iva pArTivAH#} {%ungenügsame, genügsame%}
+;<div n="p">— {#sam#}, {#asaMtuzwA dvijA nazwAH saMtuzwA iva pArTivAH#} {%ungenügsame, genügsame%}
 tuz@sam@701284
-;<div n="p">— {#sam, asaMtuzwA dvijA nazwAH saMtuzwA iva pArTivAH#} {%ungenügsame, genügsame%}
-tuz@asaMtuzwA@701284
-;<div n="p">— {#sam, asaMtuzwA dvijA nazwAH saMtuzwA iva pArTivAH#} {%ungenügsame, genügsame%}
-tuz@dvijA@701284
-;<div n="p">— {#sam, asaMtuzwA dvijA nazwAH saMtuzwA iva pArTivAH#} {%ungenügsame, genügsame%}
-tuz@nazwAH@701284
-;<div n="p">— {#sam, asaMtuzwA dvijA nazwAH saMtuzwA iva pArTivAH#} {%ungenügsame, genügsame%}
-tuz@saMtuzwA@701284
-;<div n="p">— {#sam, asaMtuzwA dvijA nazwAH saMtuzwA iva pArTivAH#} {%ungenügsame, genügsame%}
-tuz@iva@701284
-;<div n="p">— {#sam, asaMtuzwA dvijA nazwAH saMtuzwA iva pArTivAH#} {%ungenügsame, genügsame%}
-tuz@pArTivAH@701284
 ;<div n="p">— {#pari#}
 tyaj@pari@701830
 ;<div n="p">— {#pari#} vgl. {#paritrAsa#} .
@@ -10482,14 +9912,10 @@ tras@pari@701915
 tras@vi@701917
 ;<div n="p">— {#ati#},
 tvar@ati@702943
-;<div n="p">— {#pra, pratUrRa#} {%eilend u.s.w.%}
+;<div n="p">— {#pra#}, {#pratUrRa#} {%eilend u.s.w.%}
 tvar@pra@702946
-;<div n="p">— {#pra, pratUrRa#} {%eilend u.s.w.%}
-tvar@pratUrRa@702946
-;<div n="p">— {#A, aSukAdazwamekamAmraPalam#}
+;<div n="p">— {#A#}, {#aSukAdazwamekamAmraPalam#}
 daMS@A@703023
-;<div n="p">— {#A, aSukAdazwamekamAmraPalam#}
-daMS@aSukAdazwamekamAmraPalam@703023
 ;<div n="p">— {#nis#} vgl. {#nirdaMSa#} .
 daMS@nis@703026
 ;<div n="p">— {#ud#}, die ed. Bomb. liest {#udyamya#}, welches
@@ -10506,10 +9932,8 @@ dar@udvi@703574
 dar@pravi@703577
 ;<div n="p">— {#pra#} vgl. {#pradfpti#} .
 darp@pra@703661
-;<div n="p">— {#pratyA, pratyAdfSyanta#}
+;<div n="p">— {#pratyA#}, {#pratyAdfSyanta#}
 darS@pratyA@703702
-;<div n="p">— {#pratyA, pratyAdfSyanta#}
-darS@pratyAdfSyanta@703702
 ;<div n="p">— {#ni#} caus.
 darS@ni@703705
 ;<div n="p">— {#vi#}
@@ -10534,10 +9958,8 @@ dA@aByA@704092
 dA@upA@704097
 ;<div n="p">— {#samupA#}
 dA@samupA@704105
-;<div n="p">— {#vyA, °dehi#} und med. {#vyAdatta#} ohne {#muKam#}
+;<div n="p">— {#vyA#}, °{#dehi#} und med. {#vyAdatta#} ohne {#muKam#}
 dA@vyA@704109
-;<div n="p">— {#vyA, °dehi#} und med. {#vyAdatta#} ohne {#muKam#}
-dA@°dehi@704109
 ;<div n="p">— {#samA#}
 dA@samA@704112
 ;<div n="p">— {#pari#}
@@ -10582,20 +10004,8 @@ dIp@vi@705304
 du@pra@705504
 ;<div n="p">— {#upa#} caus. {#°dUzita#} {%mit einem Makel behaftet%}: {#jAtimAtropadUzita#}
 duz@upa@706681
-;<div n="p">— {#pra, amitro mitratAM yAti mitraM cApi praduzyati#} so v. a. {%untreu werden%}
+;<div n="p">— {#pra#}, {#amitro mitratAM yAti mitraM cApi praduzyati#} so v. a. {%untreu werden%}
 duz@pra@706684
-;<div n="p">— {#pra, amitro mitratAM yAti mitraM cApi praduzyati#} so v. a. {%untreu werden%}
-duz@amitro@706684
-;<div n="p">— {#pra, amitro mitratAM yAti mitraM cApi praduzyati#} so v. a. {%untreu werden%}
-duz@mitratAM@706684
-;<div n="p">— {#pra, amitro mitratAM yAti mitraM cApi praduzyati#} so v. a. {%untreu werden%}
-duz@yAti@706684
-;<div n="p">— {#pra, amitro mitratAM yAti mitraM cApi praduzyati#} so v. a. {%untreu werden%}
-duz@mitraM@706684
-;<div n="p">— {#pra, amitro mitratAM yAti mitraM cApi praduzyati#} so v. a. {%untreu werden%}
-duz@cApi@706684
-;<div n="p">— {#pra, amitro mitratAM yAti mitraM cApi praduzyati#} so v. a. {%untreu werden%}
-duz@praduzyati@706684
 ;<div n="p">— {#vi#} caus. {%verunglimpfen%}: {#paraguRAn#}
 duz@vi@706688
 ;<div n="p">— {#nis#}
@@ -10716,10 +10126,8 @@ DU@vyava@710800
 DU@vyA@710803
 ;<div n="p">— {#ud#}
 DU@ud@710806
-;<div n="p">— {#samud, mahAvAtasamudDUtaM#} (so die ed. Bomb.) {#rajaH#}
+;<div n="p">— {#samud#}, {#mahAvAtasamudDUtaM#} (so die ed. Bomb.) {#rajaH#}
 DU@samud@710814
-;<div n="p">— {#samud, mahAvAtasamudDUtaM#} (so die ed. Bomb.) {#rajaH#}
-DU@mahAvAtasamudDUtaM@710814
 ;<div n="p">— {#ni#}
 DU@ni@710817
 ;<div n="p">— {#pari#} {%abschütteln%}: {#pApOGaH pariDUyatAm#}
@@ -10730,10 +10138,8 @@ DU@vi@710823
 DU@anuvi@710831
 ;<div n="p">— {#pravi#} {%hinundher schwingen%}: {#praviDutadfQamuzwipIqitAsivara#}
 DU@pravi@710835
-;<div n="p">— {#aBi, maNgalAnyaBidaDyuzI#} {%sinnend auf%}
+;<div n="p">— {#aBi#}, {#maNgalAnyaBidaDyuzI#} {%sinnend auf%}
 DyA@aBi@711130
-;<div n="p">— {#aBi, maNgalAnyaBidaDyuzI#} {%sinnend auf%}
-DyA@maNgalAnyaBidaDyuzI@711130
 ;<div n="p">— {#upa#}
 DyA@upa@711134
 ;<div n="p">— {#praRi#} {%nachdenken%}
@@ -10748,14 +10154,8 @@ DvaMs@vini@711281
 DvaMs@prati@711285
 ;<div n="p">— {#vi#}
 DvaMs@vi@711288
-;<div n="p">— {#ud, awwahAsa ivonnadan . siMhaH#}
+;<div n="p">— {#ud#}, {#awwahAsa ivonnadan . siMhaH#}
 nad@ud@711692
-;<div n="p">— {#ud, awwahAsa ivonnadan . siMhaH#}
-nad@awwahAsa@711692
-;<div n="p">— {#ud, awwahAsa ivonnadan . siMhaH#}
-nad@ivonnadan@711692
-;<div n="p">— {#ud, awwahAsa ivonnadan . siMhaH#}
-nad@siMhaH@711692
 ;<div n="p">— {#pari#}, die ed. Bomb. liest {#yadyevaM matiradya vaH#} st. {#yadidaM parinadya vE#} .
 nad@pari@711696
 ;<div n="p">— {#pratyaBi#} vgl. {#pratyaBinandin#} .
@@ -10764,14 +10164,8 @@ nand@pratyaBi@711758
 nand@samaBi@711760
 ;<div n="p">— {#anu#} caus. {%sich beugen machen%}
 nam@anu@711950
-;<div n="p">— {#aBi, SirasABinato brUyAH sarvAsAmeva#}
+;<div n="p">— {#aBi#}, {#SirasABinato brUyAH sarvAsAmeva#}
 nam@aBi@711953
-;<div n="p">— {#aBi, SirasABinato brUyAH sarvAsAmeva#}
-nam@SirasABinato@711953
-;<div n="p">— {#aBi, SirasABinato brUyAH sarvAsAmeva#}
-nam@brUyAH@711953
-;<div n="p">— {#aBi, SirasABinato brUyAH sarvAsAmeva#}
-nam@sarvAsAmeva@711953
 ;<div n="p">— {#ava#}
 nam@ava@711956
 ;<div n="p">— {#A#}
@@ -10780,34 +10174,20 @@ nam@A@711960
 nam@ud@711964
 ;<div n="p">— {#pratyud#} vgl. {#pratyunnamana#} .
 nam@pratyud@711975
-;<div n="p">— {#samud, Sirassu yadyatsamunnamati#}
+;<div n="p">— {#samud#}, {#Sirassu yadyatsamunnamati#}
 nam@samud@711977
-;<div n="p">— {#samud, Sirassu yadyatsamunnamati#}
-nam@Sirassu@711977
-;<div n="p">— {#samud, Sirassu yadyatsamunnamati#}
-nam@yadyatsamunnamati@711977
-;<div n="p">— {#upa, yAtrAmAtraM tvaharahardEvAdupanamatyuta#}
+;<div n="p">— {#upa#}, {#yAtrAmAtraM tvaharahardEvAdupanamatyuta#}
 nam@upa@711980
-;<div n="p">— {#upa, yAtrAmAtraM tvaharahardEvAdupanamatyuta#}
-nam@yAtrAmAtraM@711980
-;<div n="p">— {#upa, yAtrAmAtraM tvaharahardEvAdupanamatyuta#}
-nam@tvaharahardEvAdupanamatyuta@711980
 ;<div n="p">— {#ni#}
 nam@ni@711986
 ;<div n="p">— {#nis#}
 nam@nis@711990
 ;<div n="p">— {#pari#}
 nam@pari@711994
-;<div n="p">— {#pra, yadataptaM praRamate#}
+;<div n="p">— {#pra#}, {#yadataptaM praRamate#}
 nam@pra@712008
-;<div n="p">— {#pra, yadataptaM praRamate#}
-nam@yadataptaM@712008
-;<div n="p">— {#pra, yadataptaM praRamate#}
-nam@praRamate@712008
-;<div n="p">— {#vi, vinata#} {%vertieft, eingedrückt%}: {#vinataM#} (so die ed. Bomb.) {#kvacidudBUtaM kvacidyAti#} (von einem Flusse)
+;<div n="p">— {#vi#}, {#vinata#} {%vertieft, eingedrückt%}: {#vinataM#} (so die ed. Bomb.) {#kvacidudBUtaM kvacidyAti#} (von einem Flusse)
 nam@vi@712014
-;<div n="p">— {#vi, vinata#} {%vertieft, eingedrückt%}: {#vinataM#} (so die ed. Bomb.) {#kvacidudBUtaM kvacidyAti#} (von einem Flusse)
-nam@vinata@712014
 ;<div n="p">— {#anu#}
 nart@anu@712261
 ;<div n="p">— {#aBi#} {%zu Jmd hin%} (acc.) {%tanzen%} oder {%Jmd nachtanzen%}: {#aBinftyati nftyantaM barhiRam#}
@@ -10826,10 +10206,8 @@ nard@vi@712317
 nard@sam@712320
 ;<div n="p">— {#nis#} vgl. {#nirnASana#} fg.
 naS@nis@712601
-;<div n="p">— {#pravi, °nazwaharza#} {%verschwunden%}
+;<div n="p">— {#pravi#}, °{#nazwaharza#} {%verschwunden%}
 naS@pravi@712603
-;<div n="p">— {#pravi, °nazwaharza#} {%verschwunden%}
-naS@°nazwaharza@712603
 ;<div n="p">— {#api#} letzte Zeile, die neuere Ausg. liest {#Ke taqitAvanadDaH#}; die Lesart der ed. Calc. ist in {#Ke 'ciraBApinadDaH#} zu verbessern.
 nah@api@712685
 ;<div n="p">— {#ud#}
@@ -10840,10 +10218,8 @@ nah@pari@712693
 nah@sam@712695
 ;<div n="p">— {#pratyava#} vgl. {#pratyavanejana#} .
 nij@pratyava@713874
-;<div n="p">— {#nis, svaDarmanirRiktasattva#} {%geläutert%}
+;<div n="p">— {#nis#}, {#svaDarmanirRiktasattva#} {%geläutert%}
 nij@nis@713876
-;<div n="p">— {#nis, svaDarmanirRiktasattva#} {%geläutert%}
-nij@svaDarmanirRiktasattva@713876
 ;<div n="p">— {#pra#} vgl. {#praRejana#} .
 nij@pra@713879
 ;<div n="p">— {#pari#} vgl. {#parinindA#} .
@@ -10862,14 +10238,8 @@ nI@pratyA@716861
 nI@ud@716866
 ;<div n="p">— {#upa#}
 nI@upa@716876
-;<div n="p">— {#samupa, taM yajYaM samupAnayan#} {%brachten das Opfer%}
+;<div n="p">— {#samupa#}, {#taM yajYaM samupAnayan#} {%brachten das Opfer%}
 nI@samupa@716880
-;<div n="p">— {#samupa, taM yajYaM samupAnayan#} {%brachten das Opfer%}
-nI@taM@716880
-;<div n="p">— {#samupa, taM yajYaM samupAnayan#} {%brachten das Opfer%}
-nI@yajYaM@716880
-;<div n="p">— {#samupa, taM yajYaM samupAnayan#} {%brachten das Opfer%}
-nI@samupAnayan@716880
 ;<div n="p">— {#ni#}
 nI@ni@716885
 ;<div n="p">— {#pari#}
@@ -10904,18 +10274,8 @@ paw@vinis@718742
 paw@vi@718745
 ;<div n="p">— {#ati#},
 paW@ati@718860
-;<div n="p">— {#anu, Sruto 'nupaWito DyAta Adfto vAnumoditaH#}
+;<div n="p">— {#anu#}, {#Sruto 'nupaWito DyAta Adfto vAnumoditaH#}
 paW@anu@718863
-;<div n="p">— {#anu, Sruto 'nupaWito DyAta Adfto vAnumoditaH#}
-paW@Sruto@718863
-;<div n="p">— {#anu, Sruto 'nupaWito DyAta Adfto vAnumoditaH#}
-paW@'nupaWito@718863
-;<div n="p">— {#anu, Sruto 'nupaWito DyAta Adfto vAnumoditaH#}
-paW@DyAta@718863
-;<div n="p">— {#anu, Sruto 'nupaWito DyAta Adfto vAnumoditaH#}
-paW@Adfto@718863
-;<div n="p">— {#anu, Sruto 'nupaWito DyAta Adfto vAnumoditaH#}
-paW@vAnumoditaH@718863
 ;<div n="p">— {#pari#}
 paW@pari@718866
 ;<div n="p">— {#pra#} vgl. {#prapAWaka#} .
@@ -10948,12 +10308,8 @@ pat@pari@719033
 pat@pra@719039
 ;<div n="p">— {#vi#}
 pat@vi@719042
-;<div n="p">— {#sam, janaM saMpatitamasminbile#} {%gerathen in%}
+;<div n="p">— {#sam#}, {#janaM saMpatitamasminbile#} {%gerathen in%}
 pat@sam@719046
-;<div n="p">— {#sam, janaM saMpatitamasminbile#} {%gerathen in%}
-pat@janaM@719046
-;<div n="p">— {#sam, janaM saMpatitamasminbile#} {%gerathen in%}
-pat@saMpatitamasminbile@719046
 ;<div n="p">— {#ati#} vgl. {#atipAda#} .
 pad@ati@719250
 ;<div n="p">— {#samanu#} {%eintreten%}
@@ -10970,12 +10326,8 @@ pad@ud@719273
 pad@pratyud@719277
 ;<div n="p">— {#vyud#}
 pad@vyud@719282
-;<div n="p">— {#samud, kroDaM samutpannam#}
+;<div n="p">— {#samud#}, {#kroDaM samutpannam#}
 pad@samud@719286
-;<div n="p">— {#samud, kroDaM samutpannam#}
-pad@kroDaM@719286
-;<div n="p">— {#samud, kroDaM samutpannam#}
-pad@samutpannam@719286
 ;<div n="p">— {#upa#}
 pad@upa@719292
 ;<div n="p">— {#samupa#} {%eintreten%}
@@ -10988,10 +10340,8 @@ pad@pra@719326
 pad@anupra@719331
 ;<div n="p">— {#prati#}
 pad@prati@719335
-;<div n="p">— {#viprati, °panna#} {%entgegengesetzter Meinung seiend%}
+;<div n="p">— {#viprati#}, °{#panna#} {%entgegengesetzter Meinung seiend%}
 pad@viprati@719348
-;<div n="p">— {#viprati, °panna#} {%entgegengesetzter Meinung seiend%}
-pad@°panna@719348
 ;<div n="p">— {#saMprati#}
 pad@saMprati@719351
 ;<div n="p">— {#vi#}
@@ -11002,28 +10352,20 @@ pad@sam@719364
 pad@aBisam@719379
 ;<div n="p">— {#aBi#} caus. {%füllen, vermehren, steigern%}: {#tejastasyABipUrayan#}
 par@aBi@719845
-;<div n="p">— {#ava, KAtvAvawaM proktajalAvapUrRam#} {%angefüllt%}
+;<div n="p">— {#ava#}, {#KAtvAvawaM proktajalAvapUrRam#} {%angefüllt%}
 par@ava@719850
-;<div n="p">— {#ava, KAtvAvawaM proktajalAvapUrRam#} {%angefüllt%}
-par@KAtvAvawaM@719850
-;<div n="p">— {#ava, KAtvAvawaM proktajalAvapUrRam#} {%angefüllt%}
-par@proktajalAvapUrRam@719850
 ;<div n="p">— {#A#}
 par@A@719853
 ;<div n="p">— {#ni#} vgl. oben {#niparaRa#} .
 par@ni@719858
-;<div n="p">— {#pari, °pUrRa#} {%angefüllt mit, voll von%}: {#payaH°#}
+;<div n="p">— {#pari#}, °{#pUrRa#} {%angefüllt mit, voll von%}: {#payaH°#}
 par@pari@719860
-;<div n="p">— {#pari, °pUrRa#} {%angefüllt mit, voll von%}: {#payaH°#}
-par@°pUrRa@719860
 ;<div n="p">— {#pra#} caus. {#°pUrita#} {%gefüllt mit, voll von%}
 par@pra@719868
 ;<div n="p">— {#prati#} caus. {%vollbringen, ausführen%}
 par@prati@719872
-;<div n="p">— {#sam, °pUrRa#} {%voll%} so v. a. {%nicht mager%}
+;<div n="p">— {#sam#}, °{#pUrRa#} {%voll%} so v. a. {%nicht mager%}
 par@sam@719876
-;<div n="p">— {#sam, °pUrRa#} {%voll%} so v. a. {%nicht mager%}
-par@°pUrRa@719876
 ;<div n="p">— {#ati#} caus. vgl. oben {#atipAraya#} .
 par@ati@719894
 ;<div n="p">— {#vyA#} caus.: {#yatrEtA laharIcalAcaladfSo vyApArayanti BruvO#} {%wo sie die Brauen beschäftigen%} so v. a. {%wohin sie sie richten%}
@@ -11034,40 +10376,22 @@ paS@pra@721827
 paS@prati@721830
 ;<div n="p">— {#A#} {%einsaugen, in sich hineinziehen%}: {#svasfzwamidamApIya (= saMhftya#}
 pA@A@721978
-;<div n="p">— {#nis, bimbADare 'Ta nizpItanIrAge#}
+;<div n="p">— {#nis#}, {#bimbADare 'Ta nizpItanIrAge#}
 pA@nis@721981
-;<div n="p">— {#nis, bimbADare 'Ta nizpItanIrAge#}
-pA@bimbADare@721981
-;<div n="p">— {#nis, bimbADare 'Ta nizpItanIrAge#}
-pA@'Ta@721981
-;<div n="p">— {#nis, bimbADare 'Ta nizpItanIrAge#}
-pA@nizpItanIrAge@721981
 ;<div n="p">— {#pra#} vgl. {#prapA, prapAna; - prati#} vgl. {#°pAna; - vi#} vgl. {#pItavipIta#} .
 pA@pra@721984
-;<div n="p">— {#anUd, mUlaM vA atitizWadrakzAMsyanUtpipate#} {%der überstehenden Wurzel nach erheben sich die%} <is>Rakṣas</is>
+;<div n="p">— {#anUd#}, {#mUlaM vA atitizWadrakzAMsyanUtpipate#} {%der überstehenden Wurzel nach erheben sich die%} <is>Rakṣas</is>
 pA@anUd@722000
-;<div n="p">— {#anUd, mUlaM vA atitizWadrakzAMsyanUtpipate#} {%der überstehenden Wurzel nach erheben sich die%} <is>Rakṣas</is>
-pA@mUlaM@722000
-;<div n="p">— {#anUd, mUlaM vA atitizWadrakzAMsyanUtpipate#} {%der überstehenden Wurzel nach erheben sich die%} <is>Rakṣas</is>
-pA@vA@722000
-;<div n="p">— {#anUd, mUlaM vA atitizWadrakzAMsyanUtpipate#} {%der überstehenden Wurzel nach erheben sich die%} <is>Rakṣas</is>
-pA@atitizWadrakzAMsyanUtpipate@722000
-;<div n="p">— {#pratyud = ud#}
+;<div n="p">— {#pratyud#} = {#ud#}
 pA@pratyud@722003
-;<div n="p">— {#pratyud = ud#}
-pA@ud@722003
 ;<div n="p">— {#pra#} vgl. {#prapAlana#} fg.
 pAlay@pra@723090
 ;<div n="p">— {#prati#}
 pAlay@prati@723092
-;<div n="p">— {#ud, utpIna#} {%angeschwollen%}
+;<div n="p">— {#ud#}, {#utpIna#} {%angeschwollen%}
 pI@ud@723701
-;<div n="p">— {#ud, utpIna#} {%angeschwollen%}
-pI@utpIna@723701
-;<div n="p">— {#nis, nizpIqyamAnAKilajIvamarmaRi#} {%heftig gedrückt%}
+;<div n="p">— {#nis#}, {#nizpIqyamAnAKilajIvamarmaRi#} {%heftig gedrückt%}
 pIq@nis@723761
-;<div n="p">— {#nis, nizpIqyamAnAKilajIvamarmaRi#} {%heftig gedrückt%}
-pIq@nizpIqyamAnAKilajIvamarmaRi@723761
 ;<div n="p">— {#pra#}
 pIq@pra@723764
 ;<div n="p">— {#prati#} vgl. {#pratipIqana#} .
@@ -11078,10 +10402,8 @@ pUj@pra@724867
 praC@A@726328
 ;<div n="p">— {#sam#}
 praC@sam@726333
-;<div n="p">— {#A, AprItA#} {%erfreut, froh%}
+;<div n="p">— {#A#}, {#AprItA#} {%erfreut, froh%}
 prI@A@730011
-;<div n="p">— {#A, AprItA#} {%erfreut, froh%}
-prI@AprItA@730011
 ;<div n="p">— {#aDi#} vgl. {#aDiplavana#} .
 plu@aDi@730283
 ;<div n="p">— {#anu#} {%hinter Jmd%} (acc.) {%her fliegen%}: {#tamanuplavate vAyuH plavantaM putramAtmanaH#}
@@ -11100,10 +10422,8 @@ plu@pari@730310
 plu@vi@730314
 ;<div n="p">— {#sam#}
 plu@sam@730323
-;<div n="p">— {#vi, °pluzwa#}
+;<div n="p">— {#vi#}, °{#pluzwa#}
 pluz@vi@730341
-;<div n="p">— {#vi, °pluzwa#}
-pluz@°pluzwa@730341
 ;<div n="p">— {#anu#}
 banD@anu@730988
 ;<div n="p">— {#A#}
@@ -11112,58 +10432,40 @@ banD@A@730995
 banD@ud@731002
 ;<div n="p">— {#ni#}
 banD@ni@731008
-;<div n="p">— {#upani, °badDa#} {%verfasst%}
+;<div n="p">— {#upani#}, °{#badDa#} {%verfasst%}
 banD@upani@731015
-;<div n="p">— {#upani, °badDa#} {%verfasst%}
-banD@°badDa@731015
 ;<div n="p">— {#pari#} caus.: {#vfzaRADaH pAdapArzRiM pARiByAM paribanDayet#}
 banD@pari@731019
-;<div n="p">— {#upa, °vfMhita#}
+;<div n="p">— {#upa#}, °{#vfMhita#}
 barh@upa@731308
-;<div n="p">— {#upa, °vfMhita#}
-barh@°vfMhita@731308
 ;<div n="p">— {#aDi#} vgl. {#aDibADitar#} .
 bAD@aDi@731645
 ;<div n="p">— {#ava#} {%erwachen%}
 buD@ava@732060
-;<div n="p">— {#ud, udbudDa#} {%aufgeblüht%}
+;<div n="p">— {#ud#}, {#udbudDa#} {%aufgeblüht%}
 buD@ud@732063
-;<div n="p">— {#ud, udbudDa#} {%aufgeblüht%}
-buD@udbudDa@732063
-;<div n="p">— {#sam, samabruvan#} {%sprachen zu einander%}
+;<div n="p">— {#sam#}, {#samabruvan#} {%sprachen zu einander%}
 brU@sam@732533
-;<div n="p">— {#sam, samabruvan#} {%sprachen zu einander%}
-brU@samabruvan@732533
 ;<div n="p">— {#A#}
 Baj@A@732703
 ;<div n="p">— {#vi#}
 Baj@vi@732707
-;<div n="p">— {#nis, pravahaRaM tasya nirbaBaYjurmahormayaH#}
+;<div n="p">— {#nis#}, {#pravahaRaM tasya nirbaBaYjurmahormayaH#}
 BaYj@nis@732732
-;<div n="p">— {#nis, pravahaRaM tasya nirbaBaYjurmahormayaH#}
-BaYj@pravahaRaM@732732
-;<div n="p">— {#nis, pravahaRaM tasya nirbaBaYjurmahormayaH#}
-BaYj@tasya@732732
-;<div n="p">— {#nis, pravahaRaM tasya nirbaBaYjurmahormayaH#}
-BaYj@nirbaBaYjurmahormayaH@732732
 ;<div n="p">— {#ni#}
 Bar@ni@732923
 ;<div n="p">— {#pari#} act. {%umherwandern%}: {#parasparaM vane gfhItahastAH paribaBrimAturAH#}
 Bar@pari@732944
 ;<div n="p">— {#sam#}
 Bar@sam@732947
-;<div n="p">— {#ni, °Bartsayan#}
+;<div n="p">— {#ni#}, °{#Bartsayan#}
 Barts@ni@733030
-;<div n="p">— {#ni, °Bartsayan#}
-Barts@°Bartsayan@733030
 ;<div n="p">— {#vinis#} {%ausschelten%}: {#vinirBartsya#}
 Barts@vinis@733033
 ;<div n="p">— {#ava#} {%erscheinen%}
 BA@ava@733162
-;<div n="p">— {#A, ABAta#} {%glänzend%}
+;<div n="p">— {#A#}, {#ABAta#} {%glänzend%}
 BA@A@733165
-;<div n="p">— {#A, ABAta#} {%glänzend%}
-BA@ABAta@733165
 ;<div n="p">— {#ud#}
 BA@ud@733169
 ;<div n="p">— {#nis#} {%erglänzen%}
@@ -11180,38 +10482,16 @@ BAz@A@733494
 BAz@pari@733497
 ;<div n="p">— {#vyava#} caus. {%vollkommen erleuchten, - erhellen%}
 BAs@vyava@733543
-;<div n="p">— {#ud, udBAsamAnaSItAMSu#}
+;<div n="p">— {#ud#}, {#udBAsamAnaSItAMSu#}
 BAs@ud@733546
-;<div n="p">— {#ud, udBAsamAnaSItAMSu#}
-BAs@udBAsamAnaSItAMSu@733546
-;<div n="p">— {#prati, tezveko 'pi na yattasya tattulyaH pratyaBAsata#}
+;<div n="p">— {#prati#}, {#tezveko 'pi na yattasya tattulyaH pratyaBAsata#}
 BAs@prati@733551
-;<div n="p">— {#prati, tezveko 'pi na yattasya tattulyaH pratyaBAsata#}
-BAs@tezveko@733551
-;<div n="p">— {#prati, tezveko 'pi na yattasya tattulyaH pratyaBAsata#}
-BAs@'pi@733551
-;<div n="p">— {#prati, tezveko 'pi na yattasya tattulyaH pratyaBAsata#}
-BAs@na@733551
-;<div n="p">— {#prati, tezveko 'pi na yattasya tattulyaH pratyaBAsata#}
-BAs@yattasya@733551
-;<div n="p">— {#prati, tezveko 'pi na yattasya tattulyaH pratyaBAsata#}
-BAs@tattulyaH@733551
-;<div n="p">— {#prati, tezveko 'pi na yattasya tattulyaH pratyaBAsata#}
-BAs@pratyaBAsata@733551
-;<div n="p">— {#ud, vyAjoktirgopanaM vyAjAdudBinnasyApi vastunaH#} {%zum Vorschein gekommen, verrathen%}
+;<div n="p">— {#ud#}, {#vyAjoktirgopanaM vyAjAdudBinnasyApi vastunaH#} {%zum Vorschein gekommen, verrathen%}
 Bid@ud@733606
-;<div n="p">— {#ud, vyAjoktirgopanaM vyAjAdudBinnasyApi vastunaH#} {%zum Vorschein gekommen, verrathen%}
-Bid@vyAjoktirgopanaM@733606
-;<div n="p">— {#ud, vyAjoktirgopanaM vyAjAdudBinnasyApi vastunaH#} {%zum Vorschein gekommen, verrathen%}
-Bid@vyAjAdudBinnasyApi@733606
-;<div n="p">— {#ud, vyAjoktirgopanaM vyAjAdudBinnasyApi vastunaH#} {%zum Vorschein gekommen, verrathen%}
-Bid@vastunaH@733606
 ;<div n="p">— {#vi#}
 Bid@vi@733609
-;<div n="p">— {#pravi, °Binna#} {%geborsten%}
+;<div n="p">— {#pravi#}, °{#Binna#} {%geborsten%}
 Bid@pravi@733613
-;<div n="p">— {#pravi, °Binna#} {%geborsten%}
-Bid@°Binna@733613
 ;<div n="p">— {#sam#}
 Bid@sam@733616
 ;<div n="p">— {#anu#}
@@ -11238,14 +10518,8 @@ Brajj@ava@734195
 Bram@ud@734210
 ;<div n="p">— {#pari#}
 Bram@pari@734214
-;<div n="p">— {#pra, ambuDO . praBrematuH pravahaRe#}
+;<div n="p">— {#pra#}, {#ambuDO . praBrematuH pravahaRe#}
 Bram@pra@734218
-;<div n="p">— {#pra, ambuDO . praBrematuH pravahaRe#}
-Bram@ambuDO@734218
-;<div n="p">— {#pra, ambuDO . praBrematuH pravahaRe#}
-Bram@praBrematuH@734218
-;<div n="p">— {#pra, ambuDO . praBrematuH pravahaRe#}
-Bram@pravahaRe@734218
 ;<div n="p">— {#vi#} caus.: {#viBrAmyamARo 'pi vIro viGnEH sudAruREH . na sa tatrAsa#}
 Bram@vi@734221
 ;<div n="p">— {#sam#} {%umherirren, umherschweifen%}
@@ -11254,10 +10528,8 @@ Bram@sam@734224
 majj@ud@734376
 ;<div n="p">— {#ni#}
 majj@ni@734382
-;<div n="p">— {#aDi, agnim#} {%Feuer erzeugen durch Reiben%}: {#yaTAnalaH Ke 'nilabanDurUzmA balena dAruRyaDimaTyamAnaH#}
+;<div n="p">— {#aDi#}, {#agnim#} {%Feuer erzeugen durch Reiben%}: {#yaTAnalaH Ke 'nilabanDurUzmA balena dAruRyaDimaTyamAnaH#}
 maT@aDi@734595
-;<div n="p">— {#aDi, agnim#} {%Feuer erzeugen durch Reiben%}: {#yaTAnalaH Ke 'nilabanDurUzmA balena dAruRyaDimaTyamAnaH#}
-maT@agnim@734595
 ;<div n="p">— {#nis#}
 maT@nis@734598
 ;<div n="p">— {#vinis#} {%zermalmen, zu Nichte machen%}: {#SatrUn#}
@@ -11268,10 +10540,8 @@ maT@pari@734605
 maT@pra@734607
 ;<div n="p">— {#vi#} am Schluss nach
 maT@vi@734613
-;<div n="p">— {#ud, unmatta#}
+;<div n="p">— {#ud#}, {#unmatta#}
 mad@ud@734655
-;<div n="p">— {#ud, unmatta#}
-mad@unmatta@734655
 ;<div n="p">— {#pra#}
 mad@pra@734661
 ;<div n="p">— {#vi#}
@@ -11294,38 +10564,22 @@ man@aBipra@735004
 mantray@aBi@735170
 ;<div n="p">— {#upA#} {%auffordern%}
 mantray@upA@735173
-;<div n="p">— {#upa, upayantritA#}
+;<div n="p">— {#upa#}, {#upayantritA#}
 mantray@upa@735176
-;<div n="p">— {#upa, upayantritA#}
-mantray@upayantritA@735176
 ;<div n="p">— {#nis#} {%hinaus-, wegsprechen%}
 mantray@nis@735179
-;<div n="p">— {#anu, na cedenamanumriye#}
+;<div n="p">— {#anu#}, {#na cedenamanumriye#}
 mar@anu@735366
-;<div n="p">— {#anu, na cedenamanumriye#}
-mar@na@735366
-;<div n="p">— {#anu, na cedenamanumriye#}
-mar@cedenamanumriye@735366
 ;<div n="p">— {#ni#} {%zermalmen%}: {#vAta^ iva vf\kzAnni mf^RIhi pA\daya^#}
 mar@ni@735376
-;<div n="p">— {#pra, pra da\to mf^RIhi#}
+;<div n="p">— {#pra#}, {#pra da\to mf^RIhi#}
 mar@pra@735379
-;<div n="p">— {#pra, pra da\to mf^RIhi#}
-mar@pra@735379
-;<div n="p">— {#pra, pra da\to mf^RIhi#}
-mar@da\to@735379
-;<div n="p">— {#pra, pra da\to mf^RIhi#}
-mar@mf^RIhi@735379
 ;<div n="p">— {#apa#} vgl. {#apamArga#} .
 marj@apa@735462
 ;<div n="p">— {#aBi#}
 marj@aBi@735464
-;<div n="p">— {#pra, vadanaM pramArzwi#}
+;<div n="p">— {#pra#}, {#vadanaM pramArzwi#}
 marj@pra@735468
-;<div n="p">— {#pra, vadanaM pramArzwi#}
-marj@vadanaM@735468
-;<div n="p">— {#pra, vadanaM pramArzwi#}
-marj@pramArzwi@735468
 ;<div n="p">— {#anuvi#}
 marj@anuvi@735471
 ;<div n="p">— {#pra#} vgl. {#pramardaka#} fgg.
@@ -11334,10 +10588,8 @@ mard@pra@735490
 marS@A@735543
 ;<div n="p">— {#parA#}
 marS@parA@735546
-;<div n="p">— {#pravi, °mfSya#}
+;<div n="p">— {#pravi#}, °{#mfSya#}
 marS@pravi@735550
-;<div n="p">— {#pravi, °mfSya#}
-marS@°mfSya@735550
 ;<div n="p">— {#anu#} caus. {%bewirken, dass man auf Etwas%} (acc.) {%schliesst, - dass man Etwas folgert%}
 mA@anu@736175
 ;<div n="p">— {#apa#}
@@ -11346,40 +10598,20 @@ mA@apa@736179
 mA@ud@736183
 ;<div n="p">— {#parinis#}
 mA@parinis@736186
-;<div n="p">— {#ni, tvatkfte ca nimizyanti#} (fut.) {#cakzUMzi#}
+;<div n="p">— {#ni#}, {#tvatkfte ca nimizyanti#} (fut.) {#cakzUMzi#}
 miz@ni@736705
-;<div n="p">— {#ni, tvatkfte ca nimizyanti#} (fut.) {#cakzUMzi#}
-miz@tvatkfte@736705
-;<div n="p">— {#ni, tvatkfte ca nimizyanti#} (fut.) {#cakzUMzi#}
-miz@ca@736705
-;<div n="p">— {#ni, tvatkfte ca nimizyanti#} (fut.) {#cakzUMzi#}
-miz@nimizyanti@736705
-;<div n="p">— {#nis, nirmukta#}
+;<div n="p">— {#nis#}, {#nirmukta#}
 muc@nis@736802
-;<div n="p">— {#nis, nirmukta#}
-muc@nirmukta@736802
 ;<div n="p">— {#prati#}
 muc@prati@736805
-;<div n="p">— {#vi, vimukta#} in {#kusumarasavimuktaM vastram#}
+;<div n="p">— {#vi#}, {#vimukta#} in {#kusumarasavimuktaM vastram#}
 muc@vi@736810
-;<div n="p">— {#vi, vimukta#} in {#kusumarasavimuktaM vastram#}
-muc@vimukta@736810
 ;<div n="p">— {#pra#} caus.
 mud@pra@736830
-;<div n="p">— {#vi, tasya me kfcCraBUtasya#} (gen.!) {#kfcCrAdasmAdvimokzaya#}
+;<div n="p">— {#vi#}, {#tasya me kfcCraBUtasya#} (gen.!) {#kfcCrAdasmAdvimokzaya#}
 mokzay@vi@737253
-;<div n="p">— {#vi, tasya me kfcCraBUtasya#} (gen.!) {#kfcCrAdasmAdvimokzaya#}
-mokzay@tasya@737253
-;<div n="p">— {#vi, tasya me kfcCraBUtasya#} (gen.!) {#kfcCrAdasmAdvimokzaya#}
-mokzay@me@737253
-;<div n="p">— {#vi, tasya me kfcCraBUtasya#} (gen.!) {#kfcCrAdasmAdvimokzaya#}
-mokzay@kfcCraBUtasya@737253
-;<div n="p">— {#ni, nimlocati viBAvasO#}
+;<div n="p">— {#ni#}, {#nimlocati viBAvasO#}
 mluc@ni@737373
-;<div n="p">— {#ni, nimlocati viBAvasO#}
-mluc@nimlocati@737373
-;<div n="p">— {#ni, nimlocati viBAvasO#}
-mluc@viBAvasO@737373
 ;<div n="p">— {#pra#} {%vorwärts eilen, - streben.%} {#Dane^ hi\te ta^ruzanta Srava\syava\H pra ya^kzanta Srava\syava^H#}
 yakz@pra@737689
 ;<div n="p">— {#ati#} {%mit dem Opfer übergehen%}: {#yaH svAM de\vatA^mati\yaja^te#}
@@ -11448,10 +10680,8 @@ yat@sam@740477
 yat@aBisam@740508
 ;<div n="p">— {#pratisam#} med. {%bekämpfen%}
 yat@pratisam@740513
-;<div n="p">— {#upa, °yantritA#}
+;<div n="p">— {#upa#}, °{#yantritA#}
 yantray@upa@744420
-;<div n="p">— {#upa, °yantritA#}
-yantray@°yantritA@744420
 ;<div n="p">— {#ni#} {%zügeln, im Zaum halten%}: {#nisargataralA nArIH ko niyantrayituM kzamaH#}
 yantray@ni@744423
 ;<div n="p">— {#sam#} {%anhalten%}: {#saMyantrito mayA raTaH#}
@@ -11534,30 +10764,22 @@ yam@sam@745579
 yam@upasam@745681
 ;<div n="p">— {#ava#}, davon {#avayAsa/#} <lex>m.</lex> etwa {%Abspannung%}
 yas@ava@748131
-;<div n="p">— {#A, Ayasyati#} {%sich's heiss werden lassen, sich anstrengen%}: {#rAmABizekArTamihAyasyasi#} ({#aBizekArTe#} ed. Bomb.)
+;<div n="p">— {#A#}, {#Ayasyati#} {%sich's heiss werden lassen, sich anstrengen%}: {#rAmABizekArTamihAyasyasi#} ({#aBizekArTe#} ed. Bomb.)
 yas@A@748134
-;<div n="p">— {#A, Ayasyati#} {%sich's heiss werden lassen, sich anstrengen%}: {#rAmABizekArTamihAyasyasi#} ({#aBizekArTe#} ed. Bomb.)
-yas@Ayasyati@748134
 ;<div n="p">— {#samA#}, partic. {#°yasta#} {%hart bedrängt%}: {#SarOGa°#}
 yas@samA@748181
 ;<div n="p">— {#ud#} s. {#udyAsa#} .
 yas@ud@748184
-;<div n="p">— {#ni, niyasya#}
+;<div n="p">— {#ni#}, {#niyasya#}
 yas@ni@748186
-;<div n="p">— {#ni, niyasya#}
-yas@niyasya@748186
 ;<div n="p">— {#nis#} s. {#niryAsa#} .
 yas@nis@748189
-;<div n="p">— {#pra, °yasyati#}
+;<div n="p">— {#pra#}, °{#yasyati#}
 yas@pra@748191
-;<div n="p">— {#pra, °yasyati#}
-yas@°yasyati@748191
 ;<div n="p">— {#vi#} s. {#viyAsa#} .
 yas@vi@748206
-;<div n="p">— {#sam, saMyasyati#} und {#saMyasati#}
+;<div n="p">— {#sam#}, {#saMyasyati#} und {#saMyasati#}
 yas@sam@748208
-;<div n="p">— {#sam, saMyasyati#} und {#saMyasati#}
-yas@saMyasyati@748208
 ;<div n="p">— {#acCa#} {%herbei —, nahekommen%}; mit acc.
 yA@acCa@748675
 ;<div n="p">— {#ati#}
@@ -11784,28 +11006,22 @@ yuj@pratyaBi@754458
 yuj@A@754464
 ;<div n="p">— {#upA#} act. {%anschirren%}
 yuj@upA@754482
-;<div n="p">— {#samupA, °yukta#} {%versehen mit, erfüllt von%}: {#fziBiH samupAyuktaM tIram#}
+;<div n="p">— {#samupA#}, °{#yukta#} {%versehen mit, erfüllt von%}: {#fziBiH samupAyuktaM tIram#}
 yuj@samupA@754485
-;<div n="p">— {#samupA, °yukta#} {%versehen mit, erfüllt von%}: {#fziBiH samupAyuktaM tIram#}
-yuj@°yukta@754485
 ;<div n="p">— {#vyA#} {%sich trennen, auseinandergehen%}: {#°yujya#}
 yuj@vyA@754488
 ;<div n="p">— {#samA#}
 yuj@samA@754491
-;<div n="p">— {#aBisamA, °yukta#} {%verbunden —, versehen mit%} (instr.): {#akIrtyA#}
+;<div n="p">— {#aBisamA#}, °{#yukta#} {%verbunden —, versehen mit%} (instr.): {#akIrtyA#}
 yuj@aBisamA@754506
-;<div n="p">— {#aBisamA, °yukta#} {%verbunden —, versehen mit%} (instr.): {#akIrtyA#}
-yuj@°yukta@754506
 ;<div n="p">— {#ud#} med.
 yuj@ud@754509
 ;<div n="p">— {#samud#} caus. {%anfeuern%}: {#samarAya#}
 yuj@samud@754541
 ;<div n="p">— {#upa#} med.
 yuj@upa@754545
-;<div n="p">— {#vyupa = upa#}
+;<div n="p">— {#vyupa#} = {#upa#}
 yuj@vyupa@754617
-;<div n="p">— {#vyupa = upa#}
-yuj@upa@754617
 ;<div n="p">— {#samupa#} {%geniessen, verzehren%}: {#parRaM samupayuktavAn#}
 yuj@samupa@754621
 ;<div n="p">— {#ni#} gewöhnlich med.
@@ -11928,10 +11144,8 @@ raj@prati@763140
 raj@vi@763144
 ;<div n="p">— {#sam#}
 raj@sam@763192
-;<div n="p">— {#anusam, BartAramanusaMraktA#} {%ergeben, zugethan%}
+;<div n="p">— {#anusam#}, {#BartAramanusaMraktA#} {%ergeben, zugethan%}
 raj@anusam@763206
-;<div n="p">— {#anusam, BartAramanusaMraktA#} {%ergeben, zugethan%}
-raj@BartAramanusaMraktA@763206
 ;<div n="p">— {#aBisam#}, partic. praet. pass. {%hängend an, ergeben%}: {#kAmaBogABisaMrakto mETunAyopacakrame#}
 raj@aBisam@763209
 ;<div n="p">— {#A#} {%schreien, kreischen%}
@@ -11980,10 +11194,8 @@ raB@samupA@767868
 raB@prA@767871
 ;<div n="p">— {#pratyA#} s. {#pratyAramBa#} .
 raB@pratyA@767893
-;<div n="p">— {#vyA, °rabDa#} {%von verschiedenen Seiten erfasst, - festgehalten%}: {#yadfcEva hOtraM kriyate yajuzADvaryavaM sAmnodgITaM vyArabDA trayI vidyA Bavati#}
+;<div n="p">— {#vyA#}, °{#rabDa#} {%von verschiedenen Seiten erfasst, - festgehalten%}: {#yadfcEva hOtraM kriyate yajuzADvaryavaM sAmnodgITaM vyArabDA trayI vidyA Bavati#}
 raB@vyA@767895
-;<div n="p">— {#vyA, °rabDa#} {%von verschiedenen Seiten erfasst, - festgehalten%}: {#yadfcEva hOtraM kriyate yajuzADvaryavaM sAmnodgITaM vyArabDA trayI vidyA Bavati#}
-raB@°rabDa@767895
 ;<div n="p">— {#samA#} {%sich an Etwas machen, anfangen, unternehmen, beginnen%}:
 raB@samA@767900
 ;<div n="p">— {#anusamA#} {%sich an Jmd%} (acc.) {%hängen, - reihen%}
@@ -12034,10 +11246,8 @@ ram@ni@768596
 ram@pari@768629
 ;<div n="p">— {#pra#} caus. {%in einen angenehmen Zustand versetzen%}: {#rAtriH praramayati BUtAni naktaMcArIRi#}
 ram@pra@768635
-;<div n="p">— {#prati, °rata#} {%Gefallen findend an%} (loc.), {%gern obliegend%}: {#rAmo hi sarvalokasya hite pratirataH sadA#}
+;<div n="p">— {#prati#}, °{#rata#} {%Gefallen findend an%} (loc.), {%gern obliegend%}: {#rAmo hi sarvalokasya hite pratirataH sadA#}
 ram@prati@768639
-;<div n="p">— {#prati, °rata#} {%Gefallen findend an%} (loc.), {%gern obliegend%}: {#rAmo hi sarvalokasya hite pratirataH sadA#}
-ram@°rata@768639
 ;<div n="p">— {#vi#} act.
 ram@vi@768642
 ;<div n="p">— {#pravi#} {%abstehen von, unterlassen%}; mit abl.: {#tato 'grahAraharaRAdeva #}
@@ -12162,22 +11372,14 @@ ric@pra@779434
 ric@vi@779443
 ;<div n="p">— {#api#}, partic. {#°ripta#} {%verklebt%} so v. a. {%erblindet%}: {#yu\vaM kaRvA\yApi^riptAya\ cakzu\H pratya^Dattam#}
 rip@api@779506
-;<div n="p">— {#ava, avariPantA ivottaravediM parIyAtAm#}
+;<div n="p">— {#ava#}, {#avariPantA ivottaravediM parIyAtAm#}
 riP@ava@779652
-;<div n="p">— {#ava, avariPantA ivottaravediM parIyAtAm#}
-riP@avariPantA@779652
-;<div n="p">— {#ava, avariPantA ivottaravediM parIyAtAm#}
-riP@ivottaravediM@779652
-;<div n="p">— {#ava, avariPantA ivottaravediM parIyAtAm#}
-riP@parIyAtAm@779652
 ;<div n="p">— {#A#} {%schnarchen%}: {#ArePantaH SayIran#}
 riP@A@779655
 ;<div n="p">— {#aBi#} {%anknurren, anbellen%}: {#mAmaNga sArameyo 'yamaBireBati#}
 riB@aBi@779674
-;<div n="p">— {#vi, °ribDa#} ({#svare#})
+;<div n="p">— {#vi#}, °{#ribDa#} ({#svare#})
 riB@vi@779677
-;<div n="p">— {#vi, °ribDa#} ({#svare#})
-riB@°ribDa@779677
 ;<div n="p">— {#A#} {%abweiden%}: {#u\srA Urja^svatI\roza^DI\rA ri^SantAm#}
 riS@A@779792
 ;<div n="p">— {#vi#} med. {%sich ausrecken, aus der Lage gezerrt werden, brechen%} (am Körper), {%zerrissen werden%}: {#yadA\tmani^ ta\nvo^ me\ viri^zwam#}
@@ -12232,10 +11434,8 @@ ruc@pari@780877
 ruc@pra@780880
 ;<div n="p">— {#saMpra#} med. {%gefallen, gut scheinen%}: {#anyaM varaM vfRuDvaM vE yAdfSaM saMprarocate#}
 ruc@saMpra@780901
-;<div n="p">— {#prati, pratyarocata#}
+;<div n="p">— {#prati#}, {#pratyarocata#}
 ruc@prati@780904
-;<div n="p">— {#prati, pratyarocata#}
-ruc@pratyarocata@780904
 ;<div n="p">— {#vi#}
 ruc@vi@780910
 ;<div n="p">— {#ativi#} med. mit zum Ueberfluss wiederholten {#ati#} {%überstrahlen%}: {#ati sarvARyanIkAni pitA te 'tivyarocata#}
@@ -12330,10 +11530,8 @@ ruD@vi@783227
 ruD@prativi@783347
 ;<div n="p">— {#sam#}
 ruD@sam@783350
-;<div n="p">— {#atisam, praharzeRAtisaMrudDA#} so v. a. {%vor Freude überfliessend%}
+;<div n="p">— {#atisam#}, {#praharzeRAtisaMrudDA#} so v. a. {%vor Freude überfliessend%}
 ruD@atisam@783401
-;<div n="p">— {#atisam, praharzeRAtisaMrudDA#} so v. a. {%vor Freude überfliessend%}
-ruD@praharzeRAtisaMrudDA@783401
 ;<div n="p">— {#aBisam#}
 ruD@aBisam@783404
 ;<div n="p">— {#upasam#} {%hindrängen zu, halten bei%}
@@ -12458,10 +11656,8 @@ rUz@sam@786050
 rej@pra@786320
 ;<div n="p">— {#sam#} {%zittern%}: {#vajrAtpracyavamAnAdime lokAH saMrejante#}
 rej@sam@786324
-;<div n="p">— {#ati, anatilakzitaH#}
+;<div n="p">— {#ati#}, {#anatilakzitaH#}
 lakzay@ati@790788
-;<div n="p">— {#ati, anatilakzitaH#}
-lakzay@anatilakzitaH@790788
 ;<div n="p">— {#aBi#}
 lakzay@aBi@790791
 ;<div n="p">— {#A#} {%erblicken, gewahr werden, sehen%}; med.
@@ -12516,12 +11712,8 @@ laNG@vi@793239
 laNG@ativi@793276
 ;<div n="p">— {#saMvi#} caus. {%bei Seite liegen lassen, vernachlässigen, unterlassen%}: {#viDim#}
 laNG@saMvi@793279
-;<div n="p">— {#sam, saMlaNGitA rAtriH#} {%vorübergegangen%}
+;<div n="p">— {#sam#}, {#saMlaNGitA rAtriH#} {%vorübergegangen%}
 laNG@sam@793282
-;<div n="p">— {#sam, saMlaNGitA rAtriH#} {%vorübergegangen%}
-laNG@saMlaNGitA@793282
-;<div n="p">— {#sam, saMlaNGitA rAtriH#} {%vorübergegangen%}
-laNG@rAtriH@793282
 ;<div n="p">— {#aDi#}, partic. {#°lajjita#} {%sich schämend, beschämt%} in der Stelle: {#°dozadarSanAdaDilajjitAyAH prakfteH#} bei
 lajj@aDi@793477
 ;<div n="p">— {#vi#} {%sich schämen%}: {#vilajjate yAM BAryeti vA voQum#}
@@ -12574,12 +11766,8 @@ laB@pratyupa@794979
 laB@samupa@794983
 ;<div n="p">— {#pari#} {%erlangen, bekommen%}
 laB@pari@794990
-;<div n="p">— {#pra, prAlamBi, pralamBam#}
+;<div n="p">— {#pra#}, {#prAlamBi, pralamBam#}
 laB@pra@794993
-;<div n="p">— {#pra, prAlamBi, pralamBam#}
-laB@prAlamBi@794993
-;<div n="p">— {#pra, prAlamBi, pralamBam#}
-laB@pralamBam@794993
 ;<div n="p">— {#vipra#}
 laB@vipra@795010
 ;<div n="p">— {#prati#}
@@ -13622,14 +12810,10 @@ valh@upa@830542
 valh@pra@830547
 ;<div n="p">— {#aBi#}
 vaS@aBi@830672
-;<div n="p">— {#samA, samAvaSet#}
+;<div n="p">— {#samA#}, {#samAvaSet#}
 vaS@samA@830680
-;<div n="p">— {#samA, samAvaSet#}
-vaS@samAvaSet@830680
-;<div n="p">— {#aDi, aDyuzite#} {%bei Tagesanbruch%}
+;<div n="p">— {#aDi#}, {#aDyuzite#} {%bei Tagesanbruch%}
 vas@aDi@831521
-;<div n="p">— {#aDi, aDyuzite#} {%bei Tagesanbruch%}
-vas@aDyuzite@831521
 ;<div n="p">— {#apa#}
 vas@apa@831524
 ;<div n="p">— {#vi#}
@@ -13664,10 +12848,8 @@ vas@vi@831695
 vas@sam@831703
 ;<div n="p">— {#aBisam#} {%umnehmen%}: {#sa\mA\naM tantu^ma\Bisa\MvasA^nO#}
 vas@aBisam@831706
-;<div n="p">— {#aDi, aDyUzivaMs#}
+;<div n="p">— {#aDi#}, {#aDyUzivaMs#}
 vas@aDi@831970
-;<div n="p">— {#aDi, aDyUzivaMs#}
-vas@aDyUzivaMs@831970
 ;<div n="p">— {#anu#} mit acc.
 vas@anu@832017
 ;<div n="p">— {#samanu#} {%obliegen, befolgen%}: {#hInAdDInaM taTA DarmaM prajA samanuvatsyati#}
@@ -13728,10 +12910,8 @@ vas@aBisam@832495
 vas@anu@832515
 ;<div n="p">— {#ud#} vgl. {#udvAsana#} 2).
 vas@ud@832525
-;<div n="p">— {#ni, nivAsita#} {%um's Leben gebracht%}
+;<div n="p">— {#ni#}, {#nivAsita#} {%um's Leben gebracht%}
 vas@ni@832527
-;<div n="p">— {#ni, nivAsita#} {%um's Leben gebracht%}
-vas@nivAsita@832527
 ;<div n="p">— {#nis#} vgl. 1. {#nirvAsana#} 2).
 vas@nis@832530
 ;<div n="p">— {#pari#} {%rings abschneiden, ausschneiden%}: {#yAvadalohitaM tAvatparivAsaya#}
@@ -13878,14 +13058,10 @@ vA@A@837017
 vA@samA@837034
 ;<div n="p">— {#ud#} {%hinaufbinden, aufhängen%}: {#Sikyoduta#}
 vA@ud@837037
-;<div n="p">— {#upa, °vAya#}
+;<div n="p">— {#upa#}, °{#vAya#}
 vA@upa@837044
-;<div n="p">— {#upa, °vAya#}
-vA@°vAya@837044
-;<div n="p">— {#nis, niruta#}
+;<div n="p">— {#nis#}, {#niruta#}
 vA@nis@837049
-;<div n="p">— {#nis, niruta#}
-vA@niruta@837049
 ;<div n="p">— {#pari#} {%durchweben%}: {#yatra ha vittagrahaM pApapuruzaM DarmarAjapuruzA vAyakA iva sarvato 'Ngezu sUtrEH parivayanti#}
 vA@pari@837052
 ;<div n="p">— {#pra#} {%daran weben%}
@@ -13930,10 +13106,8 @@ vAS@sam@847538
 vAsay@aDi@848172
 ;<div n="p">— {#anu#}
 vAsay@anu@848187
-;<div n="p">— {#aBi, °vAsita#} {%wohlriechend gemacht%}
+;<div n="p">— {#aBi#}, °{#vAsita#} {%wohlriechend gemacht%}
 vAsay@aBi@848196
-;<div n="p">— {#aBi, °vAsita#} {%wohlriechend gemacht%}
-vAsay@°vAsita@848196
 ;<div n="p">— {#A#} {%mit Wohlgeruch erfüllen%}: {#(nAgAH) AvAsayanto ganDena#}
 vAsay@A@848199
 ;<div n="p">— {#sam#}, partic. {#saMvAsita#} {%riechend (stinkend) gemacht%}: Athem
@@ -14160,16 +13334,10 @@ viz@A@880521
 viz@upa@880523
 ;<div n="p">— {#ni#} s. {#nivezya#} .
 viz@ni@880528
-;<div n="p">— {#nis, nirvizan#} unter {#pariviRa#} fehlerhaft für {#nirviSan#} .
+;<div n="p">— {#nis#}, {#nirvizan#} unter {#pariviRa#} fehlerhaft für {#nirviSan#} .
 viz@nis@880530
-;<div n="p">— {#nis, nirvizan#} unter {#pariviRa#} fehlerhaft für {#nirviSan#} .
-viz@nirvizan@880530
-;<div n="p">— {#pari, °vevizARi, °avevizam#}
+;<div n="p">— {#pari#}, °{#vevizARi, °avevizam#}
 viz@pari@880532
-;<div n="p">— {#pari, °vevizARi, °avevizam#}
-viz@°vevizARi@880532
-;<div n="p">— {#pari, °vevizARi, °avevizam#}
-viz@°avevizam@880532
 ;<div n="p">— {#pra#} desid. s. {#pravIvikzu#} in den Nachträgen.
 viz@pra@880565
 ;<div n="p">— {#sam#}
@@ -14230,10 +13398,8 @@ ven@anu@896539
 ven@apa@896543
 ;<div n="p">— {#vi#} dass.: {#A pra dra^va\ mA vi ve^naH#}
 ven@vi@896546
-;<div n="p">— {#ud, udvelant#}
+;<div n="p">— {#ud#}, {#udvelant#}
 vel@ud@896775
-;<div n="p">— {#ud, udvelant#}
-vel@udvelant@896775
 ;<div n="p">— {#anu#} partic. {#°vellita#} {%untergeschoben%}: {#dakziRapAdapArzRyaDoBAgAnuvellitetaracaraRAgrapfzWam#}
 vell@anu@897012
 ;<div n="p">— {#ud#} {%sich aufrichten, sich erheben%}: {#udvelladGanaruRqaKaRqanikara#} ({#udvelad#} gedr.)
@@ -14276,10 +13442,8 @@ vezw@vi@897802
 vezw@sam@897813
 ;<div n="p">— {#pratisam#} {%zusammenschrumpfen%}: {#pratisaMvezwate BUmiragnO carmAhitaM yaTA#}
 vezw@pratisam@897834
-;<div n="p">— {#ud, udvicitA#}
+;<div n="p">— {#ud#}, {#udvicitA#}
 vyac@ud@903757
-;<div n="p">— {#ud, udvicitA#}
-vyac@udvicitA@903757
 ;<div n="p">— {#sam#}
 vyac@sam@903760
 ;<div n="p">— {#pari#} {%aus seiner Ruhe —, aus der Fassung bringen%}: {#yaTA mA vo mftyuH parivyaTA iti#}
@@ -14340,10 +13504,8 @@ vyaD@prati@904959
 vyaD@vi@904972
 ;<div n="p">— {#sam#} {%beschiessen%}: {#SaravarzeRa ulUkaM samaviDyata#}
 vyaD@sam@904976
-;<div n="p">— {#aDi, °vIta#} {%umwickelt%}: {#ahIndraBogEH#}
+;<div n="p">— {#aDi#}, °{#vIta#} {%umwickelt%}: {#ahIndraBogEH#}
 vyA@aDi@906915
-;<div n="p">— {#aDi, °vIta#} {%umwickelt%}: {#ahIndraBogEH#}
-vyA@°vIta@906915
 ;<div n="p">— {#apa#}
 vyA@apa@906919
 ;<div n="p">— {#api#} {%zudecken%}: {#a\kzyA\3^\vapi^ vyayAmasi#}
@@ -14354,18 +13516,14 @@ vyA@aBi@906931
 vyA@ava@906934
 ;<div n="p">— {#A#} {%umnehmen%} (als Hülle, mit acc.); {%sich bergen in%} (loc.): {#A vo\ hArdi\ Baya^mAnA vyayeyam#} so v. a. {%an eure Brust will ich mich flüchten%}
 vyA@A@906938
-;<div n="p">— {#ud, udvIta#}
+;<div n="p">— {#ud#}, {#udvIta#}
 vyA@ud@906944
-;<div n="p">— {#ud, udvIta#}
-vyA@udvIta@906944
 ;<div n="p">— {#upa#} {%umnehmen, umhängen%} (die heilige Schnur über die linke Schulter und unter den rechten Arm): {#upa^vItaM de\vAnA^m upa^vyayate devala\kzmame\va tatku^rute#}
 vyA@upa@906947
 ;<div n="p">— {#ni#} {%umhängen, umnehmen%}: {#nUtne nivIya pariDAya ca kOSikAgrye#}
 vyA@ni@906960
-;<div n="p">— {#pari (°vyAya#} und {#°vIya#} absol.
+;<div n="p">— {#pari#} (°{#vyAya#} und {#°vIya#} absol.
 vyA@pari@906966
-;<div n="p">— {#pari (°vyAya#} und {#°vIya#} absol.
-vyA@(°vyAya@906966
 ;<div n="p">— {#sam#}
 vyA@sam@906984
 ;<div n="p">— {#anusam#} {%hüllen in%}: {#ekavastrAnusaMvItA#}
@@ -16258,10 +15416,8 @@ star@upa@1071542
 star@ni@1071572
 ;<div n="p">— {#nis#} {%abbröckeln%}: {#vyAhftayo vedeByo niHstftAH purA#}
 star@nis@1071579
-;<div n="p">— {#pari, °staritavE#}
+;<div n="p">— {#pari#}, °{#staritavE#}
 star@pari@1071582
-;<div n="p">— {#pari, °staritavE#}
-star@°staritavE@1071582
 ;<div n="p">— {#pra#} {%hinstreuen, ausbreiten%}: ein Fell
 star@pra@1071605
 ;<div n="p">— {#anupra#} {%hinstreuen%}: {#PalIkaraRAn#}
@@ -16422,10 +15578,8 @@ sTA@pratyud@1076702
 sTA@vyud@1076714
 ;<div n="p">— {#samud#}
 sTA@samud@1076742
-;<div n="p">— {#upa, °sTeyam#}
+;<div n="p">— {#upa#}, °{#sTeyam#}
 sTA@upa@1076818
-;<div n="p">— {#upa, °sTeyam#}
-sTA@°sTeyam@1076818
 ;<div n="p">— {#anUpa#} med. {%nach einander sich stellen zu, kommen zu%} (acc.)
 sTA@anUpa@1077031
 ;<div n="p">— {#aByupa#} act. {%verehren%}: {#sUryarcA Bagavantam#}
@@ -16436,24 +15590,16 @@ sTA@paryupa@1077045
 sTA@pratyupa@1077069
 ;<div n="p">— {#samupa#}
 sTA@samupa@1077100
-;<div n="p">— {#ni, nyazWat, nitazWO#}
+;<div n="p">— {#ni#}, {#nyazWat, nitazWO#}
 sTA@ni@1077152
-;<div n="p">— {#ni, nyazWat, nitazWO#}
-sTA@nyazWat@1077152
-;<div n="p">— {#ni, nyazWat, nitazWO#}
-sTA@nitazWO@1077152
 ;<div n="p">— {#parini#}, partic. {#°zWita#}
 sTA@parini@1077167
 ;<div n="p">— {#nis#}
 sTA@nis@1077182
 ;<div n="p">— {#parinis#} partic. {#parinizWita#} {%ganz fertig, - vollendet%}: {#kArya#}
 sTA@parinis@1077207
-;<div n="p">— {#pari, °tazWO, °zWAsyati#}
+;<div n="p">— {#pari#}, °{#tazWO, °zWAsyati#}
 sTA@pari@1077210
-;<div n="p">— {#pari, °tazWO, °zWAsyati#}
-sTA@°tazWO@1077210
-;<div n="p">— {#pari, °tazWO, °zWAsyati#}
-sTA@°zWAsyati@1077210
 ;<div n="p">— {#pra#} med.
 sTA@pra@1077235
 ;<div n="p">— {#atipra#} {%sich erheben über, einen Vorsprung haben%}: {#pra nU sa marta\H Sava^sA\ janA\~ ati^ ta\sTO#}
@@ -17262,10 +16408,8 @@ harz@sam@1106805
 harz@parisam@1106847
 ;<div n="p">— {#pratisam#} {%sich der Freude hingeben%}: {#pratisaMjahfzus#}
 harz@pratisam@1106850
-;<div n="p">— {#ati, °hasita#} <lex>n.</lex> {%heftiges Lachen%}: {#vikziptANgaM Bavatyatihasitam#}
+;<div n="p">— {#ati#}, °{#hasita#} <lex>n.</lex> {%heftiges Lachen%}: {#vikziptANgaM Bavatyatihasitam#}
 has@ati@1108338
-;<div n="p">— {#ati, °hasita#} <lex>n.</lex> {%heftiges Lachen%}: {#vikziptANgaM Bavatyatihasitam#}
-has@°hasita@1108338
 ;<div n="p">— {#vyati#}, {#°hasanti#} {%über einander lachen%}
 has@vyati@1108342
 ;<div n="p">— {#apa#} {%über Jmd%} (acc.) {%lachen%}
@@ -17388,10 +16532,8 @@ hi@apa@1112163
 hi@A@1112166
 ;<div n="p">— {#pari#} {%hinbefördern, verbringen%}: {#yAM vAM hotrA^M parihi\nomi^#} (
 hi@pari@1112169
-;<div n="p">— {#pra, prahiRomi#}
+;<div n="p">— {#pra#}, {#prahiRomi#}
 hi@pra@1112173
-;<div n="p">— {#pra, prahiRomi#}
-hi@prahiRomi@1112173
 ;<div n="p">— {#anupra#}, partic. {#°hita#} {%nachgesandt%}
 hi@anupra@1112296
 ;<div n="p">— {#aBipra#}, partic. {#°hita#} {%hergeschickt%}
@@ -17424,10 +16566,8 @@ hIq@ava@1115237
 hIq@vi@1115239
 ;<div n="p">— {#aDi#} {%opfern auf, über%} (loc.): {#sva\DABi\rye aDi\ SuptA\vaju^hvata#}
 hu@aDi@1115786
-;<div n="p">— {#apa, °huta#} bei
+;<div n="p">— {#apa#}, °{#huta#} bei
 hu@apa@1115789
-;<div n="p">— {#apa, °huta#} bei
-hu@°huta@1115789
 ;<div n="p">— {#aBi#} {%das Opfer giessen auf, an, opfern an%} oder {%für%} (einen Gott), {%beopfern; begiessen, beschütten%} überh.: {#pU\rvAhu^ti\mutta^rayA#}
 hu@aBi@1115792
 ;<div n="p">— {#ava#} {%vergiessen%}: {#ava^ sma\ yasya\ veza^Re\ sveda^M pa\Tizu\ juhva^ti#}
@@ -17616,10 +16756,8 @@ av@anu@1125698
 av@sam@1125701
 ;<div n="p">— {#samupa#}
 aS@samupa@1126036
-;<div n="p">— {#vyatyanu, °zate#}
+;<div n="p">— {#vyatyanu#}, °{#zate#}
 as@vyatyanu@1126136
-;<div n="p">— {#vyatyanu, °zate#}
-as@°zate@1126136
 ;<div n="p">— {#apa#} {%weg —, unbetheiligt sein%}
 as@apa@1126139
 ;<div n="p">— {#pari#}
@@ -17658,10 +16796,8 @@ As@upa@1127376
 i@ati@1127529
 ;<div n="p">— {#aBi#}
 i@aBi@1127534
-;<div n="p">— {#ava, avEhi#} st. {#avehi#} tedelt
+;<div n="p">— {#ava#}, {#avEhi#} st. {#avehi#} tedelt
 i@ava@1127538
-;<div n="p">— {#ava, avEhi#} st. {#avehi#} tedelt
-i@avEhi@1127538
 ;<div n="p">— {#samava#}, partic. {#samaveta#} {%gelangt zu%}: {#sarvakalyARasaMpattim#}
 i@samava@1127541
 ;<div n="p">— {#A#}
@@ -17712,26 +16848,20 @@ kar@aBi@1129924
 kar@pra@1129927
 ;<div n="p">— {#vipra#}
 kar@vipra@1129931
-;<div n="p">— {#vi, vi/kfta#} {%unvollendet%}
+;<div n="p">— {#vi#}, {#vi/kfta#} {%unvollendet%}
 kar@vi@1129934
-;<div n="p">— {#vi, vi/kfta#} {%unvollendet%}
-kar@vi/kfta@1129934
 ;<div n="p">— {#sam#}
 kar@sam@1129939
 ;<div n="p">— {#ud#}
 kar@ud@1129954
 ;<div n="p">— {#pra#}
 kar@pra@1129958
-;<div n="p">— {#vi, vikIrRa#} <lex>n.</lex> Bez. {%einer best. fehlerhaften Aussprache der Vocale%}
+;<div n="p">— {#vi#}, {#vikIrRa#} <lex>n.</lex> Bez. {%einer best. fehlerhaften Aussprache der Vocale%}
 kar@vi@1129963
-;<div n="p">— {#vi, vikIrRa#} <lex>n.</lex> Bez. {%einer best. fehlerhaften Aussprache der Vocale%}
-kar@vikIrRa@1129963
 ;<div n="p">— {#upa#}
 karz@upa@1130138
-;<div n="p">— {#prati, apratikfzwa#} (v. l. {#°kfzRa#}) von einem Gewande
+;<div n="p">— {#prati#}, {#apratikfzwa#} (v. l. {#°kfzRa#}) von einem Gewande
 karz@prati@1130142
-;<div n="p">— {#prati, apratikfzwa#} (v. l. {#°kfzRa#}) von einem Gewande
-karz@apratikfzwa@1130142
 ;<div n="p">— {#upa#} {%heimtreiben%} (Kühe)
 kal@upa@1130160
 ;<div n="p">— {#pra#} {%hinaustreiben%} (auf die Weide) ebend.
@@ -17742,10 +16872,8 @@ kuc@sam@1130902
 kuz@aBinis@1131208
 ;<div n="p">— {#aByati#}
 kram@aByati@1131699
-;<div n="p">— {#nis, nizkrAnta#} {%hervorgegangen%} so v. a. {%abstammend von%} (abl.)
+;<div n="p">— {#nis#}, {#nizkrAnta#} {%hervorgegangen%} so v. a. {%abstammend von%} (abl.)
 kram@nis@1131703
-;<div n="p">— {#nis, nizkrAnta#} {%hervorgegangen%} so v. a. {%abstammend von%} (abl.)
-kram@nizkrAnta@1131703
 ;<div n="p">— {#sam#}
 kram@sam@1131706
 ;<div n="p">— {#upasam#} {%übergehen in%} (acc.): {#dvitIyamarTamupasaMkrAntam#} ebend.
@@ -17754,36 +16882,22 @@ kram@upasam@1131710
 kzip@pra@1131881
 ;<div n="p">— {#vi#}
 kzip@vi@1131885
-;<div n="p">— {#vi, strIvAkyANkuSavikzuRRa#} {%angespornt durch%}
+;<div n="p">— {#vi#}, {#strIvAkyANkuSavikzuRRa#} {%angespornt durch%}
 kzud@vi@1131918
-;<div n="p">— {#vi, strIvAkyANkuSavikzuRRa#} {%angespornt durch%}
-kzud@strIvAkyANkuSavikzuRRa@1131918
 ;<div n="p">— {#A#} {%zerstückeln%} Citat bei
 KaRqay@A@1132036
-;<div n="p">— {#pari, kasya na pariKidyate cetaH#}
+;<div n="p">— {#pari#}, {#kasya na pariKidyate cetaH#}
 Kid@pari@1132130
-;<div n="p">— {#pari, kasya na pariKidyate cetaH#}
-Kid@kasya@1132130
-;<div n="p">— {#pari, kasya na pariKidyate cetaH#}
-Kid@na@1132130
-;<div n="p">— {#pari, kasya na pariKidyate cetaH#}
-Kid@pariKidyate@1132130
-;<div n="p">— {#pari, kasya na pariKidyate cetaH#}
-Kid@cetaH@1132130
 ;<div n="p">— {#sam#}
 KyA@sam@1132201
 ;<div n="p">— {#A#}, partic. {#Agata#} {%durch Berechnung herausgekommen, berechnet%}
 gam@A@1132339
-;<div n="p">— {#upA, upAgata#} {%der sich in Jmdes Schutz begeben hat%}
+;<div n="p">— {#upA#}, {#upAgata#} {%der sich in Jmdes Schutz begeben hat%}
 gam@upA@1132343
-;<div n="p">— {#upA, upAgata#} {%der sich in Jmdes Schutz begeben hat%}
-gam@upAgata@1132343
 ;<div n="p">— {#ud#} caus. {%aufgehen lassen%}: {#ujjayinyAH prasTito mAhizmatyAM sUryamudramayati#} so v. a. {%gelangt mit Sonnenaufgang nach%} <is>Māh</is>.
 gam@ud@1132346
-;<div n="p">— {#upa, upagata#} {%der sich in Jmdes Schutz begeben hat%}
+;<div n="p">— {#upa#}, {#upagata#} {%der sich in Jmdes Schutz begeben hat%}
 gam@upa@1132349
-;<div n="p">— {#upa, upagata#} {%der sich in Jmdes Schutz begeben hat%}
-gam@upagata@1132349
 ;<div n="p">— {#ni#} (Nachträge)
 gam@ni@1132352
 ;<div n="p">— {#vini#} caus. s. {#vinigamaka#} .
@@ -17796,14 +16910,8 @@ gam@sam@1132362
 garj@pari@1132409
 ;<div n="p">— {#aByava#} caus, {%schwemmen%}: ein
 gAh@aByava@1132565
-;<div n="p">— {#prati, amitravAhinI vIrAH pratigAhanti#}
+;<div n="p">— {#prati#}, {#amitravAhinI vIrAH pratigAhanti#}
 gAh@prati@1132568
-;<div n="p">— {#prati, amitravAhinI vIrAH pratigAhanti#}
-gAh@amitravAhinI@1132568
-;<div n="p">— {#prati, amitravAhinI vIrAH pratigAhanti#}
-gAh@vIrAH@1132568
-;<div n="p">— {#prati, amitravAhinI vIrAH pratigAhanti#}
-gAh@pratigAhanti@1132568
 ;<div n="p">— {#vi#}, partic.
 graT@vi@1132886
 ;<div n="p">— {#samanu#} vgl. {#samanugrAhya#} .
@@ -17834,10 +16942,8 @@ car@visam@1133387
 ci@vi@1133543
 ;<div n="p">— {#sam#}
 ci@sam@1133549
-;<div n="p">— {#vinis, viniScitam#} adv. {%sicher%}
+;<div n="p">— {#vinis#}, {#viniScitam#} adv. {%sicher%}
 ci@vinis@1133559
-;<div n="p">— {#vinis, viniScitam#} adv. {%sicher%}
-ci@viniScitam@1133559
 ;<div n="p">— {#pra#} caus. vom intens. {#pracecCidayya#}
 Cid@pra@1133747
 ;<div n="p">— {#sam#} {%Jmd überwältigen%}: {#na ca samaM modena saMjIyate#}
@@ -17848,26 +16954,14 @@ jval@pra@1134212
 tan@vi@1134413
 ;<div n="p">— {#vi#}
 tar@vi@1134484
-;<div n="p">— {#vi, vidadre dAqimIPalam#} {%barst%}
+;<div n="p">— {#vi#}, {#vidadre dAqimIPalam#} {%barst%}
 dar@vi@1135141
-;<div n="p">— {#vi, vidadre dAqimIPalam#} {%barst%}
-dar@vidadre@1135141
-;<div n="p">— {#vi, vidadre dAqimIPalam#} {%barst%}
-dar@dAqimIPalam@1135141
 ;<div n="p">— {#aByA#}
 dA@aByA@1135233
 ;<div n="p">— {#upA#} {%sich anschliessen an%} (acc.): {#kaScitkAntAre samupasTite sArTamupAdatte . yadA nizkrAntakAntAro Bavati tadA sArTaM jahAti#}
 dA@upA@1135237
-;<div n="p">— {#vyA, vyAdadate pipIlikAH pataMgasya muKam#}
+;<div n="p">— {#vyA#}, {#vyAdadate pipIlikAH pataMgasya muKam#}
 dA@vyA@1135240
-;<div n="p">— {#vyA, vyAdadate pipIlikAH pataMgasya muKam#}
-dA@vyAdadate@1135240
-;<div n="p">— {#vyA, vyAdadate pipIlikAH pataMgasya muKam#}
-dA@pipIlikAH@1135240
-;<div n="p">— {#vyA, vyAdadate pipIlikAH pataMgasya muKam#}
-dA@pataMgasya@1135240
-;<div n="p">— {#vyA, vyAdadate pipIlikAH pataMgasya muKam#}
-dA@muKam@1135240
 ;<div n="p">— {#samava#}
 dru@samava@1135959
 ;<div n="p">— {#vipra#} letzte Zeile, lies
@@ -17914,10 +17008,8 @@ DU@vinis@1136361
 DvaMs@ud@1136460
 ;<div n="p">— {#apa#} {%ausbiegen, ausweichen%}
 nam@apa@1136566
-;<div n="p">— {#ava, Siro'vanatalANgUla#} ein Löwe
+;<div n="p">— {#ava#}, {#Siro'vanatalANgUla#} ein Löwe
 nam@ava@1136569
-;<div n="p">— {#ava, Siro'vanatalANgUla#} ein Löwe
-nam@Siro'vanatalANgUla@1136569
 ;<div n="p">— {#pari#} (Nachträge)
 nam@pari@1136572
 ;<div n="p">— {#vipari#} caus. {%umändern, umwandeln%}
@@ -18016,10 +17108,8 @@ marz@sam@1142354
 mA@sam@1142605
 ;<div n="p">— {#pra#}
 mi@pra@1142859
-;<div n="p">— {#ni, nimizita#} <lex>n.</lex> nom. act.
+;<div n="p">— {#ni#}, {#nimizita#} <lex>n.</lex> nom. act.
 miz@ni@1142918
-;<div n="p">— {#ni, nimizita#} <lex>n.</lex> nom. act.
-miz@nimizita@1142918
 ;<div n="p">— {#aBi#} {%von sich geben, ausströmen%}: {#tApam#}
 muc@aBi@1143003
 ;<div n="p">— {#sam#} {%rauben, benehmen%}: {#saMmuzRandAnavaM#} (so die neuere Ausg.) {#tejaH samare svena tejasA#}
@@ -18160,10 +17250,8 @@ SI@ati@1147267
 zWiv@ni@1147694
 ;<div n="p">— {#nis#}, {#nirazWavizam#} (von {#zWu#}; vgl. 3. {#du#} oben)
 zWiv@nis@1147697
-;<div n="p">— {#ud, utsakta#}
+;<div n="p">— {#ud#}, {#utsakta#}
 saYj@ud@1147922
-;<div n="p">— {#ud, utsakta#}
-saYj@utsakta@1147922
 ;<div n="p">— {#pra#}
 saYj@pra@1147926
 ;<div n="p">— {#sam#}, {#saMsajjantu raTe#} {%anschirren%}
