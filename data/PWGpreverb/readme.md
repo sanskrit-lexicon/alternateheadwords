@@ -50,12 +50,12 @@ atibfh:3111:<H1>:K:<key2>ati-<root>bfh<hom>1</hom></root></key2>:
 Various alterations are tried in order to match PWG prefixed root with
 MW prefixed root.  
 
-Currently, there are:
+As on 22 September 2021, there are:
 * 8644 preverb records, per preverb1a.txt
-* 6379 records in preverb1b_mw.txt
-  * 5052 of these matches involve no spelling adjustments (marked as MWSAME)
-  * 1327 of these matches DO involve a spelling adjustment (marked as MWDIFF)
-* 2265 records in preverb1b_notmw.txt  - The implied PWG preverb spelling,
+* 6764 records in preverb1b_mw.txt
+  * 5165 of these matches involve no spelling adjustments (marked as MWSAME)
+  * 1599 of these matches DO involve a spelling adjustment (marked as MWDIFF)
+* 1880 records in preverb1b_notmw.txt  - The implied PWG preverb spelling,
   even with current adjustments, is not found in verb-step0a.out.
   These can be viewed as the prefixed verb forms from PWG that are not present
   in MW.
