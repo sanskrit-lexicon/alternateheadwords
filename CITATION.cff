@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+type: software
+title: alternateheadwords
+message: If you use this software, please cite it.
+license: GPL-3.0
+repository-code: https://github.com/sanskrit-lexicon/alternateheadwords
+keywords:
+  - sanskrit
+  - lexicon
+  - cdsl
+  - linking-tool
