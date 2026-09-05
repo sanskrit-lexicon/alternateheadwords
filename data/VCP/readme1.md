@@ -1,3 +1,5 @@
+_Created: 16-08-2017 · Last updated: 05-09-2026_
+
 ##  Further analysis of alternate headwords
 
 This file documents further work by @funderburkjim on the alternate
@@ -137,3 +139,4 @@ Note 3: #17 provides a UI for correction a selection of 211 cases.
    I'm not sure why all of the 637 ',NF' cases are not included in this
    selection of 212.
 
+_Dr. Mārcis Gasūns_

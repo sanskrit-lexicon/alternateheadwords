@@ -1,3 +1,5 @@
+_Created: 10-10-2016 · Last updated: 05-09-2026_
+
 
 ##Identify preverbs in PWG
 Oct 2016
@@ -95,3 +97,5 @@ Each record is marked with an additional bit of metadata:
 * 841 prefixed headwords in both, spellings different
 * 1554 prefixed headwords only in preverb1a.txt
 * 0 prefixed headwords only in PWGehw3.txt
+
+_Dr. Mārcis Gasūns_

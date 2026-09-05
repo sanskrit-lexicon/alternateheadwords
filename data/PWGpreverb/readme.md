@@ -1,3 +1,5 @@
+_Created: 10-10-2016 · Last updated: 05-09-2026_
+
 
 ##Identify preverbs in PWG
 Oct 2016
@@ -117,3 +119,4 @@ prefixes in preverb1a.txt.
 Per discussion in [issue 12](https://github.com/sanskrit-lexicon/alternateheadwords/issues/12), we've agreed to stop developement of PWGehw3.
 Thus, compare.txt is no longer relevant.
 
+_Dr. Mārcis Gasūns_
